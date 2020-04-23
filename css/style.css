@@ -1,0 +1,3 @@
+.helper svg #walls-layer path {
+  stroke-dasharray: none !important;
+}
