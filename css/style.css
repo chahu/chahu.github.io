@@ -1,3 +1,24 @@
+body {
+  position:relative; /* Needed for hover positioning */
+}
+
 .helper svg #walls-layer path {
   stroke-dasharray: none !important;
+}
+
+#info_div {
+  position: absolute;
+  opacity: 0;
+  font-family: monospace;
+  font-size: 10px;
+  background-color: rgba(255,255,255,0.7);
+  margin: 0px;
+  padding: 5px;
+  max-width: 200px;
+  border: 2px solid;
+  pointer-events: none;
+}
+
+#info_div div {
+  padding: 4px;
 }
