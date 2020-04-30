@@ -2,10 +2,6 @@ body {
   position:relative; /* Needed for hover positioning */
 }
 
-.helper svg #walls-layer path {
-  stroke-dasharray: none !important;
-}
-
 #info_div {
   position: absolute;
   opacity: 0;
@@ -15,6 +11,7 @@ body {
   margin: 0px;
   padding: 5px;
   max-width: 200px;
+  border-radius: 15px;
   border: 2px solid;
   pointer-events: none;
 }
@@ -22,3 +19,26 @@ body {
 #info_div div {
   padding: 4px;
 }
+
+#info_div .swatch_color {
+  border: 2px;
+  border-radius: 3px;
+  border-style: solid;
+  font-size: 0px;
+  height: 6px;
+  width: 6px;
+  display: inline-block;
+  padding: 0px !important;
+  margin: 0px !important;
+  vertical-align: text-top;
+}
+
+svg #walls-layer path {
+  stroke: #7e7e7e !important;
+}
+
+svg circle.mouse {
+  pointer-events: none;
+}
+
+

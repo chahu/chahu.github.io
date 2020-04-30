@@ -1,7 +1,7 @@
 date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2020-03-15,White,5.11c,4,Onsight,wall-island,91.7,,c12f368767a4776a8392665f0e660892
 2020-03-15,White,5.10d,,Onsight,wall-island,126.0,,c3427850c4f142dfbe48314fc995e4ed
-2020-03-12,White,5.12b,5,Red Point,wall-island,552.8,Great climb,ec1d0e0c781b27ca0e2a06a3d8fa9175
+2020-03-12,White,5.12b,5,Red Point,wall-island,528.5,Great climb,ec1d0e0c781b27ca0e2a06a3d8fa9175
 2020-03-12,Blue,5.10c,,Onsight,wall-back-wall,588.1,,1f28af14dc81f93083720236797340dd
 2020-03-09,Black,V0,,Flash,wall-mezzanine,114.6,,c85781eb73441c6cd13934d952fc25c3
 2020-03-09,Blue,V2,,Flash,wall-mezzanine,114.6,,b2e0d38a015ec08fadf68b3d3b3faf2f
@@ -18,39 +18,39 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2020-03-09,Black,V2,,Flash,wall-boulders,288.8,,56a5cd7a8a5217bf028f720dd9e78c99
 2020-03-09,Black,V0,,Flash,wall-boulders,359.0,,62fc0c73c64e405b472b499578205cb0
 2020-03-09,Tan,V4,,Flash,wall-boulders,359.0,,2bd8718c3164456377f903aabef45f11
-2020-03-09,White,V2,,Flash,wall-boulders,561.8,,ba60033c32d66c09445a41f3da726385
+2020-03-09,White,V2,,Flash,wall-boulders,581.0,,ba60033c32d66c09445a41f3da726385
 2020-03-09,Pink,V3,3,Flash,wall-boulders,667.3,,80cddf93f90cd364c057590dd7fb7ea4
 2020-03-07,White,5.10b,,Onsight,wall-back-wall,222.7,,4219eddf4be44b4812986a9ab710b8ec
-2020-03-07,Red,5.11b,5,Red Point,wall-island,396.4,,257fb4905bb6513986df16888c6dc9c7
-2020-03-05,Yellow,5.9,,Onsight,wall-island,397.2,,9d0a42d3f2db539bdde369755f91af98
+2020-03-07,Red,5.11b,5,Red Point,wall-island,444.9,,257fb4905bb6513986df16888c6dc9c7
+2020-03-05,Yellow,5.9,,Onsight,wall-island,446.7,,9d0a42d3f2db539bdde369755f91af98
 2020-03-05,Red,5.11a,,Red Point,wall-back-wall,1292.9,,3e4a5964bf8701e189e2ed365b5943f7
 2020-03-05,Pink,5.11a,,Onsight,wall-back-wall,1250.3,,b324838987e8507a768efb25d71afc4e
 2020-03-05,Yellow,5.11b,,Onsight,wall-back-wall,1229.4,,86e30b5aef1bf19b3b567b5f9896051f
 2020-03-05,Purple,5.10d,,Onsight,wall-back-wall,16.3,,a86d6009df77337407ddf7882d929ecf
 2020-02-26,Lime Green,5.10c,,Onsight,wall-back-wall,251.9,,c2fc94c23a9147ee5d4a7602a4fb6851
-2020-02-26,Lime Green,5.10c,,Onsight,wall-island,554.0,,e323ab45980d52796b22e7c77595ec4b
-2020-02-26,Tan,5.10c,,Onsight,wall-island,592.7,,911a3fab504895d45dcd360d5cf3574c
-2020-02-26,Black,5.11a,,Onsight,wall-island,591.6,,fd68540836dfc0b3a86fc2ddad40f2aa
-2020-02-26,Red,5.9,,Onsight,wall-island,573.2,,3e82b7522aac6f4dccc16b13a5396186
-2020-02-26,Pink,5.9,,Onsight,wall-island,371.5,,9e4b0924a7d7ea5538be15d949d7140d
-2020-02-17,Green,5.10c,,Onsight,wall-island,384.4,,2e45334406444552d928cc7eeb7fb6b4
-2020-02-17,Purple,5.10a,,Onsight,wall-island,396.8,,3367c4d06c93f4c7198f49fbc31c31ad
-2020-02-17,Tan,5.11b,,Red Point,wall-island,357.3,,dc54f4a2691a06ae3af30fc140838ed8
+2020-02-26,Lime Green,5.10c,,Onsight,wall-island,530.3,,e323ab45980d52796b22e7c77595ec4b
+2020-02-26,Tan,5.10c,,Onsight,wall-island,591.4,,911a3fab504895d45dcd360d5cf3574c
+2020-02-26,Black,5.11a,,Onsight,wall-island,589.6,,fd68540836dfc0b3a86fc2ddad40f2aa
+2020-02-26,Red,5.9,,Onsight,wall-island,560.7,,3e82b7522aac6f4dccc16b13a5396186
+2020-02-26,Pink,5.9,,Onsight,wall-island,394.7,,9e4b0924a7d7ea5538be15d949d7140d
+2020-02-17,Green,5.10c,,Onsight,wall-island,420.7,,2e45334406444552d928cc7eeb7fb6b4
+2020-02-17,Purple,5.10a,,Onsight,wall-island,445.8,,3367c4d06c93f4c7198f49fbc31c31ad
+2020-02-17,Tan,5.11b,,Red Point,wall-island,366.1,,dc54f4a2691a06ae3af30fc140838ed8
 2020-02-17,Black,5.11a,,Onsight,wall-back-wall,1293.7,,e2a55583d7241135bb408e1212980fe0
 2020-02-17,Tan,5.9,,Onsight,wall-back-wall,190.5,,b9cb1cf9ec9f75709e1890d93aafbd6b
 2020-02-17,Yellow,5.10c,,Onsight,wall-back-wall,164.5,,3b0758532fe34ede5936bbb6c0c20963
-2020-02-02,Tan,5.8,,Onsight,wall-island,384.8,,c0d8af33c9070f010f4970354c4319ca
-2020-02-02,Tan,5.10a,,Onsight,wall-island,573.8,,d4bbbe4dd8644ecad075bbbc13256f34
+2020-02-02,Tan,5.8,,Onsight,wall-island,421.6,,c0d8af33c9070f010f4970354c4319ca
+2020-02-02,Tan,5.10a,,Onsight,wall-island,561.5,,d4bbbe4dd8644ecad075bbbc13256f34
 2020-02-02,Blue,5.10d,,Onsight,wall-back-wall,142.5,,dc93142e641598dadef6a08d5051bd04
 2020-02-02,Purple,5.11b,,Onsight,wall-back-wall,243.9,,ef0b5a4d4eec5c16a3310046d8708ea4
 2020-02-02,Tan,5.11b,,Onsight,wall-island,328.0,,7b1c4a998a3596c3a26cf310aab12a12
 2020-02-02,Yellow,5.11c,,Onsight,wall-island,141.6,,59466be082ad99a42c74aa18caf31771
-2020-01-31,White,5.10b,,Onsight,wall-island,592.2,,f381f8b579a5d66a67e333eed2c61a48
-2020-01-31,Red,5.11a,1,Onsight,wall-island,573.2,Wow that was awkward,11165d2de5cf6d3716df16d9755b2521
+2020-01-31,White,5.10b,,Onsight,wall-island,590.5,,f381f8b579a5d66a67e333eed2c61a48
+2020-01-31,Red,5.11a,1,Onsight,wall-island,560.7,Wow that was awkward,11165d2de5cf6d3716df16d9755b2521
 2020-01-31,Blue,5.12a,,Onsight,wall-island,43.2,,662964a74003607f9c81c8d0930df6e5
 2020-01-31,Purple,V6,5,Red Point,wall-mezzanine,39.7,Finally was able to finish this thanks to Boris A's beta. I'm surprised by how hard the finishing beta is to figure out. This took me the longest on the set to finish. It's not physically harder than the rest﹐ but much more challenging to unlock. Frustratingly well set. ,68633f2098e41c7649ef90e4138b2115
 2020-01-29,Pink,5.9,,Onsight,wall-back-wall,70.9,,17a1e26ab29b0bdd0bdac8b3ad7e4564
-2020-01-29,Blue,5.10b,,Onsight,wall-island,371.9,,d1844ed942e833379c235383892197b7
+2020-01-29,Blue,5.10b,,Onsight,wall-island,395.6,,d1844ed942e833379c235383892197b7
 2020-01-29,Purple,5.10d,,Onsight,wall-back-wall,124.1,,8f4283e1e07bd9e600998014212bf639
 2020-01-29,Pink,5.11a,,Onsight,wall-back-wall,628.3,,dbae47dc44da90e1389276778d9cdc89
 2020-01-29,Yellow,5.11d,4,Red Point,wall-red,261.8,,ccda101f3b8737bb08bc47dd8b33b46d
@@ -96,7 +96,7 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2020-01-22,Lime Green,5.11a,,Onsight,wall-back-wall,488.9,,cef386d0204fe866526125ee670ab7c9
 2020-01-22,Red,5.10d,,Onsight,wall-back-wall,534.8,,af5b68c1c9b71e1216f055d774b97555
 2020-01-22,Lime Green,5.10c,,Onsight,wall-back-wall,684.0,,ad18e73705b8a63e1470345dbe4cbbf7
-2020-01-22,Yellow,5.9,,Onsight,wall-island,356.8,,bcccb3724931ed2a1ce61a3e620ff0ee
+2020-01-22,Yellow,5.9,,Onsight,wall-island,365.2,,bcccb3724931ed2a1ce61a3e620ff0ee
 2020-01-22,Lime Green,V3,,Flash,wall-boulders,87.1,,e1707bd7763bcd7b1b921e95103a833c
 2020-01-22,Blue,V5,4,Flash,wall-boulders,87.1,Hard﹐ delicate start﹐ but good. I luckily caught the far volume with my left fingertips to kill the barndoor on my flash attempt. Figured out the start sans-volume afterwards. Most people seem to be using the arete to start﹐ which presumably is off. ,ef270746ce2b38c63c579c5138d69c3f
 2020-01-22,Tan,V4,,Flash,wall-boulders,87.1,,9320a10b78c2c4e9da6ef75fbbf28e87
@@ -106,7 +106,7 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2020-01-22,Lime Green,V4,,Flash,wall-boulders,87.1,,a61aabf0a70c49ca343ed766cccd6398
 2020-01-17,Yellow,V5,4,Red Point,wall-slab,48.7,I found the finish moves to be the hardest on the slab wall (including 6s﹐ 7s﹐ & 8). Might just be me. ,f9c5a5493ccc202ec3d0add93de7ea48
 2020-01-17,Red down,V7,2,Red Point,wall-slab,192.9,Fun like the 7 with the same start﹐ but with a gimmicky finish. Also about as hard as the 5s on the same wall once you work out beta. ,608828ad946230d669af24c86debb2ec
-2020-01-17,White,V5,,Red Point,wall-boulders,435.9,,40f680dbba8160cd4888e20714b7386e
+2020-01-17,White,V5,,Red Point,wall-boulders,423.0,,40f680dbba8160cd4888e20714b7386e
 2020-01-16,White,V6,,Red Point,wall-slab,48.7,,2cfd26a7618a83f132b0da19384b14e5
 2020-01-16,Blue,V2,,Flash,wall-slab,48.7,,aaa10bb717808023df910af93e6e3e3b
 2020-01-16,Pink,V3,,Flash,wall-slab,48.7,,c288d3b689c07fab3491050421a25022
@@ -128,22 +128,22 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2020-01-15,Red up,V6,3,Flash,wall-slab,192.9,Fun﹐ but no harder than the 5s on this wall,c984bdddbae735657115337b4f6268fd
 2020-01-10,White,V7,,Red Point,wall-boulders,359.0,,c9ec4e8145625f033e34a7ca53a7714e
 2020-01-10,White,V5,,Red Point,wall-boulders,505.7,,a6b37892d7af300d7ad0be0b1ddbca67
-2020-01-10,Green,V4,2,Red Point,wall-boulders,561.8,,1acd909221c514ce5fa59b7036f6052c
-2020-01-10,Red,V1,,Flash,wall-boulders,435.9,,4b1511edc5e8d3ffe7140693173fa049
-2020-01-10,Blue,V4,,Flash,wall-boulders,435.9,,bca66e92f950f62019fb447d4ab2b25a
-2020-01-10,Pink,V2,,Flash,wall-boulders,435.9,,d21a5d8b879725a9bad86a67fff4ea29
-2020-01-10,Red,V6,5,Red Point,wall-boulders,561.8,Committing cross in the middle. Frustrating to work out the beta but ended up liking this one. ,2eae3764a878320e7d18143cacb28d80
-2020-01-10,Pink,V3,,Flash,wall-boulders,561.8,,8d03ea868716aec0b2118914223c8b89
-2020-01-10,Yellow,V2,,Flash,wall-boulders,561.8,,40fed2582fc460eef98edf5be375a3e4
-2020-01-10,Black,V4,,Red Point,wall-boulders,561.8,,3e8a8400ad240270b70649d9b02e0c8e
-2020-01-10,Tan,V0,,Flash,wall-boulders,561.8,,81d8de61b948629e4906939bd04e8481
-2020-01-10,Blue,V6,4,Red Point,wall-boulders,561.8,Hard first move﹐ but good,6ba27f4a19e4ec72044c7700e2350e28
-2020-01-10,White,V3,,Flash,wall-boulders,561.8,,9339078234104c7a0c464657e892a939
-2020-01-09,Pink Low,V5,,Red Point,wall-boulders,435.9,Harder than v4,3f19fba696b801a0330569bef569205b
+2020-01-10,Green,V4,2,Red Point,wall-boulders,581.0,,1acd909221c514ce5fa59b7036f6052c
+2020-01-10,Red,V1,,Flash,wall-boulders,423.0,,4b1511edc5e8d3ffe7140693173fa049
+2020-01-10,Blue,V4,,Flash,wall-boulders,423.0,,bca66e92f950f62019fb447d4ab2b25a
+2020-01-10,Pink,V2,,Flash,wall-boulders,423.0,,d21a5d8b879725a9bad86a67fff4ea29
+2020-01-10,Red,V6,5,Red Point,wall-boulders,581.0,Committing cross in the middle. Frustrating to work out the beta but ended up liking this one. ,2eae3764a878320e7d18143cacb28d80
+2020-01-10,Pink,V3,,Flash,wall-boulders,581.0,,8d03ea868716aec0b2118914223c8b89
+2020-01-10,Yellow,V2,,Flash,wall-boulders,581.0,,40fed2582fc460eef98edf5be375a3e4
+2020-01-10,Black,V4,,Red Point,wall-boulders,581.0,,3e8a8400ad240270b70649d9b02e0c8e
+2020-01-10,Tan,V0,,Flash,wall-boulders,581.0,,81d8de61b948629e4906939bd04e8481
+2020-01-10,Blue,V6,4,Red Point,wall-boulders,581.0,Hard first move﹐ but good,6ba27f4a19e4ec72044c7700e2350e28
+2020-01-10,White,V3,,Flash,wall-boulders,581.0,,9339078234104c7a0c464657e892a939
+2020-01-09,Pink Low,V5,,Red Point,wall-boulders,423.0,Harder than v4,3f19fba696b801a0330569bef569205b
 2020-01-05,Red,5.11d,,Red Point,wall-back-wall,1250.3,,7428c095488c5c2049c3d15aaef5287e
 2020-01-05,Black,5.11b,,Onsight,wall-island,315.4,,3ed0ae04a66c4acca1c24ef79d6fe8bb
-2020-01-05,Black,5.10b,,Onsight,wall-island,553.4,,70483aa172a83469513e73395124fdbe
-2020-01-05,Yellow,5.8,,Onsight,wall-island,552.8,,42a5556236596257a4756dcdb3807304
+2020-01-05,Black,5.10b,,Onsight,wall-island,529.4,,70483aa172a83469513e73395124fdbe
+2020-01-05,Yellow,5.8,,Onsight,wall-island,528.5,,42a5556236596257a4756dcdb3807304
 2020-01-03,Yellow,V4,,Flash,wall-boulders,288.8,,243a18cc8cce220c7c763ae2aa414db9
 2020-01-03,Red,V1,,Flash,wall-boulders,288.8,,d75d1c5ae87065663c4e88d0fae2439e
 2020-01-03,Black,V2,,Flash,wall-boulders,288.8,,5988412a213b2a46e6147393f55b6808
@@ -192,10 +192,10 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-12-18,Red,V7,5,Red Point,wall-mezzanine,39.7,Spicy finish,4ff6ec0d33533ada5693f07768023250
 2019-12-18,Black,V3,,Flash,wall-mezzanine,39.7,,6ae9c1d096be2c74317f792525022d88
 2019-12-18,Tan,V2,,Flash,wall-mezzanine,39.7,,315b4d0b36d1a7e3b8cc920bc1161eda
-2019-12-16,Red,5.10c,,Onsight,wall-island,573.8,,52167fe939525176df6ac822d107524a
+2019-12-16,Red,5.10c,,Onsight,wall-island,561.5,,52167fe939525176df6ac822d107524a
 2019-12-16,Yellow,5.9,,Onsight,wall-back-wall,315.7,,f3a926b76332455d0f100cf47dbf1819
 2019-12-16,Pink,5.9,,Onsight,wall-back-wall,252.2,,307e02e2ddc6a796adbcc6ba85f65282
-2019-12-15,Blue,5.11d,4,Red Point,wall-island,371.5,,a4cdc3adcea814519cc1664b2e72c6e2
+2019-12-15,Blue,5.11d,4,Red Point,wall-island,394.7,,a4cdc3adcea814519cc1664b2e72c6e2
 2019-12-12,Yellow,V2,,Flash,wall-boulders,87.1,Definitely harder than a v2,42469c5d45475ebebb368c5618ec9658
 2019-12-11,Red,V4,,Red Point,wall-boulders,87.1,The label on the climb is a for a v3﹐ it's more like a v5. Most of the low grades in this corner are sandbagged for some reason. Good climb though. ,b388c3114171dc2c4678c47a7bad4b89
 2019-12-11,White,V0,,Flash,wall-boulders,87.1,,129293a9282b4c241f2b6926eca02ed9
@@ -260,22 +260,22 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-12-04,Yellow,V7,3,Red Point,wall-slab,192.9,,51f06fe096964f123cd431c6cdac1510
 2019-12-04,Lime Green,V0,,Flash,wall-slab,192.9,,35f5d8d239fd760596d702b7eee7ede9
 2019-12-04,Red,V3,,Flash,wall-slab,192.9,,f8471788822aee2cbc217073ef6ac350
-2019-12-02,Yellow,V7,5,Red Point,wall-boulders,561.8,Excellent problem,de5c94afd6e02aa4ab49c2d3d41e2061
-2019-12-02,Lime Green,V4,,Flash,wall-boulders,561.8,,c81084d2b88f45a23575a61808634d31
-2019-12-02,Yellow,V4,,Red Point,wall-boulders,561.8,,e75537d5294be4537bc7c9baade9a35c
+2019-12-02,Yellow,V7,5,Red Point,wall-boulders,581.0,Excellent problem,de5c94afd6e02aa4ab49c2d3d41e2061
+2019-12-02,Lime Green,V4,,Flash,wall-boulders,581.0,,c81084d2b88f45a23575a61808634d31
+2019-12-02,Yellow,V4,,Red Point,wall-boulders,581.0,,e75537d5294be4537bc7c9baade9a35c
 2019-12-02,Pink,V4,,Flash,wall-boulders,505.7,,55da0c04bc30556e600e47096828d03b
-2019-12-02,Yellow High,V3,,Flash,wall-boulders,435.9,,3f8c721122a0bc760a49f03da502a72a
-2019-12-02,Red,V5,,Flash,wall-boulders,435.9,,5626da4c93e824b608273be9ebda4d7c
-2019-12-02,Tan,V3,,Flash,wall-boulders,435.9,,25953b63ef9a511874960725a0a8ab82
+2019-12-02,Yellow High,V3,,Flash,wall-boulders,423.0,,3f8c721122a0bc760a49f03da502a72a
+2019-12-02,Red,V5,,Flash,wall-boulders,423.0,,5626da4c93e824b608273be9ebda4d7c
+2019-12-02,Tan,V3,,Flash,wall-boulders,423.0,,25953b63ef9a511874960725a0a8ab82
 2019-12-02,Pink Right,V5,,Flash,wall-boulders,288.8,,456d312c78ca1b8a319c89b90eb4b545
 2019-12-02,Red,V6,,Red Point,wall-boulders,243.8,,7e02a5eae8b6d6d7e55ad1803f0b35a7
 2019-12-02,Black,V4,,Flash,wall-boulders,243.8,,7e2c97c18ee1a2b7fe69f55b499ab041
 2019-11-29,Blue,5.11b,,Onsight,wall-back-wall,322.3,,2ff674be2a650fe354c90fb700b704c7
-2019-11-29,Pink,5.10b,,Onsight,wall-island,356.8,,238846b13e3522b5eae9a6e7ffdee8f2
+2019-11-29,Pink,5.10b,,Onsight,wall-island,365.2,,238846b13e3522b5eae9a6e7ffdee8f2
 2019-11-29,Pink,5.9,,Onsight,wall-back-wall,165.3,,baf04a9136fe3a4282e7d938de009b1d
-2019-11-29,Tan,5.9,4,Red Point,wall-island,592.2,,2ba45e3e46e2611771d6c44e12315062
+2019-11-29,Tan,5.9,4,Red Point,wall-island,590.5,,2ba45e3e46e2611771d6c44e12315062
 2019-11-27,Lime Green,5.11b,5,Onsight,wall-back-wall,164.5,,518e7050eb9e9376adfebe09b20f1384
-2019-11-27,Purple,5.9,,Onsight,wall-island,396.4,,c43d5318c7bb0945f1028deabce154cc
+2019-11-27,Purple,5.9,,Onsight,wall-island,444.9,,c43d5318c7bb0945f1028deabce154cc
 2019-11-24,Blue,V4,,Flash,wall-boulders,667.3,,2cc853d97a9c22c53e6006832da3a0ea
 2019-11-24,Lime Green,V2,,Flash,wall-boulders,161.2,,80eba7bb095082696f16c73c7020658b
 2019-11-24,White,V5,,Flash,wall-boulders,161.2,,b68f4380c00685742cba85bf8991983c
@@ -302,8 +302,8 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-11-21,Lime Green,V4,,Flash,wall-mezzanine,114.6,,08b2560e61985bd912ce48ba21007422
 2019-11-21,Blue,V5,,Flash,wall-mezzanine,114.6,,c4e38bdcc4c5426be58105ea88884e2c
 2019-11-21,Yellow,V6,4,Red Point,wall-boulders,359.0,,ef6e6639376e5460046debaf0173b82a
-2019-11-21,Red,V6,4,Red Point,wall-boulders,561.8,,a2d5f68ac280eb7a14cc16d56e7f24fe
-2019-11-21,Blue,V8,4,Red Point,wall-boulders,561.8,Cool first move; body wedge finish ftw! ,4de06b25e75c4faf2b829727b39b941b
+2019-11-21,Red,V6,4,Red Point,wall-boulders,581.0,,a2d5f68ac280eb7a14cc16d56e7f24fe
+2019-11-21,Blue,V8,4,Red Point,wall-boulders,581.0,Cool first move; body wedge finish ftw! ,4de06b25e75c4faf2b829727b39b941b
 2019-11-19,Lime Green,5.11c,,Onsight,wall-island,127.1,,0226154cd6772c6b5e3c639d93ddacf2
 2019-11-19,Purple,5.11b,,Red Point,wall-red,133.2,,8500d93a5516875da611d4c9380483dc
 2019-11-19,Red,V6,,Red Point,wall-boulders,288.8,,a100e9219991f648a5e821e91d73e789
@@ -319,8 +319,8 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-11-17,Tan,V3,,Flash,wall-boulders,359.0,,eee0915b91eae098473431d3c95a2733
 2019-11-17,Pink,V7,,Red Point,wall-boulders,359.0,,88b0ef6c84f7b8d229ed74a936abef83
 2019-11-17,Yellow,V4,5,Flash,wall-boulders,288.8,,edd0e9f4d6e5d21853fb8258aa8b03bd
-2019-11-13,Purple,5.11b,,Onsight,wall-island,591.6,,1c7cd76b531ec3895f8ab9edbc069210
-2019-11-13,White,5.12a,,Red Point,wall-island,573.2,,90e328e015a809901129a0ed02cb256b
+2019-11-13,Purple,5.11b,,Onsight,wall-island,589.6,,1c7cd76b531ec3895f8ab9edbc069210
+2019-11-13,White,5.12a,,Red Point,wall-island,560.7,,90e328e015a809901129a0ed02cb256b
 2019-11-13,White,5.12a,,Red Point,wall-back-wall,1167.3,,46c8ccdad51a67ac39e12ff881b93f1c
 2019-11-13,Lime Green,5.10a,,Onsight,wall-back-wall,684.0,,8bb5dcf2a150e2bb2a77a7d092db3e73
 2019-11-13,Purple,5.10d,,Onsight,wall-back-wall,589.1,,ab9e99b578dc0bc1b88231ef450af82d
@@ -345,7 +345,7 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-10-24,Yellow,5.11c,,Red Point,wall-back-wall,968.7,,b0930a2aa3f903d8984903faf4c7c5c5
 2019-10-24,Purple,5.11b,3,Onsight,wall-back-wall,1045.1,pretty chill,b09fa28bce358e5596bc8d47134de12b
 2019-10-24,Yellow,5.10b,1,Onsight,wall-back-wall,830.9,,807dfc32d5c3f169619829af80d6f91c
-2019-10-24,Red,5.9,,Onsight,wall-island,384.4,,0c26a257c10ebe6decab961c533c084d
+2019-10-24,Red,5.9,,Onsight,wall-island,420.7,,0c26a257c10ebe6decab961c533c084d
 2019-10-24,Pink,5.8,4,Onsight,wall-back-wall,165.3,challenging for 5.8,f1faaccc28792e2b89a1a426528aa29d
 2019-10-23,Tan,5.11a,,Onsight,wall-back-wall,946.0,pretty chill,19c99843b896516f962b1d4f32c026b1
 2019-10-23,Purple,5.10a,,Onsight,wall-back-wall,243.6,,764ba7ae6edbb2c51ac608e130346fc1
@@ -418,12 +418,12 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-09-04,Tan,5.8,3,Onsight,wall-back-wall,-2.4,,a5e51f5ec204b69b0cbb466f9ce1c08e
 2019-09-04,Black,V5,4,Red Point,wall-boulders,243.8,,3590a39b349058fa67edc593965dde68
 2019-09-04,Lime Green,V3,4,Flash,wall-boulders,161.2,?,3d42969f22b6a2afa66d685db3463402
-2019-09-03,Tan,V6,3,Red Point,wall-boulders,561.8,,da0e63e190fffafeff8c4fd9cebf8e25
+2019-09-03,Tan,V6,3,Red Point,wall-boulders,581.0,,da0e63e190fffafeff8c4fd9cebf8e25
 2019-09-01,White,V5,3,Flash,wall-slab,192.9,,2200485c6003c051c8b53f4c9a7e176c
-2019-08-28,White,V4,3,Flash,wall-boulders,435.9,,eb66d17374a910a3acc17aa3826755e7
-2019-08-28,Yellow,V4,3,Flash,wall-boulders,561.8,,d7888925e25a8f263539e0ba6f1d9ba7
-2019-08-28,Blue,V7,3,Red Point,wall-boulders,561.8,,3b4f9de89ff8aeca52c51e13d2d0e8e3
-2019-08-28,Lime Green,V3,3,Flash,wall-boulders,561.8,fun. cool holds,6f9db8144fad396c3d38380e71a4ddaa
+2019-08-28,White,V4,3,Flash,wall-boulders,423.0,,eb66d17374a910a3acc17aa3826755e7
+2019-08-28,Yellow,V4,3,Flash,wall-boulders,581.0,,d7888925e25a8f263539e0ba6f1d9ba7
+2019-08-28,Blue,V7,3,Red Point,wall-boulders,581.0,,3b4f9de89ff8aeca52c51e13d2d0e8e3
+2019-08-28,Lime Green,V3,3,Flash,wall-boulders,581.0,fun. cool holds,6f9db8144fad396c3d38380e71a4ddaa
 2019-08-28,Blue,V4,3,Red Point,wall-slab,48.7,,ab16f43a1623edfaed946ff6ecbe5004
 2019-08-28,Tan,V3,3,Flash,wall-slab,48.7,,1d9d0840f2c282dfab7fd12adc752462
 2019-08-28,Black,V2,3,Flash,wall-slab,48.7,,86e367997591f0d4741a009e32994b56
@@ -443,16 +443,16 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-08-28,Pink,V5,3,Flash,wall-slab,192.9,,8c240cf8241c21fdfa124acaf4884816
 2019-08-28,Yellow,V1,3,Flash,wall-slab,192.9,,e2caaccc80deddfd3b0086ee36f4546c
 2019-08-27,Blue,5.12c,4,Red Point,wall-back-wall,1274.8,,f4d0f700290745d4fa16c1bb97297dba
-2019-08-27,Red,5.11b,3,Onsight,wall-island,573.8,,87fa5bd33415e4cc21c5908b47cb6d7e
-2019-08-27,Lime Green,5.10a,3,Onsight,wall-island,591.6,cool problem﹐ not 10a though,0b0b27207e3997e7919f9f9a13a2c4a3
-2019-08-26,Yellow,V7,4,Red Point,wall-boulders,435.9,,3bf060f49d59f295193051a365068583
-2019-08-26,Black,V4,3,Flash,wall-boulders,435.9,,2ac1a4d9550b84b7177b087ea87c7ab6
-2019-08-26,Blue,V1,3,Flash,wall-boulders,435.9,,d44bb3bcc87ce3657f0207d47a911bb5
-2019-08-26,Red,V5,3,Flash,wall-boulders,435.9,,1c0cac2ec8dad9cc6a609e702cac14e6
-2019-08-26,Lime Green,V6,3,Red Point,wall-boulders,435.9,,3822ebc9d4ab9ed882adafeb3d3f0314
+2019-08-27,Red,5.11b,3,Onsight,wall-island,561.5,,87fa5bd33415e4cc21c5908b47cb6d7e
+2019-08-27,Lime Green,5.10a,3,Onsight,wall-island,589.6,cool problem﹐ not 10a though,0b0b27207e3997e7919f9f9a13a2c4a3
+2019-08-26,Yellow,V7,4,Red Point,wall-boulders,423.0,,3bf060f49d59f295193051a365068583
+2019-08-26,Black,V4,3,Flash,wall-boulders,423.0,,2ac1a4d9550b84b7177b087ea87c7ab6
+2019-08-26,Blue,V1,3,Flash,wall-boulders,423.0,,d44bb3bcc87ce3657f0207d47a911bb5
+2019-08-26,Red,V5,3,Flash,wall-boulders,423.0,,1c0cac2ec8dad9cc6a609e702cac14e6
+2019-08-26,Lime Green,V6,3,Red Point,wall-boulders,423.0,,3822ebc9d4ab9ed882adafeb3d3f0314
 2019-08-26,White HIGH START,V2,3,Flash,wall-boulders,505.7,,e23c967f7f6f07cf4ae943c03728fdd2
 2019-08-26,White LOW START,V3,3,Flash,wall-boulders,505.7,,5f0ca5dd740c0ed847a28e45498c997f
-2019-08-26,Pink,V2,3,Flash,wall-boulders,435.9,,427592862c20764c827a3d1e4aa85cdb
+2019-08-26,Pink,V2,3,Flash,wall-boulders,423.0,,427592862c20764c827a3d1e4aa85cdb
 2019-08-24,Yellow,5.12a,3,Onsight,wall-back-wall,1376.9,,6d0b3727ec762401e553d12034b68424
 2019-08-24,Blue,5.11b,3,Onsight,wall-back-wall,608.4,,658defabf37eb3713f3041df9cac69bd
 2019-08-24,Purple,5.10d,3,Onsight,wall-back-wall,532.7,,b1c3c33283a197c5f37c084e37b72b1a
@@ -464,19 +464,19 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-08-24,Yellow,5.10c,3,Onsight,wall-back-wall,69.3,,74b2961a251ccacd600fcedfae19a33d
 2019-08-24,Purple,5.10c,3,Onsight,wall-back-wall,37.7,,b1aefff0a92480d7f980b36c205c56d6
 2019-08-24,Lime Green,5.9,3,Onsight,wall-back-wall,16.3,,2055a908cc9ff43d3efd8440726b966c
-2019-08-24,Red,5.10a,3,Onsight,wall-island,371.9,,9c3f303b496709bbe9bd54ee4fdbd4fd
-2019-08-24,Yellow,5.8,3,Onsight,wall-island,371.5,,287316120d0409bc18f17c1736d9a540
+2019-08-24,Red,5.10a,3,Onsight,wall-island,395.6,,9c3f303b496709bbe9bd54ee4fdbd4fd
+2019-08-24,Yellow,5.8,3,Onsight,wall-island,394.7,,287316120d0409bc18f17c1736d9a540
 2019-08-23,Red,5.12c,4,Top Rope,wall-island,227.5,pretty fun,e89b1c4241881f01a8d67ce4f6e3cfed
 2019-08-21,White,5.11d,4,Onsight,wall-back-wall,1167.3,,2cf275368462dae66a937154f6718d24
-2019-08-21,Yellow,5.11d,3,Onsight,wall-island,537.8,,7eef1e35124536455f46472426aa87f7
+2019-08-21,Yellow,5.11d,3,Onsight,wall-island,504.9,,7eef1e35124536455f46472426aa87f7
 2019-08-21,Red,5.10d,2,Onsight,wall-back-wall,1141.8,,888e3c96a8833055ea7a0bc0f7a8f8b3
 2019-08-21,Pink,5.10c,3,Onsight,wall-back-wall,1098.7,,eab0cc529a1afb04efd92dd570fbfee5
 2019-08-21,White,5.12d,3,Top Rope,wall-island,280.7,Felt like 11d/12a﹐ though there are definitely some harder 11s in the gym. Fun though.,ce87c51f54a6a0dd2298bfcf1cf108ed
 2019-08-18,Yellow,5.12c,5,Red Point,wall-back-wall,946.0,A proud send. I had to work the moves on this over a few sessions. The crux for me was the first few moves through the crimps at the top. Great climb.,0645519ebf1ba19ab94d9530d190ff22
-2019-08-18,Black,5.12a,3,Onsight,wall-island,396.8,Soft for the grade with a couple nice rests﹐ but fun.,1e00dd6146ad1ccb046cd4b9a1f69b02
-2019-08-18,White,5.10a,3,Onsight,wall-island,396.4,,64d2a541fe0da74096960aa06e2e97c7
-2019-08-18,Purple,5.11d,3,Red Point,wall-island,384.4,Heady crux sequence at the sixth (?) bolt.,e0620a64e2424a60d2765bfc17b2b9f3
-2019-08-18,Blue,5.11c,3,Onsight,wall-island,356.8,,d3183e0bf9f02a9bec91ef3e45421913
+2019-08-18,Black,5.12a,3,Onsight,wall-island,445.8,Soft for the grade with a couple nice rests﹐ but fun.,1e00dd6146ad1ccb046cd4b9a1f69b02
+2019-08-18,White,5.10a,3,Onsight,wall-island,444.9,,64d2a541fe0da74096960aa06e2e97c7
+2019-08-18,Purple,5.11d,3,Red Point,wall-island,420.7,Heady crux sequence at the sixth (?) bolt.,e0620a64e2424a60d2765bfc17b2b9f3
+2019-08-18,Blue,5.11c,3,Onsight,wall-island,365.2,,d3183e0bf9f02a9bec91ef3e45421913
 2019-08-15,Purple,V0,3,Flash,wall-boulders,288.8,,f10a4d4da7e62f05ef746f7772c94079
 2019-08-15,Red,V3,3,Red Point,wall-boulders,288.8,,70f1e42d83d2a0fdebfba775ec44aa0a
 2019-08-15,Tan,V5,3,Flash,wall-boulders,288.8,,6ce6bc1b5641dab48a0695e483397714
@@ -524,7 +524,7 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-07-24,Pink,5.11d,4,Onsight,wall-back-wall,243.4,,c4c61dac2f994f694391af970bb51085
 2019-07-24,White,5.8,5,Onsight,wall-back-wall,243.6,,4344b1df591af5afa7d57831575cc8aa
 2019-07-24,Purple,5.10c,3,Onsight,wall-back-wall,251.9,,35d6842afe37e98522fc771e02ae6559
-2019-07-24,Black,V7,4,Red Point,wall-boulders,561.8,,222c1e81947c615fd07b79ac2acc2586
+2019-07-24,Black,V7,4,Red Point,wall-boulders,581.0,,222c1e81947c615fd07b79ac2acc2586
 2019-07-24,Black,V7,4,Red Point,wall-slab,48.7,,ed8559cea4f56e650355b065ea9def24
 2019-07-24,Lime Green,V6,4,Red Point,wall-slab,48.7,,de48b5fccc1075f35af795c863c8bd35
 2019-07-24,Blue,V5,3,Red Point,wall-slab,118.8,,b735ee5fc23723f5f14eb866a7a134c1
@@ -565,15 +565,15 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-07-09,Black,V2,3,Flash,wall-boulders,505.7,,44e6926b91538672ada48b8f3ed90aa7
 2019-07-09,Lime Green Low Right,V4,3,Flash,wall-boulders,505.7,,8003cb0384b3e120e15a648b51569c44
 2019-07-09,Lime Green High Right,V3,3,Flash,wall-boulders,505.7,,80715b8ea9285a07719cb07f262bbbfc
-2019-07-09,Blue High,V4,3,Flash,wall-boulders,435.9,,7d4d846bba97f79a489db2b10512b09e
-2019-07-09,Yellow High,V5,4,Red Point,wall-boulders,435.9,,1e268d0329179798d2f3064706ad456d
-2019-07-09,Black High,V6,4,Flash,wall-boulders,435.9,,420a211e0ee63fd824edc658e768a127
-2019-07-09,Lime Green,V0,3,Flash,wall-boulders,561.8,,00e85a17ac2b01aecbb44ee0964f931b
-2019-07-09,Tan,V6,4,Flash,wall-boulders,561.8,,6e0db353257495d49968bdca273a2313
-2019-07-09,White,V1,3,Flash,wall-boulders,561.8,,7cf75fef8979ae389e2b7c960668e4d4
-2019-07-09,Blue,V4,5,Flash,wall-boulders,561.8,,a46a976281521c6f49d3e5918b59ea89
-2019-07-09,Pink,V5,3,Flash,wall-boulders,435.9,,5f8f5e63ee2e1dc05767cf0d4e73d4a2
-2019-07-09,Red High,V5,3,Red Point,wall-boulders,435.9,,249603057cc01dd22afe9a1fef5c7115
+2019-07-09,Blue High,V4,3,Flash,wall-boulders,423.0,,7d4d846bba97f79a489db2b10512b09e
+2019-07-09,Yellow High,V5,4,Red Point,wall-boulders,423.0,,1e268d0329179798d2f3064706ad456d
+2019-07-09,Black High,V6,4,Flash,wall-boulders,423.0,,420a211e0ee63fd824edc658e768a127
+2019-07-09,Lime Green,V0,3,Flash,wall-boulders,581.0,,00e85a17ac2b01aecbb44ee0964f931b
+2019-07-09,Tan,V6,4,Flash,wall-boulders,581.0,,6e0db353257495d49968bdca273a2313
+2019-07-09,White,V1,3,Flash,wall-boulders,581.0,,7cf75fef8979ae389e2b7c960668e4d4
+2019-07-09,Blue,V4,5,Flash,wall-boulders,581.0,,a46a976281521c6f49d3e5918b59ea89
+2019-07-09,Pink,V5,3,Flash,wall-boulders,423.0,,5f8f5e63ee2e1dc05767cf0d4e73d4a2
+2019-07-09,Red High,V5,3,Red Point,wall-boulders,423.0,,249603057cc01dd22afe9a1fef5c7115
 2019-07-06,Red,5.12b,4,Red Point,wall-island,141.6,Fun fun,decb82b841b408466c3e214464d6d6b9
 2019-07-06,Black,5.9,3,Onsight,wall-auto-belay,342.5,,05bc170da7f37cdac0abc971cfbf7905
 2019-07-06,Pink,5.12c,3,Top Rope,wall-auto-belay,341.8,spicy finish,3bc407d200f45201e75361099ddb557f
@@ -590,10 +590,10 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-07-03,Black,V6,5,Flash,wall-boulders,359.0,,d1cf9cc363a9c9232c5332ad22b8b04f
 2019-07-03,Blue Left,V2,3,Flash,wall-boulders,359.0,,546afc075597d0419b9fa38142bd2868
 2019-07-03,Green,V6,3,Red Point,wall-boulders,359.0,V5/V6,3fcc0a33a56e39c399ec39618a535f4d
-2019-07-03,Blue,5.11d,3,Onsight,wall-island,592.2,,e308a05ef4a45b3f43269d2c2ab96637
-2019-07-03,Pink,5.10c,3,Onsight,wall-island,573.2,,2d2d89f2311a4e8b466c58fe5eaca437
+2019-07-03,Blue,5.11d,3,Onsight,wall-island,590.5,,e308a05ef4a45b3f43269d2c2ab96637
+2019-07-03,Pink,5.10c,3,Onsight,wall-island,560.7,,2d2d89f2311a4e8b466c58fe5eaca437
 2019-07-03,Yellow,V5,3,Red Point,wall-boulders,359.0,,b2910f0d4e969430e10014b512679bc2
-2019-07-03,Purple,5.12a,3,Onsight,wall-island,573.8,,e5d8b6e0417cebd4071adb0b45eb0eba
+2019-07-03,Purple,5.12a,3,Onsight,wall-island,561.5,,e5d8b6e0417cebd4071adb0b45eb0eba
 2019-06-30,Blue,V7,4,Red Point,wall-boulders,667.3,,683051e20a49efe0a56d7319a68526cb
 2019-06-30,Pink,V6,3,Flash,wall-boulders,736.4,,9b96b7bdb42a7c191dc81f8331b4313c
 2019-06-30,Lime Green,V6,4,Red Point,wall-boulders,736.4,,b1db6c1d3272e79c2d8dd4dd4c4463be
@@ -608,11 +608,11 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-06-28,Lime Green,V2,4,Flash,wall-boulders,793.8,,251d52490fcdb4f8d5c9f0aa65dcfbdc
 2019-06-28,Tan,V1,3,Flash,wall-boulders,793.8,,808ff2ac7d083bdad288cda3be76b4bc
 2019-06-28,Yellow,V0,3,Flash,wall-boulders,793.8,,712fde24ff1ccde003d3599a5b7b22af
-2019-06-28,White,5.10b,3,Onsight,wall-island,537.8,,4685685bb9dcb264f347684968d5bc74
+2019-06-28,White,5.10b,3,Onsight,wall-island,504.9,,4685685bb9dcb264f347684968d5bc74
 2019-06-28,Pink,5.11b,3,Onsight,wall-back-wall,1200.6,,d5b451326b50297add8966e21258f271
 2019-06-27,Red,V6,5,Flash,wall-boulders,793.8,,669fb7797907bc86a00bb2800035be2b
 2019-06-25,White,5.12a,3,Red Point,wall-island,75.0,,65f9af9a938615f0a793c77652d4b3c8
-2019-06-25,Red,5.11c,3,Onsight,wall-island,408.8,Maybe more like 11c. Fun moves,5f0905fbbf2eea617a08f4e3fa1d65ec
+2019-06-25,Red,5.11c,3,Onsight,wall-island,470.0,Maybe more like 11c. Fun moves,5f0905fbbf2eea617a08f4e3fa1d65ec
 2019-06-25,Black,5.11b,3,Onsight,wall-back-wall,1175.7,,ade052ca9209279ae58bdc1189bc14c5
 2019-06-25,Yellow,5.10c,3,Onsight,wall-red,24.0,,6957b08839b74bca6fc40517a45c9ace
 2019-06-25,Blue,5.10b,3,Onsight,wall-auto-belay,149.5,,3a71f71cfad3b03a0b536d1be2a37d25
@@ -654,12 +654,12 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-06-19,Pink,V1,3,Flash,wall-mezzanine,39.7,,857955d052cbc5c5af5d37e400ef5cb4
 2019-06-19,Black,V5,5,Red Point,wall-mezzanine,39.7,Great climb,a67f7c9fd7f30c887585d9aba4b5859a
 2019-06-13,Blue,5.12a,5,Red Point,wall-red,230.7,bouldery fun,9432ba1371f7d45bc2842a5ef30d6098
-2019-06-13,Lime Green,5.12d,5,Red Point,wall-island,356.4,great climb,fc964d202a6e52abc673ec1f13a9926c
+2019-06-13,Lime Green,5.12d,5,Red Point,wall-island,364.3,great climb,fc964d202a6e52abc673ec1f13a9926c
 2019-06-13,Pink,5.10c,3,Onsight,wall-back-wall,994.6,,019e46e14081118fb84e57e406e1c58e
 2019-06-13,Yellow,V4,3,Red Point,wall-boulders,161.2,,501c4134a27503f1cfc6655d3b01597e
 2019-06-13,Tan,5.12a,4,Red Point,wall-back-wall,967.8,,2707072e4809f5469e355f1bfe13fff7
 2019-06-13,Purple,5.11b,2,Onsight,wall-back-wall,870.9,,fbccb6581018f3a70c92a210a02c22c7
-2019-06-13,Black,5.8,3,Onsight,wall-island,396.8,,2e5fbea6a7c1075dd3824cdc2758b532
+2019-06-13,Black,5.8,3,Onsight,wall-island,445.8,,2e5fbea6a7c1075dd3824cdc2758b532
 2019-06-12,Red,V8,3,Red Point,wall-boulders,161.2,,06fb6f050ddc0bc23c647633f47fd8cf
 2019-06-12,Black,V7,5,Red Point,wall-boulders,87.1,,8037ee9fb163ef9998639923611be199
 2019-06-12,Yellow,V1,3,Flash,wall-boulders,87.1,,b6330542ed4c5f204a0e49244999f4e0
@@ -677,10 +677,10 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-06-10,Black,5.10c,3,Onsight,wall-back-wall,968.7,Some spicy moves. Felt like 11b﹐ or maybe I just had terrible beta.,1db2b75ce2f103b6d31a0ed1ce67d73c
 2019-06-10,Yellow,5.8,3,Onsight,wall-island,353.3,,86cdf6173da848f96c31d44b7b142307
 2019-06-10,Pink,5.8,1,Onsight,wall-island,315.9,Pretty awkward the whole way. ,9154698584376d84d56d7b1b19bc0ca3
-2019-06-08,Blue,5.10d,3,Onsight,wall-island,371.9,,5099347f5f8eb29a315bedeeb0831a43
-2019-06-08,Yellow,5.12a,3,Onsight,wall-island,384.8,,a77f790262a006ff8c3a87cea18cc05a
-2019-06-08,Tan,5.11b,3,Onsight,wall-island,396.4,,8e58818eb11e715d4ab0fc382fc5a3a8
-2019-06-04,Black,V6,3,Red Point,wall-boulders,331.8,,e3ace7db7fe95bbf25b96ff8c702d571
+2019-06-08,Blue,5.10d,3,Onsight,wall-island,395.6,,5099347f5f8eb29a315bedeeb0831a43
+2019-06-08,Yellow,5.12a,3,Onsight,wall-island,421.6,,a77f790262a006ff8c3a87cea18cc05a
+2019-06-08,Tan,5.11b,3,Onsight,wall-island,444.9,,8e58818eb11e715d4ab0fc382fc5a3a8
+2019-06-04,Black,V6,3,Red Point,wall-boulders,288.8,,e3ace7db7fe95bbf25b96ff8c702d571
 2019-06-04,Pink,V7,4,Red Point,wall-slab,48.7,,98e3cbab2820d93d7ef1c691f304e767
 2019-06-04,Blue Left,V5,3,Red Point,wall-slab,192.9,,f5664989dc794c4410b79a17eba89679
 2019-06-04,Black,V5,3,Red Point,wall-slab,118.8,,d5d0d0784663c249ea206273042c50c0
@@ -787,12 +787,12 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-06-04,Lime Green,5.11a,3,Onsight,wall-island,19.8,,bd5a7af1a7b64a17406b79fc9d47aed1
 2019-06-04,Purple,5.9,3,Onsight,wall-island,18.7,,12181b3c007e3d6899d382f951a47d8e
 2019-06-04,Red,5.11c,3,Red Point,wall-island,603.0,,8e1c49d7b799de380a56329a526e9e30
-2019-06-04,Purple,5.10b,3,Onsight,wall-island,408.3,,f8bef2e33f6ad6355371b32edac9e7e5
-2019-06-04,Yellow,5.7,3,Onsight,wall-island,407.9,,d843bcdc3aa13931fdcd62c0ad614d4d
-2019-06-04,Lime Green,5.10d,3,Onsight,wall-island,396.8,,9ae60e10af94ed54932f6d01b9df6678
-2019-06-04,Yellow,5.11d,3,Onsight,wall-island,384.8,,67e4ae8200ec2fb641a6230e8f076924
-2019-06-04,Black,5.10b,3,Onsight,wall-island,384.4,,9afc1b1af77ceff0009d5b46b3a4556e
-2019-06-04,Red,5.8,3,Onsight,wall-island,371.5,,de3362fe0fb4da549718bfeadbf4e38d
+2019-06-04,Purple,5.10b,3,Onsight,wall-island,469.1,,f8bef2e33f6ad6355371b32edac9e7e5
+2019-06-04,Yellow,5.7,3,Onsight,wall-island,468.2,,d843bcdc3aa13931fdcd62c0ad614d4d
+2019-06-04,Lime Green,5.10d,3,Onsight,wall-island,445.8,,9ae60e10af94ed54932f6d01b9df6678
+2019-06-04,Yellow,5.11d,3,Onsight,wall-island,421.6,,67e4ae8200ec2fb641a6230e8f076924
+2019-06-04,Black,5.10b,3,Onsight,wall-island,420.7,,9afc1b1af77ceff0009d5b46b3a4556e
+2019-06-04,Red,5.8,3,Onsight,wall-island,394.7,,de3362fe0fb4da549718bfeadbf4e38d
 2019-06-04,Black,5.10c,3,Onsight,wall-back-wall,252.2,,5b40f66eeae2c6e74b9c584e6da9530f
 2019-06-04,Yellow,5.10a,3,Onsight,wall-back-wall,243.4,,4f809782bd641f2c2bebb1bd95c2944b
 2019-06-04,Purple,5.8,3,Onsight,wall-back-wall,221.9,,e4a399c527279cda65d4a66091fce5a8
@@ -840,22 +840,22 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-06-02,Black,V3,3,Flash,wall-mezzanine,39.7,,ebf4cd19fb9c91fa76a5cea4d089299e
 2019-06-02,Yellow,V3,3,Flash,wall-mezzanine,39.7,,750043e56438e09389732c73693f13ea
 2019-06-02,Yellow Left,V5,3,Red Point,wall-mezzanine,39.7,,7668cf75195cdee599ff319bcffdbd2e
-2019-06-02,Tan,V1,3,Flash,wall-boulders,435.9,,c43c157c05eae8d3d107070153d415a1
-2019-06-02,White,V3,3,Flash,wall-boulders,435.9,Harder than a v3,6469b1c646b93cda0518f42172c56501
-2019-06-02,Red,V5,5,Red Point,wall-boulders,435.9,,dbd199ff6a2a78c3a2d4fe83749fe380
+2019-06-02,Tan,V1,3,Flash,wall-boulders,423.0,,c43c157c05eae8d3d107070153d415a1
+2019-06-02,White,V3,3,Flash,wall-boulders,423.0,Harder than a v3,6469b1c646b93cda0518f42172c56501
+2019-06-02,Red,V5,5,Red Point,wall-boulders,423.0,,dbd199ff6a2a78c3a2d4fe83749fe380
 2019-06-02,Black,V2,2,Flash,wall-boulders,505.7,,278df74275da07288126f5247712da42
 2019-06-02,Blue Stand,V3,3,Flash,wall-boulders,505.7,,09c71afc4d6506775ca8663eb6764915
 2019-06-02,Tan Stand,V4,3,Flash,wall-boulders,505.7,,9a7960f4b43d43e26d5375bf503c6adc
 2019-06-02,Pink Stand,V6,4,Red Point,wall-boulders,505.7,,4352d91a5b9769b49d10ac3277daf69a
-2019-06-02,White,V3,2,Flash,wall-boulders,561.8,,b901c5a7044c4eb0f47cd1858f84edef
-2019-06-02,Lime Green,V4,5,Flash,wall-boulders,561.8,,746621c51934510070839cadb2b37c0b
+2019-06-02,White,V3,2,Flash,wall-boulders,581.0,,b901c5a7044c4eb0f47cd1858f84edef
+2019-06-02,Lime Green,V4,5,Flash,wall-boulders,581.0,,746621c51934510070839cadb2b37c0b
 2019-06-01,Red,5.11b,5,Onsight,wall-red,51.5,,628d0ec81fa7158b55193d7931392510
-2019-06-01,Black,V2,3,Flash,wall-boulders,561.8,,6435404e42efd4d2097d5b3242739aac
-2019-06-01,Blue,V0,3,Flash,wall-boulders,561.8,,30082ec4babc41bcea1470e480d23850
-2019-05-31,Red,V4,3,Flash,wall-boulders,182.3,,5b0b96942f6f357f14ebb7c01ec53de4
+2019-06-01,Black,V2,3,Flash,wall-boulders,581.0,,6435404e42efd4d2097d5b3242739aac
+2019-06-01,Blue,V0,3,Flash,wall-boulders,581.0,,30082ec4babc41bcea1470e480d23850
+2019-05-31,Red,V4,3,Flash,wall-boulders,359.0,,5b0b96942f6f357f14ebb7c01ec53de4
 2019-05-31,Purple,V2,3,Flash,wall-boulders,288.8,,af3b58b7bcf33b23dca36108920e638f
 2019-05-31,Yellow,V1,3,Flash,wall-boulders,288.8,,3566012b72c4dff41f882a741950e0f8
-2019-05-31,Tan,V3,3,Flash,wall-boulders,182.3,,75bcd5fd4942d36233a9669d87d71929
+2019-05-31,Tan,V3,3,Flash,wall-boulders,359.0,,75bcd5fd4942d36233a9669d87d71929
 2019-05-31,Black,V4,3,Flash,wall-boulders,288.8,,214f825ab9454319d2c20458e1a82d83
 2019-05-31,Blue,V6,5,Red Point,wall-boulders,288.8,Cool movement﹐ surprisingly terrible last hold.,e7874550eb671551910aaea1da7e3266
 2019-05-31,White Right,V5,3,Red Point,wall-boulders,288.8,,e69a37bd9909f86238705349b19678b4
@@ -865,7 +865,7 @@ date,route_color,route_grade,rating,style,wall,offset,comment,route_id
 2019-05-31,Tan,V5,4,Red Point,wall-boulders,359.0,,aee31f86fba435fb07fd9b8742859afb
 2019-05-31,Pink,V5,2,Red Point,wall-boulders,359.0,,a8297b6e24de297f162f85be8828d050
 2019-05-31,Yellow,V3,3,Flash,wall-boulders,359.0,,364dea675a95b2e7127f6aff07f0a542
-2019-05-31,White,V3,1,Flash,wall-boulders,561.8,,b901c5a7044c4eb0f47cd1858f84edef
+2019-05-31,White,V3,1,Flash,wall-boulders,581.0,,b901c5a7044c4eb0f47cd1858f84edef
 2019-05-31,Blue,V1,3,Red Point,wall-boulders,359.0,,0cf6164c630e57baf374241dd0561799
 2019-05-30,Pink,5.12a,3,Red Point,wall-back-wall,221.1,,bfca3c2ddd4f9623835afd9fe7a4ddf0
 2019-05-30,Pink,5.11c,3,Onsight,wall-back-wall,689.8,,7b6c30deb5abc04d242c653627d90b4e
