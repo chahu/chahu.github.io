@@ -33,6 +33,24 @@ body {
   vertical-align: text-top;
 }
 
+#current_date {
+  font-size: 15px;
+  text-align: center;
+  width: 200px;
+  padding: 5px;
+  background-color: aliceblue;
+}
+
+#controls {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  margin: 4px;
+  display: inline-block;
+}
+
 svg #walls-layer path {
   stroke: #7e7e7e !important;
 }
