@@ -51,6 +51,30 @@ a {
   display: inline-block;
 }
 
+div#controls {
+  display: none;
+}
+
+span#next_date, span#previous_date, span#play_button, span#stop_button {
+  cursor: pointer;
+}
+span#next_date:hover, span#previous_date:hover, span#play_button:hover, span#stop_button:hover{
+  color: blue;
+  border-color: blue;
+}
+
+span#play_button, span#stop_button {
+  border: solid black 1px;
+  border-radius: 17px;
+  height: 17px;
+  width: 17px;
+  display: inline-block;
+  padding: 0px 1px 4px 3px;
+}
+span#stop_button {
+  padding: 2px 2px 3px 2px;
+}
+
 svg #walls-layer path {
   stroke: #7e7e7e !important;
 }

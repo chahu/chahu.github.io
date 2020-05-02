@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Copyright Charlie Huckel -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -167,5 +168,39 @@
        id="wall-boulders"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:2.25"
        d="m 682.19431,130.0861 h -9.92354 l -1.3532,-25.78326 -14.43425,-18.486101 h -46.00915 c 0,0 -0.0478,20.049861 -4.05963,29.675061 -4.01181,9.6252 -12.026,16.21496 -20.29816,17.51316 0,0 -9.53773,-10.21995 -11.27675,-17.99963 -1.73901,-7.77968 -0.39116,-17.883194 -9.02139,-22.864404 -8.63024,-4.981201 -17.59174,-2.432378 -17.59174,-2.432378 0,0 -17.30446,2.586393 -23.90672,5.83773 -6.60226,3.251326 -10.3136,9.037132 -15.33639,12.161902 -5.02279,3.12478 -14.43424,6.81066 -14.43424,6.81066 -26.88173,-11.02781 -69.53976,-10.63194 -93.82258,-0.48646 L 355.61956,79.492555 301.63834,79.280386 266.30768,103.81638 c -30.02736,0.0679 -101.94086,4.38249 -101.94086,4.38249 l -49.19471,51.70586 5.43994,76.23324 68.56264,0.97296 v 10.70248" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="walkways-layer"
+     inkscape:label="Walkways"
+     style="display:none">
+    <path
+       id="walkway-mezzanine"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="m 149.83816,80.019357 -52.884059,74.289503 3.777429,99.47239 113.32298,5.03658" />
+    <path
+       id="walkway-fox"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="m 168.72532,636.56108 v -40.29261 l -26.44203,-30.21946 -15.10973,-123.39613 25.18288,-65.4755 61.69807,-61.69806 v -56.66149 0" />
+    <path
+       id="walkway-boulders"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="m 686.38601,205.91557 -48.11778,26.88935 -49.53301,2.83046 -116.04877,-48.11778 -230.03024,12.78793 -21.44314,18.88761 -7.15856,39.62469 v 0" />
+    <path
+       id="walkway-highbays"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="m 1007.8101,185.68459 -104.98024,-1.23506 -72.86862,9.88049 -93.86466,6.17531 -49.71057,5.41024" />
+    <path
+       id="walkway-lowbay-right"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="m 1078.2086,370.9438 -3.7052,65.45825 v 45.69727 l -1.2351,19.76098 -37.0518,-7.41037 -79.04393,18.52593 -79.20572,8.80835" />
+    <path
+       id="walkway-lowbay-left"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="m 686.38601,205.91557 -8.14729,96.95659 22.04108,70.54176 80.27899,17.29086 37.05184,3.70518 30.87653,41.99209 28.40642,58.04788 2.47012,79.04394 28.40642,59.28294" />
+    <path
+       id="walkway-entrance"
+       style="fill:none;stroke:black;stroke-linecap: square;"
+       d="M 599.99373,642.28359 588.73522,235.63538" />
   </g>
 </svg>
