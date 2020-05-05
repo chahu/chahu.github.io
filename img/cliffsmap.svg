@@ -52,6 +52,9 @@
          x="0"
          style="fill:white;stroke:none" />
     </pattern>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700');
+    </style>
   </defs>
   <g
      id="pads-layer"
@@ -301,7 +304,15 @@
        height="10"
        fill="black"
        text-anchor="middle"
-       font-family="monospace" />
+       font-family="Roboto Condensed" />
+    <text id="clock-text-date"
+       x="600"
+       y="470"
+       width="50"
+       height="10"
+       fill="black"
+       text-anchor="middle"
+       font-family="Roboto Condensed" />
     <rect
        style="fill:#000000;stroke:none"
        id="clock-overlay"
