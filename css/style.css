@@ -43,6 +43,7 @@ body {
 
 #controls {
   text-align: center;
+  display: none;
 }
 
 a {
@@ -51,8 +52,8 @@ a {
   display: inline-block;
 }
 
-div#controls {
-  display: none;
+.routes div#controls {
+  display: block;
 }
 
 span#next_date, span#previous_date, span#play_button, span#stop_button {
@@ -87,4 +88,9 @@ svg circle.route:hover {
   fill-opacity: 1 !important;
 }
 
-
+body.helper #layers-div span {
+  padding: 0 10px;
+}
+body.helper svg #clock-layer rect {
+  display: none;
+}
