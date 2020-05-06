@@ -33,6 +33,15 @@ body {
   vertical-align: text-top;
 }
 
+#info_div img {
+  float: right;
+  top: -4px;
+  position: relative;
+  padding-left: 5px;
+  width: 18px;
+  height: 18px;
+}
+
 #current_date {
   font-size: 15px;
   text-align: center;
