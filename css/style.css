@@ -65,24 +65,8 @@ a {
   display: block;
 }
 
-span#next_date, span#previous_date, span#play_button, span#stop_button {
+span#next_date, span#previous_date, span#play_pause_button, span#stop_button {
   cursor: pointer;
-}
-span#next_date:hover, span#previous_date:hover, span#play_button:hover, span#stop_button:hover{
-  color: blue;
-  border-color: blue;
-}
-
-span#play_button, span#stop_button {
-  border: solid black 1px;
-  border-radius: 17px;
-  height: 17px;
-  width: 17px;
-  display: inline-block;
-  padding: 0px 0.5px 4px 4px;
-}
-span#stop_button {
-  padding: 2px 2px 3px 2px;
 }
 
 svg #walls-layer path {
