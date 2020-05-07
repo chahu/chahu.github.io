@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700');
+
 body {
   position:relative; /* Needed for hover positioning */
+  font-family:"Roboto Condensed";
+  font-weight: 300;
+}
+
+input {
+  font-family:"Roboto Condensed";
 }
 
 #info_div {
@@ -50,6 +58,10 @@ body {
   background-color: aliceblue;
 }
 
+#current_count {
+  float: right;
+}
+
 #controls {
   text-align: center;
   display: none;
@@ -59,14 +71,17 @@ a {
   text-decoration: none;
   margin: 4px;
   display: inline-block;
+  color: #fb7a00ff;
+  font-weight: 700;
 }
 
 .routes div#controls {
   display: block;
 }
 
-span#next_date, span#previous_date, span#play_pause_button, span#stop_button {
+span#next_date, span#previous_date, span#play_button, span#pause_button, span#stop_button {
   cursor: pointer;
+  vertical-align: middle;
 }
 
 svg #walls-layer path {
