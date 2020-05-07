@@ -1,24 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700');
 
+svg {
+  width: 100%;
+  height: min(max(650px, calc(.6 * 100vh)), min(100vw, 100vh));
+  top: -18px;
+  position: relative;
+}
+
+@media (min-width: 1200px) {
+  svg {
+    width: 1200;
+    height: 650;
+  }
+}
+
+html {
+  font-size: 100%;
+}
+
 body {
   position:relative; /* Needed for hover positioning */
+  font-size: 1.2rem;
   font-family:"Roboto Condensed";
   font-weight: 300;
+  margin-top: 0;
 }
 
 input {
   font-family:"Roboto Condensed";
+  font-size: 1.2rem;
 }
 
 #info_div {
+  font-size: 1rem;
+  max-width: 300px;
   position: absolute;
   opacity: 0;
   font-family: monospace;
-  font-size: 10px;
   background-color: rgba(255,255,255,0.7);
   margin: 0px;
   padding: 5px;
-  max-width: 200px;
   border-radius: 15px;
   border: 2px solid;
   pointer-events: none;
@@ -51,7 +72,6 @@ input {
 }
 
 #current_date {
-  font-size: 15px;
   text-align: center;
   width: 200px;
   padding: 5px;
