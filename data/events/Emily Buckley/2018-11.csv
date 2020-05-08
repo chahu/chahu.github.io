@@ -1,0 +1,9 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2018-11-10,Yellow,5.8,c386ad731e429ee590d60fa4080ba017,3.0,Onsight,wall-island,561.5,
+2018-11-10,Pink,5.9,f4f0baa43d583818fbc569294d47db06,5.0,Onsight,wall-back-wall,37.7,
+2018-11-10,Lime Green,V3,e57ee7a8afcb3a983147d38f1a79aedc,5.0,Red Point,wall-boulders,667.3,
+2018-11-10,Yellow,V2,92a032663b87cc90878407938ec066a0,3.0,Flash,wall-boulders,793.8,
+2018-11-10,Lime Green,V0,5217546b99127c60e449efb304728470,3.0,Flash,wall-slab,48.7,
+2018-11-10,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,3.0,Flash,wall-slab,48.7,
+2018-11-10,Red,V2,7848afa6509cd9cf370dac551ff824c7,3.0,Flash,wall-slab,48.7,
+2018-11-10,Yellow,V3,a183a744502653be60bdb41ff08c80bd,5.0,Red Point,wall-slab,48.7,

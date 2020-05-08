@@ -1,0 +1,13 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-01-20,Lime Green,5.7,dc718ae1b29f222eab7341a11fef1681,3.0,Top Rope,wall-auto-belay,196.9,
+2019-01-20,Purple,5.8,a021b9e4c918bf9c758c44f868758d71,3.0,Top Rope,wall-auto-belay,173.0,
+2019-01-20,Red,5.10b,76c7b490994383734a7679d9553f8e5e,3.0,Top Rope,wall-auto-belay,273.7,
+2019-01-20,White,5.9,3329f512d882469afbab061a9584e219,3.0,Top Rope,wall-auto-belay,274.3,
+2019-01-20,Pink,5.8,4c7021bc35ce463d0e9570ae59a26807,4.0,Onsight,wall-island,444.9,
+2019-01-20,Blue,5.10a,2eeb623616c63ea1ea141f52e02e6656,5.0,Onsight,wall-back-wall,684.0,
+2019-01-20,Yellow,V3,429db585192a725fb4731b0c693f0f75,3.0,Flash,wall-mezzanine,114.6,
+2019-01-20,Red,V5,f499e88c511b4f05d7e9b4178dbec165,5.0,Red Point,wall-mezzanine,39.7,
+2019-01-20,Black,V5,29e663f793333d6c73bcedee057e8600,4.0,Red Point,wall-mezzanine,39.7,
+2019-01-20,Red,V1,9dcc0537dda258efd469981adb6b4e34,2.0,Flash,wall-slab,48.7,
+2019-01-20,White,V4,a349a79ff317d836559c202fd9edaffb,3.0,Flash,wall-boulders,736.4,
+2019-01-20,Red,V5,a4ecdc40aa12abd61658b8fb04f44bbe,5.0,Flash,wall-boulders,736.4,

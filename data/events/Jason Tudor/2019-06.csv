@@ -1,0 +1,13 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-06-26,Black,5.8,b8649c4e6215e953cf952f376ef600d4,3.0,Onsight,wall-back-wall,791.7,
+2019-06-26,Tan,5.9,2fa598dfa1281c4aa99fba9b7e3ec223,3.0,Onsight,wall-red,50.1,
+2019-06-26,Red,5.8,c4d9749d8d7ac568a3936a9e073d40ea,3.0,Onsight,wall-auto-belay,391.2,
+2019-06-26,Red,5.8,8320601d1d82745e265062f782da8b73,3.0,Top Rope,wall-auto-belay,342.5,
+2019-06-26,Grey,5.8,fe11812fcac7834f8a74d7e26c121ec8,3.0,Onsight,wall-auto-belay,174.9,
+2019-06-26,Tan,5.9,928fe6822e8f620ec4c732d73f9dab4e,3.0,Onsight,wall-auto-belay,273.7,
+2019-06-22,Blue,5.7,0379a1ef029db56374c54f0d539eec5a,3.0,Onsight,wall-back-wall,1067.3,
+2019-06-22,Yellow,5.8,3092485929d271da6e675e264546da34,3.0,Top Rope,wall-island,92.7,
+2019-06-22,Blue,5.8,8561c5ace900e42aa8247972339af257,3.0,Onsight,wall-island,182.8,
+2019-06-11,Blue,5.8,c57829df8f1dffaeb4084a09966496f8,3.0,Onsight,wall-auto-belay,453.6,
+2019-06-11,Yellow,5.7,c23fa0faa77d42614f18a90cc8d1d84b,3.0,Onsight,wall-island,42.2,
+2019-06-11,Pink,5.8,099986fc4920a271e5141100f5c139a6,3.0,Onsight,wall-red,109.7,

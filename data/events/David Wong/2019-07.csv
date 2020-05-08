@@ -1,0 +1,5 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-07-01,Yellow,5.10b,72bbf909d0f0feb4138dfec5a82a18b4,3.0,Attempt,wall-island,162.0,
+2019-07-01,Red,5.10b,b312c00a68993682b91c86ac5c225c72,3.0,Attempt,wall-back-wall,1168.2,
+2019-07-01,Purple,5.9,12181b3c007e3d6899d382f951a47d8e,3.0,Onsight,wall-island,18.7,
+2019-07-01,Lime Green,5.10a,8a3d66ae7928aa359b8ed393cc65fef3,3.0,Onsight,wall-red,230.0,

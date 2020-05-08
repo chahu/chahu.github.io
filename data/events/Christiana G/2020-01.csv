@@ -1,0 +1,12 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-01-26,Yellow,5.12b,6000e045a44334a833eab25fe3af9603,3.0,Red Point,wall-island,245.4,
+2020-01-26,Red,5.12a,f4d8720a535154cc0f2f3a7760c434df,3.0,Onsight,wall-island,281.1,
+2020-01-26,Yellow,5.11c,59466be082ad99a42c74aa18caf31771,,Attempt,wall-island,141.6,
+2020-01-22,Red,5.12a,a0b6519e16d7b3589d70f47b20e4e973,,Onsight,wall-island,184.9,
+2020-01-22,Lime Green,5.12a,ff7bbd5701add16598fb69da4a930c9c,,Onsight,wall-island,212.3,
+2020-01-05,Purple,5.11a,e99f18ca607145b411a8036833855f7f,3.0,Attempt,wall-back-wall,86.3,
+2020-01-05,White,5.11b,d34053d248d516ec05bf3eae3b2641a0,3.0,Top Rope,wall-back-wall,1309.3,
+2020-01-02,Blue,5.12a,18b17ded2d765d174d6845649d48996a,3.0,Attempt,wall-back-wall,895.6,
+2020-01-02,Black,5.11b,f190ea691f1b36c48ea0011b175580cc,3.0,Onsight,wall-back-wall,743.3,
+2020-01-02,Red,5.11a,75752b7d4501ce271202689e41902812,4.0,Onsight,wall-red,261.8,
+2020-01-02,Yellow,5.11d,9ac36959e8a862363cc354626e0a9dd6,3.0,Attempt,wall-island,603.0,

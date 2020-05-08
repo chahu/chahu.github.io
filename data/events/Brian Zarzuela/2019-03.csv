@@ -1,0 +1,7 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-03-10,Yellow,V0,32cab75cc453e00b7071e6d008026006,5.0,Flash,wall-slab,118.8,
+2019-03-10,Lime Green,V0,95008bdb438aa1cc49b25ab851a8179d,5.0,Flash,wall-slab,192.9,
+2019-03-10,Blue,V0,d83fd724dfc070cef430a4992d4a3853,4.0,Flash,wall-mezzanine,114.6,
+2019-03-10,Blue,V0,dab297a9dc9c45dba60dc8bd773c70e7,5.0,Flash,wall-mezzanine,114.6,
+2019-03-10,Tan,V1,aaf1483333b229eda081cdd3f40ff7f1,4.0,Flash,wall-mezzanine,39.7,
+2019-03-10,Blue,V1,efb22ae4cd1bef7443bb49c135adb840,5.0,Flash,wall-mezzanine,39.7,

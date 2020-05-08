@@ -1,0 +1,13 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-04-20,White,V2,71f8d1da6fef08f3564907438c624950,3.0,Flash,wall-boulders,359.0,
+2019-04-20,Blue,V1,7b2cbbcf4f630ac9085adfd1729675fd,3.0,Flash,wall-boulders,667.3,
+2019-04-20,Blue,V2,4309e198e89b565edc938dabaede673a,3.0,Flash,wall-boulders,793.8,
+2019-04-20,Pink,V4,17ae9bff8dd3b95231b878e85acf7515,3.0,Flash,wall-boulders,793.8,
+2019-04-20,Lime Green,V3,c9869e726e76031360b4b408cdbc43e8,3.0,Flash,wall-boulders,793.8,
+2019-04-20,Pink,V4,17ae9bff8dd3b95231b878e85acf7515,3.0,Red Point,wall-boulders,793.8,
+2019-04-05,Lime Green,5.10d,926ef63614761c2fe9c4a2052fd3a0c0,3.0,Red Point,wall-auto-belay,303.3,
+2019-04-05,Yellow,5.11d,17ca9e2407dd5b6638c8889d94984a44,3.0,Red Point,wall-auto-belay,196.9,
+2019-04-02,Black,5.9,ab1d196333bdaeb3d6c753583a726bda,3.0,Red Point,wall-auto-belay,222.7,
+2019-04-02,Pink,5.11d,5a4c12e68cf416567a08cdcd433e2005,3.0,Red Point,wall-auto-belay,222.1,
+2019-04-02,Blue,5.10c,28d920011c90248d182ed9653d3a6740,3.0,Red Point,wall-auto-belay,249.8,
+2019-04-02,Purple,5.11a,507c962f32ebb6a603428201c8913ed7,3.0,Red Point,wall-auto-belay,302.7,

@@ -1,0 +1,59 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-07-31,Red,V2,4761f786ad08afcd03c838cff3404237,3.0,Flash,wall-mezzanine,39.7,
+2019-07-31,Blue,V0,d30b307a563ee53cb4633458c56a92a2,3.0,Flash,wall-mezzanine,39.7,
+2019-07-31,Lime Green,V0,c35becc91d20108c4f38d75e05af4905,3.0,Flash,wall-mezzanine,114.6,
+2019-07-31,Yellow,V0,92aeabd830d75a8e2d9160edd4c4fb01,3.0,Flash,wall-mezzanine,39.7,
+2019-07-31,Pink,V5,bd900a36736dacdab8b8fd16268e7f16,3.0,Red Point,wall-boulders,161.2,used Chris paolini's beta﹐ which is super helpful for avoiding matching in a pocket.
+2019-07-31,Tan,V6,05b5bda9cce51221707962bc2facaa9c,3.0,Red Point,wall-boulders,222.0,
+2019-07-31,Yellow,V7,3823bf4f34ea60597143917247eb1085,4.0,Red Point,wall-boulders,161.2,
+2019-07-30,White,V7,4fabe44e6c419e2eba7334e231d0d7dd,5.0,Red Point,wall-boulders,667.3,bit soft for 7﹐ but fun
+2019-07-30,Green,V6,3fcc0a33a56e39c399ec39618a535f4d,4.0,Red Point,wall-boulders,359.0,
+2019-07-29,Black,5.12d,468bf537ad9d79c4c95732d909604162,4.0,Attempt,wall-back-wall,1045.1,
+2019-07-29,Yellow,5.12c,0645519ebf1ba19ab94d9530d190ff22,3.0,Attempt,wall-back-wall,946.0,
+2019-07-29,Lime Green,V7,346d41415c04d79fa3c6101859eafd1e,3.0,Red Point,wall-boulders,87.1,broken chimney beta﹐ which is ~v4
+2019-07-29,Black,V7,ed8559cea4f56e650355b065ea9def24,4.0,Red Point,wall-slab,48.7,wipe your right shoe
+2019-07-29,White,5.13a,1b39b929851441d7c888dfe07d714dd4,3.0,Attempt,wall-back-wall,36.9,1 cheat
+2019-07-28,Lime Green,5.11d,ce4ccbee6f39a06fd93a200cdb85ea22,2.0,Attempt,wall-red,25.4,
+2019-07-27,Tan,V1,d7ad535c19adf449ec1c70f7385d1dda,3.0,Flash,wall-slab,192.9,
+2019-07-27,Blue,5.12c,f4d0f700290745d4fa16c1bb97297dba,3.0,Attempt,wall-back-wall,1274.8,
+2019-07-27,Pink,5.11b,d5b451326b50297add8966e21258f271,3.0,Onsight,wall-back-wall,1200.6,TR
+2019-07-27,White,5.12d,ce87c51f54a6a0dd2298bfcf1cf108ed,4.0,Attempt,wall-island,280.7,
+2019-07-27,Black,V2,88ce1de5a9f5a94dfe8e334a1d00e541,3.0,Flash,wall-boulders,87.1,
+2019-07-27,Tan,V0,cd8a640ef189dfc80aa3f3ebe676ca2a,3.0,Flash,wall-boulders,161.2,
+2019-07-27,White,V0,fd3f4e2e0f09615464bae5ba07f9ee81,3.0,Flash,wall-boulders,87.1,
+2019-07-27,Blue,V5,2f42405f19519d2694320dda0724b767,4.0,Red Point,wall-boulders,87.1,
+2019-07-24,Red,5.12b,decb82b841b408466c3e214464d6d6b9,4.0,Attempt,wall-island,141.6,
+2019-07-24,Pink,V5,5f8f5e63ee2e1dc05767cf0d4e73d4a2,3.0,Red Point,wall-boulders,423.0,
+2019-07-24,White,5.13a,1b39b929851441d7c888dfe07d714dd4,5.0,Attempt,wall-back-wall,36.9,2 cheats
+2019-07-24,Red,V6,669fb7797907bc86a00bb2800035be2b,3.0,Red Point,wall-boulders,793.8,
+2019-07-24,Blue High,V4,7d4d846bba97f79a489db2b10512b09e,3.0,Flash,wall-boulders,423.0,
+2019-07-24,Blue Low,V5,582f476c9b032408360f4f18f22eb9f2,3.0,Flash,wall-boulders,423.0,
+2019-07-24,Black,V7,222c1e81947c615fd07b79ac2acc2586,4.0,Red Point,wall-boulders,581.0,wish the second move were the first﹐ took me about 50 attempts
+2019-07-24,Black,V4,4d57466edd49bb5d783b1ddb42928579,3.0,Flash,wall-slab,118.8,
+2019-07-24,White,V5,ac9b02688d9a8e2b9d1050ab2971bca1,3.0,Flash,wall-slab,48.7,
+2019-07-24,Pink,V5,23abe27a107a9dc131b34a126e870c7d,3.0,Flash,wall-slab,48.7,
+2019-07-14,Black High,V6,420a211e0ee63fd824edc658e768a127,3.0,Red Point,wall-boulders,423.0,
+2019-07-12,Tan,V2,ada64d772fcb7bba68c9d03e554d647a,3.0,Flash,wall-boulders,423.0,
+2019-07-12,White,5.13a,1b39b929851441d7c888dfe07d714dd4,5.0,Attempt,wall-back-wall,36.9,Lots of fun huge moves. cheated 4.
+2019-07-12,Yellow,5.12a,6d0b3727ec762401e553d12034b68424,4.0,Attempt,wall-back-wall,1376.9,if you don't use the arete﹐ definitely harder than the grade
+2019-07-12,Pink,5.12b,205b5f419d467e72dd2b02c697c6bd18,4.0,Attempt,wall-back-wall,17.1,Don't miss the holds on the red left part of the wall.
+2019-07-11,Black,V2,44e6926b91538672ada48b8f3ed90aa7,3.0,Flash,wall-boulders,505.7,
+2019-07-11,Blue,V4,a5678d795e55e3b9b4a098ca77021bef,3.0,Flash,wall-boulders,736.4,
+2019-07-11,Yellow,V5,d449c3565034ff371fe6b52643d53e14,3.0,Flash,wall-boulders,736.4,
+2019-07-11,Black,V5,d3a2d45593701d55788fc233588f1504,3.0,Flash,wall-boulders,793.8,
+2019-07-11,Lime Green,V0,00e85a17ac2b01aecbb44ee0964f931b,3.0,Flash,wall-boulders,581.0,
+2019-07-11,Blue,V4,a46a976281521c6f49d3e5918b59ea89,3.0,Flash,wall-boulders,581.0,
+2019-07-11,Blue,V4,a46a976281521c6f49d3e5918b59ea89,3.0,Flash,wall-boulders,581.0,
+2019-07-11,White,5.12b,0bc0698eeb025ef9961592854d3d4b23,5.0,Attempt,wall-back-wall,251.9,awesome
+2019-07-09,Red,V5,dbd199ff6a2a78c3a2d4fe83749fe380,3.0,Red Point,wall-boulders,423.0,
+2019-07-09,Lime Green,V3,894da0512af2c746df65859b1d4b46d6,3.0,Flash,wall-boulders,288.8,
+2019-07-09,White,V2,30008c548df083af64980795154ba480,3.0,Flash,wall-boulders,288.8,
+2019-07-09,Tan,V1,96292de46b4e248fabcbcd66b2debb12,3.0,Flash,wall-boulders,288.8,
+2019-07-09,Yellow,V0,f0023a9020b734a4863762f380a4bfa4,3.0,Flash,wall-boulders,288.8,
+2019-07-01,Lime Green,V2,251d52490fcdb4f8d5c9f0aa65dcfbdc,3.0,Flash,wall-boulders,793.8,
+2019-07-01,White,V3,dc22e056c53bea7211bde34eaaf3b79d,3.0,Flash,wall-boulders,793.8,
+2019-07-01,Tan,V1,808ff2ac7d083bdad288cda3be76b4bc,3.0,Flash,wall-boulders,793.8,
+2019-07-01,Pink,V6,9b96b7bdb42a7c191dc81f8331b4313c,4.0,Red Point,wall-boulders,736.4,
+2019-07-01,Red,V3,cb4fc02d93152b28c723804b78dcb7b7,3.0,Flash,wall-boulders,667.3,
+2019-07-01,White,V2,9c8923a43dfdfbb7a30e15635bb87f25,3.0,Flash,wall-boulders,667.3,
+2019-07-01,Yellow,V0,712fde24ff1ccde003d3599a5b7b22af,3.0,Flash,wall-boulders,793.8,

@@ -1,0 +1,5 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-05-19,Yellow,5.7,bc8651b60381141eab54847474f100ce,3.0,Red Point,wall-back-wall,1353.6,
+2019-05-19,Purple,5.7,d18c7a59bfe39e45209b28ea4a5ea74b,3.0,Onsight,wall-red,230.0,
+2019-05-19,Tan,5.9,3bc3ba0cb8b7dd7c9e4431346cbe1591,3.0,Red Point,wall-back-wall,1141.8,
+2019-05-19,Tan,5.7,2eed030eacdb547fbb0881406144cad3,3.0,Onsight,wall-auto-belay,481.3,

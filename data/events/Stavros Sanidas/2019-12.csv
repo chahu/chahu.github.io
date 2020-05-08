@@ -1,0 +1,11 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-12-16,Yellow,V8,9fcd016cd60f0870b64bc7139c65a310,,Red Point,wall-boulders,161.2,
+2019-12-16,Lime Green,V6,7c953e25110579273d27420cdda7153d,,Flash,wall-boulders,161.2,
+2019-12-16,Pink,V5,0634754e4370d35be16579c5dd3d6d8b,,Flash,wall-boulders,161.2,
+2019-12-16,White,V6,774bad64cf7f6eb3ceb940747aafcdbd,,Flash,wall-boulders,222.0,
+2019-12-11,Blue,V8,1794b9b2089ad872d36d01422ae398cb,,Flash,wall-slab,192.9,
+2019-12-11,Yellow,V7,51f06fe096964f123cd431c6cdac1510,,Flash,wall-slab,192.9,
+2019-12-11,Black,V5,66534e523878ae755a0834bbda01aebb,,Flash,wall-slab,192.9,
+2019-12-11,Tan,V7,0ea893cad144964e48f0187fd25eee86,,Flash,wall-slab,118.8,
+2019-12-11,Pink,V6,2ee9555b0b495972dda36ec998d344da,,Red Point,wall-slab,118.8,
+2019-12-11,Red,V6,27f6cc1905e4f599e8a0b74b8554335a,,Red Point,wall-slab,48.7,

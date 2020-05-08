@@ -1,0 +1,12 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-07-23,Yellow,V3,8bb82755b24c03843ffa8450a46bf7e8,3.0,Red Point,wall-slab,48.7,
+2019-07-19,Yellow,5.8,369a5419ddb01298ade786991f54304b,3.0,Red Point,wall-back-wall,-0.7,
+2019-07-19,Lime Green,5.8,d32ae27ec09dccc77fa96ae5257fb879,3.0,Flash,wall-back-wall,684.0,
+2019-07-17,Lime Green,V1,f945c9a6a1b77e8d81c5c95890e65672,3.0,Flash,wall-slab,192.9,
+2019-07-17,Red,V1,51d8673246bb3453d7277b103df5bfc0,3.0,Flash,wall-slab,118.8,
+2019-07-17,Yellow,V1,7531357f5562b837cb424c0a37b1fe29,3.0,Flash,wall-slab,118.8,
+2019-07-17,Tan,V0,bb92a89554504aa6c3147433d9a18d52,3.0,Flash,wall-slab,48.7,
+2019-07-17,Lime Green,5.6,2f32522e3d058ab307a6e1b568b70622,3.0,Onsight,wall-auto-belay,251.1,
+2019-07-17,Tan,5.9,928fe6822e8f620ec4c732d73f9dab4e,3.0,Onsight,wall-auto-belay,273.7,
+2019-07-17,White,5.5,1577ddb802b7659d0c7a7e5caa708e9c,3.0,Onsight,wall-auto-belay,343.2,
+2019-07-16,Yellow,5.8,369a5419ddb01298ade786991f54304b,3.0,Top Rope,wall-back-wall,-0.7,

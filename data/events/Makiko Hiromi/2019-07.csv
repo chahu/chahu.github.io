@@ -1,0 +1,12 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-07-10,Tan,5.9,9b0ae4de9e1e6ec55e9135330d22e984,3.0,Top Rope,wall-back-wall,1386.5,
+2019-07-10,Pink,5.10b,a9fbe3c7bd6b5acb80098e987330996e,3.0,Top Rope,wall-back-wall,1409.3,
+2019-07-10,Red,5.9,5dc58c27bb35f4a6eb21c3a77365db1b,3.0,Top Rope,wall-back-wall,56.0,
+2019-07-10,Lime Green,5.9,2055a908cc9ff43d3efd8440726b966c,3.0,Top Rope,wall-back-wall,16.3,
+2019-07-03,Tan,5.10b,18a38060000d1ff26bf5f4b8397c6fc1,3.0,Onsight,wall-back-wall,1293.7,
+2019-07-03,Red,5.10a,6dc3051510ff59c16073354826abfa26,3.0,Onsight,wall-back-wall,1251.0,
+2019-07-03,Tan,5.9,c834436f9ce74fc79ef4439908108b5c,3.0,Onsight,wall-back-wall,1175.0,
+2019-07-03,Lime Green,5.10a,c23cffc3684c692022016a0c9e13357d,3.0,Onsight,wall-auto-belay,418.1,
+2019-07-03,Red,5.10c,5ae334871cdedc90a5672fdd7cb9074e,3.0,Red Point,wall-red,156.3,
+2019-07-03,Red,5.10d,0022740f8e09c8b8ac2639e7afdf7356,3.0,Red Point,wall-red,262.5,
+2019-07-03,Tan,5.9,cdc4770a1d78fdf8f3fa2731ce82ce41,3.0,Red Point,wall-red,173.9,

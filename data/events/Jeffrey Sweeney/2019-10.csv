@@ -1,0 +1,12 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-10-28,Black,5.9,f99796a1b8b72e0794002f693fc61411,3.0,Top Rope,wall-auto-belay,302.7,
+2019-10-28,Tan,5.8,549b35ee9b434e8c0a8950a8eb817d8e,3.0,Top Rope,wall-auto-belay,274.3,
+2019-10-28,Yellow,5.7,fd4afd200c7ef246e2f3b96af29b19fa,3.0,Top Rope,wall-auto-belay,251.1,
+2019-10-28,Black,5.9,017a649006ec2a3b88b0c544b78f3b7e,3.0,Top Rope,wall-auto-belay,250.5,
+2019-10-28,Purple,5.6,2c0b852cdcf29d3fd69f53dacbe11ce8,3.0,Top Rope,wall-auto-belay,222.7,
+2019-10-28,Tan,5.9,47a0a47c32993dcd83f5aabc56322778,3.0,Top Rope,wall-auto-belay,198.2,
+2019-10-27,Yellow,5.9,0836ff88d632e834b91b1fe1a94854a4,3.0,Top Rope,wall-back-wall,895.6,
+2019-10-27,Pink,5.9,790f73a05c14d3204a5baab19dd381a5,3.0,Top Rope,wall-back-wall,945.1,
+2019-10-27,Purple,5.10a,7f135225cc552b5d16186c26b255abf8,4.0,Top Rope,wall-back-wall,1386.5,
+2019-10-27,Pink,5.10a,d8f8912fe9993c81219af138f3e08424,3.0,Top Rope,wall-red,79.7,
+2019-10-27,Red,5.10a,9e4c9dba0cc60c159e2dc23999554445,3.0,Top Rope,wall-island,75.0,

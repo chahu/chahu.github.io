@@ -1,0 +1,13 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2018-11-26,White,V3,9f266a781d2555dfb2c582289b0cf833,3.0,Red Point,wall-mezzanine,39.7,
+2018-11-26,Pink,V3,395a27895a6aa1356fbceec4a69e68da,2.0,Flash,wall-mezzanine,39.7,
+2018-11-26,Black,V4,7d08c87341db6f56baaa7a78195285b6,4.0,Flash,wall-mezzanine,39.7,
+2018-11-26,Yellow,V4,5460d00441d47251ac79d5346a4eb407,3.0,Flash,wall-mezzanine,39.7,
+2018-11-15,Pink,V4,eb50fde2f6e2c8dac6455bd3052d565e,3.0,Red Point,wall-slab,192.9,
+2018-11-12,Blue,V6,c7fc9927c0b4160caafd2876bbb9589b,3.0,Red Point,wall-slab,118.8,
+2018-11-09,Black,V5,6a4317f40f7ce10dfff26cb728016089,4.0,Red Point,wall-slab,118.8,
+2018-11-09,Yellow,V3,a183a744502653be60bdb41ff08c80bd,3.0,Flash,wall-slab,48.7,
+2018-11-09,Tan,V4,ef55d734d524bb2ca8a4c5a61f6dae92,4.0,Flash,wall-slab,48.7,
+2018-11-09,Red,V2,7848afa6509cd9cf370dac551ff824c7,5.0,Flash,wall-slab,48.7,
+2018-11-09,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,4.0,Flash,wall-slab,48.7,
+2018-11-01,Yellow,V3,710488b90bf1d18d767a084748da45b2,3.0,Flash,wall-boulders,359.0,

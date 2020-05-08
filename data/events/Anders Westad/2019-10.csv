@@ -1,0 +1,6 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-10-05,Pink,5.10a,bba1f5de963b2669beeef4d7ec4f9050,3.0,Onsight,wall-auto-belay,174.9,
+2019-10-05,Blue,5.10c,77376f10cbe7a6fa90a12211b6d01b30,4.0,Onsight,wall-auto-belay,196.9,
+2019-10-05,Blue,5.10b,8e3ad08dbd1c267356f3b5c50f3b0d4c,3.0,Onsight,wall-auto-belay,273.7,
+2019-10-05,Red,5.10a,880c30690bbd7ef907b9378d023853cc,3.0,Onsight,wall-auto-belay,480.4,
+2019-10-05,Black,5.9,f99796a1b8b72e0794002f693fc61411,4.0,Onsight,wall-auto-belay,302.7,

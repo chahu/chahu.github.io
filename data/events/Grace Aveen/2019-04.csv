@@ -1,0 +1,11 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-04-26,Lime Green,V0,a9f810907c5ae3522973c781f2226035,5.0,Flash,wall-mezzanine,114.6,
+2019-04-26,White,5.6,07a32e251f38e9278d67cb823e491b21,3.0,Red Point,wall-auto-belay,223.4,
+2019-04-03,Blue,V1,daeb99ef9934ba3a2b0a77c57283cbb6,5.0,Flash,wall-boulders,359.0,
+2019-04-03,White,5.6,07a32e251f38e9278d67cb823e491b21,3.0,Red Point,wall-auto-belay,223.4,
+2019-04-03,White,5.8,11cb2c909ceecb6dfea8393b8d3ec3b3,3.0,Red Point,wall-auto-belay,274.3,
+2019-04-03,Black,5.9,ab1d196333bdaeb3d6c753583a726bda,5.0,Onsight,wall-auto-belay,222.7,
+2019-04-03,Tan,5.6,33a9a36df96d83a287cdf2fe1abfc6bc,5.0,Onsight,wall-auto-belay,251.1,
+2019-04-03,White,5.8,11cb2c909ceecb6dfea8393b8d3ec3b3,5.0,Onsight,wall-auto-belay,274.3,
+2019-04-03,Red,5.8,8320601d1d82745e265062f782da8b73,3.0,Red Point,wall-auto-belay,342.5,
+2019-04-03,Blue,5.5,99d687a3caf41aab9c73809769394aec,3.0,Red Point,wall-auto-belay,343.2,

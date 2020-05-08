@@ -1,0 +1,6 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-02-11,Lime Green,5.10a,6db84815dd0ddb03bb661f42c4bfca41,4.0,Red Point,wall-red,24.0,
+2020-02-11,Black,5.9,a77556ed377856515da5a2931643816b,,Red Point,wall-red,80.7,
+2020-02-11,Red,5.9,417f6ae7ef91c804525a319030aea585,,Red Point,wall-back-wall,871.9,
+2020-02-11,Yellow,5.9,d2aa312133433efb9dab8c6359cc009a,,Flash,wall-back-wall,-0.7,
+2020-02-11,Blue,5.9,4aced0bf3c7e214843fcb490d33c4e47,,Flash,wall-back-wall,56.0,

@@ -1,0 +1,49 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-05-31,Tan,V1,c43c157c05eae8d3d107070153d415a1,3.0,Flash,wall-boulders,423.0,
+2019-05-31,White,V3,6469b1c646b93cda0518f42172c56501,3.0,Flash,wall-boulders,423.0,
+2019-05-31,Black,V2,278df74275da07288126f5247712da42,4.0,Flash,wall-boulders,505.7,
+2019-05-31,Blue Stand,V3,09c71afc4d6506775ca8663eb6764915,3.0,Flash,wall-boulders,505.7,
+2019-05-31,Blue Low,V5,f4c6aad67722d102c7464ac787e6ce5a,3.0,Flash,wall-boulders,505.7,
+2019-05-31,White,V3,b901c5a7044c4eb0f47cd1858f84edef,4.0,Flash,wall-boulders,581.0,
+2019-05-31,Lime Green,V4,746621c51934510070839cadb2b37c0b,4.0,Flash,wall-boulders,581.0,
+2019-05-31,Black,V2,6435404e42efd4d2097d5b3242739aac,4.0,Flash,wall-boulders,581.0,
+2019-05-31,Blue,V0,30082ec4babc41bcea1470e480d23850,3.0,Flash,wall-boulders,581.0,
+2019-05-23,Red,V4,5b0b96942f6f357f14ebb7c01ec53de4,4.0,Flash,wall-boulders,359.0,interesting moves
+2019-05-23,Purple,V2,af3b58b7bcf33b23dca36108920e638f,3.0,Flash,wall-boulders,288.8,
+2019-05-23,Yellow,V1,3566012b72c4dff41f882a741950e0f8,4.0,Flash,wall-boulders,288.8,
+2019-05-23,Tan,V3,75bcd5fd4942d36233a9669d87d71929,5.0,Flash,wall-boulders,359.0,
+2019-05-23,Black,V4,214f825ab9454319d2c20458e1a82d83,5.0,Flash,wall-boulders,288.8,crimp flow
+2019-05-23,White Right,V5,e69a37bd9909f86238705349b19678b4,5.0,Flash,wall-boulders,288.8,
+2019-05-23,White Left,V4,3bc1407f5c5ddd6fce72493b5fe9b81a,4.0,Red Point,wall-boulders,288.8,easy but you best respect them jugs.
+2019-05-23,Lime Green,V0,2ae7c9d09f7478169e3753a434ab5a8c,3.0,Flash,wall-boulders,288.8,
+2019-05-23,Red,V2,7ed4c61be2b6d4e854ead140288a52af,3.0,Flash,wall-boulders,288.8,holds so fresh and textured
+2019-05-23,Tan,V5,aee31f86fba435fb07fd9b8742859afb,4.0,Flash,wall-boulders,359.0,
+2019-05-23,Blue,V1,0cf6164c630e57baf374241dd0561799,4.0,Flash,wall-boulders,359.0,
+2019-05-23,Pink,V5,a8297b6e24de297f162f85be8828d050,5.0,Flash,wall-boulders,359.0,fun one.
+2019-05-23,Yellow,V3,364dea675a95b2e7127f6aff07f0a542,3.0,Flash,wall-boulders,359.0,
+2019-05-17,Tan,V1,3d710e451111716838acc48b4f5dc2da,3.0,Flash,wall-boulders,736.4,
+2019-05-17,Red,V3,ee0e71d3b3faba9cd923da0eb4ed08df,3.0,Flash,wall-boulders,736.4,
+2019-05-17,White,V2,05f26e32c26d509ef6b42f0182fcb05b,3.0,Flash,wall-boulders,667.3,
+2019-05-17,Yellow,V2,59e942beb3cb3e253945f18761e85cc2,4.0,Flash,wall-boulders,667.3,dat surprise up high
+2019-05-17,Pink,V4,62e752f0c1f06319111a5d293140220e,4.0,Flash,wall-boulders,667.3,
+2019-05-17,Yellow,V5,74cc06ffef88d99458c9ec8b5a7cb989,5.0,Red Point,wall-boulders,667.3,footwork or cut feet arch your back. your choice.
+2019-05-17,White,V2,e2a0ebbd66cbab7f766482bb4d0859e8,4.0,Flash,wall-boulders,736.4,white on white made it hard to spot all the holds. guess it helps to study the climb.
+2019-05-17,Lime Green,V3,a62c19519c26150c0c68f7e76671430f,5.0,Flash,wall-boulders,793.8,love the box holds
+2019-05-17,Pink,V6,b8d60d871fc6f07d5e13ed7afe42cd53,5.0,Red Point,wall-boulders,793.8,no nonsense classic climb. perhaps soft for a 6.
+2019-05-17,White,V4,79c5d67be2cc220058b870d0ed3734f8,3.0,Red Point,wall-boulders,793.8,
+2019-05-17,Blue,V7,7710b6bb9f2040243b98084d1c33931f,5.0,Red Point,wall-mezzanine,39.7,very creative use of holds. doesn’t look it at first glance but flows very well.
+2019-05-15,Lime Green,V6,068614c7f7e981437fa141d1fa1588e8,5.0,Red Point,wall-boulders,288.8,much projecting to dial in micro beta. hard. amazing climb.
+2019-05-15,White,V5,ef77f308d801163044bc5654de8244b5,5.0,Red Point,wall-mezzanine,114.6,frustrating at first but rewarding send.
+2019-05-12,Red,V1,170f59c2862db6092ccb1f2e3209f844,4.0,Flash,wall-mezzanine,114.6,
+2019-05-12,Yellow,V4,6f6d389bcedd265116fd4799d3246317,3.0,Flash,wall-mezzanine,114.6,
+2019-05-12,Lime Green,V4,d0fc2727f4bb05324556be3f5eaf6a21,4.0,Flash,wall-mezzanine,114.6,
+2019-05-12,Blue,V2,684e830b3e864916d7d8ec5a511c3335,3.0,Flash,wall-mezzanine,114.6,
+2019-05-12,Pink,V0,70ce5508d5b3e2fa80bac7eb45795339,3.0,Flash,wall-mezzanine,114.6,
+2019-05-12,Yellow,V0,0b317f7171a66878aed058ae894271ca,3.0,Flash,wall-mezzanine,114.6,
+2019-05-12,Black,V2,8250bcbb19be31dc0434f8bba53dde90,3.0,Flash,wall-mezzanine,39.7,
+2019-05-12,Tan,V3,1f87cbe9bb8bfca5d09c9e841f9ace4a,3.0,Flash,wall-mezzanine,39.7,
+2019-05-12,White,V3,c8a92a67a92efad5b2797dd75973e1b9,3.0,Flash,wall-mezzanine,39.7,
+2019-05-12,Lime Green,V1,93a7c83348327587a1c2fd3b9446c611,3.0,Flash,wall-mezzanine,39.7,
+2019-05-12,Red,V5,a85ff230c33b9e394ec306d70ff2aeb9,5.0,Red Point,wall-mezzanine,39.7,
+2019-05-12,Black,V3,ebf4cd19fb9c91fa76a5cea4d089299e,3.0,Flash,wall-mezzanine,39.7,
+2019-05-12,Yellow,V3,750043e56438e09389732c73693f13ea,3.0,Flash,wall-mezzanine,39.7,

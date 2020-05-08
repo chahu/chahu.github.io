@@ -1,0 +1,182 @@
+route_id,route_color,route_grade,type,category,wall,offset,rating,start_date,end_date,month
+57782037779dd464ddbceead7797bcde,Purple,5.8,route,Routes Fox Wall,wall-fox,122.2,4.0,2019-12-27,2020-03-05,2019-12
+c2a6b39749cfd50eb6e1ae9ae0b0d300,Pink,5.9,route,Routes Orange Wall,wall-back-wall,741.6,4.0,2019-12-20,2020-03-10,2019-12
+417f6ae7ef91c804525a319030aea585,Red,5.9,route,Routes Orange Wall,wall-back-wall,871.9,4.0,2019-12-20,2020-03-10,2019-12
+10594556371853f56dc06019bd232dea,Lime Green,5.8,route,Routes Orange Wall,wall-back-wall,870.9,4.09,2019-12-20,2020-03-10,2019-12
+18b17ded2d765d174d6845649d48996a,Blue,5.12a,route,Routes Orange Wall,wall-back-wall,895.6,4.25,2019-12-21,2020-03-11,2019-12
+98f6e50d67c98e00f34d8c0685da6eee,Tan,5.10b,route,Routes Orange Wall,wall-back-wall,791.7,4.0,2019-12-20,2020-03-10,2019-12
+530c23c47e18adaa0367e99939f78310,Yellow,5.10a,route,Routes Orange Wall,wall-back-wall,894.6,3.44,2019-12-21,2020-03-11,2019-12
+f190ea691f1b36c48ea0011b175580cc,Black,5.11b,route,Routes Orange Wall,wall-back-wall,743.3,4.0,2019-12-20,2020-03-10,2019-12
+31c0f0213c9d82231c90f1a859e9435d,Grey,5.9,route,Routes Fox Wall,wall-fox,65.7,3.0,2019-12-27,2020-02-17,2019-12
+515807c843faf5d468b99cd99a9a0c6e,Blue,5.8,route,Routes Fox Wall,wall-fox,197.3,3.0,2019-12-27,2020-01-25,2019-12
+04d03c908674ac94d2e15bd8aaf58bf0,Purple,5.7,route,Routes Orange Wall,wall-back-wall,829.3,4.33,2019-12-21,2020-03-11,2019-12
+281943aa368f739163df242af290fd8f,Lime Green,5.10d,route,Routes Main High Bay,wall-back-wall,252.2,4.33,2019-12-19,2020-01-29,2019-12
+2f2e4224dfd0c1c3a389b0a5caaa7e82,Lime Green,5.8,route,Routes Yellow Wall,wall-back-wall,1376.9,3.86,2019-12-10,2020-02-23,2019-12
+6987723587b5a911d64044928e7b8fb3,Yellow,5.9,route,Routes Yellow Wall,wall-back-wall,1353.6,4.33,2019-12-10,2020-02-23,2019-12
+305dd267da6444e8d6e14ceaa6f5de31,Grey,5.8,route,Routes Left of Auto Belay,wall-auto-belay,452.7,4.0,2019-12-11,2020-02-22,2019-12
+32c4a6cbbb726be6ca45ded747bcee89,Purple,5.9,route,Routes Left of Auto Belay,wall-auto-belay,497.7,4.2,2019-12-11,2020-01-17,2019-12
+2c01ec9e745ab6c7cda6c41d660fb8d9,Yellow,5.10b,route,Routes Yellow Wall,wall-back-wall,1409.3,4.67,2019-12-16,2020-02-23,2019-12
+e2a55583d7241135bb408e1212980fe0,Black,5.11a,route,Routes Yellow Wall,wall-back-wall,1293.7,3.33,2019-12-10,2020-02-20,2019-12
+6ca422a16264b710fba4c448e81f4539,Purple,5.8,route,Routes Yellow Wall,wall-back-wall,1434.0,3.0,2019-12-20,2020-01-28,2019-12
+221298a60355f428edc3510792a28862,Tan,5.10a,route,Routes Left of Auto Belay,wall-auto-belay,481.3,4.25,2019-12-11,2020-02-26,2019-12
+ea8d63742931011672892927d3f449ae,Blue,5.10a,route,Routes Yellow Wall,wall-back-wall,1310.0,4.22,2019-12-10,2020-02-22,2019-12
+b889e573fdd03975288cf5953e91c427,Tan,5.10b,route,Routes Yellow Wall,wall-back-wall,1329.5,3.78,2019-12-10,2020-02-23,2019-12
+2235be5c9de4a95e1e526b7f76d8778a,Pink,5.12a,route,Routes Main High Bay,wall-back-wall,251.9,4.0,2019-12-19,2020-01-29,2019-12
+b474a833dd5f9db46898ddcc1107db00,Purple,5.9,route,Routes Yellow Wall,wall-back-wall,1251.0,4.38,2019-12-06,2020-02-19,2019-12
+5a55c7baf808c358161efcea6269a18f,Tan,5.10a,route,Routes Yellow Wall,wall-back-wall,1228.7,4.17,2019-12-05,2020-02-17,2019-12
+b4e78b88c47a92515855cc320743ce7d,Pink,V4,boulder,Bouldering 3D,wall-boulders,288.8,4.0,2019-12-31,2020-02-11,2019-12
+e5b4a6a34f3cbe5a3164cbec54cbd83c,Tan,V3,boulder,Bouldering 3D,wall-boulders,288.8,4.0,2019-12-31,2020-02-11,2019-12
+4563537d169a2b8b7561006da5437b29,White,V2,boulder,Bouldering 3D,wall-boulders,288.8,2.85,2019-12-31,2020-02-11,2019-12
+5988412a213b2a46e6147393f55b6808,Black,V2,boulder,Bouldering 3D,wall-boulders,288.8,3.36,2019-12-31,2020-02-11,2019-12
+ee6293b3b8364e7e53ebb3c223b242be,Pink,V3,boulder,Bouldering 3D,wall-boulders,359.0,3.69,2019-12-31,2020-02-11,2019-12
+3b7cfdda6f7d8e18d533fb20056dad1e,Red,5.8,route,Routes Yellow Wall,wall-back-wall,1408.5,4.0,2019-12-16,2020-02-23,2019-12
+d75d1c5ae87065663c4e88d0fae2439e,Red,V1,boulder,Bouldering 3D,wall-boulders,288.8,3.46,2019-12-31,2020-02-11,2019-12
+bb943bd2e385e4542e4970277472f223,Yellow,V1,boulder,Bouldering 3D,wall-boulders,359.0,3.67,2019-12-31,2020-02-11,2019-12
+7a46cc92bca2c5c26cea19be071a33d8,Blue,V1,boulder,Bouldering 3D,wall-boulders,288.8,4.0,2019-12-31,2020-02-11,2019-12
+ddeaff00dd7f9f06e2043cf3b9a5a8f0,Yellow,5.8,route,Routes Yellow Wall,wall-back-wall,1274.1,4.67,2019-12-12,2020-02-20,2019-12
+906c7ab25c7633b975bd5d4b8435542d,Pink,5.7,route,Routes Yellow Wall,wall-back-wall,1292.9,5.0,2019-12-10,2020-02-20,2019-12
+185c9bc7ac481c3846a9be74c393aea9,Yellow,5.8,route,Routes Yellow Wall,wall-back-wall,1200.6,4.5,2019-12-05,2020-02-18,2019-12
+29e7cb3581ca9f8f4c65cbf3635a6831,Grey,5.5,route,Routes Left of Auto Belay,wall-auto-belay,365.6,3.0,2019-12-06,2020-02-12,2019-12
+8547e122933c31550d219976581b7f42,Black,5.7,route,Routes Left of Auto Belay,wall-auto-belay,364.9,,2019-12-06,2020-02-12,2019-12
+d2c60b3d04fe36880572c30a71ee4390,Red,5.8,route,Routes Left of Auto Belay,wall-auto-belay,392.5,3.67,2019-12-04,2020-02-12,2019-12
+a92505da49c811edda38aae163d1785c,Red,V6,boulder,Bouldering 3D,wall-boulders,359.0,4.0,2019-12-31,2020-02-11,2019-12
+49753649c8884d1b9c0d299b60663d35,Pink,5.12b,route,Routes Left of Auto Belay,wall-auto-belay,480.4,,2019-12-11,2020-02-26,2019-12
+e8863663cbbc56fc1858bb5148c72b8a,White,5.9,route,Routes Yellow Wall,wall-back-wall,1386.5,3.25,2019-12-16,2020-02-23,2019-12
+838d3b611a2f63eb191de9b03eb190b4,Black,5.11c,route,Routes Island High Bay Left,wall-island,420.7,3.5,2019-12-19,2020-02-05,2019-12
+c0d8af33c9070f010f4970354c4319ca,Tan,5.8,route,Routes Island High Bay Left,wall-island,421.6,4.14,2019-12-19,2020-02-05,2019-12
+d34053d248d516ec05bf3eae3b2641a0,White,5.11b,route,Routes Yellow Wall,wall-back-wall,1309.3,4.0,2019-12-10,2020-02-22,2019-12
+243a18cc8cce220c7c763ae2aa414db9,Yellow,V4,boulder,Bouldering 3D,wall-boulders,288.8,3.67,2019-12-31,2020-02-11,2019-12
+bcccb3724931ed2a1ce61a3e620ff0ee,Yellow,5.9,route,Routes Island High Bay Left,wall-island,365.2,3.6,2019-12-19,2020-02-06,2019-12
+d492409ecb9fa81dd19ef97a857ecb4d,Black,V2,boulder,Bouldering 45,wall-boulders,793.8,3.79,2019-12-26,2020-02-04,2019-12
+9e386b2ded9a16115e969789bd0aa65b,Pink,V3,boulder,Bouldering 45,wall-boulders,793.8,3.87,2019-12-26,2020-02-04,2019-12
+fb90f4ecfc9545543bdcccbe472a17bd,Lime Green,5.13b,route,Routes Island High Bay Left,wall-island,364.3,4.14,2019-12-19,2020-02-06,2019-12
+590775c1fdd11c0e3e27cc1fa5b9cddd,Black,5.10c,route,Routes Yellow Wall,wall-back-wall,1199.9,4.2,2019-12-05,2020-02-18,2019-12
+50d3f73ac75c32cf59a694d6cf92b914,Lime Green,V0,boulder,Bouldering 45,wall-boulders,793.8,3.44,2019-12-26,2020-02-04,2019-12
+d75ced062a2fca4781e398011cc289ea,Black,V3,boulder,Bouldering 45,wall-boulders,793.8,3.79,2019-12-26,2020-02-04,2019-12
+46915448cdb1c9ce5516a53f9dd43790,Yellow,V4,boulder,Bouldering 45,wall-boulders,793.8,4.08,2019-12-26,2020-02-04,2019-12
+1ee55e57deb4ec3219c7052e7ae0ebc6,Pink,5.9,route,Routes Auto Belays,wall-auto-belay,342.5,3.0,2019-12-03,2020-02-06,2019-12
+5ca509e894017a9bda24b71225ac3870,Lime Green,V4,boulder,Bouldering 3D,wall-boulders,359.0,4.08,2019-12-31,2020-02-11,2019-12
+ada257cf5ab65b055c42c189c207083a,White,V8,boulder,Bouldering 45,wall-boulders,793.8,4.0,2019-12-26,2020-02-04,2019-12
+9e4bd776ec6a756903d0f49f1f63e0e3,Yellow,V6,boulder,Bouldering 45,wall-boulders,667.3,4.06,2019-12-26,2020-02-04,2019-12
+943482b7603366bef17bbd12ebb4d4ad,White,V5,boulder,Bouldering 3D,wall-boulders,359.0,3.4,2019-12-31,2020-02-11,2019-12
+105874e1807ae047718a577a6e22f49e,Lime Green,V8,boulder,Bouldering 3D,wall-boulders,288.8,4.33,2019-12-31,2020-02-11,2019-12
+35f5d8d239fd760596d702b7eee7ede9,Lime Green,V0,boulder,Bouldering Slab,wall-slab,192.9,3.5,2019-12-04,2020-01-14,2019-12
+c20018aeeef291af5e4fd6e5a4006c5d,Red,V0,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.4,2019-12-18,2020-01-28,2019-12
+9f5df0d2145f0513d2c2ac4cad343cac,White,V1,boulder,Bouldering Slab,wall-slab,48.7,3.33,2019-12-04,2020-01-14,2019-12
+5031f54a3295a6c94ae1d07eaf162387,Blue,V1,boulder,Bouldering Slab,wall-slab,48.7,3.53,2019-12-04,2020-01-14,2019-12
+93e087fbdcd36676c5dad37ee2dc1db0,Black,V1,boulder,Bouldering Prow,wall-boulders,161.2,3.69,2019-12-11,2020-01-21,2019-12
+a88e77ab84990e9bbe2deddd32b22a60,Tan,V1,boulder,Bouldering Prow,wall-boulders,87.1,3.33,2019-12-11,2020-01-21,2019-12
+c237c8b33a0918328e89b5c1cb0d25ca,Pink,V2,boulder,Bouldering Slab,wall-slab,192.9,3.4,2019-12-04,2020-01-14,2019-12
+319eae50a8dddb10249400cfb62f89fb,Pink,V6,boulder,Bouldering 45,wall-boulders,667.3,4.0,2019-12-26,2020-02-04,2019-12
+5e83f865fc7edcb671a0fc6f243fa1cb,White,V4,boulder,Bouldering 45,wall-boulders,736.4,3.87,2019-12-26,2020-02-04,2019-12
+91b9100d5c8424302c0c5876f4c47c86,Blue,V5,boulder,Bouldering 45,wall-boulders,793.8,4.14,2019-12-26,2020-02-04,2019-12
+2a760eabea811f225fd8dd5a11b286d5,Black,V5,boulder,Bouldering 3D,wall-boulders,288.8,3.9,2019-12-31,2020-02-11,2019-12
+8bdefa7628eb49c3b236683efe8f9efc,Blue,V7,boulder,Bouldering 45,wall-boulders,793.8,4.7,2019-12-26,2020-02-04,2019-12
+435ad73bdc528fb670d9d18344c5f49e,Purple,5.10b,route,Routes Left of Auto Belay,wall-auto-belay,391.8,3.0,2019-12-04,2020-02-12,2019-12
+7a493b5c797ed3e6b2ea8c599654fa6b,White,5.9,route,Routes Main High Bay,wall-back-wall,191.4,4.0,2019-12-02,2020-01-29,2019-12
+d1844ed942e833379c235383892197b7,Blue,5.10b,route,Routes Island High Bay Left,wall-island,395.6,3.6,2019-12-19,2020-02-05,2019-12
+4671590e5a4096be591bb0a452f8b1f9,Pink,5.10c,route,Routes Yellow Wall,wall-back-wall,1376.2,3.88,2019-12-10,2020-02-23,2019-12
+b5e765de3907c58655e89ccd48907e63,Blue,5.11c,route,Routes Yellow Wall,wall-back-wall,1354.3,4.33,2019-12-10,2020-02-23,2019-12
+882852d17474c31560a1a1ae0cebf152,Lime Green,5.11d,route,Routes Auto Belays,wall-auto-belay,341.8,4.67,2019-12-03,2020-02-06,2019-12
+315b4d0b36d1a7e3b8cc920bc1161eda,Tan,V2,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,3.69,2019-12-18,2020-01-28,2019-12
+6ae9c1d096be2c74317f792525022d88,Black,V3,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,3.79,2019-12-18,2020-01-28,2019-12
+50048da5b9c46c6bf942ed2982c416c5,Lime Green,V4,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,4.0,2019-12-18,2020-01-28,2019-12
+d7578e648a3dc4c56fe73584f3e8f38d,White,V3,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,3.64,2019-12-18,2020-01-28,2019-12
+560252b1da863a3c41bfc39f3ac8117f,Pink,V1,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.45,2019-12-18,2020-01-28,2019-12
+7ce3756a52d9d7f61a09d02f0f4712dd,Blue,V5,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.0,2019-12-18,2020-01-28,2019-12
+db6502d951e7ec0a6334153d76ec91a6,Yellow,V2,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.92,2019-12-18,2020-01-28,2019-12
+c5b5d8e3f08d93cef18184d436a4334f,Yellow,5.10a,route,Routes Main High Bay,wall-back-wall,243.4,3.33,2019-12-03,2019-12-18,2019-12
+6002b5dece6e5b85800c5021dd77c2bc,White,V5,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.82,2019-12-18,2020-01-28,2019-12
+c7e889eff9e13543e345f50c92f56125,Pink,V2,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.67,2019-12-18,2020-01-28,2019-12
+f4d2ce6fb74a8fb028eb394669f4b31a,Black,V4,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.91,2019-12-18,2020-01-28,2019-12
+ac6a3032b6c322568c29794a77ee2a5e,Purple,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.08,2019-12-18,2020-01-28,2019-12
+020af7535b31bf78705a778ea771ec65,Tan,V6,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.82,2019-12-18,2020-01-28,2019-12
+528c6171f0dd6eee7da2afdba58f647f,Yellow,V6,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,4.29,2019-12-18,2020-01-28,2019-12
+b2766d6d85ec94d5a7f136b5a33f8437,Purple,5.10c,route,Routes Main High Bay,wall-back-wall,190.5,3.57,2019-12-02,2020-01-29,2019-12
+4fbea74535f1883298a376fc3bf08186,Yellow,5.6,route,Routes Auto Belays,wall-auto-belay,343.2,3.5,2019-12-03,2020-02-06,2019-12
+7ec3615f2edc759f5d0ecd2e29684034,Tan,V5,boulder,Bouldering 45,wall-boulders,793.8,4.33,2019-12-26,2020-02-04,2019-12
+3dfd9293f5e07997360aa49199eb9fc5,Blue,V9,boulder,Bouldering 45,wall-boulders,667.3,4.0,2019-12-26,2020-02-04,2019-12
+dbf3daa80a167ceaca6106048cd6d29f,Purple,V8,boulder,Bouldering 3D,wall-boulders,359.0,4.6,2019-12-31,2020-02-11,2019-12
+f90381b34d3e71de891729d652e1b72a,Blue,V1,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.71,2019-12-18,2020-01-28,2019-12
+7078343e54d721be9095c59950f8375b,Lime Green,V0,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,3.43,2019-12-18,2020-01-28,2019-12
+7428c095488c5c2049c3d15aaef5287e,Red,5.11d,route,Routes Yellow Wall,wall-back-wall,1250.3,4.33,2019-12-06,2020-02-19,2019-12
+c05a5085fa668b15dcbf182e316c6dc6,Red,5.11b,route,Routes Island Low Bay Right,wall-island,340.1,3.5,2019-12-16,2020-01-27,2019-12
+45ed740a750e9814ef96d0820fb53cd7,Red,5.11d,route,Routes Main High Bay,wall-back-wall,221.1,3.44,2019-12-03,2020-01-29,2019-12
+c901471be8bdfc5769b258b4d0ec4ac4,Yellow,5.10c,route,Routes Left of Auto Belay,wall-auto-belay,418.8,3.5,2019-12-10,,2019-12
+1b115f2e068d9c63d02b69771ff73bf8,Yellow,5.11a,route,Routes Island Low Bay Left,wall-island,245.4,,2019-12-13,2020-01-23,2019-12
+3ed0ae04a66c4acca1c24ef79d6fe8bb,Black,5.11b,route,Routes Island Low Bay Right,wall-island,315.4,4.33,2019-12-12,2020-01-26,2019-12
+428253bd27532e84048ecadddb77a827,Tan,5.10a,route,Routes Island Low Bay Left,wall-island,266.2,4.25,2019-12-13,2020-01-23,2019-12
+597e4735de565b913fb00e687a1c97bf,Black,5.12b,route,Routes Yellow Wall,wall-back-wall,1386.5,4.0,2019-12-16,2020-02-23,2019-12
+9c451585bd450d279cd57b4ec660b54e,Purple,5.10c,route,Routes Island Low Bay Right,wall-island,300.0,4.0,2019-12-12,2020-01-17,2019-12
+f7a30ea36e91982318691d91bc435fd9,Black,5.10b,route,Routes Island Low Bay Left,wall-island,246.0,4.8,2019-12-13,2020-01-23,2019-12
+e6f94a300c4b2724e4b10edded9d8863,Pink,V9,boulder,Bouldering 45,wall-boulders,793.8,4.33,2019-12-26,2020-02-04,2019-12
+464cd28ae6650e984371700506125a9c,Yellow,V7,boulder,Bouldering Prow,wall-boulders,222.0,4.5,2019-12-11,2020-01-21,2019-12
+547b1ba1db6487d7f23a63595a239dab,Lime Green,V9,boulder,Bouldering Prow,wall-boulders,222.0,5.0,2019-12-11,2020-01-21,2019-12
+f3f45fc87c0d9f759567c041355c446e,Blue,V4,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,3.89,2019-12-18,2020-01-28,2019-12
+4ff6ec0d33533ada5693f07768023250,Red,V7,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,4.0,2019-12-18,2020-01-28,2019-12
+19740f67d9cffe71e02a1ea4ca05dc21,Tan,5.10d,route,Routes Island Low Bay Right,wall-island,327.5,3.67,2019-12-16,2020-01-26,2019-12
+ccb8196b71fbf285d879259aaa7e4044,Yellow,V6,boulder,Bouldering 3D,wall-boulders,359.0,4.14,2019-12-31,2020-02-11,2019-12
+c9ec4e8145625f033e34a7ca53a7714e,White,V7,boulder,Bouldering 3D,wall-boulders,359.0,4.67,2019-12-31,2020-02-11,2019-12
+6963326fc0f0f5274bcb2c6417e05655,Lime Green,5.7,route,Routes Left of Auto Belay,wall-auto-belay,418.1,3.67,2019-12-10,,2019-12
+15bb7d8da95e7f021d3250011d67a5d5,Pink,V5,boulder,Bouldering Prow,wall-boulders,222.0,4.3,2019-12-11,2020-01-21,2019-12
+388a5dc472622eebf5623b1adb1212cc,Lime Green,5.12c,route,Routes Yellow Wall,wall-back-wall,1274.8,5.0,2019-12-12,2020-02-20,2019-12
+40a1f1e47bc1160924f8d9cd8739d0e9,White,5.12c,route,Routes Yellow Wall,wall-back-wall,1227.9,5.0,2019-12-05,2020-02-17,2019-12
+86a2fecada39373e8195c5b574d64218,Yellow,5.11d,route,Routes Orange Wall,wall-back-wall,830.9,3.5,2019-12-21,2020-03-11,2019-12
+263a7947e87b313a28fed0a79d0fe1c3,Yellow,V10,boulder,Bouldering 3D,wall-boulders,288.8,4.0,2019-12-31,2020-02-11,2019-12
+5f44848b1bb9c7175f156070cf622c2d,Black,V1,boulder,Bouldering 45,wall-boulders,667.3,3.89,2019-12-26,2020-02-04,2019-12
+129293a9282b4c241f2b6926eca02ed9,White,V0,boulder,Bouldering Prow,wall-boulders,87.1,3.62,2019-12-11,2020-01-21,2019-12
+e7e9aabd942ff15bdbc90d9b468ecb1c,Blue,V2,boulder,Bouldering Prow,wall-boulders,222.0,3.58,2019-12-11,2020-01-21,2019-12
+7c953e25110579273d27420cdda7153d,Lime Green,V6,boulder,Bouldering Prow,wall-boulders,161.2,4.33,2019-12-11,2020-01-21,2019-12
+9839457d366ef0cf6a2349dffa243b91,Blue Left,V5,boulder,Bouldering Prow,wall-boulders,87.1,4.0,2019-12-11,2020-01-21,2019-12
+b5eade09f4e03004dd6d2556256d5cb8,Blue Right,V6,boulder,Bouldering Prow,wall-boulders,87.1,4.4,2019-12-11,2020-01-21,2019-12
+be26c21eab86c99520dd919f6ac136d0,Red,5.9,route,Routes Island Low Bay Right,wall-island,280.2,4.0,2019-12-13,2020-01-23,2019-12
+68ff16d237e8234d53538f38809448fd,Red,V2,boulder,Bouldering 45,wall-boulders,736.4,3.75,2019-12-26,2020-02-04,2019-12
+774bad64cf7f6eb3ceb940747aafcdbd,White,V6,boulder,Bouldering Prow,wall-boulders,222.0,4.5,2019-12-11,2020-01-21,2019-12
+9e3cc0d8285c5ef2981cfd78be1871d5,White,5.10a,route,Routes Island Low Bay Right,wall-island,353.3,4.2,2019-12-16,2020-01-27,2019-12
+9131449216f029f778a1f1cf69986415,Black,V9,boulder,Bouldering 3D,wall-boulders,359.0,4.0,2019-12-31,2020-02-11,2019-12
+4b6c920c2105c0133a2b1c22dea838c2,Blue,V7,boulder,Bouldering 3D,wall-boulders,288.8,4.6,2019-12-31,2020-02-11,2019-12
+b38ff54cb16c58a24d0e3907ca92dcce,Blue,V6,boulder,Bouldering 3D,wall-boulders,359.0,4.0,2019-12-31,2020-02-11,2019-12
+c99b421e45cc458d301f896aa100a50b,White,V2,boulder,Bouldering Prow,wall-boulders,161.2,3.33,2019-12-11,2020-01-21,2019-12
+f1e21045d4d19ba580260aebf453b360,Blue,V4,boulder,Bouldering Prow,wall-boulders,161.2,4.25,2019-12-11,2020-01-21,2019-12
+d54ed3fe98d15b9c5e4c88e7a9bf5aa5,Tan,V5,boulder,Bouldering Prow,wall-boulders,161.2,4.22,2019-12-11,2020-01-21,2019-12
+d14555e06b6874625004ef29e665fe36,Pink,5.12b,route,Routes Island High Bay Left,wall-island,394.7,4.67,2019-12-19,2020-02-05,2019-12
+8aaa3a4f74a032d8936f77e684dfdf03,White,V0,boulder,Bouldering Slab,wall-slab,118.8,3.27,2019-12-04,2020-01-14,2019-12
+0634754e4370d35be16579c5dd3d6d8b,Pink,V5,boulder,Bouldering Prow,wall-boulders,161.2,4.09,2019-12-11,2020-01-21,2019-12
+2b4ccb94beadeae7213d80a717e9ff04,Black,V4,boulder,Bouldering Prow,wall-boulders,87.1,4.14,2019-12-11,2020-01-21,2019-12
+5418b443decfa488b6d0ec795ccc04f3,Black,V8,boulder,Bouldering 45,wall-boulders,736.4,3.0,2019-12-26,2020-02-04,2019-12
+5dbf68c9bcf3197285d9b0d7798340f6,Purple,5.12a,route,Routes Island Low Bay Right,wall-island,353.7,4.0,2019-12-16,2020-01-27,2019-12
+0c2945cdc4bf070b0f9ea2e732f520ab,Blue,5.10d,route,Routes Island Low Bay Left,wall-island,266.9,5.0,2019-12-13,2020-01-23,2019-12
+d61a027ebb96c24dba737439c58fc46e,Yellow,5.8,route,Routes Island Low Bay Right,wall-island,340.5,4.0,2019-12-16,2020-01-27,2019-12
+901d67b6b36adcb6d0f36042932b5546,Blue,5.7,route,Routes Island Low Bay Right,wall-island,327.1,4.0,2019-12-16,2020-01-26,2019-12
+eb59ff8b1376a15ff5eb04c011c27bfb,Yellow,V4,boulder,Bouldering Slab,wall-slab,48.7,3.8,2019-12-04,2020-01-14,2019-12
+e20c8b62a86a5dd47d06205a0130786d,Black,5.11c,route,Routes Main High Bay,wall-back-wall,243.6,3.4,2019-12-03,2019-12-18,2019-12
+42469c5d45475ebebb368c5618ec9658,Yellow,V2,boulder,Bouldering Prow,wall-boulders,87.1,4.0,2019-12-11,2020-01-21,2019-12
+72238918b99ecd2939d8f5ff2ab979b7,Black,V3,boulder,Bouldering Prow,wall-boulders,87.1,3.9,2019-12-11,2020-01-21,2019-12
+249c531dcbbf175dade9a0fda91957d3,Lime Green,V2,boulder,Bouldering Slab,wall-slab,48.7,3.69,2019-12-04,2020-01-14,2019-12
+5fa1da17f1f3276f179696f7b03a11cb,Pink,5.9,route,Routes Island Low Bay Right,wall-island,315.9,3.0,2019-12-12,2020-01-26,2019-12
+2ee9555b0b495972dda36ec998d344da,Pink,V6,boulder,Bouldering Slab,wall-slab,118.8,3.8,2019-12-04,2020-01-14,2019-12
+b388c3114171dc2c4678c47a7bad4b89,Red,V4,boulder,Bouldering Prow,wall-boulders,87.1,4.75,2019-12-11,2020-01-21,2019-12
+51f06fe096964f123cd431c6cdac1510,Yellow,V7,boulder,Bouldering Slab,wall-slab,192.9,3.75,2019-12-04,2020-01-14,2019-12
+5b756a1dc2b22399005f7b89240e9357,Blue,V8,boulder,Bouldering Slab,wall-slab,118.8,3.67,2019-12-04,2020-01-14,2019-12
+da1f659f1ad5418441b3d13f77153cbd,Black,V6,boulder,Bouldering Slab,wall-slab,48.7,4.33,2019-12-04,2020-01-14,2019-12
+27f6cc1905e4f599e8a0b74b8554335a,Red,V6,boulder,Bouldering Slab,wall-slab,48.7,3.86,2019-12-04,2020-01-14,2019-12
+81e52c00ba9ce5a04927abbdd265d724,Lime Green,V5,boulder,Bouldering Slab,wall-slab,118.8,4.4,2019-12-04,2020-01-14,2019-12
+0ea893cad144964e48f0187fd25eee86,Tan,V7,boulder,Bouldering Slab,wall-slab,118.8,3.29,2019-12-04,2020-01-14,2019-12
+9c7aaca66e082d2b60cdd76714a581c7,Red,V8,boulder,Bouldering Prow,wall-boulders,161.2,4.5,2019-12-11,2020-01-21,2019-12
+592e77f55ab88d07a606c707fff15889,Red,V6,boulder,Bouldering 45,wall-boulders,793.8,4.5,2019-12-26,2020-02-04,2019-12
+66534e523878ae755a0834bbda01aebb,Black,V5,boulder,Bouldering Slab,wall-slab,192.9,4.2,2019-12-04,2020-01-14,2019-12
+52db780f4058ecbc2c61123936403ac1,Red,V5,boulder,Bouldering Slab,wall-slab,118.8,3.79,2019-12-04,2020-01-14,2019-12
+50f9d2f023fd93ea7d465363960c0248,Black low,V10,boulder,Bouldering 45,wall-boulders,736.4,4.0,2019-12-26,2020-02-04,2019-12
+344a0a7e2917986e22bb75ed914d0709,Tan,V7,boulder,Bouldering 45,wall-boulders,667.3,4.0,2019-12-26,2020-02-04,2019-12
+100820906595747c0b61f003b8f040ac,Lime Green,V8,boulder,Bouldering 45,wall-boulders,736.4,3.0,2019-12-26,2020-02-04,2019-12
+f8471788822aee2cbc217073ef6ac350,Red,V3,boulder,Bouldering Slab,wall-slab,192.9,3.59,2019-12-04,2020-01-14,2019-12
+a94cc983f866c08aa4f2e4f6a6de336a,Yellow,V4,boulder,Bouldering Slab,wall-slab,118.8,3.29,2019-12-04,2020-01-14,2019-12
+9b71b0b23b89df1d775d286c5a39fa63,Black,V3,boulder,Bouldering Slab,wall-slab,118.8,3.5,2019-12-04,2020-01-14,2019-12
+7deb2e19b6fb227d80ef431e88fa0089,Tan,V3,boulder,Bouldering Slab,wall-slab,48.7,3.8,2019-12-04,2020-01-14,2019-12
+1702cbdeadc78c16d5d392f857f6a828,Tan,5.12d,route,Routes Main High Bay,wall-back-wall,221.9,4.67,2019-12-03,2020-01-29,2019-12
+2fc4ad21640d83694eeb4cbe0c1e0ec9,Blue,5.11c,route,Routes Left of Auto Belay,wall-auto-belay,453.6,4.5,2019-12-11,2020-02-22,2019-12
+9fcd016cd60f0870b64bc7139c65a310,Yellow,V8,boulder,Bouldering Prow,wall-boulders,161.2,5.0,2019-12-11,2020-01-21,2019-12
+e7e721d3895620688dca0fe7af1adb3f,Black,V9,boulder,Bouldering Prow,wall-boulders,222.0,4.5,2019-12-11,2020-01-21,2019-12
+1794b9b2089ad872d36d01422ae398cb,Blue,V8,boulder,Bouldering Slab,wall-slab,192.9,5.0,2019-12-04,2020-01-14,2019-12
+c87f4ccaa8a1205d388a6ac4aa421392,White,5.12a,route,Routes Island Low Bay Right,wall-island,280.7,2.0,2019-12-13,2020-01-23,2019-12
+adcf8b0aeaabc5f67da7a32e0385a5cb,Lime Green,5.5,route,Routes Yellow Wall,wall-back-wall,1433.3,3.0,2019-12-03,2019-12-19,2019-12

@@ -1,0 +1,5 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-01-15,Yellow,V2,654b34556c11f875d455d2940dd10c7a,3.0,Flash,wall-slab,118.8,
+2019-01-15,Red,V1,9dcc0537dda258efd469981adb6b4e34,3.0,Flash,wall-slab,48.7,
+2019-01-15,Black,V3,82c709dcc2a7d90fdb7fa51200be5274,3.0,Red Point,wall-slab,118.8,
+2019-01-15,Blue,V3,6a2f08d3f5bc19acf65fd0456eeefe75,3.0,Attempt,wall-slab,192.9,

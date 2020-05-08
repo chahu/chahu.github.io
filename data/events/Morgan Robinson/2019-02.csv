@@ -1,0 +1,5 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-02-04,White,V2,ca89975a2b9ac251494527393be00259,5.0,Red Point,wall-mezzanine,39.7,
+2019-02-04,Lime Green,V0,d507658c7872a92c58965c7603b9e061,5.0,Red Point,wall-mezzanine,39.7,
+2019-02-04,Lime Green,5.7,cffcf511f698da73bc005a0c57a5df9a,5.0,Onsight,wall-auto-belay,304.0,
+2019-02-04,Grey,5.9,4f612997dbffa0e1282d0a4efae3e07f,5.0,Onsight,wall-auto-belay,172.4,

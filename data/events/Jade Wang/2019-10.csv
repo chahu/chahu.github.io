@@ -1,0 +1,21 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-10-30,White,5.10a,d8be3ac6dad1de62cea72c475e6ecd17,3.0,Attempt,wall-island,300.0,
+2019-10-30,Red,5.10a,93f15416d3b0c8afabaa2f3e4849175d,3.0,Onsight,wall-red,132.5,
+2019-10-24,White,V0,618463d442beee480595a1b1b7ce92d9,4.0,Flash,wall-boulders,793.8,
+2019-10-24,Tan,5.8,b450e0f6a18d72fff49f977b8c25ff2e,3.0,Onsight,wall-back-wall,1386.5,
+2019-10-24,Tan,5.9,768c0524daf4f65e02b635909c4a6614,3.0,Onsight,wall-back-wall,870.9,
+2019-10-24,Tan,V1,11989873e17619fe5343a1ba64b7f9fa,4.0,Flash,wall-slab,192.9,
+2019-10-22,Black,5.10b,ce4e820cbe72f972c9e83f944cb90185,,Attempt,wall-island,245.4,
+2019-10-18,Tan,5.8,b2d7ab84bfd281be83406c112610cb84,4.0,Onsight,wall-red,80.7,fun easy corner
+2019-10-18,Pink,5.10a,d8f8912fe9993c81219af138f3e08424,5.0,Flash,wall-red,79.7,
+2019-10-18,Tan,5.9,efaa707c414dd1c3f40d909d7dfa58e7,4.0,Flash,wall-red,197.6,
+2019-10-18,Pink,5.9,25a5672fc602eb33abd921f4e640b31d,5.0,Onsight,wall-island,315.4,
+2019-10-17,Blue,5.8,5394625c57f7f47c048534a941258c7c,4.0,Onsight,wall-back-wall,829.3,
+2019-10-17,White,5.7,12ae33ceeeec4b771d7cfa5aa0f9801a,2.0,Onsight,wall-back-wall,921.4,
+2019-10-17,Lime Green,5.9,997e0a77061d3131779265e9607521ad,4.0,Onsight,wall-back-wall,1121.9,pretty easy
+2019-10-17,White,5.9,c31e82c4ef05972e925a17bd02a5f194,4.0,Onsight,wall-back-wall,1353.6,Really makes you work out
+2019-10-17,Blue,5.8,2baf6e03ec443a8bcf7b5fbb6d33964d,,Attempt,wall-back-wall,1376.9,
+2019-10-15,Red,5.10a,880c30690bbd7ef907b9378d023853cc,4.0,Attempt,wall-auto-belay,480.4,
+2019-10-15,Blue,5.10c,fba8679804be2ecee0083151d554e040,5.0,Red Point,wall-auto-belay,453.6,
+2019-10-10,Yellow,5.7,4239daf51d5cbe1b5dd018b48ee2b60b,3.0,Onsight,wall-back-wall,741.6,
+2019-10-08,Yellow,5.9,98a22f48e64fdf61137625009136b46c,4.0,Flash,wall-auto-belay,498.5,

@@ -1,0 +1,18 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-09-29,Pink,5.9,46652da875e8ba7f414eca77d0bb2879,3.0,Attempt,wall-red,51.5,clipping practice
+2019-09-29,Yellow,5.8,ca15da18f77074622357020c9250082c,3.0,Attempt,wall-red,24.0,clipping practice
+2019-09-29,Yellow,5.8,08f88f762a5f29ceb299dffc528a3f9d,3.0,Onsight,wall-back-wall,1097.8,clipping practice
+2019-09-29,Yellow,5.7,6a417a3eccfdca67b174b217861857a8,4.0,Flash,wall-back-wall,1140.9,clipping practice
+2019-09-29,Red,5.7,573db842ef8d79e37faa9ff4efb94d3f,4.0,Onsight,wall-back-wall,1409.3,clipping practice
+2019-09-29,Yellow,5.10b,e8a720f258e67c3da3c0d6a1f41b3708,3.0,Top Rope,wall-red,132.5,
+2019-09-28,White,5.10a,e8fa1a61906fe0c1d326ab7caf618cf6,3.0,Top Rope,wall-red,111.1,
+2019-09-28,Red,5.10a,9e4c9dba0cc60c159e2dc23999554445,3.0,Top Rope,wall-island,75.0,
+2019-09-28,Lime Green,5.9,5d63de3f8bf044fe156c65b054a7431e,3.0,Top Rope,wall-back-wall,1044.1,
+2019-09-28,Tan,5.9,48bc2aacec1e13bac1f9d3516f1a7ec9,4.0,Top Rope,wall-island,92.7,
+2019-09-28,Purple,5.10a,7f135225cc552b5d16186c26b255abf8,3.0,Top Rope,wall-back-wall,1386.5,
+2019-09-21,White,5.10a,e8fa1a61906fe0c1d326ab7caf618cf6,3.0,Top Rope,wall-red,111.1,
+2019-09-21,Tan,5.10a,5bd6e9554e6a09739705642dc8181e4d,3.0,Top Rope,wall-back-wall,1120.9,
+2019-09-21,Lime Green,5.10b,4488bd951ec6bce9895b2d05750602e1,5.0,Top Rope,wall-red,263.2,
+2019-09-14,Tan,5.10a,5bd6e9554e6a09739705642dc8181e4d,3.0,Top Rope,wall-back-wall,1120.9,
+2019-09-14,Red,5.10a,9e4c9dba0cc60c159e2dc23999554445,4.0,Top Rope,wall-island,75.0,
+2019-09-14,Black,5.10a,29643ef349ab230292c70b59314bbb03,4.0,Top Rope,wall-island,141.6,

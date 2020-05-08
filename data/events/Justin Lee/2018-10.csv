@@ -1,0 +1,6 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2018-10-11,Black Right,V3,fe172359c5ecfac3f1a2089f98e84878,3.0,Red Point,wall-mezzanine,114.6,
+2018-10-09,Yellow Right,V2,842795bc70c90877eb7b7d697047ac00,3.0,Red Point,wall-slab,192.9,
+2018-10-09,Lime Green Left,V1,284f324d139522ca7bdb2cf2f07bc0d9,3.0,Flash,wall-slab,118.8,
+2018-10-09,Lime Green,V0,0c176e71c45fa4c91b75add5121f181b,3.0,Flash,wall-slab,192.9,
+2018-10-09,Blue,V1,ef689aaea940064be8cc2262c834ead5,3.0,Flash,wall-slab,192.9,

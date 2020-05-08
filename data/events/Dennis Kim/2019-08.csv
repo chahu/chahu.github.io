@@ -1,0 +1,23 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-08-29,Red,5.10a,9c3f303b496709bbe9bd54ee4fdbd4fd,3.0,Onsight,wall-island,395.6,
+2019-08-29,Red,5.11b,86830592b11a1b3b4f75ebed1ef2f263,4.0,Attempt,wall-back-wall,1199.9,
+2019-08-29,Lime Green,5.10b,4488bd951ec6bce9895b2d05750602e1,4.0,Onsight,wall-red,263.2,
+2019-08-29,White,5.11a,4ffec08fc77dfe65808fbf1d39b0b1ba,5.0,Attempt,wall-island,76.0,
+2019-08-29,Red,5.9,b11aa27aae898c8e7da38b7dfc5f35a8,3.0,Onsight,wall-back-wall,165.3,
+2019-08-29,Black,5.10d,96722ec5a6af4b7ab12468b453c4ea09,3.0,Onsight,wall-back-wall,190.5,
+2019-08-16,Pink,5.11b,d5b451326b50297add8966e21258f271,3.0,Red Point,wall-back-wall,1200.6,
+2019-08-16,Pink,5.10b,4e5abaa94c4b0f4d233c781b96113ba4,3.0,Onsight,wall-back-wall,871.9,
+2019-08-16,Black,5.11a,9c22317d13cf3b07772f7afff2b894ee,3.0,Red Point,wall-island,353.7,
+2019-08-16,Tan,5.9,f88af856ab2cbc459e57d95b26e7e4d2,3.0,Onsight,wall-island,364.3,
+2019-08-16,Lime Green,5.9,68f984b8c936a3653473c7f6cf9636b7,3.0,Red Point,wall-back-wall,86.3,climbed easier 5.11a
+2019-08-16,Purple,5.10c,b1aefff0a92480d7f980b36c205c56d6,3.0,Red Point,wall-back-wall,37.7,5.11b tough sharkfin hold before finger pockets
+2019-08-16,Pink,5.11d,c4c61dac2f994f694391af970bb51085,3.0,Red Point,wall-back-wall,243.4,
+2019-08-16,Red,5.11a,d83231d0d24b56d9433c7a837778bc4c,3.0,Onsight,wall-auto-belay,390.5,
+2019-08-04,Purple,5.10a,cefb9d343aa2e1ccad08ee189fb42fca,3.0,Onsight,wall-back-wall,968.7,
+2019-08-04,Purple,5.10c,35d6842afe37e98522fc771e02ae6559,3.0,Attempt,wall-back-wall,251.9,
+2019-08-04,Purple,5.10c,35d6842afe37e98522fc771e02ae6559,3.0,Attempt,wall-back-wall,251.9,
+2019-08-04,Purple,5.10c,35d6842afe37e98522fc771e02ae6559,3.0,Attempt,wall-back-wall,251.9,
+2019-08-04,Yellow,5.10c,74b2961a251ccacd600fcedfae19a33d,3.0,Attempt,wall-back-wall,69.3,
+2019-08-04,Pink,5.11a,588e8882dc4f31b63da710a5779534e6,3.0,Attempt,wall-island,266.2,
+2019-08-04,Blue,5.9,90aa23562cd1f9327d6fede78e6a38e5,3.0,Onsight,wall-back-wall,221.9,
+2019-08-04,Purple,5.10c,35d6842afe37e98522fc771e02ae6559,3.0,Red Point,wall-back-wall,251.9,

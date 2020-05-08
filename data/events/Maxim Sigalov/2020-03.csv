@@ -1,0 +1,77 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-03-28,Purple,5.11d,fc0e1679483f63110e787d1e1d2561dd,5.0,Top Rope,wall-back-wall,1309.3,
+2020-03-28,Red,5.10d,0022740f8e09c8b8ac2639e7afdf7356,3.0,Top Rope,wall-red,262.5,
+2020-03-28,Pink,5.11d,a42b685ad4a17bedbffaa772b613a276,2.0,Top Rope,wall-island,43.2,
+2020-03-28,Lime Green,5.6,01172202ae6ebbf7141e7a1663036ef5,,Top Rope,wall-auto-belay,343.2,
+2020-03-28,Yellow,5.6,4bdda810108d228def6941d092a976a5,,Top Rope,wall-auto-belay,251.1,
+2020-03-28,White,5.6,22c9bc57f6c78417bf845cef7f172554,,Top Rope,wall-auto-belay,223.4,
+2020-03-28,Tan,5.7,9ca9a4cbe9b1e566b8259e1f75fba4e7,,Top Rope,wall-auto-belay,304.0,
+2020-03-28,Lime Green,5.7,948216317be0497afa5f43d129131bc2,,Top Rope,wall-auto-belay,198.2,
+2020-03-28,White,5.8,20578afeee6c82179ec1cc8e211d2f00,,Top Rope,wall-auto-belay,342.5,
+2020-03-28,Blue,5.8,32c346b8060d1e7ddc9e7ef8a414dc45,,Top Rope,wall-auto-belay,274.3,
+2020-03-28,Purple,5.8,a5cc5d3c8f73b9e95d040c3a58629ba1,,Top Rope,wall-auto-belay,222.7,
+2020-03-28,White,5.8,7224cb9ec952f72a64bc57ada47a5009,,Top Rope,wall-auto-belay,174.9,
+2020-03-28,Lime Green,5.8,cbc5310c51acead8ca3b9d4d27374afb,,Top Rope,wall-auto-belay,149.5,
+2020-03-28,Tan,5.9,c22a3e51bcb8b43302f70b4247bd4fec,,Top Rope,wall-island,246.0,
+2020-03-28,Lime Green,5.9,8d7b53207cde200fc8b8e23e4db20206,,Top Rope,wall-auto-belay,250.5,
+2020-03-28,Blue,5.9,a34a395e57877a93cf1bc8978f4b8ffd,,Top Rope,wall-auto-belay,197.6,
+2020-03-28,White,5.10a,64d2a541fe0da74096960aa06e2e97c7,,Top Rope,wall-island,444.9,
+2020-03-28,Lime Green,5.10a,e67ae08a57c8347221df02ed2b6cedcd,,Top Rope,wall-island,183.8,
+2020-03-28,Black,5.10a,29643ef349ab230292c70b59314bbb03,,Top Rope,wall-island,141.6,
+2020-03-28,Black,5.10a,b1ba2d4b313e01b10363cb543d2e8ac0,,Top Rope,wall-red,155.6,
+2020-03-28,Pink,5.10a,bba1f5de963b2669beeef4d7ec4f9050,,Top Rope,wall-auto-belay,174.9,ab
+2020-03-28,Pink,5.10a,d8ffb83c6af4967932c015e8c861f6af,,Top Rope,wall-auto-belay,273.7,ab
+2020-03-28,White,5.10b,cc2a326bed6a366fd9a3c510457f5cf3,4.0,Top Rope,wall-back-wall,1292.9,tr
+2020-03-28,White,5.10b,656f936b6a44c3f5732c9bb24588d93a,,Top Rope,wall-red,230.0,tr
+2020-03-28,Black,5.10b,ce4e820cbe72f972c9e83f944cb90185,3.0,Top Rope,wall-island,245.4,TR
+2020-03-28,Red,5.10b,a6e4bb9b78b6b22caa0f813acd3f67b0,,Top Rope,wall-auto-belay,249.8,ab
+2020-03-28,Blue,5.10b,8e3ad08dbd1c267356f3b5c50f3b0d4c,,Top Rope,wall-auto-belay,273.7,ab
+2020-03-28,Black,5.10b,b968ba4430741a72c07510e328ef2d3b,,Top Rope,wall-auto-belay,303.3,ab
+2020-03-28,Yellow,5.10b,1a28f3db96982ffc9d6567216ccef5db,,Top Rope,wall-auto-belay,150.1,ab
+2020-03-28,Pink,5.10c,47b7f4ef476ddb43af4c95925a196659,,Top Rope,wall-back-wall,1250.3,TR
+2020-03-28,Pink,5.10c,d98c6b94886d2dc5c6c2821151a98009,,Top Rope,wall-auto-belay,222.1,ab
+2020-03-28,Yellow,5.10d,a68971cac04ab79698d8d8ad20dce6d4,4.0,Onsight,wall-back-wall,1068.2,
+2020-03-28,Lime Green,5.10b,0372c1baad5fd29262dbbf44b4874086,3.0,Top Rope,wall-back-wall,922.4,tr
+2020-03-28,Pink,5.11a,e2ed53fe43f6ec0463d259516931fd4e,3.0,Top Rope,wall-back-wall,1310.0,TR
+2020-03-28,White,5.11a,4ffec08fc77dfe65808fbf1d39b0b1ba,4.0,Onsight,wall-island,76.0,
+2020-03-28,Tan,5.11a,19c99843b896516f962b1d4f32c026b1,,Top Rope,wall-back-wall,946.0,tr
+2020-03-28,Yellow,5.11a,1f78a63de83a8af1faf4351c0e33950c,,Top Rope,wall-auto-belay,197.6,ab
+2020-03-28,White,5.11a,eab14cfe109b225fdf2df6fbeb7d86de,3.0,Top Rope,wall-island,18.7,TR. pinches galore
+2020-03-28,Tan,5.11b,7f52d2123e95be5e9e7d32b532baa8b1,4.0,Top Rope,wall-red,261.8,TR
+2020-03-28,White,5.11b,90e88e6a6dd99194da8e293b9f9eecfb,3.0,Top Rope,wall-back-wall,967.8,TR
+2020-03-28,Purple,5.11b,ef0b5a4d4eec5c16a3310046d8708ea4,,Top Rope,wall-back-wall,243.9,TR
+2020-03-28,Lime Green,5.11b,ab4b8642a8c1c55fc1e807a0241ad65d,,Top Rope,wall-back-wall,108.7,TR
+2020-03-28,Yellow,5.11b,c0e5221bb959150314e1ee10b47b65e6,3.0,Top Rope,wall-island,18.7,TR
+2020-03-28,Pink,5.11c,6e872e80620e6816d66f3b016cd50e0d,3.0,Top Rope,wall-island,182.8,TR
+2020-03-28,Yellow,5.11c,9c704f8b8b799cc03a2e6c854e39a045,5.0,Top Rope,wall-island,603.0,TR. heel hook city
+2020-03-28,White,5.11c,ad04bd3d41341aba27a71331c7b989b0,,Top Rope,wall-auto-belay,273.1,ab
+2020-03-28,White,5.11b,14c951a746e39eae549c503ed1628721,4.0,Onsight,wall-back-wall,1355.0,slopy
+2020-03-28,Black,5.12b,afe505fb54ccfb3ac3f0be632bda70cf,,Top Rope,wall-auto-belay,174.3,ab
+2020-03-10,Black,V2,5af24fee1e9fa8d40391d7afb8cc0bf2,,Flash,wall-slab,118.8,
+2020-03-10,Blue,V3,b99ce7245c886aeba1e11302348837a0,,Flash,wall-slab,192.9,
+2020-03-10,Yellow,V1,4ffb93c44a7954338fffd567ea72392f,,Flash,wall-slab,192.9,
+2020-03-10,Blue,V0,e4e92e81cf0cd7c419f8ac2de88922f9,,Flash,wall-boulders,87.1,
+2020-03-10,Pink,V5,981998983df75c296c439ead4fdc009c,,Flash,wall-boulders,222.0,
+2020-03-10,Black,V3,a8c39ee50fd9eaae893081ee260526de,,Flash,wall-boulders,222.0,
+2020-03-10,Lime Green,V1,cc169b12d0a723910aa3f8bf678abe42,,Flash,wall-boulders,288.8,
+2020-03-10,Black,V2,56a5cd7a8a5217bf028f720dd9e78c99,,Flash,wall-boulders,288.8,
+2020-03-10,Tan,V4,2bd8718c3164456377f903aabef45f11,,Flash,wall-boulders,359.0,
+2020-03-10,Black,V0,62fc0c73c64e405b472b499578205cb0,,Flash,wall-boulders,359.0,
+2020-03-10,Yellow,V5,a14a0aa581610a754429822b2ed46b87,4.0,Flash,wall-boulders,359.0,
+2020-03-10,Pink,V5,7c5313e733c256c30e86a607e6ef5a68,,Flash,wall-boulders,359.0,
+2020-03-10,Purple,V3,0703ceed94217615839eb5ec976f1643,,Flash,wall-boulders,423.0,
+2020-03-10,Yellow,V4,67b8a959e83191c8f04b2bb8bfd7fa13,3.0,Flash,wall-boulders,505.7,
+2020-03-10,White,V2,ba60033c32d66c09445a41f3da726385,,Flash,wall-boulders,581.0,
+2020-03-10,Pink,V3,80cddf93f90cd364c057590dd7fb7ea4,,Flash,wall-boulders,667.3,
+2020-03-10,White,V4,ada0ad507efa798cac2aeb9156a281d7,,Flash,wall-boulders,667.3,
+2020-03-10,Yellow,V4,5292cff6e8ba2ec9e6ab22a12037a49e,4.0,Flash,wall-boulders,793.8,
+2020-03-10,Black,V0,8da26145647c2f1b1245ccf1393dbe3d,,Flash,wall-boulders,793.8,
+2020-03-10,Lime Green,V3,8244ca179abaf72aeccfd6a70820a693,,Flash,wall-boulders,793.8,
+2020-03-05,Red,5.11a,3e4a5964bf8701e189e2ed365b5943f7,,Onsight,wall-back-wall,1292.9,
+2020-03-05,Black,5.10d,6a7823f03dd10d8a5bf54b1097e203d8,4.0,Onsight,wall-island,75.0,
+2020-03-05,Tan,5.11a,889abb10ab5b39d740d53144e866726b,4.0,Onsight,wall-island,59.4,
+2020-03-05,Blue,5.10b,6c63d07dff924695a16a163ddb4df8e5,,Onsight,wall-island,42.2,
+2020-03-01,White,5.13a,7857e081bae975134554c61d85cbacae,,Attempt,wall-island,422.5,fell on the second-to-last hold
+2020-03-01,Black,5.11b,f190ea691f1b36c48ea0011b175580cc,,Top Rope,wall-back-wall,743.3,TR
+2020-03-01,Yellow,5.11b,86e30b5aef1bf19b3b567b5f9896051f,,Top Rope,wall-back-wall,1229.4,2
+2020-03-01,Pink,5.12c,f3fc7d4051fda800ee0490a827320d3e,4.0,Top Rope,wall-island,603.0,2. nice heels﹐ especially the move over the lip

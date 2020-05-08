@@ -1,0 +1,79 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-08-30,Yellow,5.12a,6d0b3727ec762401e553d12034b68424,3.0,Attempt,wall-back-wall,1376.9,
+2019-08-30,Lime Green,5.11a,2baaac3f76169ec892d56bd91247bbae,3.0,Top Rope,wall-auto-belay,222.1,
+2019-08-30,Purple,5.6,2c0b852cdcf29d3fd69f53dacbe11ce8,3.0,Top Rope,wall-auto-belay,222.7,
+2019-08-30,White,5.10a,26b155e78181af5fffbf2508e6a89d99,3.0,Top Rope,wall-auto-belay,223.4,
+2019-08-30,Red,5.10b,a6e4bb9b78b6b22caa0f813acd3f67b0,3.0,Top Rope,wall-auto-belay,249.8,
+2019-08-30,Black,5.9,017a649006ec2a3b88b0c544b78f3b7e,3.0,Top Rope,wall-auto-belay,250.5,
+2019-08-30,Yellow,5.7,fd4afd200c7ef246e2f3b96af29b19fa,3.0,Top Rope,wall-auto-belay,251.1,
+2019-08-30,Pink,5.11a,299b4b2b28e752f832fd50228af3a9ab,3.0,Top Rope,wall-auto-belay,273.1,
+2019-08-30,Blue,5.10b,8e3ad08dbd1c267356f3b5c50f3b0d4c,3.0,Top Rope,wall-auto-belay,273.7,
+2019-08-30,Tan,5.8,549b35ee9b434e8c0a8950a8eb817d8e,3.0,Top Rope,wall-auto-belay,274.3,
+2019-08-30,Blue,V4,ab16f43a1623edfaed946ff6ecbe5004,3.0,Red Point,wall-slab,48.7,
+2019-08-30,Tan,V3,1d9d0840f2c282dfab7fd12adc752462,3.0,Flash,wall-slab,48.7,
+2019-08-30,Black,V2,86e367997591f0d4741a009e32994b56,3.0,Flash,wall-slab,48.7,
+2019-08-30,Red,V1,16a9517132fea170dec60fed81a55182,3.0,Flash,wall-slab,48.7,
+2019-08-30,Lime Green,V0,a95b543a2a87118f1613f9d1a6405c58,3.0,Flash,wall-slab,48.7,
+2019-08-30,Pink,V4,68cbc88bb87e8ea4847e9035451e84ed,4.0,Flash,wall-slab,118.8,
+2019-08-30,Yellow,V2,c4ba75ef856a13a7268e0cfc53a14a36,4.0,Flash,wall-slab,118.8,
+2019-08-30,Black,V5,80e3645821b08bcf5de64ff8f633a67c,4.0,Red Point,wall-slab,118.8,
+2019-08-30,White,V5,d5e87b9f9ea2fbe4d0c2ccbc25cb36c7,3.0,Flash,wall-slab,118.8,
+2019-08-30,Red,V3,e43b557dd2a9ee8205275eb114001368,3.0,Flash,wall-slab,118.8,
+2019-08-30,Lime Green,V4,92c15a3408bc75be846c70ede690dfc9,3.0,Flash,wall-slab,192.9,
+2019-08-30,Black,V0,7da2163c087b7efec38d3a0cb3c1c92b,3.0,Flash,wall-slab,192.9,
+2019-08-30,Blue,V4,16115e5c09bcba49a9e0b44e3b2d21c7,5.0,Flash,wall-slab,192.9,that jiggly “pebble” reminds me of Baby Hole. nice.
+2019-08-30,Pink,V5,8c240cf8241c21fdfa124acaf4884816,4.0,Red Point,wall-slab,192.9,
+2019-08-30,Yellow,V1,e2caaccc80deddfd3b0086ee36f4546c,3.0,Flash,wall-slab,192.9,
+2019-08-28,Red High Start,V6,a6cb16a04805c97e1ba30e9a722179b3,5.0,Red Point,wall-boulders,505.7,so good.
+2019-08-23,Black,V4,2ac1a4d9550b84b7177b087ea87c7ab6,5.0,Flash,wall-boulders,423.0,
+2019-08-23,Blue,V1,d44bb3bcc87ce3657f0207d47a911bb5,3.0,Flash,wall-boulders,423.0,
+2019-08-23,White,V4,eb66d17374a910a3acc17aa3826755e7,5.0,Flash,wall-boulders,423.0,
+2019-08-23,Red,V5,1c0cac2ec8dad9cc6a609e702cac14e6,5.0,Flash,wall-boulders,423.0,
+2019-08-23,Lime Green,V6,3822ebc9d4ab9ed882adafeb3d3f0314,5.0,Red Point,wall-boulders,423.0,good stuff
+2019-08-23,Pink,V2,427592862c20764c827a3d1e4aa85cdb,3.0,Flash,wall-boulders,423.0,
+2019-08-23,Tan,V6,da0e63e190fffafeff8c4fd9cebf8e25,5.0,Red Point,wall-boulders,581.0,had fun figuring out the beta
+2019-08-23,Red,V5,7413443254196f343c94732946c85802,5.0,Flash,wall-boulders,581.0,a little spice to go with that finish
+2019-08-23,White,V0,1fa7ba06365eb2c1c1987bdcba1bca06,3.0,Flash,wall-boulders,581.0,
+2019-08-23,Yellow,V4,d7888925e25a8f263539e0ba6f1d9ba7,5.0,Flash,wall-boulders,581.0,
+2019-08-23,Pink,V2,8d547fa6c19ec955277d1cbb308d60b7,5.0,Flash,wall-boulders,581.0,fun stuff
+2019-08-23,Lime Green,V3,6f9db8144fad396c3d38380e71a4ddaa,5.0,Flash,wall-boulders,581.0,
+2019-08-16,Purple,V0,f10a4d4da7e62f05ef746f7772c94079,3.0,Flash,wall-boulders,288.8,
+2019-08-16,Red,V3,70f1e42d83d2a0fdebfba775ec44aa0a,4.0,Flash,wall-boulders,288.8,
+2019-08-16,Yellow,V1,5d8fe7258d69f53c882118472065ac47,3.0,Flash,wall-boulders,288.8,
+2019-08-16,Blue,V5,e683077003fa80aea4363cb9f8f991b0,5.0,Flash,wall-boulders,288.8,gonna be spicy once the grease sets in.
+2019-08-16,Purple,V4,929f37755f767ba8fcae6dc1be7965d9,5.0,Flash,wall-boulders,288.8,so good!
+2019-08-16,Lime Green,V6,37aba23ecdcf32f48d7e10f82b53b466,5.0,Red Point,wall-boulders,288.8,lots of beta variation on this one. 
+2019-08-16,Black,V1,625f3e41d943a2dbb2ef97d44a7dddfd,4.0,Flash,wall-boulders,359.0,
+2019-08-16,Yellow,V6,30af3316bda6cf013c691ff7da392e99,5.0,Red Point,wall-boulders,359.0,one move wonder but i like it.
+2019-08-16,White,V3,581f23a2b36f83ca5892ed4deec9a829,3.0,Flash,wall-boulders,359.0,
+2019-08-16,Pink,V3,c704c7cd8e4d17bafc3316d9b5d8690e,3.0,Flash,wall-boulders,359.0,
+2019-08-16,Black,V4,e71a873abc2f22362390cc6600817661,3.0,Flash,wall-boulders,359.0,
+2019-08-16,Yellow,V2,943753f9e0755668f5b089e0ce02f95f,3.0,Flash,wall-boulders,359.0,a little weird
+2019-08-16,Yellow Left,V6,c3460f8eb90efb0034f454d4013cf638,5.0,Red Point,wall-boulders,667.3,great flow. stiff for v5. original v6 seems more appropriate.
+2019-08-09,Red,V6,31bc5b0b461bc4ecfb9151f9563a558a,5.0,Red Point,wall-boulders,793.8,excellent
+2019-08-09,White,V2,b250ba944dac7b1ca1c4e9268b9bdbf1,4.0,Flash,wall-boulders,667.3,
+2019-08-09,Yellow Right,V5,0a18dbe769936d43c334adbf68bd94fa,4.0,Red Point,wall-boulders,667.3,just gotta show some respect so you don’t punt post dyno.
+2019-08-09,White,V4,4595e0b9df8217a3d55adaae308020ea,5.0,Flash,wall-boulders,667.3,loved it
+2019-08-09,Lime Green,V5,79629293de7234cc9fba990ecd4f2a9f,5.0,Flash,wall-boulders,667.3,sooooo good.
+2019-08-09,Blue,V3,fa2185f74594c0f52f280556dec591a0,5.0,Flash,wall-boulders,736.4,
+2019-08-09,Yellow,V4,269371e87b8f4e28312e1f7f1ae7d178,5.0,Flash,wall-boulders,736.4,
+2019-08-09,Blue,V5,9c96539c463001a7263b8521d3a95ef8,5.0,Flash,wall-boulders,793.8,
+2019-08-09,White,V2,35c1b63f8019a76bb129c4c2853af757,5.0,Flash,wall-boulders,793.8,
+2019-08-09,Tan,V4,407f6c7fc7123385949fc75943d2190b,5.0,Flash,wall-boulders,793.8,harder than i thought. maybe other wall getting in my headspace. 
+2019-08-09,Yellow,V0,fbfabb79cb2ebeeccb7b8dd1916b46af,5.0,Flash,wall-boulders,793.8,
+2019-08-09,White,V1,ba23dc663af8989d5d4e9dcd151a257e,5.0,Flash,wall-boulders,793.8,
+2019-08-09,Pink,V3,5f89626fbd4028ecbfc303b4f055bc9f,4.0,Flash,wall-boulders,793.8,
+2019-08-06,Yellow Low,V6,8fc4290ffe317c7a99148a5561ef36c1,5.0,Red Point,wall-boulders,423.0,excellent climb. endurance piece. 
+2019-08-02,Red,V3,970e1d439d6d268458191977a746d839,3.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Lime Green,V0,c35becc91d20108c4f38d75e05af4905,3.0,Flash,wall-mezzanine,114.6,
+2019-08-02,White,V2,e1bcdf4c7edc221f1642dbae3fbd5612,5.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Blue,V4,bb3a4ab64ad67942230bcd3c9d24b8f6,5.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Yellow,V1,242cb2028e57149096377d05d639417c,4.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Blue,V5,00da261339892866f1b5ed5d9756f2a8,3.0,Red Point,wall-mezzanine,114.6,
+2019-08-02,Lime Green,V4,3ca3ebdbf4fd8f67dd222d95bffa8579,5.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Black,V3,ba083da69c5ae74b27c16b526ad4b461,5.0,Flash,wall-mezzanine,39.7,
+2019-08-02,Tan,V5,2bf67d03cf69303c3d53258196e8b0e7,3.0,Flash,wall-mezzanine,39.7,
+2019-08-02,Red,V2,4761f786ad08afcd03c838cff3404237,3.0,Flash,wall-mezzanine,39.7,
+2019-08-02,Blue,V0,d30b307a563ee53cb4633458c56a92a2,3.0,Flash,wall-mezzanine,39.7,
+2019-08-02,White,V5,6ed50f9e821dadade576b1cf9a39a3d1,3.0,Flash,wall-mezzanine,39.7,
+2019-08-02,Yellow,V0,92aeabd830d75a8e2d9160edd4c4fb01,3.0,Flash,wall-mezzanine,39.7,

@@ -1,0 +1,11 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-03-14,Blue,5.8,8a97c35830f7fdb9fa18512621d2b5cb,4.0,Onsight,wall-island,470.0,
+2020-03-14,Tan,5.10b,ca9a900bf774893c97d2f02ad169c78b,5.0,Onsight,wall-island,468.2,
+2020-03-14,White,5.10a,00327bfe261f835f23930ab7b482f28c,3.0,Onsight,wall-back-wall,896.6,
+2020-03-14,Yellow,5.10d,b2274ab026d3a4c6000173fc6af35354,3.0,Onsight,wall-back-wall,872.9,
+2020-03-14,Purple,5.9,e84f9a9c7d16f4e80a6d667b2972eb2c,4.0,Onsight,wall-back-wall,870.9,
+2020-03-09,Yellow,5.11b,c0e5221bb959150314e1ee10b47b65e6,4.0,Onsight,wall-island,18.7,
+2020-03-09,Tan,5.11a,889abb10ab5b39d740d53144e866726b,3.0,Onsight,wall-island,59.4,
+2020-03-09,Tan,5.10c,911a3fab504895d45dcd360d5cf3574c,4.0,Onsight,wall-island,591.4,
+2020-03-09,Red,5.9,3e82b7522aac6f4dccc16b13a5396186,5.0,Onsight,wall-island,560.7,
+2020-03-09,Yellow,5.8,ac5a1d6f2aba68248ac7c3d69d4ba501,4.0,Onsight,wall-island,77.1,

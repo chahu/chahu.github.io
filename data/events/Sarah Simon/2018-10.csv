@@ -1,0 +1,6 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2018-10-09,Yellow,5.8,7e0b7292af0708df0c7dff8b0d2ce161,3.0,Onsight,wall-island,92.7,
+2018-10-09,Red,5.10a,997b88d9c26d61eddbf6aa319ee58006,3.0,Red Point,wall-island,91.7,
+2018-10-09,Tan,5.8,d1b198a6624dddf33084972e6e1d73f8,3.0,Onsight,wall-red,25.4,
+2018-10-09,Black,V2,e9f1e559623cdb743f31c8a00dc0017a,3.0,Red Point,wall-slab,118.8,
+2018-10-09,Yellow,V4,f1819f795f7fc38a9ae5d3b8e7af24cc,3.0,Red Point,wall-slab,48.7,

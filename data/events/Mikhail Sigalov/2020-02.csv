@@ -1,0 +1,91 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-02-27,Tan,V2,7a2b4c834d4d16ece848cb04db0cf4ff,,Red Point,wall-boulders,161.2,
+2020-02-27,Pink,5.10c,41d581885877455e84c7a1e686d81c56,,Onsight,wall-back-wall,1020.5,lead
+2020-02-27,Yellow,5.9,e9fb8dc644787577964e6e61f86b310f,,Onsight,wall-back-wall,1310.7,lead
+2020-02-27,Lime Green,5.10c,3f0de8817e67832dcbabfc76abac6a1d,,Onsight,wall-back-wall,1330.9,lead
+2020-02-27,Red,5.9,3e82b7522aac6f4dccc16b13a5396186,,Onsight,wall-island,560.7,lead
+2020-02-27,Tan,5.10c,911a3fab504895d45dcd360d5cf3574c,,Attempt,wall-island,591.4,lead
+2020-02-27,Pink,5.9,043268f73fe7af8eef8126841b03077a,,Attempt,wall-island,42.2,lead
+2020-02-27,Yellow,V0,46dc20b9a3055906ab3241d337407ad9,,Flash,wall-boulders,288.8,
+2020-02-27,Red,V3,26c3459b2951701db7d3fe93c4a7bc48,,Flash,wall-boulders,288.8,
+2020-02-27,Pink,V1,183e51b50241ab343b6f18d216abba16,,Flash,wall-boulders,359.0,
+2020-02-24,Blue,5.6,5901fe16b48c35f13d025f6d10678d8c,,Top Rope,wall-auto-belay,361.6,
+2020-02-24,Lime Green,5.6,f4bbc735651e7ef9d2853424e3216037,,Top Rope,wall-auto-belay,343.2,
+2020-02-24,Lime Green,5.6,f4bbc735651e7ef9d2853424e3216037,,Top Rope,wall-auto-belay,343.2,
+2020-02-24,Lime Green,5.6,f4bbc735651e7ef9d2853424e3216037,,Top Rope,wall-auto-belay,343.2,
+2020-02-24,Lime Green,5.6,f4bbc735651e7ef9d2853424e3216037,,Top Rope,wall-auto-belay,343.2,
+2020-02-24,Pink,5.8,e4574f248eadd10bb87057c63b009400,,Top Rope,wall-auto-belay,364.2,
+2020-02-24,Lime Green,5.6,f4bbc735651e7ef9d2853424e3216037,,Top Rope,wall-auto-belay,343.2,onsight
+2020-02-24,Lime Green,5.8,dca9bc49aa2763359ed82794ff4a8c51,,Top Rope,wall-auto-belay,223.4,onsight
+2020-02-24,Blue,5.6,c9f71554a7654974ca62c7608d9919fd,,Top Rope,wall-auto-belay,222.1,onsight
+2020-02-24,Tan,5.8,a97bac0b9da6811daf7502198eca5b97,,Onsight,wall-red,175.1,lead
+2020-02-24,Black,5.7,5ad09687ecac766db2f1f3ebff4eaa8c,,Onsight,wall-red,197.6,lead
+2020-02-24,Lime Green,5.10a,f66e3542e8ea378346e9fb674cfd9dab,,Onsight,wall-red,230.0,lead
+2020-02-24,Tan,5.9,b9cb1cf9ec9f75709e1890d93aafbd6b,,Red Point,wall-back-wall,190.5,lead
+2020-02-24,Blue,5.9,4aced0bf3c7e214843fcb490d33c4e47,,Onsight,wall-back-wall,56.0,lead
+2020-02-17,Pink,3-4,a1321419d7620bef8c039116d5a130a4,,Top Rope,wall-island,108.8,onsight
+2020-02-17,Yellow,5.8,d15738920cab1d3734559dbcc5d2b5a3,,Onsight,wall-back-wall,243.4,
+2020-02-17,White,5.7,f9897b7c38dfe55cae6bd3abc44b9ac7,,Top Rope,wall-auto-belay,391.8,onsight
+2020-02-17,Blue,5.6,5901fe16b48c35f13d025f6d10678d8c,,Top Rope,wall-auto-belay,361.6,onsight
+2020-02-17,Yellow,5.10b,93dc298f9659086b95b642c7d256a905,,Top Rope,wall-auto-belay,362.9,onsight
+2020-02-17,Pink,5.8,e4574f248eadd10bb87057c63b009400,,Top Rope,wall-auto-belay,364.2,onsight
+2020-02-17,Purple,5.9,e280d846eb5e31f55e1fcac12bc07cf4,,Top Rope,wall-auto-belay,389.2,onsight
+2020-02-15,Purple,5.10d,8f4283e1e07bd9e600998014212bf639,,Attempt,wall-back-wall,124.1,
+2020-02-15,Red,5.10a,78d421ed24e7aab1bd59d46244854a3a,,Onsight,wall-red,199.0,
+2020-02-15,Pink,5.9,9e4b0924a7d7ea5538be15d949d7140d,,Onsight,wall-island,394.7,
+2020-02-15,Black,5.10b,7347b407ef8ecdbdafd8546dadfb85d1,,Onsight,wall-island,396.5,
+2020-02-15,Blue,5.10c,1f28af14dc81f93083720236797340dd,,Attempt,wall-back-wall,588.1,remember the good hold on the volume right after the lip!
+2020-02-15,Purple,5.10d,8f4283e1e07bd9e600998014212bf639,,Attempt,wall-back-wall,124.1,messed up at the same point...
+2020-02-15,Purple,5.10d,8f4283e1e07bd9e600998014212bf639,,Attempt,wall-back-wall,124.1,messed up at the same point...
+2020-02-15,Purple,5.10d,8f4283e1e07bd9e600998014212bf639,,Attempt,wall-back-wall,124.1,messed up at the same point...
+2020-02-15,Purple,5.10d,8f4283e1e07bd9e600998014212bf639,,Attempt,wall-back-wall,124.1,messed up at the same point...
+2020-02-15,Blue,5.10c,1f28af14dc81f93083720236797340dd,,Attempt,wall-back-wall,588.1,remember the good hold on the volume right after the lip!
+2020-02-15,Black,5.10b,7347b407ef8ecdbdafd8546dadfb85d1,,Onsight,wall-island,396.5,
+2020-02-15,Pink,5.9,9e4b0924a7d7ea5538be15d949d7140d,,Onsight,wall-island,394.7,
+2020-02-15,Red,5.10a,78d421ed24e7aab1bd59d46244854a3a,,Onsight,wall-red,199.0,
+2020-02-13,Yellow,5.8,42a5556236596257a4756dcdb3807304,,Onsight,wall-island,528.5,lead double
+2020-02-13,Yellow,5.8,42a5556236596257a4756dcdb3807304,,Red Point,wall-island,528.5,lead right after an onsight
+2020-02-13,Purple,5.10d,8f4283e1e07bd9e600998014212bf639,,Attempt,wall-back-wall,124.1,lead
+2020-02-13,Red,5.12a,a0b6519e16d7b3589d70f47b20e4e973,,Attempt,wall-island,184.9,top rope﹐ just have to go for it at the top...
+2020-02-11,Yellow,V4,5d5f489e5bddf879d4632c3ce5d1e9f1,,Flash,wall-mezzanine,114.6,
+2020-02-11,Red,V4,e10a3455eebf7da9260427d3c6bfb2ff,,Red Point,wall-mezzanine,114.6,went straight up﹐ skipped the hold on the volume on the left and the sidepull crimp
+2020-02-11,Yellow,5.10a,a8168a0133f81754eab9895da2b1cae1,,Onsight,wall-red,109.7,lead
+2020-02-11,White,V3,26f5811ddc1c846ae070f27b16433dba,,Flash,wall-mezzanine,114.6,
+2020-02-11,Yellow,V3,6ab38b6e926c4f6a05c634847a3d59f2,,Flash,wall-mezzanine,39.7,
+2020-02-11,Yellow,V3,e7baec3392ef529bbc5a4a8edadac691,,Flash,wall-mezzanine,39.7,
+2020-02-11,Lime Green,V1,a488a6fe1a733e451898ad335d13d216,,Flash,wall-mezzanine,39.7,
+2020-02-11,Red,5.12a,33b193e9d3513c70bf9d68418fe5edd6,,Attempt,wall-red,110.4,top rope﹐ gotta figure out the sequence between the third and fourth clips
+2020-02-11,Lime Green,5.11a,cef386d0204fe866526125ee670ab7c9,,Attempt,wall-back-wall,488.9,gotta keep shaking out! 
+2020-02-11,Blue,V3,9a75a24b3ebdf516d10c5370ef74fd4e,,Flash,wall-boulders,736.4,
+2020-02-06,Lime Green,V4,b8e3786bfe29ddcb5a1e4a43367465c4,,Flash,wall-slab,118.8,
+2020-02-06,Yellow,V0,fd4da02fc305527a87d34fc9b01a0b5c,,Flash,wall-boulders,793.8,
+2020-02-06,Lime Green,V1,5aed781f9fde1b16bc1fc2098c0fb9bd,,Flash,wall-boulders,793.8,
+2020-02-06,Pink,V3,c288d3b689c07fab3491050421a25022,,Flash,wall-slab,48.7,
+2020-02-06,Tan,V1,17206715a23e5c8fc03b11b83ad790ec,,Flash,wall-slab,48.7,
+2020-02-06,Red,V1,8cd5517f2c0150f64a59d9bfd05737e8,,Flash,wall-slab,118.8,
+2020-02-06,Pink,V2,e459884c250f7aabc719c6d072015a42,,Flash,wall-slab,192.9,
+2020-02-06,Purple,5.9,3eab6c30f79c688587a7605616de59ec,,Top Rope,wall-auto-belay,196.9,onsight
+2020-02-06,White,5.7,38eb1fcb06373c94bde4290113082f0f,,Top Rope,wall-auto-belay,195.7,onsight
+2020-02-06,Pink,5.10c,b4048d2d98de486e7b2f548e9bfd2f15,,Onsight,wall-red,156.9,lead
+2020-02-06,Tan,V3,e5b4a6a34f3cbe5a3164cbec54cbd83c,,Flash,wall-boulders,288.8,
+2020-02-06,Blue,V1,7a46cc92bca2c5c26cea19be071a33d8,,Flash,wall-boulders,288.8,
+2020-02-05,Red,5.10c,671d3b5fbd63548a8e16e0a90bf68eda,,Onsight,wall-auto-belay,45.9,lead
+2020-02-05,Lime Green,5.10d,281943aa368f739163df242af290fd8f,,Onsight,wall-back-wall,252.2,felt a bit soft﹐ no hands rest halfway up is super fun
+2020-02-05,Lime Green,5.11a,cef386d0204fe866526125ee670ab7c9,,Attempt,wall-back-wall,488.9,Super fun﹐ missed some footholds around the lip of the roof that were intertwined with the neighboring red route. Shallow jugs after the roof﹐ easy finish.
+2020-02-05,White,5.10b,f381f8b579a5d66a67e333eed2c61a48,,Red Point,wall-island,590.5,lead
+2020-02-05,Black,V0,289f13c1fad993636aa750a046134026,,Flash,wall-mezzanine,39.7,
+2020-02-05,White,V2,a6832f00cfee2016daa46b26ce7e0b1a,,Flash,wall-mezzanine,39.7,
+2020-02-05,Red,V2,e6b2f56a916388b74d02e04908a162fc,,Flash,wall-mezzanine,39.7,
+2020-02-05,Pink,V0,978a660473cb36223b2453d1800623cd,,Flash,wall-mezzanine,114.6,
+2020-02-05,Black,V1,00d5a16a93a1d4a569dc49cb4ac53816,,Flash,wall-mezzanine,114.6,
+2020-02-05,Purple,5.11a,4de3ef33dbef6d704b99ef4c2620a828,,Onsight,wall-red,133.2,fun mantley top﹐ although I didn't realize it and just pinched my way to the finish
+2020-02-05,White,5.8,d172daf54d05096b559d3c5787548234,,Onsight,wall-back-wall,-2.4,
+2020-02-03,Blue,5.10a,ea8d63742931011672892927d3f449ae,,Onsight,wall-back-wall,1310.0,
+2020-02-03,Tan,5.9,b9cb1cf9ec9f75709e1890d93aafbd6b,,Onsight,wall-back-wall,190.5,
+2020-02-03,Purple,5.10a,3367c4d06c93f4c7198f49fbc31c31ad,,Attempt,wall-island,445.8,Lead. Last third is crimpy﹐ should have taken a longer rest on last jugs. Ended up pumped on the last clip.
+2020-02-03,Tan,V0,81d8de61b948629e4906939bd04e8481,,Flash,wall-boulders,581.0,
+2020-02-02,Pink,5.10a,f25d3a5050639a87479a9ab76e8d9fcf,5.0,Onsight,wall-back-wall,1175.0,
+2020-02-02,Black,5.10b,70483aa172a83469513e73395124fdbe,,Attempt,wall-island,529.4,Lead
+2020-02-02,Red,5.8,783011e9ea84203655f6655f6ca2f49d,,Onsight,wall-island,354.2,
+2020-02-02,Tan,5.10a,d4bbbe4dd8644ecad075bbbc13256f34,,Attempt,wall-island,561.5,Lead
+2020-02-02,White,5.10b,bef995d2af484ddae247f180cd3e3658,,Attempt,wall-island,469.1,Lead

@@ -1,0 +1,10 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-01-05,Blue,V1,5031f54a3295a6c94ae1d07eaf162387,,Red Point,wall-slab,48.7,
+2020-01-05,White,V1,9f5df0d2145f0513d2c2ac4cad343cac,,Flash,wall-slab,48.7,
+2020-01-05,Yellow,V4,eb59ff8b1376a15ff5eb04c011c27bfb,,Flash,wall-slab,48.7,
+2020-01-05,Red,V5,52db780f4058ecbc2c61123936403ac1,,Red Point,wall-slab,118.8,
+2020-01-05,Blue,V5,7ce3756a52d9d7f61a09d02f0f4712dd,,Red Point,wall-mezzanine,114.6,
+2020-01-05,Tan,V6,020af7535b31bf78705a778ea771ec65,,Red Point,wall-mezzanine,114.6,
+2020-01-05,Lime Green,V4,50048da5b9c46c6bf942ed2982c416c5,,Flash,wall-mezzanine,39.7,
+2020-01-05,Black,V3,6ae9c1d096be2c74317f792525022d88,,Red Point,wall-mezzanine,39.7,
+2020-01-05,Tan,V2,315b4d0b36d1a7e3b8cc920bc1161eda,,Flash,wall-mezzanine,39.7,

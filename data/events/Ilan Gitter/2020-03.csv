@@ -1,0 +1,5 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-03-13,Red,5.10c,f2eb3aa854b39dfd914b364e8de3ce25,4.0,Onsight,wall-auto-belay,173.7,
+2020-03-13,Pink,5.10d,62f662aa04896bf06e69b313b7f8a03c,4.0,Red Point,wall-auto-belay,220.8,
+2020-03-13,Tan,5.10b,7021dcfa5ce53a9a7bae85a06f1bdd1f,3.0,Red Point,wall-auto-belay,274.3,
+2020-03-13,Yellow,5.10b,93dc298f9659086b95b642c7d256a905,4.0,Onsight,wall-auto-belay,362.9,

@@ -1,0 +1,20 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-03-11,Tan,5.9,b9cb1cf9ec9f75709e1890d93aafbd6b,,Red Point,wall-back-wall,190.5,
+2020-03-11,Tan,5.10d,be30661c2bd96c8ed85c8b67488c80a7,,Onsight,wall-red,81.4,lead
+2020-03-11,Black,5.10b,13ff387d591c3e41be5c624cad000c08,,Onsight,wall-red,79.7,lead
+2020-03-11,Green,5.10c,2e45334406444552d928cc7eeb7fb6b4,,Onsight,wall-island,420.7,lead
+2020-03-09,Yellow,5.10a,a8168a0133f81754eab9895da2b1cae1,,Red Point,wall-red,109.7,lead﹐ forgot I had done this before 
+2020-03-09,Blue,5.10b,3340b1d4e1c38fc25263543f90c7c995,,Onsight,wall-red,173.9,lead
+2020-03-09,Tan,5.10b,23f176cb7c5d65e2b0062f187013cf76,,Onsight,wall-island,164.0,lead
+2020-03-09,White,5.10d,c3427850c4f142dfbe48314fc995e4ed,,Attempt,wall-island,126.0,leg cramped at top :(
+2020-03-09,Lime Green,5.7,94064435555d24b7664ed4493fb94b2b,,Onsight,wall-island,106.8,lead
+2020-03-09,Black,5.11a,b0073eb2f1133f75399de97c21ef7829,,Top Rope,wall-auto-belay,248.5,onsight
+2020-03-09,Yellow,5.9,3021190a0ebf59022e0ab7505e4fe242,,Top Rope,wall-auto-belay,249.8,onsight
+2020-03-09,Red,5.7,720ece40522b26468b906492321794d0,,Top Rope,wall-auto-belay,251.1,onsight
+2020-03-06,White,5.10c,5743ff77ddd0bb90114ff91fa17b80f6,,Attempt,wall-back-wall,1199.9,lead
+2020-03-06,Purple,5.9,b78eed444ec9192dd2f96b804492abed,,Top Rope,wall-back-wall,946.9,onsight
+2020-03-06,Black,5.10b,e3bb65d47c22cddc19048ed526c5d751,,Onsight,wall-back-wall,1099.6,lead
+2020-03-06,Yellow,5.9,9d0a42d3f2db539bdde369755f91af98,,Onsight,wall-island,446.7,lead
+2020-03-06,Yellow,5.11b,0a0706fa75d4fe01c82d09cc47330030,,Top Rope,wall-auto-belay,198.2,onsight
+2020-03-06,Tan,5.8,2e4475cf1e07521134148bdbd8d61c98,,Top Rope,wall-auto-belay,174.9,onsight
+2020-03-06,Red,5.10c,f2eb3aa854b39dfd914b364e8de3ce25,,Top Rope,wall-auto-belay,173.7,onsight

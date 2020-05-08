@@ -1,0 +1,11 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-03-09,Pink,V4,f39d32e2c3a5125c7916dbe6c85af49a,3.0,Red Point,wall-mezzanine,39.7,
+2020-03-09,Pink,V4,018e24449d90d45363a0f5c0c10d952c,3.0,Red Point,wall-slab,48.7,
+2020-03-09,Lime Green,V6,100ef8e8d40ca3716dcc58d7fa30c734,3.0,Red Point,wall-slab,192.9,
+2020-03-09,Yellow,V4,412ff5f448845b972d2007f10367c3f8,3.0,Flash,wall-boulders,161.2,
+2020-03-09,Pink,V5,981998983df75c296c439ead4fdc009c,3.0,Red Point,wall-boulders,222.0,
+2020-03-09,Yellow,V5,a14a0aa581610a754429822b2ed46b87,3.0,Flash,wall-boulders,359.0,
+2020-03-09,Pink,V5,7c5313e733c256c30e86a607e6ef5a68,3.0,Red Point,wall-boulders,359.0,
+2020-03-09,Lime Green,V6,a946dfd298a51db06e4c049b3b0cd17d,2.0,Red Point,wall-boulders,581.0,
+2020-03-09,Pink,V3,80cddf93f90cd364c057590dd7fb7ea4,3.0,Flash,wall-boulders,667.3,
+2020-03-09,Yellow,V4,5292cff6e8ba2ec9e6ab22a12037a49e,3.0,Flash,wall-boulders,793.8,

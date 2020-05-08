@@ -1,0 +1,7 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-08-30,White,5.10c,9155757305d9f23fa50fea849771dc6a,3.0,Top Rope,wall-back-wall,1329.5,
+2019-08-29,Red,5.9,efeae4ead5133a099b50fc97307e680a,3.0,Top Rope,wall-red,230.7,
+2019-08-29,Lime Green,5.8,7528a6dafdb1e8817dd372989dec263e,3.0,Top Rope,wall-red,156.3,
+2019-08-29,Lime Green,5.8,7528a6dafdb1e8817dd372989dec263e,3.0,Red Point,wall-red,156.3,
+2019-08-29,Yellow,5.7,fd4afd200c7ef246e2f3b96af29b19fa,3.0,Red Point,wall-auto-belay,251.1,
+2019-08-29,Lime Green,5.8,2f2e80b079f6e41bae739c649c5c1f9b,3.0,Top Rope,wall-auto-belay,303.3,

@@ -1,0 +1,45 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-02-20,Yellow,V7,2917f5762a243270b80ab803c1d52c9c,5.0,Red Point,wall-boulders,505.7,amazing climb.
+2020-02-13,Blue,V3,fc57de266615f969545394ac7e4e7a5a,3.0,Flash,wall-boulders,359.0,
+2020-02-13,Pink,V1,183e51b50241ab343b6f18d216abba16,3.0,Flash,wall-boulders,359.0,
+2020-02-13,Tan,V2,25c4bb3056adf9efe04a669c321d4cc1,5.0,Flash,wall-boulders,359.0,
+2020-02-13,White,V4,2e65c0dcf231a90584c4f4f2937615ed,4.0,Flash,wall-boulders,359.0,odd one. many decoys.
+2020-02-13,Black,V6,d02c5bae48255aa238dc6c5e8e7005ae,5.0,Red Point,wall-boulders,359.0,bring your pinch game.
+2020-02-13,Red,V3,26c3459b2951701db7d3fe93c4a7bc48,4.0,Flash,wall-boulders,288.8,fun one.
+2020-02-13,Yellow,V0,46dc20b9a3055906ab3241d337407ad9,2.0,Flash,wall-boulders,288.8,
+2020-02-13,Lime Green,V7,6030b9fdb04162fac85b1b683ea08350,3.0,Red Point,wall-boulders,288.8,felt soft for the grade. height really helps.
+2020-02-13,White,V5,3d046536bfa86eafdcf01c603fa2fb2e,5.0,Flash,wall-boulders,288.8,great climb.
+2020-02-13,Pink,V4,c4d845803195f5328a2105da2c93d1d4,5.0,Flash,wall-boulders,288.8,enjoyed this one.
+2020-02-13,Black,V4,bcd6bef907936ab0530a8284893847fa,4.0,Flash,wall-boulders,288.8,good climb but felt much easier than pink.
+2020-02-09,Tan,V6,14d14b4541690ea10e1eaa601680a003,5.0,Red Point,wall-boulders,793.8,
+2020-02-09,White,V5,3629c0c9ccab50a3ba36cc716339d76f,4.0,Red Point,wall-boulders,736.4,first couple holds were shallower than expected.
+2020-02-09,Black,V5,c4fe394dd0196e91fd127d753dc2110d,2.0,Red Point,wall-boulders,667.3,
+2020-02-07,Lime Green,V1,5aed781f9fde1b16bc1fc2098c0fb9bd,2.0,Flash,wall-boulders,793.8,
+2020-02-07,Yellow,V0,fd4da02fc305527a87d34fc9b01a0b5c,2.0,Flash,wall-boulders,793.8,
+2020-02-07,Pink,V3,5aaa08b5097cfec11de274f8f8c3922a,3.0,Flash,wall-boulders,793.8,
+2020-02-07,White,V2,147d8ca3f32ca55777eb6d9ffb50cc52,3.0,Flash,wall-boulders,793.8,
+2020-02-07,Black,V4,2afe44a078374223b64b87747a4be947,3.0,Flash,wall-boulders,793.8,
+2020-02-07,Blue,V3,9a75a24b3ebdf516d10c5370ef74fd4e,3.0,Flash,wall-boulders,736.4,
+2020-02-07,Black,V5,276883bed18629a13cbf238b9a05f066,4.0,Red Point,wall-boulders,736.4,
+2020-02-07,Red,V4,c4d33894702fb85c8ff7263b1062d3bc,5.0,Flash,wall-boulders,667.3,
+2020-02-07,Pink,V6,485096f658944bcbafae1d09270c65ad,5.0,Red Point,wall-boulders,667.3,
+2020-02-04,Black,V1,00d5a16a93a1d4a569dc49cb4ac53816,3.0,Flash,wall-mezzanine,114.6,
+2020-02-04,White,V3,26f5811ddc1c846ae070f27b16433dba,4.0,Flash,wall-mezzanine,114.6,
+2020-02-03,White,V6,b6091f0aef659cc1b9562c4ff66f419c,5.0,Flash,wall-mezzanine,114.6,felt like I’ve done this climb outdoors somewhere...
+2020-02-03,Blue,V5,a44ebf7fa6aa83d3202004edab015e6c,4.0,Flash,wall-mezzanine,114.6,
+2020-02-03,Yellow,V4,5d5f489e5bddf879d4632c3ce5d1e9f1,5.0,Flash,wall-mezzanine,114.6,
+2020-02-03,Tan,V5,71cc15c2a9a348ea7a4ac124e49decfd,5.0,Flash,wall-mezzanine,114.6,i like that lockoff 
+2020-02-03,Red,V4,e10a3455eebf7da9260427d3c6bfb2ff,5.0,Red Point,wall-mezzanine,114.6,caught off guard by that finish... 
+2020-02-03,White,V6,7941b1ed2ded20c5da5d256019e270af,2.0,Red Point,wall-slab,118.8,
+2020-02-03,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,2.0,Red Point,wall-slab,118.8,
+2020-02-03,Pink,V3,c288d3b689c07fab3491050421a25022,2.0,Red Point,wall-slab,48.7,
+2020-02-03,Black,V0,289f13c1fad993636aa750a046134026,,Flash,wall-mezzanine,39.7,
+2020-02-03,Lime Green,V1,a488a6fe1a733e451898ad335d13d216,3.0,Flash,wall-mezzanine,39.7,
+2020-02-03,Yellow,V3,6ab38b6e926c4f6a05c634847a3d59f2,5.0,Flash,wall-mezzanine,39.7,good moves
+2020-02-03,Pink,V5,5ebcde2841ed40034ec0bdfe0f96a9f5,5.0,Flash,wall-mezzanine,39.7,solid climb
+2020-02-03,Tan,V4,869bc5cb7790360cfc736284f7cd7f6b,3.0,Flash,wall-mezzanine,39.7,
+2020-02-03,White,V2,a6832f00cfee2016daa46b26ce7e0b1a,4.0,Flash,wall-mezzanine,39.7,
+2020-02-03,Red,V2,e6b2f56a916388b74d02e04908a162fc,3.0,Flash,wall-mezzanine,39.7,
+2020-02-03,Yellow,V3,e7baec3392ef529bbc5a4a8edadac691,5.0,Flash,wall-mezzanine,39.7,classic
+2020-02-03,Pink,V0,978a660473cb36223b2453d1800623cd,,Flash,wall-mezzanine,114.6,
+2020-02-03,Lime Green,V5,e3bb1eb98f763513295475559cf650f7,5.0,Red Point,wall-mezzanine,114.6,very cool

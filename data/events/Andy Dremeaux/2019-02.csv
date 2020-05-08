@@ -1,0 +1,29 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-02-28,Yellow,V3,8f106539f91ba41883c66433be3f5b12,3.0,Flash,wall-mezzanine,114.6,
+2019-02-28,Red,V3,176245e355e89768178dc17c42ae0dd1,3.0,Flash,wall-mezzanine,114.6,
+2019-02-28,Tan,V5,69566e828750e5bea5539653d7523fa3,2.0,Flash,wall-mezzanine,114.6,"One of those ""you can either do it or you can't' routes. Not much opportunity to try different beta. People are stuck and they give you up. "
+2019-02-28,Pink,V4,c91a7a5393a51c6091e16fa699aa89ff,3.0,Red Point,wall-mezzanine,39.7,
+2019-02-28,White,V5,8fa58dc8cea41caf1949356ba3ec885e,5.0,Flash,wall-mezzanine,39.7,
+2019-02-28,Purple,V6,567273777b00484cdebdb95a8a0666c6,1.0,Red Point,wall-mezzanine,39.7,Last move wtf. Also says v5 on the wall. 
+2019-02-28,Black,V5,423bce8c39b95fb0f33e958aecb0a090,4.0,Red Point,wall-mezzanine,39.7,
+2019-02-09,Pink,V4,be6f6a50c983a2d73321a4e93d355f90,4.0,Flash,wall-boulders,793.8,
+2019-02-09,Purple,V5,9ae269b0ac84ec8942f8582201d2da76,3.0,Flash,wall-boulders,793.8,
+2019-02-09,Black,V6,94472bb526779c2cf71af3f4aa2c845f,4.0,Red Point,wall-boulders,793.8,
+2019-02-09,Yellow,V4,ce120a5b50c6851e7a7970b2b8e6f25b,3.0,Flash,wall-boulders,793.8,
+2019-02-09,Yellow,V5,d3e68dbbeeff291163e69a7efd14f32d,4.0,Red Point,wall-boulders,793.8,V5 lol wut
+2019-02-08,Pink,V4,2c90225324578927e7749d4bd2ee5f44,4.0,Flash,wall-boulders,667.3,
+2019-02-08,Purple,V5,a97d2bad27bf9688f6240d724f77e343,3.0,Flash,wall-boulders,667.3,
+2019-02-08,Red,V2,7b1a237a6966ddf01ddc6b608ac28544,4.0,Flash,wall-boulders,793.8,
+2019-02-05,Red,V5,04f0c441069a8c5d203072b2edd3b2ae,3.0,Red Point,wall-slab,192.9,
+2019-02-05,Black,V7,8cb2176c6bbca076b73691a81e4bfda8,4.0,Red Point,wall-boulders,288.8,
+2019-02-05,Yellow,V6,5161ab2ea6e629d675dab9b83c1952fa,4.0,Red Point,wall-boulders,423.0,
+2019-02-01,White,V5,4773963ea1a0aa7b175699ceb757c468,3.0,Red Point,wall-slab,48.7,
+2019-02-01,Pink,V2,bf2afe97a9a0636bf80037f9c710ccbc,2.0,Flash,wall-slab,48.7,
+2019-02-01,Black,V4,88ce1f8973b407b2cbb6f0d8d8a01078,2.0,Flash,wall-slab,48.7,
+2019-02-01,Lime Green,V3,bf75a495c35d8d077dffa78241cb9d17,4.0,Flash,wall-slab,48.7,
+2019-02-01,Blue,V2,46aac43d651588eeb536d2265e2a2b27,3.0,Flash,wall-slab,48.7,
+2019-02-01,Black,V3,013b40bd6cef5f1c302536af90a731f1,5.0,Flash,wall-slab,118.8,
+2019-02-01,Pink,V4,b00efc7c0c386f3e167bd00218d9d41b,4.0,Red Point,wall-slab,118.8,V5
+2019-02-01,Tan,V5,b3aa8d94f751c7a68a32de98c1a85546,4.0,Flash,wall-slab,118.8,
+2019-02-01,White,V6,5afc1e8fa9c0d7ad2a28c56aee141add,4.0,Red Point,wall-slab,192.9,
+2019-02-01,Yellow,V7,4c0260471ca00fb3d3f3528336250bdc,5.0,Red Point,wall-boulders,505.7,

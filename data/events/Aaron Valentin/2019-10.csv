@@ -1,0 +1,12 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-10-28,Yellow,V2,ee4b6cce795e06f6d1bc24013947ec31,3.0,Flash,wall-mezzanine,39.7,
+2019-10-28,Blue,V1,1da4e7e709390f68bcd2d45a360f9176,3.0,Flash,wall-mezzanine,39.7,
+2019-10-28,Pink,V1,2abf771dd47a743f213aeab6952aef52,3.0,Flash,wall-mezzanine,39.7,
+2019-10-28,Black,V5,d1529c7dbd14dabc946616289243e604,3.0,Flash,wall-mezzanine,39.7,
+2019-10-28,Yellow,V4,1f0dfaab25dd30c6651b37d57237ab1d,3.0,Flash,wall-mezzanine,114.6,
+2019-10-28,Black,V5,845420f24ad3829fc8d2cd585130349c,3.0,Red Point,wall-mezzanine,114.6,
+2019-10-11,White,V1,ca12063c63ee41afc220ba5f3871c9f2,3.0,Flash,wall-slab,192.9,
+2019-10-11,Lime Green,V1,7ca468cc337692ccc0ce64d3bb3e1c9c,3.0,Flash,wall-slab,118.8,
+2019-10-11,Yellow,V5,f5fc438d5bd2ed3af4a42b78d56d1c39,4.0,Red Point,wall-slab,118.8,
+2019-10-11,Red,V2,33efde04bb65f86081d0df92f65a7030,4.0,Flash,wall-slab,48.7,
+2019-10-11,Black,V3,93e689abaa22e628f714884f804f01b1,3.0,Red Point,wall-slab,48.7,
