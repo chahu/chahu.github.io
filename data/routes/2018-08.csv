@@ -1,20 +1,20 @@
-route_id,route_color,route_grade,type,category,wall,offset,rating,start_date,end_date,month
-80c56821a6273c01747c11ec0be5fadc,Blue,5.10d,route,Routes Lead Cave,wall-back-wall,562.0,4.33,2018-08-13,2018-11-16,2018-08
-c900eaf639d0f4c8a07e3f64503da397,Yellow,5.11b,route,Routes Lead Cave,wall-back-wall,507.7,4.25,2018-08-14,2018-11-07,2018-08
-295f96be1ad8aa69482a7aa94b501b76,Lime Green,5.12b,route,Routes Lead Cave,wall-back-wall,442.1,4.14,2018-08-29,2018-09-24,2018-08
-fac1a172cfb0f5451494a716d3e902cf,White,5.11d,route,Routes Lead Cave,wall-back-wall,395.0,4.2,2018-08-14,2018-11-08,2018-08
-4a1ac13a969e159010b874e03741855a,Purple,5.12a,route,Routes Lead Cave,wall-back-wall,608.4,4.33,2018-08-14,2019-02-03,2018-08
-54c53d5ecd9f0bebdf0806a9eef8b7f4,Tan,V0,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,5.0,2018-08-31,2018-10-06,2018-08
-81060b3b9bfe837fadd962e61f091f0c,Red,V0,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.67,2018-08-31,2018-10-01,2018-08
-c9d98415d6e25f7745680caa6350cfbd,Black,V2,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.75,2018-08-31,2018-10-01,2018-08
-e3a3debddc061208d2fa09d3ca5952af,White Right,V5,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.67,2018-08-31,2018-10-01,2018-08
-5be07a9302eee9f829212461fae3096b,Tan,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,5.0,2018-08-31,2018-10-01,2018-08
-91917a4fb7c72da545ae23945aa7b01e,Purple,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,5.0,2018-08-31,2018-10-01,2018-08
-0eb247802ab509e6944250303a5671de,Blue,V6,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.0,2018-08-31,2018-10-01,2018-08
-11948ccbdabebdc14d6e5fdc54c8faab,Lime Green Right,V4,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.0,2018-08-31,2018-10-01,2018-08
-f43747f294169b1604d7af253f692b78,Lime Green Left,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.5,2018-08-31,2018-10-01,2018-08
-094c625860e93d8ea58df25b295190e5,Pink,V1,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,2.0,2018-08-31,2018-10-01,2018-08
-f65c6072b855056e185e73437b6352ea,Blue,V1,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,5.0,2018-08-31,2018-10-06,2018-08
-990c74efb85357e30a5068e5af735288,Red,V4,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,4.5,2018-08-31,2018-10-06,2018-08
-fbec974584921d5fc914a13985284b38,White,V2,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,3.5,2018-08-31,2018-10-06,2018-08
-42591ebeeae3d7faaa1591d1a83e0c58,Lime Green,5.9,route,Routes Red Wall,wall-red,156.3,5.0,2018-08-01,2018-10-08,2018-08
+route_id,route_color,route_grade,type,category,wall,offset,rating,start_date,end_date
+80c56821a6273c01747c11ec0be5fadc,Blue,5.10d,route,Routes Lead Cave,wall-back-wall,562.0,4.33,2018-08-13,2018-11-16
+c900eaf639d0f4c8a07e3f64503da397,Yellow,5.11b,route,Routes Lead Cave,wall-back-wall,507.7,4.25,2018-08-14,2018-11-07
+295f96be1ad8aa69482a7aa94b501b76,Lime Green,5.12b,route,Routes Lead Cave,wall-back-wall,442.1,4.14,2018-08-29,2018-09-24
+fac1a172cfb0f5451494a716d3e902cf,White,5.11d,route,Routes Lead Cave,wall-back-wall,395.0,4.2,2018-08-14,2018-11-08
+4a1ac13a969e159010b874e03741855a,Purple,5.12a,route,Routes Lead Cave,wall-back-wall,608.4,4.33,2018-08-14,2019-02-03
+54c53d5ecd9f0bebdf0806a9eef8b7f4,Tan,V0,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,5.0,2018-08-31,2018-10-06
+81060b3b9bfe837fadd962e61f091f0c,Red,V0,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.67,2018-08-31,2018-10-01
+c9d98415d6e25f7745680caa6350cfbd,Black,V2,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.75,2018-08-31,2018-10-01
+e3a3debddc061208d2fa09d3ca5952af,White Right,V5,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.67,2018-08-31,2018-10-01
+5be07a9302eee9f829212461fae3096b,Tan,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,5.0,2018-08-31,2018-10-01
+91917a4fb7c72da545ae23945aa7b01e,Purple,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,5.0,2018-08-31,2018-10-01
+0eb247802ab509e6944250303a5671de,Blue,V6,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.0,2018-08-31,2018-10-01
+11948ccbdabebdc14d6e5fdc54c8faab,Lime Green Right,V4,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.0,2018-08-31,2018-10-01
+f43747f294169b1604d7af253f692b78,Lime Green Left,V3,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,4.5,2018-08-31,2018-10-01
+094c625860e93d8ea58df25b295190e5,Pink,V1,boulder,Bouldering Mezzanine,wall-mezzanine,114.6,2.0,2018-08-31,2018-10-01
+f65c6072b855056e185e73437b6352ea,Blue,V1,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,5.0,2018-08-31,2018-10-06
+990c74efb85357e30a5068e5af735288,Red,V4,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,4.5,2018-08-31,2018-10-06
+fbec974584921d5fc914a13985284b38,White,V2,boulder,Bouldering Mezzanine,wall-mezzanine,39.7,3.5,2018-08-31,2018-10-06
+42591ebeeae3d7faaa1591d1a83e0c58,Lime Green,5.9,route,Routes Red Wall,wall-red,156.3,5.0,2018-08-01,2018-10-08
