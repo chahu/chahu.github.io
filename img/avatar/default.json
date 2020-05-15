@@ -1,0 +1,128 @@
+{
+  "center": {"x": 150, "y": 150},
+  "states": {
+    "left_leg": {
+      "forward": [
+        ["avatar-left-leg-forward", "translate(0 0) scale(1 1)"],
+        ["avatar-left-leg-back",    "translate(0 75) scale(1 0.5)"]
+      ],
+      "back": [
+        ["avatar-left-leg-forward", "translate(0 80) scale(1 0.5)"],
+        ["avatar-left-leg-back",    "translate(0 0) scale(1 1)"]
+      ],
+      "center": [
+        ["avatar-left-leg-forward", "translate(0 80) scale(1 0.5)"],
+        ["avatar-left-leg-back",    "translate(0 75) scale(1 0.5)"]
+      ]
+    },
+    "right_leg": {
+      "forward": [
+        ["avatar-right-leg-forward", "translate(0 0) scale(1 1)"],
+        ["avatar-right-leg-back",    "translate(0 75) scale(1 0.5)"]
+      ],
+      "back": [
+        ["avatar-right-leg-forward", "translate(0 80) scale(1 0.5)"],
+        ["avatar-right-leg-back",    "translate(0 0) scale(1 1)"]
+      ],
+      "center": [
+        ["avatar-right-leg-forward", "translate(0 80) scale(1 0.5)"],
+        ["avatar-right-leg-back",    "translate(0 75) scale(1 0.5)"]
+      ]
+    },
+    "left_arm": {
+      "forward": [
+        ["avatar-left-arm-forward", "translate(0 0) scale(1 1) rotate(0 136 151)"],
+        ["avatar-left-arm-back",    "translate(73 68) scale(0.5 0.5) rotate(0 136 151)"]
+      ],
+      "back": [
+        ["avatar-left-arm-forward", "translate(1 85) scale(1 0.45) rotate(0 136 151)"],
+        ["avatar-left-arm-back",    "translate(0 0) scale(1 1) rotate(0 136 151)"]
+      ],
+      "back-left": [
+        ["avatar-left-arm-forward", "translate(1 85) scale(1 0.45) rotate(0 136 151)"],
+        ["avatar-left-arm-back",    "translate(0 -2) scale(1 1) rotate(0 136 151)"]
+      ],
+      "back-right": [
+        ["avatar-left-arm-forward", "translate(1 85) scale(1 0.45) rotate(0 136 151)"],
+        ["avatar-left-arm-back",    "translate(0 3.5) scale(1 1) rotate(-15 136 151)"]
+      ],
+      "center": [
+        ["avatar-left-arm-forward", "translate(1 85) scale(1 0.45) rotate(0 136 151)"],
+        ["avatar-left-arm-back",    "translate(73 68) scale(0.5 0.5) rotate(0 136 151)"]
+      ],
+      "open": [
+        ["avatar-left-arm-forward", "translate(0, 0) scale(1,1) rotate(-90 136 151)"]
+      ],
+      "extended": [
+        ["avatar-left-arm-forward", "translate(0, 0) scale(1,1) rotate(0 136 151)"]
+      ]
+    },
+    "right_arm": {
+      "forward": [
+        ["avatar-right-arm-forward", "translate(0 0) scale(1 1) rotate(0 164 151)"],
+        ["avatar-right-arm-back",    "translate(78 68) scale(0.5 0.5) rotate(0 164 151)"]
+      ],
+      "back": [
+        ["avatar-right-arm-forward", "translate(-1 85) scale(1 0.45) rotate(0 164 151)"],
+        ["avatar-right-arm-back",    "translate(0 0) scale(1 1) rotate(0 164 151)"]
+      ],
+      "back-right": [
+        ["avatar-right-arm-forward", "translate(-1 85) scale(1 0.45) rotate(0 164 151)"],
+        ["avatar-right-arm-back",    "translate(0 -2) scale(1 1) rotate(0 164 151)"]
+      ],
+      "back-left": [
+        ["avatar-right-arm-forward", "translate(-1 85) scale(1 0.45) rotate(0 164 151)"],
+        ["avatar-right-arm-back",    "translate(0 3.5) scale(1 1) rotate(15 164 151)"]
+      ],
+      "center": [
+        ["avatar-right-arm-forward", "translate(-1 85) scale(1 0.45) rotate(0 164 151)"],
+        ["avatar-right-arm-back",    "translate(78 68) scale(0.5 0.5) rotate(0 164 151)"]
+      ],
+      "open": [
+        ["avatar-right-arm-forward", "translate(0, 0) scale(1,1) rotate(90 164 151)"]
+      ],
+      "extended": [
+        ["avatar-right-arm-forward", "translate(0, 0) scale(1,1) rotate(0 164 151)"]
+      ]
+    },
+    "head": {
+      "left": [["avatar-head", "translate(-3 -4)"]],
+      "right": [["avatar-head", "translate(3 -4)"]],
+      "center": [["avatar-head", "translate(0 0)"]]
+    },
+    "torso": {
+      "right": [["avatar-torso", "rotate(-10 150 150)"]],
+      "left": [["avatar-torso", "rotate(10 150 150)"]],
+      "center": [["avatar-torso", "rotate(0 150 150)"]],
+      "center-720": [["avatar-torso", "rotate(720 150 150)"]]
+    },
+    "self": {
+      "center": [["avatar-layer-self", "rotate(0 150 150)"]],
+      "center-720": [["avatar-layer-self", "rotate(720 150 150)"]]
+    }
+  },
+  "sequence": {
+    "walk": [
+      {"right_arm": "back-right", "left_arm": "back-right", "right_leg": "back", "left_leg": "forward", "head": "left", "torso": "right"},
+      {"right_arm": "back-left", "left_arm": "back-left", "right_leg": "forward", "left_leg": "back", "head": "right", "torso": "left"}
+    ],
+    "dance": [
+      {"right_arm": "open", "left_arm": "open", "duration": 50},
+      {"right_arm": "extended", "left_arm": "extended", "duration": 50},
+      {"right_arm": "open", "left_arm": "open", "duration": 50},
+      {"right_arm": "extended", "left_arm": "extended", "duration": 50},
+      {"right_arm": "open", "left_arm": "open", "duration": 50},
+      {"right_arm": "extended", "left_arm": "extended", "duration": 50},
+      {"right_arm": "center", "left_arm": "center", "duration": 50}
+    ],
+    "celebrate": [
+      {"self": "center", "right_arm": "open", "left_arm": "open"},
+      {"self": "center-720", "duration": 1000, "ease": "easeCubic"},
+      {"self": "center", "duration": 0},
+      {"right_arm": "center", "left_arm": "center"}
+    ],
+    "stop": [
+      {"right_arm": "center", "left_arm": "center", "right_leg": "center", "left_leg": "center", "head": "center", "torso": "center"}
+    ]
+  }
+}
