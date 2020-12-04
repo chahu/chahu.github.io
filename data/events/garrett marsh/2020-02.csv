@@ -1,7 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2020-02-28,Blue,5.9,28c55459f34c54a90030b117c0c6d4be,,Attempt,wall-red,50.1,
-2020-02-23,Pink,5.8,e4574f248eadd10bb87057c63b009400,5.0,Flash,wall-auto-belay,364.2,
 2020-02-23,Grey,5.9,a681f7f13982adc21a3eaaf509c504ac,,Red Point,wall-auto-belay,340.4,
+2020-02-23,Pink,5.8,e4574f248eadd10bb87057c63b009400,5.0,Flash,wall-auto-belay,364.2,
 2020-02-21,Pink,V1,183e51b50241ab343b6f18d216abba16,5.0,Red Point,wall-boulders,359.0,
 2020-02-20,Red,V1,4b1511edc5e8d3ffe7140693173fa049,5.0,Red Point,wall-boulders,423.0,
 2020-02-13,Lime Green,V1,a488a6fe1a733e451898ad335d13d216,,Flash,wall-mezzanine,39.7,

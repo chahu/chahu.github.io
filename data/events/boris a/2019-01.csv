@@ -1,56 +1,56 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-01-28,Pink,5.12c,2885121bf4e33ffce2d2e7a5f4f6f668,4.0,Red Point,wall-back-wall,1018.7,fun
-2019-01-27,Yellow,5.11c,f5248aa35e622be226efb03be6f87c4d,4.0,Onsight,wall-island,226.9,I had fun with the last clip
-2019-01-27,White,5.11c,f7e3abb0385697a067722017f445bab5,4.0,Onsight,wall-red,155.6,
 2019-01-27,Red,5.11b,dd4e1942251cb3932b126d2e626e3ff9,5.0,Onsight,wall-back-wall,1175.7,fun finish
+2019-01-27,White,5.11c,f7e3abb0385697a067722017f445bab5,4.0,Onsight,wall-red,155.6,
 2019-01-27,White,5.12a,082af960bb4927e7f816297cf7a68ea9,4.0,Attempt,wall-back-wall,328.9,fun
-2019-01-27,Yellow,V3,35e482e2b4594e52381028755ff61247,3.0,Flash,wall-boulders,288.8,
-2019-01-27,Red,V3,cf54b3890b323d900dd2d885c851565e,4.0,Flash,wall-boulders,288.8,
-2019-01-27,Blue,V0,64ea47c11037bc93138094d78936ecae,3.0,Flash,wall-boulders,359.0,
-2019-01-27,White,V1,ab36be18dc16afdfc462f2efedf59e65,3.0,Flash,wall-boulders,359.0,
-2019-01-27,Black,V2,3a4e4e98e14179e12c6a35c8c03a2573,3.0,Flash,wall-boulders,359.0,
-2019-01-27,Red,V5,b6059afb2b18e8cb9a47ace97be7f883,3.0,Flash,wall-boulders,359.0,
 2019-01-27,Lime Green,V4,44aa15e83690d7a7ead7db684efae398,4.0,Flash,wall-boulders,288.8,
+2019-01-27,Red,V5,b6059afb2b18e8cb9a47ace97be7f883,3.0,Flash,wall-boulders,359.0,
+2019-01-27,Black,V2,3a4e4e98e14179e12c6a35c8c03a2573,3.0,Flash,wall-boulders,359.0,
+2019-01-27,White,V1,ab36be18dc16afdfc462f2efedf59e65,3.0,Flash,wall-boulders,359.0,
+2019-01-27,Blue,V0,64ea47c11037bc93138094d78936ecae,3.0,Flash,wall-boulders,359.0,
+2019-01-27,Yellow,5.11c,f5248aa35e622be226efb03be6f87c4d,4.0,Onsight,wall-island,226.9,I had fun with the last clip
+2019-01-27,Red,V3,cf54b3890b323d900dd2d885c851565e,4.0,Flash,wall-boulders,288.8,
+2019-01-27,Yellow,V3,35e482e2b4594e52381028755ff61247,3.0,Flash,wall-boulders,288.8,
+2019-01-27,Pink,5.12c,2885121bf4e33ffce2d2e7a5f4f6f668,4.0,Red Point,wall-back-wall,1018.7,fun
 2019-01-25,Purple,5.12a,c92a3feefdabf71e02883627a80b6fcc,3.0,Onsight,wall-back-wall,1228.7,
-2019-01-25,Yellow,V5,0909cb4515145b822d27932913cd5dca,3.0,Red Point,wall-boulders,423.0,
 2019-01-25,Pink,5.12c,2885121bf4e33ffce2d2e7a5f4f6f668,4.0,Attempt,wall-back-wall,1018.7,
-2019-01-22,Black,V5,5d6b66752eda30178eb969a0dc8e1ca6,5.0,Red Point,wall-boulders,581.0,fun
-2019-01-21,Tan,5.11b,7c4f691059a746c879f081d7fcbe5dd9,3.0,Onsight,wall-island,59.4,
-2019-01-21,Purple Low Start,V5,b345725ece30167490af119718682282,3.0,Red Point,wall-boulders,505.7,not obvious beta
-2019-01-21,Tan,5.12d,6557d7bd377302a1461fb67a44d910f4,3.0,Top Rope,wall-island,211.0,
+2019-01-25,Yellow,V5,0909cb4515145b822d27932913cd5dca,3.0,Red Point,wall-boulders,423.0,
 2019-01-21,Pink,5.12c,2885121bf4e33ffce2d2e7a5f4f6f668,4.0,Top Rope,wall-back-wall,1018.7,
-2019-01-20,White,V6,ff0f0bb9c3f7487620e2a33ec3fc2cbc,3.0,Red Point,wall-boulders,667.3,tricky finish
-2019-01-20,Purple High Start,V3,db321f3536c6b1116b24e8f04141e1d3,3.0,Flash,wall-boulders,505.7,
-2019-01-20,Blue,V4,7ae07cc594bfbeee107a251c7b992c19,4.0,Red Point,wall-boulders,423.0,fun
-2019-01-20,Yellow,V4,e4360095a2574562fafd3a21278f04c7,3.0,Flash,wall-boulders,581.0,
-2019-01-20,Tan,V2,18955133edf9f75e1d1930adfa4233c0,3.0,Flash,wall-boulders,423.0,
-2019-01-20,Lime Green,V0,46e6224b81223c9a6daa42106e04ed28,3.0,Flash,wall-boulders,423.0,
-2019-01-20,Lime Green,V2,726864e5a5b713ef4081c53abdf80793,3.0,Flash,wall-boulders,581.0,
-2019-01-20,Blue,V3,2a1d743ec2b91cbe1e388d759c3920c6,3.0,Flash,wall-boulders,581.0,
-2019-01-20,Black,V1,e9af4aa3550625490793ba36dbef7d4e,3.0,Flash,wall-boulders,581.0,
+2019-01-21,Purple Low Start,V5,b345725ece30167490af119718682282,3.0,Red Point,wall-boulders,505.7,not obvious beta
+2019-01-21,Black,V5,5d6b66752eda30178eb969a0dc8e1ca6,5.0,Red Point,wall-boulders,581.0,fun
+2019-01-21,Tan,5.11b,7c4f691059a746c879f081d7fcbe5dd9,3.0,Onsight,wall-island,59.4,
+2019-01-21,Tan,5.12d,6557d7bd377302a1461fb67a44d910f4,3.0,Top Rope,wall-island,211.0,
+2019-01-19,White,V6,ff0f0bb9c3f7487620e2a33ec3fc2cbc,3.0,Red Point,wall-boulders,667.3,tricky finish
+2019-01-19,Black,V1,e9af4aa3550625490793ba36dbef7d4e,3.0,Flash,wall-boulders,581.0,
+2019-01-19,Blue,V3,2a1d743ec2b91cbe1e388d759c3920c6,3.0,Flash,wall-boulders,581.0,
+2019-01-19,Lime Green,V2,726864e5a5b713ef4081c53abdf80793,3.0,Flash,wall-boulders,581.0,
+2019-01-19,Lime Green,V0,46e6224b81223c9a6daa42106e04ed28,3.0,Flash,wall-boulders,423.0,
+2019-01-19,Tan,V2,18955133edf9f75e1d1930adfa4233c0,3.0,Flash,wall-boulders,423.0,
+2019-01-19,Yellow,V4,e4360095a2574562fafd3a21278f04c7,3.0,Flash,wall-boulders,581.0,
+2019-01-19,Blue,V4,7ae07cc594bfbeee107a251c7b992c19,4.0,Red Point,wall-boulders,423.0,fun
+2019-01-19,Purple High Start,V3,db321f3536c6b1116b24e8f04141e1d3,3.0,Flash,wall-boulders,505.7,
 2019-01-17,Yellow,5.12c,186c275428bb810cd8fb03df242f4900,4.0,Attempt,wall-red,230.7,interesting
-2019-01-14,Pink,5.11d,07d7a88df346789da91537b109754f06,3.0,Attempt,wall-back-wall,689.8,crimps
-2019-01-14,Pink,5.12a,758aade61577800328db1d1ffa6c878f,3.0,Attempt,wall-back-wall,1330.2,
-2019-01-14,Lime Green,5.12a,ad4a00bac5ba476a2b4c9c37efb586cc,3.0,Attempt,wall-red,110.4,
 2019-01-13,Blue,V6,454b27b5c4aa45cabb96d3ebf371b75f,4.0,Flash,wall-boulders,736.4,
-2019-01-13,White,V7,8d9acd1acaa3f5fe47ed88c1d901d8b3,5.0,Red Point,wall-mezzanine,114.6,awesome beta﹐ thanks! to Tomo at https://www.instagram.com/p/Bsd5TM1BXV4/
-2019-01-10,Blue,V2,f50926a4db431481e26ab9ae64ed5dc5,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Blue,V1,c07fcdf02ea1e7c69b9181be93b009fd,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Yellow,V1,2b5c9d62743c13d293a6d1d860f36874,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Purple,V0,60dee7544902f9a85c45012834c07078,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,White,V2,ca89975a2b9ac251494527393be00259,3.0,Flash,wall-mezzanine,39.7,
-2019-01-10,Lime Green,V0,d507658c7872a92c58965c7603b9e061,3.0,Flash,wall-mezzanine,39.7,
-2019-01-10,Purple,V6,68478a57c4632aaf2ccd0694e79b8abf,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Pink,V5,bb9e809e963bf55583791d5cffd3908d,4.0,Flash,wall-mezzanine,114.6,fun even though it's one move
-2019-01-10,Red,V5,f499e88c511b4f05d7e9b4178dbec165,4.0,Red Point,wall-mezzanine,39.7,
-2019-01-10,Black,V5,29e663f793333d6c73bcedee057e8600,5.0,Flash,wall-mezzanine,39.7,fun
-2019-01-10,Yellow,V4,c51e4387dab1fefb19acd973a3cf3538,3.0,Flash,wall-mezzanine,39.7,
-2019-01-10,Blue,V4,4bf24c8aa0a2fc946cf6642e6ba130f3,3.0,Flash,wall-mezzanine,39.7,
-2019-01-10,Pink,V4,91421eb4ee1bbccab9406524e921fe05,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Tan,V3,74a073fbd24ab5248948d2e5364229e7,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Black,V3,9422cec1fdd256e8eec2670378d221ca,3.0,Flash,wall-mezzanine,114.6,
-2019-01-10,Lime Green,V3,1713caf84e79fd07eb1d7019158b26ff,3.0,Flash,wall-mezzanine,39.7,
+2019-01-13,Lime Green,5.12a,ad4a00bac5ba476a2b4c9c37efb586cc,3.0,Attempt,wall-red,110.4,
+2019-01-13,Pink,5.12a,758aade61577800328db1d1ffa6c878f,3.0,Attempt,wall-back-wall,1330.2,
+2019-01-13,Pink,5.11d,07d7a88df346789da91537b109754f06,3.0,Attempt,wall-back-wall,689.8,crimps
+2019-01-13,White,V7,8d9acd1acaa3f5fe47ed88c1d901d8b3,5.0,Red Point,wall-mezzanine,114.6,"awesome beta, thanks! to Tomo at https://www.instagram.com/p/Bsd5TM1BXV4/"
 2019-01-10,Purple,5.11c,9ced4e4d2f6d6dbf4fa199d27fa90575,4.0,Onsight,wall-back-wall,994.6,big crosses on pockets
-2019-01-10,White,5.11c,53271161531aad4f0b7f15d85c6b0068,3.0,Onsight,wall-back-wall,968.7,
+2019-01-10,Lime Green,V3,1713caf84e79fd07eb1d7019158b26ff,3.0,Flash,wall-mezzanine,39.7,
+2019-01-10,Black,V3,9422cec1fdd256e8eec2670378d221ca,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Tan,V3,74a073fbd24ab5248948d2e5364229e7,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Pink,V4,91421eb4ee1bbccab9406524e921fe05,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Blue,V4,4bf24c8aa0a2fc946cf6642e6ba130f3,3.0,Flash,wall-mezzanine,39.7,
+2019-01-10,Yellow,V4,c51e4387dab1fefb19acd973a3cf3538,3.0,Flash,wall-mezzanine,39.7,
+2019-01-10,Black,V5,29e663f793333d6c73bcedee057e8600,5.0,Flash,wall-mezzanine,39.7,fun
+2019-01-10,Red,V5,f499e88c511b4f05d7e9b4178dbec165,4.0,Red Point,wall-mezzanine,39.7,
 2019-01-10,Yellow,V3,429db585192a725fb4731b0c693f0f75,3.0,Flash,wall-mezzanine,114.6,
-2019-01-07,Yellow,5.11b,5788fc1b4bf12fbd91e7865ac44e3b83,4.0,Red Point,wall-back-wall,533.8,
+2019-01-10,Pink,V5,bb9e809e963bf55583791d5cffd3908d,4.0,Flash,wall-mezzanine,114.6,fun even though it's one move
+2019-01-10,Purple,V6,68478a57c4632aaf2ccd0694e79b8abf,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Lime Green,V0,d507658c7872a92c58965c7603b9e061,3.0,Flash,wall-mezzanine,39.7,
+2019-01-10,White,V2,ca89975a2b9ac251494527393be00259,3.0,Flash,wall-mezzanine,39.7,
+2019-01-10,Purple,V0,60dee7544902f9a85c45012834c07078,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Yellow,V1,2b5c9d62743c13d293a6d1d860f36874,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Blue,V1,c07fcdf02ea1e7c69b9181be93b009fd,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,Blue,V2,f50926a4db431481e26ab9ae64ed5dc5,3.0,Flash,wall-mezzanine,114.6,
+2019-01-10,White,5.11c,53271161531aad4f0b7f15d85c6b0068,3.0,Onsight,wall-back-wall,968.7,
+2019-01-06,Yellow,5.11b,5788fc1b4bf12fbd91e7865ac44e3b83,4.0,Red Point,wall-back-wall,533.8,

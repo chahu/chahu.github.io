@@ -1,13 +1,13 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-11-16,Pink,5.9,ed92e057655f1aa97a14d8880ded4d40,3.0,Top Rope,wall-auto-belay,273.1,
 2018-11-16,Purple,5.9,7e5caac310c7572d26e460fc5e505269,4.0,Top Rope,wall-auto-belay,173.7,
-2018-11-15,Lime Green,5.11d,e563d2f94679e69f41370f010bc4e1da,4.0,Top Rope,wall-back-wall,946.0,
+2018-11-16,Pink,5.9,ed92e057655f1aa97a14d8880ded4d40,3.0,Top Rope,wall-auto-belay,273.1,
+2018-11-14,Lime Green,5.11d,e563d2f94679e69f41370f010bc4e1da,4.0,Top Rope,wall-back-wall,946.0,
 2018-11-08,Red,5.10b,59b41addff4cc76aeb134850c1ceccaf,3.0,Onsight,wall-auto-belay,198.2,
-2018-11-08,Purple,5.10c,ed7a05253beb0a3025dc73b3c831fea2,4.0,Onsight,wall-auto-belay,222.7,
-2018-11-08,Purple,5.6,a4f14b01b6d671ffd186f4515560c088,3.0,Onsight,wall-auto-belay,302.7,
+2018-11-08,Orange,5.11a,744dff08abfd99efd06fa21ea860195d,2.0,Red Point,wall-auto-belay,304.0,"went straight up, didn’t seem like the intended way.."
 2018-11-08,Green,5.9,ca6b372781b59128adedf07aec53cf4d,3.0,Onsight,wall-auto-belay,303.3,
-2018-11-08,Orange,5.11a,744dff08abfd99efd06fa21ea860195d,2.0,Red Point,wall-auto-belay,304.0,went straight up﹐ didn’t seem like the intended way..
+2018-11-08,Purple,5.6,a4f14b01b6d671ffd186f4515560c088,3.0,Onsight,wall-auto-belay,302.7,
+2018-11-08,Purple,5.10c,ed7a05253beb0a3025dc73b3c831fea2,4.0,Onsight,wall-auto-belay,222.7,
 2018-11-01,Black,5.10a,08f35dd7d871cc72889a35ee148e3edd,3.0,Onsight,wall-auto-belay,274.3,
-2018-11-01,Blue,5.10b,c40a5b2ae24720de49756c592c1a6cc9,4.0,Onsight,wall-auto-belay,342.5,
-2018-11-01,Yellow,5.10b,f15216bacde2740ee5f58cde02d2bcec,4.0,Onsight,wall-auto-belay,250.5,
 2018-11-01,Green,5.11c,5ad17448d64a4fc714a27b28cb067989,5.0,Red Point,wall-auto-belay,174.3,
+2018-11-01,Yellow,5.10b,f15216bacde2740ee5f58cde02d2bcec,4.0,Onsight,wall-auto-belay,250.5,
+2018-11-01,Blue,5.10b,c40a5b2ae24720de49756c592c1a6cc9,4.0,Onsight,wall-auto-belay,342.5,

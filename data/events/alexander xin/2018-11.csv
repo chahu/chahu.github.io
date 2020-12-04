@@ -2,7 +2,7 @@ date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2018-11-12,Red,V6,8ed9eaf122a1d7cd7cae0a3013e59173,4.0,Red Point,wall-slab,192.9,Neato. Fun to figure out the beta
 2018-11-12,Blue,V7,033a79abab9513fee73842aea1ba603d,4.0,Red Point,wall-boulders,736.4,One for the aegis
 2018-11-12,White,V7,14fb1c9b84be9f48a28108c3fb4e9170,4.0,Red Point,wall-boulders,423.0,Correct beta (using the left heel/right hand) was clutch. That and good core
-2018-11-12,Yellow,V7,d67342406fa599fad854e2a51b9fbc28,5.0,Red Point,wall-boulders,505.7,Sexy. Funny enough being a shortie﹐ the beta I use requires far reaches...
+2018-11-12,Yellow,V7,d67342406fa599fad854e2a51b9fbc28,5.0,Red Point,wall-boulders,505.7,"Sexy. Funny enough being a shortie, the beta I use requires far reaches..."
 2018-11-09,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,2.0,Flash,wall-slab,48.7,Seems pretty soft
 2018-11-08,Lime Green,V2,1f724c46c0f35482f2a890e8d90ec3db,3.0,Flash,wall-slab,192.9,
 2018-11-08,Pink,V4,eb50fde2f6e2c8dac6455bd3052d565e,3.0,Flash,wall-slab,192.9,
@@ -15,19 +15,19 @@ date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2018-11-08,Tan,V4,ef55d734d524bb2ca8a4c5a61f6dae92,4.0,Flash,wall-slab,48.7,Nice 
 2018-11-08,Yellow,V3,c7681bb87852118773ee3c0a72effd0d,3.0,Red Point,wall-slab,192.9,Fun
 2018-11-08,Pink,V4,db74fff4e2113a4bfed0de30777ba104,4.0,Flash,wall-slab,118.8,Lots of nice technical moves
-2018-11-06,Pink,V7,8059250e8d3bd22bd65861b7cfef20ea,4.0,Red Point,wall-boulders,793.8,Lovely and long﹐ good workout - also my first V7 on the 45!
-2018-11-06,Purple,V5,72bdda21fbd02f79f43de8a801bd34d6,4.0,Red Point,wall-boulders,736.4,Didn’t see the purple on the volume the first time
-2018-11-06,Yellow,V6,c7f7a5b5d23d2423e288d9aec3393d5b,4.0,Red Point,wall-boulders,667.3,Fun﹐ knee bar and then a little dynamic move and then some good pinches
 2018-11-05,Tan,V2,7297dc08f72fc34b95b276256ee2acff,3.0,Flash,wall-slab,192.9,
-2018-11-02,White,V4,f4497a15ea693a36f3ec19f633566fb8,3.0,Red Point,wall-boulders,793.8,Fun deep overhang to dihedral﹐ needs some thought or luck (in my case) to figure out first few moves and then you’re fine
-2018-11-02,Red,V5,e676217938e1107509e41eac5d0bf423,4.0,Red Point,wall-boulders,667.3,Pocket to downclimb to crimpy sidepulls to a dyno﹐ all while traversing - fun!
-2018-11-02,Yellow,V4,0d3c8f669936e0b1cef22ea7651c3db6,4.0,Red Point,wall-boulders,736.4,Interesting - need to sequence or you’ll be on the wrong hand
-2018-11-02,Lime Green,V3,e57ee7a8afcb3a983147d38f1a79aedc,3.0,Flash,wall-boulders,667.3,Fairly hard V3! Good crimp and body positioning workout
-2018-11-02,Purple,V4,87d59baf8fe36415309751fa10f07e72,4.0,Flash,wall-boulders,793.8,Careful climbing and footwork are key
-2018-11-02,White,V3,5f166f02935d1b50802c9448008188a3,3.0,Flash,wall-boulders,793.8,Good for intermediate - need good sequencing to get this without pumping out
-2018-11-02,Lime Green,V3,b721bc8ef2380c4ec2d9573e2ea8ac99,4.0,Flash,wall-boulders,793.8,Short but nice blend of crimp and slope on the dihedral﹐ good for building static strength and balance
-2018-11-02,Yellow,V2,92a032663b87cc90878407938ec066a0,3.0,Flash,wall-boulders,793.8,Fun deep overhang -> roof warmup﹐ teaches proper sequencing and engaging core for advancing beginner
-2018-11-02,Blue,V3,540dc9ec5b6a91cf32824140c1a49d74,4.0,Red Point,wall-boulders,667.3,Good overhanging warmup - requires some sequencing; or good for the advancing beginner
-2018-11-02,Red,V1,0159a1694c5ca00e09ff02850c911110,3.0,Flash,wall-boulders,793.8,Nice crimpy warmup or advancing beginner vert wall climb - fully downclimb for a good exercise on proper placement
+2018-11-05,Yellow,V6,c7f7a5b5d23d2423e288d9aec3393d5b,4.0,Red Point,wall-boulders,667.3,"Fun, knee bar and then a little dynamic move and then some good pinches"
+2018-11-05,Purple,V5,72bdda21fbd02f79f43de8a801bd34d6,4.0,Red Point,wall-boulders,736.4,Didn’t see the purple on the volume the first time
+2018-11-05,Pink,V7,8059250e8d3bd22bd65861b7cfef20ea,4.0,Red Point,wall-boulders,793.8,"Lovely and long, good workout - also my first V7 on the 45!"
 2018-11-02,White,V0,e1b1c3f65b3a00525221d9cfa6c843e1,3.0,Flash,wall-boulders,667.3,Nice warmup or juggy beginner overhang climb
+2018-11-02,Red,V1,0159a1694c5ca00e09ff02850c911110,3.0,Flash,wall-boulders,793.8,Nice crimpy warmup or advancing beginner vert wall climb - fully downclimb for a good exercise on proper placement
+2018-11-02,Blue,V3,540dc9ec5b6a91cf32824140c1a49d74,4.0,Red Point,wall-boulders,667.3,Good overhanging warmup - requires some sequencing; or good for the advancing beginner
+2018-11-02,Yellow,V2,92a032663b87cc90878407938ec066a0,3.0,Flash,wall-boulders,793.8,"Fun deep overhang -> roof warmup, teaches proper sequencing and engaging core for advancing beginner"
+2018-11-02,Lime Green,V3,b721bc8ef2380c4ec2d9573e2ea8ac99,4.0,Flash,wall-boulders,793.8,"Short but nice blend of crimp and slope on the dihedral, good for building static strength and balance"
+2018-11-02,White,V3,5f166f02935d1b50802c9448008188a3,3.0,Flash,wall-boulders,793.8,Good for intermediate - need good sequencing to get this without pumping out
+2018-11-02,Purple,V4,87d59baf8fe36415309751fa10f07e72,4.0,Flash,wall-boulders,793.8,Careful climbing and footwork are key
+2018-11-02,Lime Green,V3,e57ee7a8afcb3a983147d38f1a79aedc,3.0,Flash,wall-boulders,667.3,Fairly hard V3! Good crimp and body positioning workout
 2018-11-02,Lime Green,V5,dfd74058424eaf1a9210a83cd425355c,4.0,Flash,wall-boulders,736.4,Solid fun
+2018-11-02,Yellow,V4,0d3c8f669936e0b1cef22ea7651c3db6,4.0,Red Point,wall-boulders,736.4,Interesting - need to sequence or you’ll be on the wrong hand
+2018-11-02,Red,V5,e676217938e1107509e41eac5d0bf423,4.0,Red Point,wall-boulders,667.3,"Pocket to downclimb to crimpy sidepulls to a dyno, all while traversing - fun!"
+2018-11-02,White,V4,f4497a15ea693a36f3ec19f633566fb8,3.0,Red Point,wall-boulders,793.8,"Fun deep overhang to dihedral, needs some thought or luck (in my case) to figure out first few moves and then you’re fine"

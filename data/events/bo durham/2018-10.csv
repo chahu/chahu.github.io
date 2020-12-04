@@ -1,47 +1,54 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2018-10-30,Tan,5.12a,8a0c8cd91a5e3da6f17fda917cee4604,4.0,Top Rope,wall-back-wall,1141.8,Double Cruxy
-2018-10-26,Blue,5.11c,92bbbdaeb8038b3773979c98b2e4bc8e,5.0,Top Rope,wall-back-wall,243.4,
-2018-10-26,Yellow,5.12b,43d8efa309a57c5bba759530f0f1e12b,5.0,Top Rope,wall-back-wall,142.5,
-2018-10-26,Pink,5.11a,431fb09c101bfd0955cf55e179330fba,5.0,Top Rope,wall-island,92.7,
-2018-10-26,Red,5.11d,c9fdbbc49bc5c4ea771c67e2a26f6f0f,5.0,Top Rope,wall-island,60.4,
-2018-10-26,White,5.11b,f755e17010038a93f1eff2b49b682aaa,5.0,Top Rope,wall-island,43.2,
-2018-10-26,Blue,5.12b,e0a77946c33a2bd294eb3a310d86be0e,5.0,Top Rope,wall-island,18.7,
-2018-10-25,Lime Green,V7,01e64e8f2caac0e88968814df88d5c43,5.0,Red Point,wall-boulders,288.8,
-2018-10-24,Pink,5.11c,51782e05cb3d10eae5273e2b73781473,5.0,Top Rope,wall-back-wall,994.6,
-2018-10-24,White,5.12a,4a9e8e03cc000fce663edac37fcc88d8,5.0,Top Rope,wall-back-wall,1045.1,
-2018-10-24,Yellow,5.12b,d93f67a847a56a3738001676d0949b87,5.0,Top Rope,wall-back-wall,967.8,
-2018-10-24,Lime Green,5.11d,e563d2f94679e69f41370f010bc4e1da,5.0,Top Rope,wall-back-wall,946.0,
-2018-10-23,Blue,V9,aa3067ce3f3a26f2c28118f5174b9fb0,3.0,Red Point,wall-boulders,505.7,Prob swap with Blue on the left.
-2018-10-23,Tan,V8,04520fa710054d5441ae5b1c1d9f5dbf,5.0,Red Point,wall-boulders,505.7,
-2018-10-23,Red Low,V7,337d4094e01623c1414ce066ba478a8d,5.0,Red Point,wall-boulders,423.0,
-2018-10-23,Purple,5.11c,0ea9b556c5089e211c1c67dd2773e50b,5.0,Top Rope,wall-back-wall,870.9,
-2018-10-16,Tan,V8,055999e4b41aa84624c3cf66afd586c4,5.0,Red Point,wall-boulders,423.0,Nice one BV
-2018-10-16,Black Low,V8,276724dab9428a7d4b5e9fe620d20c2e,5.0,Red Point,wall-boulders,423.0,
+2018-10-25,Pink,5.11a,431fb09c101bfd0955cf55e179330fba,5.0,Top Rope,wall-island,92.7,
+2018-10-25,Yellow,5.12b,43d8efa309a57c5bba759530f0f1e12b,5.0,Top Rope,wall-back-wall,142.5,
+2018-10-25,Blue,5.11c,92bbbdaeb8038b3773979c98b2e4bc8e,5.0,Top Rope,wall-back-wall,243.4,
+2018-10-25,Blue,5.12b,e0a77946c33a2bd294eb3a310d86be0e,5.0,Top Rope,wall-island,18.7,
+2018-10-25,White,5.11b,f755e17010038a93f1eff2b49b682aaa,5.0,Top Rope,wall-island,43.2,
+2018-10-25,Red,5.11d,c9fdbbc49bc5c4ea771c67e2a26f6f0f,5.0,Top Rope,wall-island,60.4,
+2018-10-24,Lime Green,V7,01e64e8f2caac0e88968814df88d5c43,5.0,Red Point,wall-boulders,288.8,
+2018-10-23,Lime Green,5.11d,e563d2f94679e69f41370f010bc4e1da,5.0,Top Rope,wall-back-wall,946.0,
+2018-10-23,Yellow,5.12b,d93f67a847a56a3738001676d0949b87,5.0,Top Rope,wall-back-wall,967.8,
+2018-10-23,White,5.12a,4a9e8e03cc000fce663edac37fcc88d8,5.0,Top Rope,wall-back-wall,1045.1,
+2018-10-23,Pink,5.11c,51782e05cb3d10eae5273e2b73781473,5.0,Top Rope,wall-back-wall,994.6,
+2018-10-22,Purple,5.11c,0ea9b556c5089e211c1c67dd2773e50b,5.0,Top Rope,wall-back-wall,870.9,
+2018-10-22,Red Low,V7,337d4094e01623c1414ce066ba478a8d,5.0,Red Point,wall-boulders,423.0,
+2018-10-22,Tan,V8,04520fa710054d5441ae5b1c1d9f5dbf,5.0,Red Point,wall-boulders,505.7,
+2018-10-22,Blue,V9,aa3067ce3f3a26f2c28118f5174b9fb0,3.0,Red Point,wall-boulders,505.7,Prob swap with Blue on the left.
+2018-10-15,Black Low,V8,276724dab9428a7d4b5e9fe620d20c2e,5.0,Red Point,wall-boulders,423.0,
+2018-10-15,Tan,V8,055999e4b41aa84624c3cf66afd586c4,5.0,Red Point,wall-boulders,423.0,Nice one BV
 2018-10-15,Pink,5.11b,afbcbd9445306becf197178fdff3c73e,5.0,Top Rope,wall-red,261.8,
 2018-10-12,Yellow,5.12a,961490179256530a81afb7a06d1c724b,5.0,Top Rope,wall-red,109.7,
-2018-10-12,White,5.10b,ac126d2081dfe0440be68718d2304474,4.0,Red Point,wall-island,467.3,
-2018-10-12,Lime Green,5.12b,295f96be1ad8aa69482a7aa94b501b76,4.0,Red Point,wall-back-wall,442.1,
-2018-10-11,Tan,V0,54c53d5ecd9f0bebdf0806a9eef8b7f4,5.0,Red Point,wall-mezzanine,39.7,a real gem.
-2018-10-10,White,V9,6b2852d47a8ff647aeae8bf96d7c6e0c,3.0,Red Point,wall-boulders,793.8,
-2018-10-10,Tan,V7,0da721659f163a648440b2949510fd7d,5.0,Red Point,wall-boulders,288.8,DUDE WHAT A RUSH
-2018-10-10,Yellow Left,V8,9f6abd3abf98e3607d5dd25a20422ac0,5.0,Red Point,wall-boulders,288.8,ayyyyyyyyyyy
-2018-10-10,Lime Green,V10,0dd89b0a86eed7e364c0ef774cec6ed8,5.0,Red Point,wall-boulders,667.3,ayyyyyyyyy
-2018-10-10,White,V2,ea2baeb508ba106120052e25c9b345a8,3.0,Red Point,wall-boulders,667.3,
-2018-10-10,Pink,V5,887946b6f486a8ee442affe79db7c73a,3.0,Red Point,wall-boulders,736.4,
-2018-10-10,Pink,V5,ba2bcefc22c0e9837206ba92577c1c87,3.0,Red Point,wall-boulders,793.8,
-2018-10-10,Yellow Left,V0,983c49d6a1e5da0a8434a23cced35539,3.0,Red Point,wall-boulders,793.8,
-2018-10-10,Yellow,V3,c7ea348220cf51ab71af69b601d2a8f7,3.0,Red Point,wall-boulders,505.7,
-2018-10-10,Tan,V1,f291270a680679a03fb2a76fe27d558c,3.0,Red Point,wall-boulders,581.0,
-2018-10-10,White,V2,b91577baaeb36b0cb2f269381c37deb4,3.0,Red Point,wall-boulders,581.0,
-2018-10-10,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Red Point,wall-boulders,581.0,
-2018-10-10,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Red Point,wall-boulders,581.0,
+2018-10-11,White,5.10b,ac126d2081dfe0440be68718d2304474,4.0,Red Point,wall-island,467.3,
+2018-10-11,Lime Green,5.12b,295f96be1ad8aa69482a7aa94b501b76,4.0,Red Point,wall-back-wall,442.1,
+2018-10-10,Tan,V0,54c53d5ecd9f0bebdf0806a9eef8b7f4,5.0,Red Point,wall-mezzanine,39.7,a real gem.
+2018-10-09,Yellow,V6,5e8b42541f9318761754f8b7f889164d,3.0,Red Point,wall-boulders,359.0,
+2018-10-09,Blue,V0,1648177929ed1d7c8eb76a4667f2b986,3.0,Red Point,wall-boulders,359.0,
+2018-10-09,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Red Point,wall-boulders,581.0,
+2018-10-09,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Red Point,wall-boulders,581.0,
+2018-10-09,White,V2,b91577baaeb36b0cb2f269381c37deb4,3.0,Red Point,wall-boulders,581.0,
+2018-10-09,Tan,V1,f291270a680679a03fb2a76fe27d558c,3.0,Red Point,wall-boulders,581.0,
+2018-10-09,Yellow,V3,c7ea348220cf51ab71af69b601d2a8f7,3.0,Red Point,wall-boulders,505.7,
+2018-10-09,Yellow Left,V0,983c49d6a1e5da0a8434a23cced35539,3.0,Red Point,wall-boulders,793.8,
+2018-10-09,Yellow Left,V8,9f6abd3abf98e3607d5dd25a20422ac0,5.0,Red Point,wall-boulders,288.8,ayyyyyyyyyyy
+2018-10-09,Tan,V7,0da721659f163a648440b2949510fd7d,5.0,Red Point,wall-boulders,288.8,DUDE WHAT A RUSH
+2018-10-09,Pink,V5,ba2bcefc22c0e9837206ba92577c1c87,3.0,Red Point,wall-boulders,793.8,
+2018-10-09,Pink,V5,887946b6f486a8ee442affe79db7c73a,3.0,Red Point,wall-boulders,736.4,
+2018-10-09,White,V2,ea2baeb508ba106120052e25c9b345a8,3.0,Red Point,wall-boulders,667.3,
+2018-10-09,Purple,V4,679ab6d58d75f6abd766dc821bab5cc5,3.0,Red Point,wall-boulders,793.8,
+2018-10-09,Red Right,V1,bb8f270429ff141608aa56fcd4bd8435,3.0,Red Point,wall-boulders,793.8,
+2018-10-09,Blue,V1,48aead99e0eba9792a15d55e6cdea1aa,3.0,Red Point,wall-boulders,667.3,
+2018-10-09,Red,V3,454688c31ab342f270522f0e7194374c,3.0,Red Point,wall-boulders,667.3,
+2018-10-09,Yellow,V6,7efd039cb5f1e419f47738815f178925,3.0,Red Point,wall-boulders,423.0,
+2018-10-09,White,V9,6b2852d47a8ff647aeae8bf96d7c6e0c,3.0,Red Point,wall-boulders,793.8,
 2018-10-09,Yellow,5.12a,495e8b62afe1ca98fdb47304dab200f9,3.0,Top Rope,wall-back-wall,251.9,
-2018-10-08,Blue,5.12c,fcf48df5b207819e5b8241eadd83fc0c,3.0,Red Point,wall-back-wall,16.3,
-2018-10-08,Black High,V6,a1af73607e40d5de35d9710bcba7a1ca,5.0,Red Point,wall-boulders,423.0,WHAT A RUSH
-2018-10-08,Red,V9,c349583b9e3d5be79f07292f7c588bda,3.0,Red Point,wall-boulders,505.7,SOFT
+2018-10-09,Lime Green,V10,0dd89b0a86eed7e364c0ef774cec6ed8,5.0,Red Point,wall-boulders,667.3,ayyyyyyyyy
 2018-10-08,Lime Green,V7,66705e866b7dfabd851f21ef0c4b21cc,5.0,Red Point,wall-boulders,581.0,
-2018-10-03,White,V7,1f5170b8068b1d25dfac9becad56e7b3,5.0,Red Point,wall-boulders,359.0,NICE ONE BV
-2018-10-03,Black,V6,9270b6aa4e48e3d9caae20969777c045,4.0,Red Point,wall-boulders,736.4,NICE
-2018-10-03,Tan,V7,2e1eab2e18b533baf8ec173d6714d9d4,3.0,Red Point,wall-boulders,736.4,DAN'S TAN
-2018-10-03,Yellow,V7,d4f7cf43570372a0dc58819b5fdf0f9a,5.0,Red Point,wall-boulders,736.4,Slapper.
+2018-10-08,Red,V9,c349583b9e3d5be79f07292f7c588bda,3.0,Red Point,wall-boulders,505.7,SOFT
+2018-10-08,Black High,V6,a1af73607e40d5de35d9710bcba7a1ca,5.0,Red Point,wall-boulders,423.0,WHAT A RUSH
+2018-10-08,Blue,5.12c,fcf48df5b207819e5b8241eadd83fc0c,3.0,Red Point,wall-back-wall,16.3,
 2018-10-03,Lime Green,V7,4a3ac648b08df82201289300b607ca90,4.0,Red Point,wall-boulders,793.8,Soft.
+2018-10-03,Yellow,V7,d4f7cf43570372a0dc58819b5fdf0f9a,5.0,Red Point,wall-boulders,736.4,Slapper.
+2018-10-03,Tan,V7,2e1eab2e18b533baf8ec173d6714d9d4,3.0,Red Point,wall-boulders,736.4,DAN'S TAN
+2018-10-03,Black,V6,9270b6aa4e48e3d9caae20969777c045,4.0,Red Point,wall-boulders,736.4,NICE
+2018-10-03,White,V7,1f5170b8068b1d25dfac9becad56e7b3,5.0,Red Point,wall-boulders,359.0,NICE ONE BV

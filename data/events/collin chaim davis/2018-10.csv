@@ -1,7 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-10-21,Blue,V1,1ca71a7046d1987c9e5eb55ac1511942,3.0,Red Point,wall-boulders,423.0,
 2018-10-21,Lime Green,V0,dfd7df0c064cb1e9afc887b79e7a7b30,3.0,Red Point,wall-slab,48.7,
+2018-10-21,Blue,V1,1ca71a7046d1987c9e5eb55ac1511942,3.0,Red Point,wall-boulders,423.0,
 2018-10-12,Yellow,5.5,69ed1a92d004d9ecd92510a6d99d40f8,3.0,Onsight,wall-auto-belay,343.2,
-2018-10-09,Purple,5.6,e847b1137abbdaad7d5f603ef57995ed,3.0,Onsight,wall-auto-belay,343.2,
-2018-10-09,Yellow,5.10b,f15216bacde2740ee5f58cde02d2bcec,3.0,Onsight,wall-auto-belay,250.5,
-2018-10-09,Yellow,5.9,aee578f17ea6c6fede7b54304a2794aa,3.0,Onsight,wall-auto-belay,341.8,
+2018-10-08,Yellow,5.9,aee578f17ea6c6fede7b54304a2794aa,3.0,Onsight,wall-auto-belay,341.8,
+2018-10-08,Yellow,5.10b,f15216bacde2740ee5f58cde02d2bcec,3.0,Onsight,wall-auto-belay,250.5,
+2018-10-08,Purple,5.6,e847b1137abbdaad7d5f603ef57995ed,3.0,Onsight,wall-auto-belay,343.2,

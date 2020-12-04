@@ -1,0 +1,13 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-10-31,Yellow,V0,9f2231636121087266b7cfd6f7f39a44,,Flash,wall-boulders,87.1,
+2020-10-31,Lime Green,V0,48865bfac77a9d40b06a320c28deec62,,Flash,wall-boulders,87.1,
+2020-10-31,Yellow,V1,9ee9f63a82057842befb11a2e9a6a117,,Flash,wall-boulders,87.1,
+2020-10-21,Pink,5.8,d89c2cd2cc3047901a3b2d537a6241bc,,Onsight,wall-auto-belay,363.6,
+2020-10-21,Grey,5.9,b838163690d6b04437f57b960ae962b3,,Onsight,wall-auto-belay,44.7,
+2020-10-21,Black,5.7,1e4c0c0750056bbd31e9ac4c3561fbc0,,Onsight,wall-auto-belay,362.9,
+2020-10-21,Purple,5.8,798350769ace5163a04f24cbd558f298,,Onsight,wall-auto-belay,391.2,
+2020-10-17,Pink,5.8,c47ca358521b20d4449b75ba2d1c83e1,,Onsight,wall-red,52.9,
+2020-10-17,Red,5.7,99cd96888cd7a244f2ce56ac52ebb997,,Onsight,wall-back-wall,1408.5,
+2020-10-17,Lime Green,5.5,c80009cf0cdfeeadff73e2c663fbe01f,,Onsight,wall-back-wall,1433.3,
+2020-10-17,Blue,5.7,b760cd5b1e6a51618fb08d210f05382b,,Onsight,wall-back-wall,1142.8,
+2020-10-02,Lime Green,5.8,c3ee5de86f10c0ce9c2b44cd168453c7,,Onsight,wall-island,470.0,

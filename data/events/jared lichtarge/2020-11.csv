@@ -1,0 +1,12 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-11-20,White,V5,3336638a307af6e6c34c69eac5754d20,,Flash,wall-slab,48.7,
+2020-11-20,Blue,V6,83d97a3c2ca70ac6aa7fa7c2e0d24ecb,,Flash,wall-slab,48.7,
+2020-11-20,Lime Green,V5,427ea49a607faa04e98159d5015598d4,,Flash,wall-slab,118.8,
+2020-11-20,Blue,V5,18f003eca0829bab0c0ddc4e35504fb4,4.0,Flash,wall-slab,118.8,
+2020-11-20,Pink,V9,0fd80cdaaa5a956559f5d7956103ef7c,,Red Point,wall-boulders,161.2,
+2020-11-20,Black,V5,4244391623e5c9221a26ddb3aae63b74,5.0,Red Point,wall-boulders,161.2,
+2020-11-08,Blue,V6,f5a9519face1812f69199bcbb7468606,4.0,Red Point,wall-mezzanine,114.6,
+2020-11-08,White,V4,0813fcb46777e06daf4aaa6a3e80dba0,,Red Point,wall-mezzanine,114.6,
+2020-11-08,Red,V5,2a6d68b6da038aadc2e678bac69e10f4,,Red Point,wall-mezzanine,39.7,
+2020-11-08,White,V4,54f629974a46775fd50c6566acf39c5a,,Red Point,wall-mezzanine,39.7,
+2020-11-08,Pink,V9,0fd80cdaaa5a956559f5d7956103ef7c,4.0,Red Point,wall-boulders,161.2,

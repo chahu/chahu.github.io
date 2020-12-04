@@ -1,14 +1,14 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2019-07-29,Red,V7,54f0324e1b3887b6f37ced74fc34cef3,4.0,Red Point,wall-boulders,161.2,
-2019-07-22,Purple,5.12a,3a8d955dcba65358cf602c2c64f2bbab,3.0,Onsight,wall-auto-belay,173.7,
-2019-07-22,Pink,5.12c,3bc407d200f45201e75361099ddb557f,3.0,Top Rope,wall-auto-belay,341.8,
 2019-07-22,Pink,V8,9b7cb64ea6f3ea7b125eab4faa60707c,4.0,Red Point,wall-boulders,581.0,
-2019-07-16,Lime Green Low Left,V8,6984ea8b0761c1de9721d13ce56a8d81,5.0,Flash,wall-boulders,505.7,starting low does not really add much pump or difficulty﹐ great problem in general though
-2019-07-16,Red Low,V8,476ee94686fff1bf3bb9a4353feb5e8f,5.0,Red Point,wall-boulders,423.0,with the head-first and bicycle beta﹐ this climb flows really well and tensiony
+2019-07-22,Pink,5.12c,3bc407d200f45201e75361099ddb557f,3.0,Top Rope,wall-auto-belay,341.8,
+2019-07-22,Purple,5.12a,3a8d955dcba65358cf602c2c64f2bbab,3.0,Onsight,wall-auto-belay,173.7,
 2019-07-16,Black Low,V7,35ac433f68cdecde4db9d03e7b14d6a7,3.0,Red Point,wall-boulders,423.0,
+2019-07-16,Red Low,V8,476ee94686fff1bf3bb9a4353feb5e8f,5.0,Red Point,wall-boulders,423.0,"with the head-first and bicycle beta, this climb flows really well and tensiony"
+2019-07-16,Lime Green Low Left,V8,6984ea8b0761c1de9721d13ce56a8d81,5.0,Flash,wall-boulders,505.7,"starting low does not really add much pump or difficulty, great problem in general though"
 2019-07-12,Lime Green High Left,V7,8cab999dbe7bef221f36ca11574b43a8,4.0,Red Point,wall-boulders,505.7,
 2019-07-10,Red,V8,b33fa3e9f988d643d2293766c855fddb,5.0,Red Point,wall-boulders,505.7,
-2019-07-08,Red,V7,a4c2997d3ba0beab691d16a613b8ed7f,3.0,Red Point,wall-boulders,288.8,
 2019-07-08,Pink,V7,0edb9ee11f8cdf93ee3aa796cce43538,5.0,Red Point,wall-boulders,359.0,
-2019-07-01,Blue,V7,683051e20a49efe0a56d7319a68526cb,4.0,Red Point,wall-boulders,667.3,
+2019-07-08,Red,V7,a4c2997d3ba0beab691d16a613b8ed7f,3.0,Red Point,wall-boulders,288.8,
 2019-07-01,White,V7,4fabe44e6c419e2eba7334e231d0d7dd,4.0,Red Point,wall-boulders,667.3,bit soft with the right beta
+2019-07-01,Blue,V7,683051e20a49efe0a56d7319a68526cb,4.0,Red Point,wall-boulders,667.3,

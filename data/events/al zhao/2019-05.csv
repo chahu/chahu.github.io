@@ -1,8 +1,6 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-05-07,Red,V2,c00c0ae746ef09a5aaa2142f1e3f70fa,3.0,Flash,wall-slab,118.8,
-2019-05-06,Black,V0,83e977bf4b266bcf736a3b975989dcda,3.0,Flash,wall-slab,118.8,
-2019-05-06,Yellow,V2,f9ff15a9a48a4362a9d72a763a3c2cbe,3.0,Flash,wall-slab,192.9,
-2019-05-06,White,V4,44c11327209767e35b6c2f447a55b41a,4.0,Red Point,wall-slab,192.9,
 2019-05-06,Pink,V3,e8431a2d008b8b6c4453051f806278b6,3.0,Flash,wall-slab,192.9,
-2019-05-01,Blue,V1,e09367d92ec3c8b8725c9f745aabb725,3.0,Flash,wall-slab,118.8,
-2019-05-01,Yellow,V1,6c8c13c987481bfda4bbbb246726f414,3.0,Flash,wall-slab,118.8,
+2019-05-06,White,V4,44c11327209767e35b6c2f447a55b41a,4.0,Red Point,wall-slab,192.9,
+2019-05-06,Yellow,V2,f9ff15a9a48a4362a9d72a763a3c2cbe,3.0,Flash,wall-slab,192.9,
+2019-05-06,Black,V0,83e977bf4b266bcf736a3b975989dcda,3.0,Flash,wall-slab,118.8,
+2019-05-06,Red,V2,c00c0ae746ef09a5aaa2142f1e3f70fa,3.0,Flash,wall-slab,118.8,

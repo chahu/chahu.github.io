@@ -1,14 +1,12 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-05-22,Black,5.10c,5b40f66eeae2c6e74b9c584e6da9530f,3.0,Attempt,wall-back-wall,252.2,first two clips are very tricky﹐ reachy after that
-2019-05-22,Purple,5.8,e4a399c527279cda65d4a66091fce5a8,3.0,Onsight,wall-back-wall,221.9,
-2019-05-22,Yellow,5.9,c2c0b53e03323d6b6e87d3260c9d7ed5,3.0,Onsight,wall-back-wall,165.3,
-2019-05-22,Black,5.10d,13b6c31d7e2988b7040a03ab2110eead,3.0,Attempt,wall-back-wall,141.7,
-2019-05-22,Red,5.10d,f75621bc2d00addaf8c02911fbca0fe7,3.0,Attempt,wall-back-wall,395.0,
 2019-05-22,Tan,5.11a,ee645e858e1e9154a4bd325f9a22643a,3.0,Red Point,wall-back-wall,589.1,
-2019-05-08,Blue,5.11c,3ef7d8e84782c9daf419bb44734556c5,3.0,Red Point,wall-island,280.7,First clean 11 lead (Decemeber 2019)
-2019-05-08,Lime Green,5.8,d32ae27ec09dccc77fa96ae5257fb879,3.0,Onsight,wall-back-wall,684.0,
-2019-05-08,Black,5.10c,7b75ca6b1e359569248b64e82260e529,3.0,Onsight,wall-back-wall,388.4,
+2019-05-22,Red,5.10d,f75621bc2d00addaf8c02911fbca0fe7,3.0,Attempt,wall-back-wall,395.0,
+2019-05-22,Black,5.10d,13b6c31d7e2988b7040a03ab2110eead,3.0,Attempt,wall-back-wall,141.7,
+2019-05-22,Yellow,5.9,c2c0b53e03323d6b6e87d3260c9d7ed5,3.0,Onsight,wall-back-wall,165.3,
+2019-05-22,Purple,5.8,e4a399c527279cda65d4a66091fce5a8,3.0,Onsight,wall-back-wall,221.9,
+2019-05-22,Black,5.10c,5b40f66eeae2c6e74b9c584e6da9530f,3.0,Attempt,wall-back-wall,252.2,"first two clips are very tricky, reachy after that"
 2019-05-08,Lime Green,5.10c,6ed5f0d6a0e170fed18d0b142a41b710,3.0,Red Point,wall-island,43.2,
-2019-05-04,Blue,V3,3ca2382364c4b8db3c676c98dbf7fd1d,3.0,Red Point,wall-slab,48.7,
-2019-05-01,Tan,5.10d,f973e60a6f5c3a754308c3cb9a361223,3.0,Attempt,wall-back-wall,56.0,
-2019-05-01,Blue,5.11a,c63e7bdb295fb2dd57b053cbcf7ff606,3.0,Onsight,wall-back-wall,56.8,
+2019-05-08,Black,5.10c,7b75ca6b1e359569248b64e82260e529,3.0,Onsight,wall-back-wall,388.4,
+2019-05-08,Lime Green,5.8,d32ae27ec09dccc77fa96ae5257fb879,3.0,Onsight,wall-back-wall,684.0,
+2019-05-08,Blue,5.11c,3ef7d8e84782c9daf419bb44734556c5,3.0,Red Point,wall-island,280.7,First clean 11 lead (Decemeber 2019)
+2019-05-03,Blue,V3,3ca2382364c4b8db3c676c98dbf7fd1d,3.0,Red Point,wall-slab,48.7,

@@ -1,79 +1,79 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-12-25,Black,5.10c,724c687b784199a1cd3de3953df0aae7,1.0,Onsight,wall-back-wall,1309.3,
-2018-12-25,Tan,5.9,56e118ce1b3fe2d48cdf68d7dca777bc,4.0,Onsight,wall-back-wall,1292.9,
-2018-12-25,Pink,5.10c,46c42e99acfdb78a4ccdaac70747b921,2.0,Onsight,wall-back-wall,1274.1,
-2018-12-25,Lime Green,5.11a,59d756d5d72463aa398c6b60e36155f3,2.0,Onsight,wall-back-wall,1250.3,
-2018-12-25,Purple,5.12a,c92a3feefdabf71e02883627a80b6fcc,4.0,Red Point,wall-back-wall,1228.7,climbs better than it looks
-2018-12-25,Pink,5.10b,f91b4d6287c54a229a2d2727bffa76d5,2.0,Onsight,wall-back-wall,1175.7,did not climb as cool last it looks
-2018-12-20,Tan,5.12a,85ac389937ee58fc21026a8583df0a23,4.0,Onsight,wall-island,364.3,fun
-2018-12-20,Red,5.11c,c6a19fdbb737d34e11b8c5a96bda85d7,3.0,Onsight,wall-island,395.6,fun
-2018-12-20,Yellow,5.11c,7f6caa103947f0d92ee222997a5aac58,4.0,Onsight,wall-island,420.7,
+2018-12-24,Pink,5.10b,f91b4d6287c54a229a2d2727bffa76d5,2.0,Onsight,wall-back-wall,1175.7,did not climb as cool last it looks
+2018-12-24,Purple,5.12a,c92a3feefdabf71e02883627a80b6fcc,4.0,Red Point,wall-back-wall,1228.7,climbs better than it looks
+2018-12-24,Lime Green,5.11a,59d756d5d72463aa398c6b60e36155f3,2.0,Onsight,wall-back-wall,1250.3,
+2018-12-24,Pink,5.10c,46c42e99acfdb78a4ccdaac70747b921,2.0,Onsight,wall-back-wall,1274.1,
+2018-12-24,Tan,5.9,56e118ce1b3fe2d48cdf68d7dca777bc,4.0,Onsight,wall-back-wall,1292.9,
+2018-12-24,Black,5.10c,724c687b784199a1cd3de3953df0aae7,1.0,Onsight,wall-back-wall,1309.3,
 2018-12-20,Lime Green,5.10c,3fd3670e94f3d0e3a88a6cf2595abe46,2.0,Onsight,wall-island,445.8,
-2018-12-19,Pink,5.11d,07d7a88df346789da91537b109754f06,3.0,Onsight,wall-back-wall,689.8,
-2018-12-19,Lime Green,5.11c,bda88976ab3c57d9f474e75c09818a17,3.0,Onsight,wall-back-wall,628.3,
-2018-12-19,Red,5.12d,139b22265d001fa4a71fab39a19e4f69,4.0,Onsight,wall-back-wall,589.1,fun. top is too easy though
-2018-12-19,White,5.12b,d535877eaa0f285fa087bfa3d9a661ab,3.0,Red Point,wall-back-wall,588.1,hard but fun. opening is soft
-2018-12-19,Yellow,5.11b,5788fc1b4bf12fbd91e7865ac44e3b83,4.0,Onsight,wall-back-wall,533.8,good
-2018-12-19,Blue,5.10b,b524b0c5164112794f78553bd402ff69,3.0,Onsight,wall-back-wall,507.7,fun but soft
-2018-12-19,Yellow,5.12a,0a7507a3b31694da9f96cff1e9744a0b,3.0,Onsight,wall-back-wall,442.1,
-2018-12-19,Red,5.9,a5cfc7b9a72c4ebd0d598f27e90aa212,3.0,Onsight,wall-back-wall,322.3,hard and pump
-2018-12-19,Pink,5.12b,93694659ae9b7dd221e9fef5adba3225,3.0,Red Point,wall-island,529.4,11c/d. fun
-2018-12-19,Blue,5.11b,9427a3399a6216b9ae7d3bce64595bed,3.0,Onsight,wall-back-wall,252.2,
-2018-12-19,Lime Green,5.11c,d9bc5722fcee990e533b1a7a1f2b93cc,3.0,Onsight,wall-back-wall,221.9,
-2018-12-19,Yellow,5.9,4e5120265bc3314c7ce2056e3091ad7f,3.0,Onsight,wall-back-wall,221.1,
-2018-12-19,Purple,5.10d,56d1a7fb449fe5c678a6f55e55116223,3.0,Onsight,wall-back-wall,190.5,
-2018-12-19,Blue,5.8,04fa89ed02d1d2f6ec3fa90ec693fa26,3.0,Onsight,wall-back-wall,164.5,
-2018-12-19,Black,5.8,fcaf18c31fab6f55f07c1952f6db8235,3.0,Onsight,wall-back-wall,57.6,
-2018-12-19,Yellow,5.12a,d0c2807fe8eaa0a6d9545bb5ed6b4026,3.0,Onsight,wall-back-wall,56.8,soft
-2018-12-19,Lime Green,5.11c,84c10b8030bbd8203b9f2b89a31f2468,4.0,Onsight,wall-back-wall,36.9,disliked the ending
-2018-12-19,Blue,5.10c,d7d5d958546aae0bcdb3c1bd1fa8088a,3.0,Onsight,wall-back-wall,17.1,
+2018-12-20,Yellow,5.11c,7f6caa103947f0d92ee222997a5aac58,4.0,Onsight,wall-island,420.7,
+2018-12-20,Red,5.11c,c6a19fdbb737d34e11b8c5a96bda85d7,3.0,Onsight,wall-island,395.6,fun
+2018-12-20,Tan,5.12a,85ac389937ee58fc21026a8583df0a23,4.0,Onsight,wall-island,364.3,fun
 2018-12-19,Tan,5.8,174398aeb4e67bd420703bad0f5fbf7d,1.0,Onsight,wall-back-wall,-1.5,
-2018-12-19,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,3.0,Flash,wall-slab,48.7,
-2018-12-19,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,3.0,Flash,wall-slab,48.7,
-2018-12-19,Red,V2,7848afa6509cd9cf370dac551ff824c7,3.0,Flash,wall-slab,48.7,
-2018-12-19,Tan,V4,ef55d734d524bb2ca8a4c5a61f6dae92,3.0,Red Point,wall-slab,48.7,
-2018-12-19,White,V5,06e621e8314a5f8308284371383a0d06,3.0,Flash,wall-slab,48.7,
-2018-12-19,Yellow,V3,a183a744502653be60bdb41ff08c80bd,3.0,Flash,wall-slab,48.7,
-2018-12-19,Lime Green,V0,5217546b99127c60e449efb304728470,3.0,Flash,wall-slab,48.7,
-2018-12-19,Tan,V3,b43a4ecee61cff5dda0e20db3b881096,3.0,Flash,wall-slab,118.8,
-2018-12-19,Pink,V4,db74fff4e2113a4bfed0de30777ba104,3.0,Flash,wall-slab,118.8,
-2018-12-19,Tan,V2,7297dc08f72fc34b95b276256ee2acff,3.0,Flash,wall-slab,192.9,
-2018-12-19,Yellow,V3,c7681bb87852118773ee3c0a72effd0d,3.0,Flash,wall-slab,192.9,
-2018-12-19,Purple,V0,1684f1e4b734ea9499254398e41b5e4b,3.0,Red Point,wall-slab,192.9,
-2018-12-19,Pink,V4,eb50fde2f6e2c8dac6455bd3052d565e,3.0,Flash,wall-slab,192.9,
-2018-12-19,Lime Green,V2,1f724c46c0f35482f2a890e8d90ec3db,3.0,Flash,wall-slab,192.9,
-2018-12-19,White,V6,7fddc15e542c2d17a5c3125c38aaf4b7,3.0,Red Point,wall-slab,192.9,
-2018-12-19,Blue,V6,9b34a0968083ee54c00e2025aaf270ad,3.0,Red Point,wall-boulders,359.0,
-2018-12-19,White,V6,0daa91885468fd1673e658f258d5891c,3.0,Red Point,wall-boulders,359.0,
-2018-12-19,Tan,V0,96192d5a8051bfd75cdd26705259a46e,3.0,Flash,wall-boulders,359.0,
-2018-12-19,Purple,V4,52f01bbf72f158f3f949cdf1b6570542,3.0,Flash,wall-boulders,288.8,
-2018-12-19,Blue,V3,52a29bcf6befa27928fc797f7b433194,3.0,Flash,wall-boulders,359.0,
-2018-12-19,Black,V2,599325ae5a5efad2aa66bcce5cb61768,3.0,Flash,wall-boulders,359.0,
-2018-12-19,Yellow,V5,c1cce29518d767aee3dd32e3a2f0ce9b,3.0,Flash,wall-boulders,359.0,
-2018-12-19,White,V1,4ce15d9a61d5356b39cb394aa2295495,3.0,Flash,wall-boulders,359.0,
-2018-12-19,Lime Green,V2,a8efeccf5c6846576c205464b39ea956,3.0,Flash,wall-boulders,793.8,
-2018-12-19,White,V1,15bcda4068d17aaf939d7208cd242a15,3.0,Flash,wall-boulders,793.8,
-2018-12-19,Purple,V0,c917b8d559ba8e749da4c7d16504b3ea,3.0,Flash,wall-boulders,793.8,
-2018-12-19,Pink,V5,c8754b7a5851b1b90b8c0ed753ec9607,3.0,Flash,wall-boulders,793.8,
-2018-12-19,Blue,V6,54ee5b784b0db295048208f0a61e7f73,3.0,Red Point,wall-boulders,793.8,
-2018-12-19,Red,V2,db8f9b2686fbdb07699082d41d1e9c01,3.0,Flash,wall-boulders,793.8,
-2018-12-19,Red,V5,a4ecdc40aa12abd61658b8fb04f44bbe,3.0,Flash,wall-boulders,736.4,
-2018-12-19,White,V4,a349a79ff317d836559c202fd9edaffb,3.0,Flash,wall-boulders,736.4,
-2018-12-19,Blue,V6,454b27b5c4aa45cabb96d3ebf371b75f,3.0,Red Point,wall-boulders,736.4,
-2018-12-19,Tan,V3,a1f2c6530502b6752bff846110cb90f0,3.0,Flash,wall-boulders,667.3,
-2018-12-19,Pink,V3,596f9102be589e2ae91ed963bc291ca9,2.0,Flash,wall-boulders,667.3,
-2018-12-19,Red,V4,6dd5f29c49ba6320eca640bab162cdcd,3.0,Flash,wall-boulders,667.3,
-2018-12-19,Lime Green,V0,a9c30376db308733028c23a04776fe4b,3.0,Flash,wall-boulders,667.3,
-2018-12-19,Black,V1,d006e610c8577a576060af243ef0e4c3,3.0,Flash,wall-boulders,581.0,
-2018-12-19,Pink,V1,d808023194bf597d2cd932b89810d0ce,3.0,Flash,wall-boulders,581.0,
-2018-12-19,Lime Green,V3,8dfa655be0feb075be0dde7b5d366bce,5.0,Flash,wall-boulders,581.0,fun
-2018-12-19,Red,V4,95c46b00ee8a9e3e4e1f84e88c2fc6d9,2.0,Flash,wall-boulders,581.0,awk
-2018-12-19,Blue,V3,8529ac476a0f1d8e3ad6ec4623ab4fce,3.0,Flash,wall-boulders,505.7,
-2018-12-19,Blue,V4,ce6e44cb9e08e6d1f0c71f4a1f3007b5,4.0,Flash,wall-boulders,505.7,
-2018-12-19,White,V6,95c79a1fc0e9129d2de1ef95097419e1,4.0,Flash,wall-boulders,423.0,
-2018-12-19,Lime Green,V3,fd0ba91bb06387cf6aee0de1e3d32ae1,3.0,Flash,wall-boulders,423.0,
-2018-12-19,Tan,V7,d35ab5bf923b0977709942bbf1b0af06,4.0,Red Point,wall-boulders,423.0,fun
-2018-12-19,Pink,V4,a475a4a8880f25835b4b2a2a2c2f7b30,3.0,Flash,wall-boulders,423.0,
-2018-12-19,Pink,V5,b171df4751750f324157d7fc9e32f2a3,3.0,Red Point,wall-boulders,423.0,
-2018-12-19,Lime Green,V6,b002c34f88c66553b8ef97b17d5304b2,3.0,Red Point,wall-boulders,423.0,
+2018-12-19,Blue,5.10c,d7d5d958546aae0bcdb3c1bd1fa8088a,3.0,Onsight,wall-back-wall,17.1,
+2018-12-19,Lime Green,5.11c,84c10b8030bbd8203b9f2b89a31f2468,4.0,Onsight,wall-back-wall,36.9,disliked the ending
+2018-12-19,Yellow,5.12a,d0c2807fe8eaa0a6d9545bb5ed6b4026,3.0,Onsight,wall-back-wall,56.8,soft
+2018-12-19,Black,5.8,fcaf18c31fab6f55f07c1952f6db8235,3.0,Onsight,wall-back-wall,57.6,
+2018-12-19,Blue,5.8,04fa89ed02d1d2f6ec3fa90ec693fa26,3.0,Onsight,wall-back-wall,164.5,
+2018-12-19,Purple,5.10d,56d1a7fb449fe5c678a6f55e55116223,3.0,Onsight,wall-back-wall,190.5,
+2018-12-19,Yellow,5.9,4e5120265bc3314c7ce2056e3091ad7f,3.0,Onsight,wall-back-wall,221.1,
+2018-12-19,Lime Green,5.11c,d9bc5722fcee990e533b1a7a1f2b93cc,3.0,Onsight,wall-back-wall,221.9,
+2018-12-19,Blue,5.11b,9427a3399a6216b9ae7d3bce64595bed,3.0,Onsight,wall-back-wall,252.2,
+2018-12-19,Pink,5.12b,93694659ae9b7dd221e9fef5adba3225,3.0,Red Point,wall-island,529.4,11c/d. fun
+2018-12-19,Red,5.9,a5cfc7b9a72c4ebd0d598f27e90aa212,3.0,Onsight,wall-back-wall,322.3,hard and pump
+2018-12-19,Yellow,5.12a,0a7507a3b31694da9f96cff1e9744a0b,3.0,Onsight,wall-back-wall,442.1,
+2018-12-19,Blue,5.10b,b524b0c5164112794f78553bd402ff69,3.0,Onsight,wall-back-wall,507.7,fun but soft
+2018-12-19,Yellow,5.11b,5788fc1b4bf12fbd91e7865ac44e3b83,4.0,Onsight,wall-back-wall,533.8,good
+2018-12-19,White,5.12b,d535877eaa0f285fa087bfa3d9a661ab,3.0,Red Point,wall-back-wall,588.1,hard but fun. opening is soft
+2018-12-19,Red,5.12d,139b22265d001fa4a71fab39a19e4f69,4.0,Onsight,wall-back-wall,589.1,fun. top is too easy though
+2018-12-19,Lime Green,5.11c,bda88976ab3c57d9f474e75c09818a17,3.0,Onsight,wall-back-wall,628.3,
+2018-12-19,Pink,5.11d,07d7a88df346789da91537b109754f06,3.0,Onsight,wall-back-wall,689.8,
+2018-12-18,Lime Green,V6,b002c34f88c66553b8ef97b17d5304b2,3.0,Red Point,wall-boulders,423.0,
+2018-12-18,Pink,V5,b171df4751750f324157d7fc9e32f2a3,3.0,Red Point,wall-boulders,423.0,
+2018-12-18,Pink,V4,a475a4a8880f25835b4b2a2a2c2f7b30,3.0,Flash,wall-boulders,423.0,
+2018-12-18,Tan,V7,d35ab5bf923b0977709942bbf1b0af06,4.0,Red Point,wall-boulders,423.0,fun
+2018-12-18,Lime Green,V3,fd0ba91bb06387cf6aee0de1e3d32ae1,3.0,Flash,wall-boulders,423.0,
+2018-12-18,White,V6,95c79a1fc0e9129d2de1ef95097419e1,4.0,Flash,wall-boulders,423.0,
+2018-12-18,Blue,V4,ce6e44cb9e08e6d1f0c71f4a1f3007b5,4.0,Flash,wall-boulders,505.7,
+2018-12-18,Blue,V3,8529ac476a0f1d8e3ad6ec4623ab4fce,3.0,Flash,wall-boulders,505.7,
+2018-12-18,Red,V4,95c46b00ee8a9e3e4e1f84e88c2fc6d9,2.0,Flash,wall-boulders,581.0,awk
+2018-12-18,Lime Green,V3,8dfa655be0feb075be0dde7b5d366bce,5.0,Flash,wall-boulders,581.0,fun
+2018-12-18,Pink,V1,d808023194bf597d2cd932b89810d0ce,3.0,Flash,wall-boulders,581.0,
+2018-12-18,Black,V1,d006e610c8577a576060af243ef0e4c3,3.0,Flash,wall-boulders,581.0,
+2018-12-18,Lime Green,V0,a9c30376db308733028c23a04776fe4b,3.0,Flash,wall-boulders,667.3,
+2018-12-18,Red,V4,6dd5f29c49ba6320eca640bab162cdcd,3.0,Flash,wall-boulders,667.3,
+2018-12-18,Pink,V3,596f9102be589e2ae91ed963bc291ca9,2.0,Flash,wall-boulders,667.3,
+2018-12-18,Tan,V3,a1f2c6530502b6752bff846110cb90f0,3.0,Flash,wall-boulders,667.3,
+2018-12-18,Blue,V6,454b27b5c4aa45cabb96d3ebf371b75f,3.0,Red Point,wall-boulders,736.4,
+2018-12-18,White,V4,a349a79ff317d836559c202fd9edaffb,3.0,Flash,wall-boulders,736.4,
+2018-12-18,Red,V5,a4ecdc40aa12abd61658b8fb04f44bbe,3.0,Flash,wall-boulders,736.4,
+2018-12-18,Red,V2,db8f9b2686fbdb07699082d41d1e9c01,3.0,Flash,wall-boulders,793.8,
+2018-12-18,Blue,V6,54ee5b784b0db295048208f0a61e7f73,3.0,Red Point,wall-boulders,793.8,
+2018-12-18,Pink,V5,c8754b7a5851b1b90b8c0ed753ec9607,3.0,Flash,wall-boulders,793.8,
+2018-12-18,Purple,V0,c917b8d559ba8e749da4c7d16504b3ea,3.0,Flash,wall-boulders,793.8,
+2018-12-18,White,V1,15bcda4068d17aaf939d7208cd242a15,3.0,Flash,wall-boulders,793.8,
+2018-12-18,Lime Green,V2,a8efeccf5c6846576c205464b39ea956,3.0,Flash,wall-boulders,793.8,
+2018-12-18,White,V1,4ce15d9a61d5356b39cb394aa2295495,3.0,Flash,wall-boulders,359.0,
+2018-12-18,Yellow,V5,c1cce29518d767aee3dd32e3a2f0ce9b,3.0,Flash,wall-boulders,359.0,
+2018-12-18,Black,V2,599325ae5a5efad2aa66bcce5cb61768,3.0,Flash,wall-boulders,359.0,
+2018-12-18,Blue,V3,52a29bcf6befa27928fc797f7b433194,3.0,Flash,wall-boulders,359.0,
+2018-12-18,Purple,V4,52f01bbf72f158f3f949cdf1b6570542,3.0,Flash,wall-boulders,288.8,
+2018-12-18,Tan,V0,96192d5a8051bfd75cdd26705259a46e,3.0,Flash,wall-boulders,359.0,
+2018-12-18,White,V6,0daa91885468fd1673e658f258d5891c,3.0,Red Point,wall-boulders,359.0,
+2018-12-18,Blue,V6,9b34a0968083ee54c00e2025aaf270ad,3.0,Red Point,wall-boulders,359.0,
+2018-12-18,White,V6,7fddc15e542c2d17a5c3125c38aaf4b7,3.0,Red Point,wall-slab,192.9,
+2018-12-18,Lime Green,V2,1f724c46c0f35482f2a890e8d90ec3db,3.0,Flash,wall-slab,192.9,
+2018-12-18,Pink,V4,eb50fde2f6e2c8dac6455bd3052d565e,3.0,Flash,wall-slab,192.9,
+2018-12-18,Purple,V0,1684f1e4b734ea9499254398e41b5e4b,3.0,Red Point,wall-slab,192.9,
+2018-12-18,Yellow,V3,c7681bb87852118773ee3c0a72effd0d,3.0,Flash,wall-slab,192.9,
+2018-12-18,Tan,V2,7297dc08f72fc34b95b276256ee2acff,3.0,Flash,wall-slab,192.9,
+2018-12-18,Pink,V4,db74fff4e2113a4bfed0de30777ba104,3.0,Flash,wall-slab,118.8,
+2018-12-18,Tan,V3,b43a4ecee61cff5dda0e20db3b881096,3.0,Flash,wall-slab,118.8,
+2018-12-18,Lime Green,V0,5217546b99127c60e449efb304728470,3.0,Flash,wall-slab,48.7,
+2018-12-18,Yellow,V3,a183a744502653be60bdb41ff08c80bd,3.0,Flash,wall-slab,48.7,
+2018-12-18,White,V5,06e621e8314a5f8308284371383a0d06,3.0,Flash,wall-slab,48.7,
+2018-12-18,Tan,V4,ef55d734d524bb2ca8a4c5a61f6dae92,3.0,Red Point,wall-slab,48.7,
+2018-12-18,Red,V2,7848afa6509cd9cf370dac551ff824c7,3.0,Flash,wall-slab,48.7,
+2018-12-18,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,3.0,Flash,wall-slab,48.7,
+2018-12-18,Blue,V3,45f3c9bb3e99cc0002bf159f21b882bb,3.0,Flash,wall-slab,48.7,
 2018-12-05,Red,V1,0159a1694c5ca00e09ff02850c911110,2.0,Flash,wall-boulders,793.8,

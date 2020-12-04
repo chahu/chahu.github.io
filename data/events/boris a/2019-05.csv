@@ -1,38 +1,38 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2019-05-28,Tan,5.10d,f973e60a6f5c3a754308c3cb9a361223,3.0,Attempt,wall-back-wall,56.0,almost got it
-2019-05-23,Red,5.10d,f75621bc2d00addaf8c02911fbca0fe7,4.0,Onsight,wall-back-wall,395.0,
 2019-05-23,Black,5.10d,13b6c31d7e2988b7040a03ab2110eead,4.0,Onsight,wall-back-wall,141.7,
-2019-05-16,Tan,5.10d,f973e60a6f5c3a754308c3cb9a361223,4.0,Attempt,wall-back-wall,56.0,I thought the crux was fun but scary on lead. And harder than the blue 11a.
-2019-05-16,Black,5.10c,7b75ca6b1e359569248b64e82260e529,3.0,Onsight,wall-back-wall,388.4,
+2019-05-23,Red,5.10d,f75621bc2d00addaf8c02911fbca0fe7,4.0,Onsight,wall-back-wall,395.0,
 2019-05-16,Red,5.10d,f171e152095a58e5b6e3eab539625651,3.0,Onsight,wall-island,529.4,
+2019-05-16,Black,5.10c,7b75ca6b1e359569248b64e82260e529,3.0,Onsight,wall-back-wall,388.4,
+2019-05-16,Tan,5.10d,f973e60a6f5c3a754308c3cb9a361223,4.0,Attempt,wall-back-wall,56.0,I thought the crux was fun but scary on lead. And harder than the blue 11a.
 2019-05-14,Lime Green,V6,40df3067e246513f908da5266fef6666,3.0,Red Point,wall-slab,192.9,fun
-2019-05-14,Blue,V5,3fe4ba352231770fa56d0884b7f4f293,3.0,Red Point,wall-boulders,423.0,had trouble figuring out the starting sequence
 2019-05-14,Pink,V5,9a9cdee70d04548a9712c9f8b00e00c6,3.0,Red Point,wall-boulders,423.0,
-2019-05-09,Lime Green Low Start,V4,f57e69b9e052a5428388b8480cdd459a,3.0,Flash,wall-boulders,505.7,
-2019-05-09,Blue,5.10b,cbd5bc382b569491a04024689cbb6c7b,3.0,Onsight,wall-back-wall,252.2,
+2019-05-14,Blue,V5,3fe4ba352231770fa56d0884b7f4f293,3.0,Red Point,wall-boulders,423.0,had trouble figuring out the starting sequence
 2019-05-09,Black,5.10b,9afc1b1af77ceff0009d5b46b3a4556e,3.0,Onsight,wall-island,420.7,
-2019-05-09,Red,5.10d,ac3436e114d851ef34bb5646a3a4d30f,3.0,Onsight,wall-island,75.0,
-2019-05-09,Blue,5.10d,58a6c65d608245aa8ade938bdbf7bd35,3.0,Onsight,wall-back-wall,1251.0,
-2019-05-09,Blue,V6,7cdbe30420b169f10b144e1701b3ca6d,3.0,Red Point,wall-mezzanine,39.7,so small
-2019-05-09,White,V5,ef77f308d801163044bc5654de8244b5,4.0,Flash,wall-mezzanine,114.6,
-2019-05-09,Red,V5,a85ff230c33b9e394ec306d70ff2aeb9,3.0,Flash,wall-mezzanine,39.7,
-2019-05-09,Yellow,V4,6f6d389bcedd265116fd4799d3246317,3.0,Flash,wall-mezzanine,114.6,
+2019-05-09,Blue,5.10b,cbd5bc382b569491a04024689cbb6c7b,3.0,Onsight,wall-back-wall,252.2,
 2019-05-09,Lime Green,V4,d0fc2727f4bb05324556be3f5eaf6a21,3.0,Flash,wall-mezzanine,114.6,
-2019-05-06,Tan,5.10a,acb519b9faffa48ce4b0bf1ba1c11e33,4.0,Onsight,wall-red,174.5,fun﹐ but maybe not on lead
-2019-05-06,Purple,5.10a,e3e34569a4a7dcb07cef8ad3fda0bc68,3.0,Onsight,wall-island,127.1,
-2019-05-05,Black,5.10a,3d003702bd00a97676172f02e58e5330,3.0,Onsight,wall-island,590.5,nice
-2019-05-05,Lime Green,5.10d,416fd6b22d112904c46491adb749eec7,3.0,Onsight,wall-red,230.7,tricky finish
-2019-05-05,Yellow,5.10a,7f6bc563a6af175ffdc785f894101aab,3.0,Onsight,wall-red,261.8,
+2019-05-09,Yellow,V4,6f6d389bcedd265116fd4799d3246317,3.0,Flash,wall-mezzanine,114.6,
+2019-05-09,Red,V5,a85ff230c33b9e394ec306d70ff2aeb9,3.0,Flash,wall-mezzanine,39.7,
+2019-05-09,Lime Green Low Start,V4,f57e69b9e052a5428388b8480cdd459a,3.0,Flash,wall-boulders,505.7,
+2019-05-09,White,V5,ef77f308d801163044bc5654de8244b5,4.0,Flash,wall-mezzanine,114.6,
+2019-05-09,Blue,V6,7cdbe30420b169f10b144e1701b3ca6d,3.0,Red Point,wall-mezzanine,39.7,so small
+2019-05-09,Blue,5.10d,58a6c65d608245aa8ade938bdbf7bd35,3.0,Onsight,wall-back-wall,1251.0,
+2019-05-09,Red,5.10d,ac3436e114d851ef34bb5646a3a4d30f,3.0,Onsight,wall-island,75.0,
 2019-05-05,Yellow,5.10b,45297cb852ad091808960373110a02a3,3.0,Onsight,wall-auto-belay,390.5,
-2019-05-05,Blue,5.10b,3a71f71cfad3b03a0b536d1be2a37d25,3.0,Onsight,wall-auto-belay,149.5,
-2019-05-05,Black,5.10d,2dcc606900b9fa6d90b228cdeb2318a7,3.0,Onsight,wall-back-wall,1386.5,
+2019-05-05,Yellow,5.10a,7f6bc563a6af175ffdc785f894101aab,3.0,Onsight,wall-red,261.8,
 2019-05-05,Pink,5.10b,ffcee98c800e14db60ee7b1709156880,3.0,Onsight,wall-back-wall,1409.3,
-2019-05-02,Black,V7,fb66b10b9b62f5bfb7ed2a828434d45d,3.0,Attempt,wall-slab,192.9,scary finish
-2019-05-02,Pink,5.10b,646e4b8867448121cf1ca23e8fd2e902,3.0,Top Rope,wall-auto-belay,88.3,
-2019-05-02,Black,5.10b,14014ca02cbb66999dbbb627ea8931b0,3.0,Top Rope,wall-island,504.9,
-2019-05-02,Purple,5.10b,f8bef2e33f6ad6355371b32edac9e7e5,3.0,Top Rope,wall-island,469.1,
-2019-05-02,Lime Green,5.10c,cc3278a57cd5239779d6f3f66aa85e2f,3.0,Top Rope,wall-back-wall,86.3,
-2019-05-02,Lime Green,5.10b,b182fb87796abfd32eb675daaa22724d,5.0,Onsight,wall-auto-belay,418.1,fun!
-2019-05-02,White,V4,7353675635577521e14665de39e3f20d,4.0,Red Point,wall-slab,48.7,
-2019-05-02,Blue,V4,c9ff2dbf88e9f95057230297ccd82d26,3.0,Red Point,wall-slab,118.8,nontrivial
+2019-05-05,Black,5.10d,2dcc606900b9fa6d90b228cdeb2318a7,3.0,Onsight,wall-back-wall,1386.5,
+2019-05-05,Blue,5.10b,3a71f71cfad3b03a0b536d1be2a37d25,3.0,Onsight,wall-auto-belay,149.5,
+2019-05-05,Lime Green,5.10d,416fd6b22d112904c46491adb749eec7,3.0,Onsight,wall-red,230.7,tricky finish
+2019-05-05,Purple,5.10a,e3e34569a4a7dcb07cef8ad3fda0bc68,3.0,Onsight,wall-island,127.1,
+2019-05-05,Tan,5.10a,acb519b9faffa48ce4b0bf1ba1c11e33,4.0,Onsight,wall-red,174.5,"fun, but maybe not on lead"
+2019-05-05,Black,5.10a,3d003702bd00a97676172f02e58e5330,3.0,Onsight,wall-island,590.5,nice
 2019-05-02,White,V4,44c11327209767e35b6c2f447a55b41a,3.0,Flash,wall-slab,192.9,
+2019-05-02,Blue,V4,c9ff2dbf88e9f95057230297ccd82d26,3.0,Red Point,wall-slab,118.8,nontrivial
+2019-05-02,Lime Green,5.10b,b182fb87796abfd32eb675daaa22724d,5.0,Onsight,wall-auto-belay,418.1,fun!
+2019-05-02,Lime Green,5.10c,cc3278a57cd5239779d6f3f66aa85e2f,3.0,Top Rope,wall-back-wall,86.3,
+2019-05-02,Purple,5.10b,f8bef2e33f6ad6355371b32edac9e7e5,3.0,Top Rope,wall-island,469.1,
+2019-05-02,Black,5.10b,14014ca02cbb66999dbbb627ea8931b0,3.0,Top Rope,wall-island,504.9,
+2019-05-02,Pink,5.10b,646e4b8867448121cf1ca23e8fd2e902,3.0,Top Rope,wall-auto-belay,88.3,
+2019-05-02,Black,V7,fb66b10b9b62f5bfb7ed2a828434d45d,3.0,Attempt,wall-slab,192.9,scary finish
+2019-05-02,White,V4,7353675635577521e14665de39e3f20d,4.0,Red Point,wall-slab,48.7,

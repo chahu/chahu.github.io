@@ -1,4 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-10-27,Pink High,V2,c92af66b19904265c926c3f577a75b43,3.0,Flash,wall-boulders,505.7,
 2018-10-27,Red,V3,454688c31ab342f270522f0e7194374c,3.0,Red Point,wall-boulders,667.3,
+2018-10-27,Pink High,V2,c92af66b19904265c926c3f577a75b43,3.0,Flash,wall-boulders,505.7,
 2018-10-14,Tan,V1,f291270a680679a03fb2a76fe27d558c,3.0,Flash,wall-boulders,581.0,
+2018-10-14,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Flash,wall-boulders,581.0,
+2018-10-14,Blue,V1,48aead99e0eba9792a15d55e6cdea1aa,3.0,Flash,wall-boulders,667.3,
+2018-10-14,White,V2,b91577baaeb36b0cb2f269381c37deb4,3.0,Flash,wall-boulders,581.0,

@@ -1,6 +1,6 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2018-10-22,Pink,5.10a,e0fc30f83aa239dbbe1b01e851e9244d,4.0,Top Rope,wall-red,81.4,
-2018-10-11,Pink,5.10a,e0fc30f83aa239dbbe1b01e851e9244d,4.0,Flash,wall-red,81.4,
-2018-10-11,Green,5.11c,5ad17448d64a4fc714a27b28cb067989,4.0,Red Point,wall-auto-belay,174.3,Not sure about the c﹐ feeling more ab. Fun route. 
-2018-10-11,Black,5.10a,08f35dd7d871cc72889a35ee148e3edd,3.0,Onsight,wall-auto-belay,274.3,
 2018-10-11,Tan,5.7,32b226bb8c0a1e4851aaa898ac96cbf3,3.0,Onsight,wall-auto-belay,341.8,
+2018-10-11,Black,5.10a,08f35dd7d871cc72889a35ee148e3edd,3.0,Onsight,wall-auto-belay,274.3,
+2018-10-11,Green,5.11c,5ad17448d64a4fc714a27b28cb067989,4.0,Red Point,wall-auto-belay,174.3,"Not sure about the c, feeling more ab. Fun route. "
+2018-10-11,Pink,5.10a,e0fc30f83aa239dbbe1b01e851e9244d,4.0,Flash,wall-red,81.4,

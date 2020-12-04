@@ -11,7 +11,7 @@ date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2020-01-30,Red,V2,e6b2f56a916388b74d02e04908a162fc,,Flash,wall-mezzanine,39.7,
 2020-01-30,Yellow,V3,e7baec3392ef529bbc5a4a8edadac691,,Flash,wall-mezzanine,39.7,
 2020-01-30,Tan,V4,869bc5cb7790360cfc736284f7cd7f6b,,Flash,wall-mezzanine,39.7,
-2020-01-30,Red,V4,e10a3455eebf7da9260427d3c6bfb2ff,,Red Point,wall-mezzanine,114.6,skipped a couple holds﹐ perhaps thanks to height
+2020-01-30,Red,V4,e10a3455eebf7da9260427d3c6bfb2ff,,Red Point,wall-mezzanine,114.6,"skipped a couple holds, perhaps thanks to height"
 2020-01-30,Yellow,V4,5d5f489e5bddf879d4632c3ce5d1e9f1,,Flash,wall-mezzanine,114.6,
 2020-01-30,Lime Green,V5,e3bb1eb98f763513295475559cf650f7,,Flash,wall-mezzanine,114.6,
 2020-01-30,Tan,V5,71cc15c2a9a348ea7a4ac124e49decfd,,Flash,wall-mezzanine,114.6,
@@ -46,88 +46,88 @@ date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2020-01-23,Tan,V2,7a2b4c834d4d16ece848cb04db0cf4ff,,Flash,wall-boulders,161.2,
 2020-01-23,Blue Left,V1,c68bb581c1344dd43dfeb8a45514eacf,,Flash,wall-boulders,161.2,
 2020-01-23,Blue,5.11c,b5e765de3907c58655e89ccd48907e63,,Top Rope,wall-back-wall,1354.3,
-2020-01-21,White,V5,a6b37892d7af300d7ad0be0b1ddbca67,,Flash,wall-boulders,505.7,
-2020-01-21,Pink Ice Route,3-4,2c069667ad0667df30b14e316e0957ac,,Top Rope,wall-island,227.5,
-2020-01-21,Lime Green Ice,3-4,1dab4aa306cddb1bd4e2a5f61c66ca13,,Top Rope,wall-island,300.5,
-2020-01-20,Yellow,5.11d,86a2fecada39373e8195c5b574d64218,,Top Rope,wall-back-wall,830.9,pumpy!
-2020-01-20,Red,5.12a,a0b6519e16d7b3589d70f47b20e4e973,,Top Rope,wall-island,184.9,OS
-2020-01-20,Lime Green,5.12a,ff7bbd5701add16598fb69da4a930c9c,,Top Rope,wall-island,212.3,OS
 2020-01-20,White,V6,2cfd26a7618a83f132b0da19384b14e5,,Red Point,wall-slab,48.7,
+2020-01-20,White,V5,a6b37892d7af300d7ad0be0b1ddbca67,,Flash,wall-boulders,505.7,
+2020-01-20,Lime Green,5.12a,ff7bbd5701add16598fb69da4a930c9c,,Top Rope,wall-island,212.3,OS
+2020-01-20,Lime Green Ice,3-4,1dab4aa306cddb1bd4e2a5f61c66ca13,,Top Rope,wall-island,300.5,
+2020-01-20,Red,5.12a,a0b6519e16d7b3589d70f47b20e4e973,,Top Rope,wall-island,184.9,OS
+2020-01-20,Pink Ice Route,3-4,2c069667ad0667df30b14e316e0957ac,,Top Rope,wall-island,227.5,
+2020-01-20,Yellow,5.11d,86a2fecada39373e8195c5b574d64218,,Top Rope,wall-back-wall,830.9,pumpy!
 2020-01-20,Blue,V6,14f5f07936e2dedb4ee6f050d25d3c58,,Flash,wall-slab,118.8,
-2020-01-17,Blue,V5,91b9100d5c8424302c0c5876f4c47c86,4.0,Red Point,wall-boulders,793.8,I definitely was struggling because I was missing key beta!! Cool problem in the end.
-2020-01-16,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,,Red Point,wall-slab,118.8,
-2020-01-16,Black,V5,9ea54cf3e28a79790a590ba68da8dc81,,Flash,wall-slab,48.7,
-2020-01-16,Yellow,V5,f9c5a5493ccc202ec3d0add93de7ea48,,Flash,wall-slab,48.7,
-2020-01-16,White,V5,124cbd7d8c7258278c4218e3d82fa972,,Flash,wall-slab,192.9,
-2020-01-16,Yellow,V4,8980a0e37093e226f6ba9008cd3d63a9,,Flash,wall-slab,118.8,
-2020-01-16,Lime Green,V4,b8e3786bfe29ddcb5a1e4a43367465c4,,Flash,wall-slab,118.8,had difficulty holding the top!
 2020-01-16,Black,V4,97f8851f1649c0c578c6bf41eab86f1e,,Flash,wall-slab,118.8,
-2020-01-16,Red up,V6,c984bdddbae735657115337b4f6268fd,,Flash,wall-slab,192.9,
-2020-01-16,Yellow,5.11d,a2c107b3512b72476c34242ba4a6607e,,Top Rope,wall-back-wall,140.8,tough!
-2020-01-16,Yellow,5.9,bcccb3724931ed2a1ce61a3e620ff0ee,,Onsight,wall-island,365.2,
-2020-01-16,Black,5.11b,f190ea691f1b36c48ea0011b175580cc,,Flash,wall-back-wall,743.3,
-2020-01-16,Yellow,5.11d,ca1aa1563d5acf8bd9d0cafd607c0ca3,,Top Rope,wall-back-wall,1018.7,had a rough time on my first attempt on lead
-2020-01-16,Pink,V2,e459884c250f7aabc719c6d072015a42,,Flash,wall-slab,192.9,
-2020-01-16,Blue,V0,4bcf0c78581adfc54be88a89560dbbf9,,Flash,wall-slab,192.9,
-2020-01-16,Lime Green,V0,7030e483fc8226ef35c0244926672edb,,Flash,wall-slab,48.7,
-2020-01-16,Red,V1,8cd5517f2c0150f64a59d9bfd05737e8,,Flash,wall-slab,118.8,
-2020-01-16,Yellow,V3,e2022e18165b50136c13bc74ad3cbb99,,Flash,wall-slab,192.9,
-2020-01-16,Tan,V1,17206715a23e5c8fc03b11b83ad790ec,,Flash,wall-slab,48.7,
-2020-01-16,Blue,V2,aaa10bb717808023df910af93e6e3e3b,,Flash,wall-slab,48.7,
-2020-01-16,Pink,V3,c288d3b689c07fab3491050421a25022,,Flash,wall-slab,48.7,
-2020-01-16,Green,V4,1acd909221c514ce5fa59b7036f6052c,,Red Point,wall-boulders,581.0,hard for me
 2020-01-16,Black,V4,3e8a8400ad240270b70649d9b02e0c8e,,Flash,wall-boulders,581.0,
-2020-01-16,Pink,V2,d21a5d8b879725a9bad86a67fff4ea29,,Flash,wall-boulders,423.0,
-2020-01-16,Pink,V3,8d03ea868716aec0b2118914223c8b89,5.0,Flash,wall-boulders,581.0,
-2020-01-16,Blue,V4,bca66e92f950f62019fb447d4ab2b25a,,Flash,wall-boulders,423.0,
-2020-01-16,Red,V1,4b1511edc5e8d3ffe7140693173fa049,,Flash,wall-boulders,423.0,
+2020-01-16,Lime Green,V4,b8e3786bfe29ddcb5a1e4a43367465c4,,Flash,wall-slab,118.8,had difficulty holding the top!
+2020-01-16,Yellow,5.11d,ca1aa1563d5acf8bd9d0cafd607c0ca3,,Top Rope,wall-back-wall,1018.7,had a rough time on my first attempt on lead
+2020-01-16,Yellow,V4,8980a0e37093e226f6ba9008cd3d63a9,,Flash,wall-slab,118.8,
+2020-01-16,Yellow,5.11d,a2c107b3512b72476c34242ba4a6607e,,Top Rope,wall-back-wall,140.8,tough!
+2020-01-16,White,V5,124cbd7d8c7258278c4218e3d82fa972,,Flash,wall-slab,192.9,
+2020-01-16,Green,V4,1acd909221c514ce5fa59b7036f6052c,,Red Point,wall-boulders,581.0,hard for me
+2020-01-16,Pink,V3,c288d3b689c07fab3491050421a25022,,Flash,wall-slab,48.7,
+2020-01-16,Blue,V2,aaa10bb717808023df910af93e6e3e3b,,Flash,wall-slab,48.7,
+2020-01-16,Tan,V1,17206715a23e5c8fc03b11b83ad790ec,,Flash,wall-slab,48.7,
+2020-01-16,Yellow,V3,e2022e18165b50136c13bc74ad3cbb99,,Flash,wall-slab,192.9,
+2020-01-16,Yellow,V5,f9c5a5493ccc202ec3d0add93de7ea48,,Flash,wall-slab,48.7,
+2020-01-16,Red,V1,8cd5517f2c0150f64a59d9bfd05737e8,,Flash,wall-slab,118.8,
+2020-01-16,Lime Green,V0,7030e483fc8226ef35c0244926672edb,,Flash,wall-slab,48.7,
+2020-01-16,Blue,V0,4bcf0c78581adfc54be88a89560dbbf9,,Flash,wall-slab,192.9,
+2020-01-16,Pink,V2,e459884c250f7aabc719c6d072015a42,,Flash,wall-slab,192.9,
+2020-01-16,Black,V5,9ea54cf3e28a79790a590ba68da8dc81,,Flash,wall-slab,48.7,
+2020-01-16,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,,Red Point,wall-slab,118.8,
+2020-01-16,Black,5.11b,f190ea691f1b36c48ea0011b175580cc,,Flash,wall-back-wall,743.3,
+2020-01-16,Red up,V6,c984bdddbae735657115337b4f6268fd,,Flash,wall-slab,192.9,
+2020-01-16,Blue,V5,91b9100d5c8424302c0c5876f4c47c86,4.0,Red Point,wall-boulders,793.8,I definitely was struggling because I was missing key beta!! Cool problem in the end.
 2020-01-16,White,V5,40f680dbba8160cd4888e20714b7386e,,Flash,wall-boulders,423.0,hard not to dab everywhere when flagging/smearing sometimes
 2020-01-16,Red down,V7,608828ad946230d669af24c86debb2ec,,Red Point,wall-slab,192.9,See instagram.com/no_less_amazement for a video.
-2020-01-12,Yellow,5.11d,a2c107b3512b72476c34242ba4a6607e,,Attempt,wall-back-wall,140.8,Tough﹐ but fun.
+2020-01-16,Yellow,5.9,bcccb3724931ed2a1ce61a3e620ff0ee,,Onsight,wall-island,365.2,
+2020-01-16,Red,V1,4b1511edc5e8d3ffe7140693173fa049,,Flash,wall-boulders,423.0,
+2020-01-16,Blue,V4,bca66e92f950f62019fb447d4ab2b25a,,Flash,wall-boulders,423.0,
+2020-01-16,Pink,V3,8d03ea868716aec0b2118914223c8b89,5.0,Flash,wall-boulders,581.0,
+2020-01-16,Pink,V2,d21a5d8b879725a9bad86a67fff4ea29,,Flash,wall-boulders,423.0,
+2020-01-12,Yellow,5.11d,a2c107b3512b72476c34242ba4a6607e,,Attempt,wall-back-wall,140.8,"Tough, but fun."
+2020-01-12,Purple,5.12b,e3113bf2174d1772763af2060c3057dc,,Top Rope,wall-island,589.6,"The move after the seventh clip got me on my first attempt on lead. Later, on TR, still found it demanding after the beginning climbing."
 2020-01-12,Lime Green,5.11c,327b0dc400a168d5062d94f055b82cd7,,Attempt,wall-back-wall,17.1,
-2020-01-12,Purple,5.12b,e3113bf2174d1772763af2060c3057dc,,Top Rope,wall-island,589.6,The move after the seventh clip got me on my first attempt on lead. Later﹐ on TR﹐ still found it demanding after the beginning climbing.
-2020-01-09,Yellow,V2,40fed2582fc460eef98edf5be375a3e4,,Flash,wall-boulders,581.0,
-2020-01-09,Tan,V0,81d8de61b948629e4906939bd04e8481,,Flash,wall-boulders,581.0,
-2020-01-09,White,V3,9339078234104c7a0c464657e892a939,,Flash,wall-boulders,581.0,
-2020-01-09,Black,5.11d,d573fcc15d79e7741b2753c0dd1add75,,Attempt,wall-back-wall,56.8,
-2020-01-09,Lime Green,5.12c,d792e7ad53f74829954a213d9666f954,5.0,Top Rope,wall-back-wall,1044.1,super fun
+2020-01-09,Red,5.12a,51a17d916359877e224a1e1aa89da1cc,,Top Rope,wall-back-wall,967.8,"I had fun on lead on my first attempt, but the tricky clips got me pumped."
 2020-01-09,White,5.11b,66b22a9a5dddba4fb6787544e97489de,,Flash,wall-island,59.4,trickier than expected
-2020-01-09,Red,5.12a,51a17d916359877e224a1e1aa89da1cc,,Top Rope,wall-back-wall,967.8,I had fun on lead on my first attempt﹐ but the tricky clips got me pumped.
-2020-01-09,Pink,5.9,751f4056b7bef9662941c06bb4daeb42,,Red Point,wall-back-wall,-1.5,
-2020-01-09,Yellow,5.11d,0a50f248d5d37b20bb8ad475a3aa8a3e,,Attempt,wall-back-wall,945.1,had trouble pulling on the pockets between the 3rd and 4th clips
+2020-01-09,Lime Green,5.12c,d792e7ad53f74829954a213d9666f954,5.0,Top Rope,wall-back-wall,1044.1,super fun
+2020-01-09,Black,5.11d,d573fcc15d79e7741b2753c0dd1add75,,Attempt,wall-back-wall,56.8,
 2020-01-09,White,5.12a,04a649fe60239a7154c478a02b22aa5f,,Red Point,wall-back-wall,689.8,Barely made it! I always get so pumped on this route at the top.
-2020-01-06,Lime Green Low,V6,0594b4c4393511e66d67f62872a1c3de,,Red Point,wall-boulders,505.7,
-2020-01-05,Blue,5.10d,0c2945cdc4bf070b0f9ea2e732f520ab,,Top Rope,wall-island,266.9,OS
-2020-01-05,Yellow,5.9,f3a926b76332455d0f100cf47dbf1819,,Flash,wall-back-wall,315.7,
-2020-01-05,Blue,5.11b,2ff674be2a650fe354c90fb700b704c7,,Onsight,wall-back-wall,322.3,
-2020-01-05,Blue,5.12a,662964a74003607f9c81c8d0930df6e5,,Onsight,wall-island,43.2,
-2020-01-05,Purple,5.7,04d03c908674ac94d2e15bd8aaf58bf0,,Onsight,wall-back-wall,829.3,
-2020-01-05,Purple,5.11a,e99f18ca607145b411a8036833855f7f,,Top Rope,wall-back-wall,86.3,OS
-2020-01-05,Yellow,5.11d,9ac36959e8a862363cc354626e0a9dd6,,Top Rope,wall-island,603.0,OS
-2020-01-05,Tan,V5,7ec3615f2edc759f5d0ecd2e29684034,,Red Point,wall-boulders,793.8,
-2020-01-05,Black,V5,66534e523878ae755a0834bbda01aebb,,Red Point,wall-slab,192.9,
-2020-01-05,Red,V5,5626da4c93e824b608273be9ebda4d7c,,Red Point,wall-boulders,423.0,
+2020-01-09,Yellow,5.11d,0a50f248d5d37b20bb8ad475a3aa8a3e,,Attempt,wall-back-wall,945.1,had trouble pulling on the pockets between the 3rd and 4th clips
+2020-01-09,Pink,5.9,751f4056b7bef9662941c06bb4daeb42,,Red Point,wall-back-wall,-1.5,
+2020-01-09,White,V3,9339078234104c7a0c464657e892a939,,Flash,wall-boulders,581.0,
+2020-01-09,Tan,V0,81d8de61b948629e4906939bd04e8481,,Flash,wall-boulders,581.0,
+2020-01-09,Yellow,V2,40fed2582fc460eef98edf5be375a3e4,,Flash,wall-boulders,581.0,
+2020-01-05,Lime Green Low,V6,0594b4c4393511e66d67f62872a1c3de,,Red Point,wall-boulders,505.7,
 2020-01-05,Yellow Low,V5,a2a793f19390bb425e1026f97dd5e818,,Red Point,wall-boulders,423.0,
-2020-01-02,White,V4,5e83f865fc7edcb671a0fc6f243fa1cb,,Flash,wall-boulders,736.4,
-2020-01-02,Yellow,V4,46915448cdb1c9ce5516a53f9dd43790,,Flash,wall-boulders,793.8,
-2020-01-02,Yellow,V4,e75537d5294be4537bc7c9baade9a35c,,Red Point,wall-boulders,581.0,
-2020-01-02,Yellow,V4,a94cc983f866c08aa4f2e4f6a6de336a,,Red Point,wall-slab,118.8,I thought this was really hard to start.
-2020-01-02,Blue,V4,f1e21045d4d19ba580260aebf453b360,,Red Point,wall-boulders,161.2,tough!
-2020-01-02,Lime Green,V4,c81084d2b88f45a23575a61808634d31,,Flash,wall-boulders,581.0,
-2020-01-02,Pink,V4,55da0c04bc30556e600e47096828d03b,,Flash,wall-boulders,505.7,
-2020-01-02,White,V5,943482b7603366bef17bbd12ebb4d4ad,4.0,Red Point,wall-boulders,359.0,cool
-2020-01-02,Lime Green,V4,5ca509e894017a9bda24b71225ac3870,,Flash,wall-boulders,359.0,
-2020-01-02,Pink,V4,b4e78b88c47a92515855cc320743ce7d,,Flash,wall-boulders,288.8,
-2020-01-02,Black,V5,2a760eabea811f225fd8dd5a11b286d5,,Flash,wall-boulders,288.8,
-2020-01-02,Red,V1,d75d1c5ae87065663c4e88d0fae2439e,,Flash,wall-boulders,288.8,
-2020-01-02,Blue,V1,7a46cc92bca2c5c26cea19be071a33d8,,Flash,wall-boulders,288.8,
-2020-01-02,Yellow,V1,bb943bd2e385e4542e4970277472f223,,Flash,wall-boulders,359.0,
-2020-01-02,Black,V2,5988412a213b2a46e6147393f55b6808,,Flash,wall-boulders,288.8,
-2020-01-02,White,V2,4563537d169a2b8b7561006da5437b29,,Flash,wall-boulders,288.8,
-2020-01-02,Tan,V3,e5b4a6a34f3cbe5a3164cbec54cbd83c,,Flash,wall-boulders,288.8,
-2020-01-02,Pink,V3,ee6293b3b8364e7e53ebb3c223b242be,,Flash,wall-boulders,359.0,
+2020-01-05,Purple,5.7,04d03c908674ac94d2e15bd8aaf58bf0,,Onsight,wall-back-wall,829.3,
+2020-01-05,Red,V5,5626da4c93e824b608273be9ebda4d7c,,Red Point,wall-boulders,423.0,
+2020-01-05,Yellow,5.11d,9ac36959e8a862363cc354626e0a9dd6,,Top Rope,wall-island,603.0,OS
+2020-01-05,Blue,5.10d,0c2945cdc4bf070b0f9ea2e732f520ab,,Top Rope,wall-island,266.9,OS
+2020-01-05,Black,V5,66534e523878ae755a0834bbda01aebb,,Red Point,wall-slab,192.9,
+2020-01-05,Tan,V5,7ec3615f2edc759f5d0ecd2e29684034,,Red Point,wall-boulders,793.8,
+2020-01-05,Blue,5.12a,662964a74003607f9c81c8d0930df6e5,,Onsight,wall-island,43.2,
+2020-01-05,Purple,5.11a,e99f18ca607145b411a8036833855f7f,,Top Rope,wall-back-wall,86.3,OS
+2020-01-05,Blue,5.11b,2ff674be2a650fe354c90fb700b704c7,,Onsight,wall-back-wall,322.3,
+2020-01-05,Yellow,5.9,f3a926b76332455d0f100cf47dbf1819,,Flash,wall-back-wall,315.7,
 2020-01-02,Lime Green,5.11c,c2e17d0dd0aadae9a06b5babfb9af742,,Top Rope,wall-island,504.0,OS. Interesting smooth weight shift moves.
-2020-01-02,Yellow,5.11d,472abf0689d2a4d1cfe2fa759891a2c6,,Attempt,wall-island,182.8,
-2020-01-02,Yellow,5.12b,c2117d1dacac04a608adbb0e548b8153,,Top Rope,wall-island,444.9,Cool route. Fell at the 7th clip on my first attempt (on lead)﹐ due to endurance issues mostly it seems.
 2020-01-02,Lime Green,5.10a,8bb5dcf2a150e2bb2a77a7d092db3e73,,Onsight,wall-back-wall,684.0,
-2020-01-02,Yellow,V4,243a18cc8cce220c7c763ae2aa414db9,4.0,Flash,wall-boulders,288.8,"Cool route. FYI﹐ the text currently says ""Black (V4)"" but I think it's actually yellow?"
+2020-01-02,Yellow,5.12b,c2117d1dacac04a608adbb0e548b8153,,Top Rope,wall-island,444.9,"Cool route. Fell at the 7th clip on my first attempt (on lead), due to endurance issues mostly it seems."
+2020-01-02,Pink,V3,ee6293b3b8364e7e53ebb3c223b242be,,Flash,wall-boulders,359.0,
+2020-01-02,Tan,V3,e5b4a6a34f3cbe5a3164cbec54cbd83c,,Flash,wall-boulders,288.8,
+2020-01-02,White,V2,4563537d169a2b8b7561006da5437b29,,Flash,wall-boulders,288.8,
+2020-01-02,Black,V2,5988412a213b2a46e6147393f55b6808,,Flash,wall-boulders,288.8,
+2020-01-02,Yellow,V1,bb943bd2e385e4542e4970277472f223,,Flash,wall-boulders,359.0,
+2020-01-02,Blue,V1,7a46cc92bca2c5c26cea19be071a33d8,,Flash,wall-boulders,288.8,
+2020-01-02,Red,V1,d75d1c5ae87065663c4e88d0fae2439e,,Flash,wall-boulders,288.8,
+2020-01-02,Black,V5,2a760eabea811f225fd8dd5a11b286d5,,Flash,wall-boulders,288.8,
+2020-01-02,Pink,V4,b4e78b88c47a92515855cc320743ce7d,,Flash,wall-boulders,288.8,
+2020-01-02,Yellow,V4,243a18cc8cce220c7c763ae2aa414db9,4.0,Flash,wall-boulders,288.8,"Cool route. FYI, the text currently says ""Black (V4)"" but I think it's actually yellow?"
+2020-01-02,Lime Green,V4,5ca509e894017a9bda24b71225ac3870,,Flash,wall-boulders,359.0,
+2020-01-02,White,V5,943482b7603366bef17bbd12ebb4d4ad,4.0,Red Point,wall-boulders,359.0,cool
+2020-01-02,Pink,V4,55da0c04bc30556e600e47096828d03b,,Flash,wall-boulders,505.7,
+2020-01-02,Lime Green,V4,c81084d2b88f45a23575a61808634d31,,Flash,wall-boulders,581.0,
+2020-01-02,Blue,V4,f1e21045d4d19ba580260aebf453b360,,Red Point,wall-boulders,161.2,tough!
+2020-01-02,Yellow,V4,a94cc983f866c08aa4f2e4f6a6de336a,,Red Point,wall-slab,118.8,I thought this was really hard to start.
+2020-01-02,Yellow,V4,e75537d5294be4537bc7c9baade9a35c,,Red Point,wall-boulders,581.0,
+2020-01-02,Yellow,V4,46915448cdb1c9ce5516a53f9dd43790,,Flash,wall-boulders,793.8,
+2020-01-02,White,V4,5e83f865fc7edcb671a0fc6f243fa1cb,,Flash,wall-boulders,736.4,
+2020-01-02,Yellow,5.11d,472abf0689d2a4d1cfe2fa759891a2c6,,Attempt,wall-island,182.8,

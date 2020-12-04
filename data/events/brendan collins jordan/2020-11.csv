@@ -1,0 +1,83 @@
+date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2020-11-30,White,V6,7b1cf3115fce786450bf34101bb498d6,5.0,Red Point,wall-boulders,161.2,
+2020-11-30,Red,V1,1c12d7e66e4d6935b5d4f92f0eaceb11,4.0,Flash,wall-boulders,288.8,
+2020-11-30,Purple,V0,fd7022804d991c328151964c42810fe4,3.0,Flash,wall-boulders,288.8,
+2020-11-30,Tan,V6,7c20000cc4d892290907d6d62916a5a8,4.0,Red Point,wall-boulders,288.8,
+2020-11-30,Lime Green,V3,aefcdd4e100ee815f78dd975f4a858cb,5.0,Flash,wall-boulders,288.8,
+2020-11-30,Yellow,V5,6f225e1994c723caeea8118dff73aff3,3.0,Red Point,wall-boulders,288.8,
+2020-11-30,Blue,V7,3b79cf18f1f8f59389de3f6b4c31da81,5.0,Red Point,wall-boulders,288.8,
+2020-11-30,Pink,V2,8dd937af2477fb77f2825bc069666ead,4.0,Flash,wall-boulders,288.8,
+2020-11-30,Yellow,V6,4bfca26f55699a7f67440fa000d685c6,5.0,Flash,wall-boulders,359.0,
+2020-11-30,Tan,V2,a6d1bb384dce5f3514c57612ed0129fb,4.0,Flash,wall-boulders,359.0,
+2020-11-30,Black,V5,ef1ae2095398c128dee435daa3dfef75,4.0,Flash,wall-boulders,359.0,
+2020-11-30,White,V1,291037b0421f8b4ab2d8cea5878e579e,3.0,Flash,wall-boulders,359.0,
+2020-11-30,Lime Green,V3,cc6edd504260a8be0ced61a595cd32b9,5.0,Flash,wall-boulders,359.0,
+2020-11-30,Pink,V5,47be8f510e1bb43c8f1c4ab5da9c1c17,4.0,Flash,wall-boulders,359.0,"Probably significantly easier for taller folks, but very fun nonetheless!"
+2020-11-24,Pink,V5,1b002d63d18df92607b328d69c5b7249,4.0,Flash,wall-boulders,736.4,
+2020-11-24,Purple,V6,09cc0732a0553966bde8790b65a8b891,4.0,Flash,wall-boulders,793.8,
+2020-11-24,Yellow,V5,c42ffff58c9000cd2b11121614292281,4.0,Flash,wall-boulders,793.8,"A little goofy, but fun-goofy!"
+2020-11-24,Tan,V5,3fdd20b2021763c1e90511d4de82a205,5.0,Flash,wall-boulders,667.3,
+2020-11-22,White,V8,eb481b19875b270604055cd54b5fa063,5.0,Red Point,wall-boulders,423.0,"Such a fun problem. Tricky move off the sloper, but fun once you find the balance. Good flow"
+2020-11-22,Lime Green,V6,77ed0846cbeb927156926c6de88453c5,5.0,Flash,wall-boulders,736.4,Super fun! Flowy on pleasant holds 
+2020-11-22,Red,V6,8c00faaf1e9b00c7b88ebf1f934853c4,5.0,Red Point,wall-boulders,793.8,Physical! Fun though :)
+2020-11-22,Pink,V0,459d285fb2040aa2377e15a7a85527e0,5.0,Flash,wall-boulders,793.8,
+2020-11-22,Tan,V4,dd0cc3fcd480b46dec135f06f894224e,3.0,Red Point,wall-boulders,793.8,
+2020-11-22,Tan,V1,1c487fb05a9896179d1f39d70c7864de,2.0,Flash,wall-boulders,793.8,
+2020-11-22,Lime Green,V2,c79644fa3cca69d25bbb2d5a58434a07,5.0,Flash,wall-boulders,793.8,
+2020-11-22,Red,V4,71b0f4b22a4df7e41baf8b06ca00d529,4.0,Flash,wall-boulders,667.3,
+2020-11-22,Black,V3,fd5a987e0bc85ac82b4c7463207b6959,3.0,Flash,wall-boulders,793.8,
+2020-11-22,White,V2,397daaa2499198fe42e5c6c8670b8bb9,4.0,Flash,wall-boulders,736.4,
+2020-11-22,Black,V4,6d9e21e7d221461a27bd65a95e018fc0,4.0,Flash,wall-boulders,793.8,
+2020-11-19,Purple,5.10c,31b09c485b598e4ca43d68a7003f039a,4.0,Onsight,wall-back-wall,507.7,
+2020-11-19,White,5.11c,03f67f67b531c62486e9e453ae5135c3,5.0,Flash,wall-back-wall,401.6,Super fun sequence. Love the upper section!
+2020-11-19,Red,5.10a,83c2f39312c7f311e92b5a97ec18867f,3.0,Onsight,wall-back-wall,342.1,
+2020-11-19,White,5.10a,c2c520bd083b66a00aae9c0e217220fe,4.0,Flash,wall-island,396.5,
+2020-11-17,Blue,V6,0c2866cc673a5fbac0824bf99399b1da,4.0,Red Point,wall-boulders,736.4,
+2020-11-17,Red,V7,d5a03c8328976d4ee7dc1cb2c8a875ca,5.0,Red Point,wall-boulders,736.4,"Super fun, flowy problem!"
+2020-11-17,Pink,V5,783e847b97bd33104e11da29a6a0b11f,4.0,Red Point,wall-boulders,222.0,
+2020-11-17,Yellow,V5,1fc50aa885f76c9a08e2e7a7dfffb833,4.0,Red Point,wall-boulders,222.0,
+2020-11-14,Black,5.13b,602d606322febc3221cdcce48f61c88e,5.0,Attempt,wall-back-wall,532.7,"Super fun route! Tricky sequencing, which is a nice challenge to work out. Definitely a classic! "
+2020-11-12,Blue,V6,f5a9519face1812f69199bcbb7468606,4.0,Red Point,wall-mezzanine,114.6,
+2020-11-12,Lime Green High,V6,8006013d7cf133074192b82c91974cbb,4.0,Red Point,wall-boulders,505.7,
+2020-11-12,Tan,V4,ec085769c08e60c8cf33925dd02c509d,4.0,Red Point,wall-slab,48.7,
+2020-11-12,Blue,V6,83d97a3c2ca70ac6aa7fa7c2e0d24ecb,5.0,Red Point,wall-slab,48.7,"Super fun! Definitely on the soft side, but neat mantle move and fun balancey stuff at the end."
+2020-11-12,White,V5,3336638a307af6e6c34c69eac5754d20,4.0,Flash,wall-slab,48.7,
+2020-11-12,Yellow,V7,c8816acd368396dd9b3555dc22cf260e,2.0,Attempt,wall-slab,48.7,
+2020-11-12,Red,V4,ee98650b5c854f046238c1daeae339ff,4.0,Flash,wall-slab,48.7,
+2020-11-12,Black,V3,7822162e14c08a3268152fd7e59e6046,4.0,Flash,wall-slab,48.7,
+2020-11-12,Pink,V1,26f2b8aed2ca7911df1d67e87b36c624,4.0,Flash,wall-slab,118.8,
+2020-11-12,Lime Green,V5,427ea49a607faa04e98159d5015598d4,5.0,Red Point,wall-slab,118.8,Nifty problem. I like the standup move.
+2020-11-12,White,V0,31d4bebb1aee89ac8f5cd0f14789770a,4.0,Flash,wall-slab,118.8,
+2020-11-12,Blue,V5,18f003eca0829bab0c0ddc4e35504fb4,5.0,Flash,wall-slab,118.8,
+2020-11-12,Tan,V3,7f0b19633020a94ca0cb8352abdad39d,4.0,Flash,wall-slab,118.8,
+2020-11-12,Red,V2,237a9b21bb95169830c5fcae3fe3856d,5.0,Flash,wall-slab,118.8,
+2020-11-12,Yellow,V4,a101ed60c546be46736b464226a7bbf5,5.0,Red Point,wall-slab,192.9,Tricky start!
+2020-11-12,Black,V1,7a4fe53e3496173958fb8a0766b0ef59,4.0,Flash,wall-slab,192.9,
+2020-11-12,White,V3,07e2d9716469ebd24084b1b731347043,4.0,Flash,wall-slab,192.9,
+2020-11-12,Pink,V6,fbdec5846473b9c44c8caeb39286e2fe,4.0,Red Point,wall-slab,192.9,That first move was super hard/ awkward for me. But the undercling sequence off the smeary feet was very nice!
+2020-11-12,Lime Green,V0,e4770400557527b31f0f7c78131577aa,4.0,Flash,wall-slab,192.9,
+2020-11-10,Pink,5.11a,643f168dce860e3c9c70dfe7a3ea97c1,4.0,Red Point,wall-auto-belay,46.5,
+2020-11-10,Lime Green,5.10d,27d7880a05e51ccba53a52c737455b0b,4.0,Onsight,wall-auto-belay,223.4,
+2020-11-10,Yellow,5.9,69e6c13614a4f739d31d2b9c9deaed5b,5.0,Onsight,wall-auto-belay,249.8,
+2020-11-10,Blue,5.11a,67c3691d56bcf7fc484674dd372da6f4,4.0,Onsight,wall-auto-belay,251.1,
+2020-11-10,Tan,5.8,f23ea46305320d80ba934992c9826197,3.0,Onsight,wall-auto-belay,271.8,
+2020-11-10,Purple,5.10b,3081d3c83241265dcc39242e1efc1dd1,5.0,Onsight,wall-auto-belay,273.1,
+2020-11-10,Lime Green,5.10a,6a8af2f7f41d44a8ea1a7c07fbe8fe7c,4.0,Onsight,wall-auto-belay,302.1,
+2020-11-10,Lime Green,5.10d,aa2664330f59fe0ea4c0e719e5f42e40,4.0,Onsight,wall-auto-belay,390.5,
+2020-11-10,Purple,5.8,798350769ace5163a04f24cbd558f298,3.0,Onsight,wall-auto-belay,391.2,
+2020-11-05,Black,V5,96e044bf9d945912699a52db4d8d2e28,4.0,Flash,wall-boulders,423.0,
+2020-11-05,Black High,V4,5c891b1b4cccd3f18967666056e0f1c0,5.0,Flash,wall-boulders,505.7,Super fun movement! Powerful!
+2020-11-05,Pink,V1,2f8798a54f9ca5b10fa42de0a2b7f6fc,4.0,Flash,wall-boulders,581.0,
+2020-11-05,Pink,V3,abc23ac426fa6181e1c5fbc695998f8f,4.0,Flash,wall-boulders,505.7,
+2020-11-05,Pink Low,V4,c049bd39a2a7e755b500340dae82c51b,5.0,Flash,wall-boulders,505.7,Flowy!
+2020-11-05,Purple,V2,ae4becf2b109b7fcc26361725da1754d,4.0,Flash,wall-boulders,505.7,
+2020-11-05,Red,V4,e3b2d1a949a2a929f7e84b0bdb4bd812,4.0,Flash,wall-boulders,505.7,
+2020-11-05,Tan,V2,192be118b49a3367e6d5ff77fcc51430,3.0,Flash,wall-boulders,581.0,
+2020-11-05,Tan,V4,8fdaba045f2ce3bcf4676f5a08dd0f8e,4.0,Flash,wall-boulders,423.0,
+2020-11-05,White,V3,15e11d5e75b0c393db1812f84d17029d,2.0,Red Point,wall-boulders,581.0,Super awkward start. Definitely a solid V4.
+2020-11-05,Yellow,V5,eca5e21cad6f3707fbb0d1d731137e72,5.0,Red Point,wall-boulders,581.0,Floaty ??   Definitely a classic!
+2020-11-05,Yellow,V0,56a23bbb65d62e131bede01b24896f46,3.0,Flash,wall-boulders,423.0,
+2020-11-05,Tan,V8,333b63d3f56736a7ed20d8312350345b,5.0,Red Point,wall-boulders,87.1,Super fun problem!
+2020-11-05,Black,V5,4244391623e5c9221a26ddb3aae63b74,3.0,Red Point,wall-boulders,161.2,
+2020-11-05,Lime Green,V4,a73c3ed2208b2b2942738e3e79b5a6f9,4.0,Red Point,wall-boulders,161.2,
+2020-11-05,White,V4,9a6c08f84d1c41fac5f92ebbe0ea0733,4.0,Flash,wall-boulders,87.1,

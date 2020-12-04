@@ -1,7 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2019-09-26,Pink,5.12a,75bc9f6ba0769c3a3db0e00027d94205,5.0,Red Point,wall-back-wall,1376.2,
-2019-09-26,Pink,5.12a,75bc9f6ba0769c3a3db0e00027d94205,3.0,Top Rope,wall-back-wall,1376.2,
-2019-09-26,Tan,5.12a,c0b15a8534d9e874d16ad3676ca32750,3.0,Top Rope,wall-back-wall,1310.0,
-2019-09-26,Black,5.12b,e49b62c8b3df1017f923d345a45b6cb2,3.0,Attempt,wall-back-wall,1251.0,
-2019-09-26,Red,5.11b,86830592b11a1b3b4f75ebed1ef2f263,3.0,Red Point,wall-back-wall,1199.9,
 2019-09-26,Yellow,5.12b,746871e2af3d0c62e923aca928ca2a2c,5.0,Top Rope,wall-red,262.5,
+2019-09-26,Red,5.11b,86830592b11a1b3b4f75ebed1ef2f263,3.0,Red Point,wall-back-wall,1199.9,
+2019-09-26,Black,5.12b,e49b62c8b3df1017f923d345a45b6cb2,3.0,Attempt,wall-back-wall,1251.0,
+2019-09-26,Tan,5.12a,c0b15a8534d9e874d16ad3676ca32750,3.0,Top Rope,wall-back-wall,1310.0,
+2019-09-26,Pink,5.12a,75bc9f6ba0769c3a3db0e00027d94205,3.0,Top Rope,wall-back-wall,1376.2,

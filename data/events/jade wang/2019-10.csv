@@ -1,9 +1,9 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-10-30,White,5.10a,d8be3ac6dad1de62cea72c475e6ecd17,3.0,Attempt,wall-island,300.0,
 2019-10-30,Red,5.10a,93f15416d3b0c8afabaa2f3e4849175d,3.0,Onsight,wall-red,132.5,
-2019-10-24,White,V0,618463d442beee480595a1b1b7ce92d9,4.0,Flash,wall-boulders,793.8,
+2019-10-30,White,5.10a,d8be3ac6dad1de62cea72c475e6ecd17,3.0,Attempt,wall-island,300.0,
 2019-10-24,Tan,5.8,b450e0f6a18d72fff49f977b8c25ff2e,3.0,Onsight,wall-back-wall,1386.5,
 2019-10-24,Tan,5.9,768c0524daf4f65e02b635909c4a6614,3.0,Onsight,wall-back-wall,870.9,
+2019-10-24,White,V0,618463d442beee480595a1b1b7ce92d9,4.0,Flash,wall-boulders,793.8,
 2019-10-24,Tan,V1,11989873e17619fe5343a1ba64b7f9fa,4.0,Flash,wall-slab,192.9,
 2019-10-22,Black,5.10b,ce4e820cbe72f972c9e83f944cb90185,,Attempt,wall-island,245.4,
 2019-10-18,Tan,5.8,b2d7ab84bfd281be83406c112610cb84,4.0,Onsight,wall-red,80.7,fun easy corner

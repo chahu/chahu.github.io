@@ -1,47 +1,47 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2020-02-28,Red,5.10c,f2eb3aa854b39dfd914b364e8de3ce25,,Onsight,wall-auto-belay,173.7,ab
-2020-02-28,Purple,5.11a,4de3ef33dbef6d704b99ef4c2620a828,,Onsight,wall-red,133.2,
-2020-02-28,Tan,5.10b,a9cdc38c490135fd400e16abf2e535a6,,Onsight,wall-back-wall,1386.5,
 2020-02-28,Red,5.11a,d7f4842bef0d7cba9df3c14cd4b475c4,,Onsight,wall-back-wall,1386.5,
-2020-02-25,Blue,V5,ef270746ce2b38c63c579c5138d69c3f,,Flash,wall-boulders,87.1,
+2020-02-28,Tan,5.10b,a9cdc38c490135fd400e16abf2e535a6,,Onsight,wall-back-wall,1386.5,
+2020-02-28,Purple,5.11a,4de3ef33dbef6d704b99ef4c2620a828,,Onsight,wall-red,133.2,
+2020-02-28,Red,5.10c,f2eb3aa854b39dfd914b364e8de3ce25,,Onsight,wall-auto-belay,173.7,ab
 2020-02-25,Tan,V7,3b41249be68a8ecb30a30109655909c5,4.0,Red Point,wall-boulders,505.7,
-2020-02-23,White,5.10c,a86bca124bf3d326e6e57c9ab442f227,,Onsight,wall-back-wall,1275.5,
-2020-02-23,Pink,5.11a,b324838987e8507a768efb25d71afc4e,,Onsight,wall-back-wall,1250.3,very cruxy with 2 bad crimps
-2020-02-23,Yellow,5.10c,3b0758532fe34ede5936bbb6c0c20963,,Onsight,wall-back-wall,164.5,TR with the long braid
+2020-02-25,Blue,V5,ef270746ce2b38c63c579c5138d69c3f,,Flash,wall-boulders,87.1,
 2020-02-23,Red,5.10c,8da5d8cee664d98a1d96c214834cb17c,,Onsight,wall-back-wall,36.9,TR with the long braid
-2020-02-20,White,5.10c,5743ff77ddd0bb90114ff91fa17b80f6,3.0,Onsight,wall-back-wall,1199.9,
-2020-02-20,White,5.10c,a73ba2cb99ac603ded6f257460121335,3.0,Onsight,wall-back-wall,1142.8,
+2020-02-23,Yellow,5.10c,3b0758532fe34ede5936bbb6c0c20963,,Onsight,wall-back-wall,164.5,TR with the long braid
+2020-02-23,Pink,5.11a,b324838987e8507a768efb25d71afc4e,,Onsight,wall-back-wall,1250.3,very cruxy with 2 bad crimps
+2020-02-23,White,5.10c,a86bca124bf3d326e6e57c9ab442f227,,Onsight,wall-back-wall,1275.5,
 2020-02-20,Yellow,5.10a,5386b87d83fc22783ae82f57ddbfd4e2,,Onsight,wall-back-wall,1167.3,
-2020-02-17,Black,5.10b,e3bb65d47c22cddc19048ed526c5d751,,Onsight,wall-back-wall,1099.6,
-2020-02-17,White,5.10a,ba03617a77e032e454377c3d58838db1,,Onsight,wall-back-wall,1069.1,
-2020-02-17,Tan,5.10b,afc08d8f12c860eb6892378f440fe16d,,Onsight,wall-island,266.2,tr
-2020-02-17,White,5.10d,c3427850c4f142dfbe48314fc995e4ed,,Onsight,wall-island,126.0,
-2020-02-17,Pink,V6,485096f658944bcbafae1d09270c65ad,2.0,Flash,wall-boulders,667.3,annoying first move and then an ok v4
-2020-02-17,Black,V5,c4fe394dd0196e91fd127d753dc2110d,,Red Point,wall-boulders,667.3,
-2020-02-17,Red,V4,c4d33894702fb85c8ff7263b1062d3bc,,Flash,wall-boulders,667.3,
-2020-02-17,Black,V5,276883bed18629a13cbf238b9a05f066,,Flash,wall-boulders,736.4,
-2020-02-17,White,V5,3629c0c9ccab50a3ba36cc716339d76f,,Flash,wall-boulders,736.4,
-2020-02-17,Tan,V6,14d14b4541690ea10e1eaa601680a003,,Flash,wall-boulders,793.8,
-2020-02-17,Black,V4,2afe44a078374223b64b87747a4be947,,Flash,wall-boulders,793.8,
-2020-02-17,Pink,V3,5aaa08b5097cfec11de274f8f8c3922a,,Flash,wall-boulders,793.8,
-2020-02-17,Yellow,V0,fd4da02fc305527a87d34fc9b01a0b5c,,Flash,wall-boulders,793.8,
-2020-02-17,Blue,V3,fc57de266615f969545394ac7e4e7a5a,,Flash,wall-boulders,359.0,
-2020-02-17,Pink,V1,183e51b50241ab343b6f18d216abba16,,Flash,wall-boulders,359.0,
-2020-02-17,Tan,V2,25c4bb3056adf9efe04a669c321d4cc1,,Flash,wall-boulders,359.0,
-2020-02-17,White,V4,2e65c0dcf231a90584c4f4f2937615ed,,Flash,wall-boulders,359.0,
-2020-02-17,Black,V6,d02c5bae48255aa238dc6c5e8e7005ae,,Red Point,wall-boulders,359.0,
-2020-02-17,Red,V3,26c3459b2951701db7d3fe93c4a7bc48,,Flash,wall-boulders,288.8,
-2020-02-17,Yellow,V0,46dc20b9a3055906ab3241d337407ad9,,Flash,wall-boulders,288.8,
-2020-02-17,Lime Green,V7,6030b9fdb04162fac85b1b683ea08350,,Red Point,wall-boulders,288.8,
-2020-02-17,White,V5,3d046536bfa86eafdcf01c603fa2fb2e,,Flash,wall-boulders,288.8,
-2020-02-17,Black,V4,bcd6bef907936ab0530a8284893847fa,,Flash,wall-boulders,288.8,
-2020-02-17,Pink,V4,c4d845803195f5328a2105da2c93d1d4,,Flash,wall-boulders,288.8,
+2020-02-20,White,5.10c,a73ba2cb99ac603ded6f257460121335,3.0,Onsight,wall-back-wall,1142.8,
+2020-02-20,White,5.10c,5743ff77ddd0bb90114ff91fa17b80f6,3.0,Onsight,wall-back-wall,1199.9,
 2020-02-17,Red,5.12a,a0b6519e16d7b3589d70f47b20e4e973,,Top Rope,wall-island,184.9,2
-2020-02-17,Red,5.12b,c6255fe61a74d2727cb07aac3df0ba24,,Top Rope,wall-back-wall,125.8,top is real tiring
-2020-02-17,Purple,5.10a,3367c4d06c93f4c7198f49fbc31c31ad,,Onsight,wall-island,445.8,
-2020-02-17,Green,5.10c,2e45334406444552d928cc7eeb7fb6b4,4.0,Onsight,wall-island,420.7,
-2020-02-17,Tan,5.10b,7021dcfa5ce53a9a7bae85a06f1bdd1f,,Onsight,wall-auto-belay,274.3,
+2020-02-17,Pink,V4,c4d845803195f5328a2105da2c93d1d4,,Flash,wall-boulders,288.8,
+2020-02-17,Black,V4,bcd6bef907936ab0530a8284893847fa,,Flash,wall-boulders,288.8,
+2020-02-17,White,V5,3d046536bfa86eafdcf01c603fa2fb2e,,Flash,wall-boulders,288.8,
+2020-02-17,Lime Green,V7,6030b9fdb04162fac85b1b683ea08350,,Red Point,wall-boulders,288.8,
+2020-02-17,Yellow,V0,46dc20b9a3055906ab3241d337407ad9,,Flash,wall-boulders,288.8,
+2020-02-17,Red,V3,26c3459b2951701db7d3fe93c4a7bc48,,Flash,wall-boulders,288.8,
+2020-02-17,Black,V6,d02c5bae48255aa238dc6c5e8e7005ae,,Red Point,wall-boulders,359.0,
+2020-02-17,White,V4,2e65c0dcf231a90584c4f4f2937615ed,,Flash,wall-boulders,359.0,
+2020-02-17,Tan,V2,25c4bb3056adf9efe04a669c321d4cc1,,Flash,wall-boulders,359.0,
+2020-02-17,Pink,V1,183e51b50241ab343b6f18d216abba16,,Flash,wall-boulders,359.0,
+2020-02-17,Blue,V3,fc57de266615f969545394ac7e4e7a5a,,Flash,wall-boulders,359.0,
+2020-02-17,Yellow,V0,fd4da02fc305527a87d34fc9b01a0b5c,,Flash,wall-boulders,793.8,
+2020-02-17,Pink,V3,5aaa08b5097cfec11de274f8f8c3922a,,Flash,wall-boulders,793.8,
+2020-02-17,Black,V4,2afe44a078374223b64b87747a4be947,,Flash,wall-boulders,793.8,
+2020-02-17,Tan,V6,14d14b4541690ea10e1eaa601680a003,,Flash,wall-boulders,793.8,
+2020-02-17,White,V5,3629c0c9ccab50a3ba36cc716339d76f,,Flash,wall-boulders,736.4,
+2020-02-17,Black,V5,276883bed18629a13cbf238b9a05f066,,Flash,wall-boulders,736.4,
+2020-02-17,Red,V4,c4d33894702fb85c8ff7263b1062d3bc,,Flash,wall-boulders,667.3,
+2020-02-17,Black,V5,c4fe394dd0196e91fd127d753dc2110d,,Red Point,wall-boulders,667.3,
+2020-02-17,Pink,V6,485096f658944bcbafae1d09270c65ad,2.0,Flash,wall-boulders,667.3,annoying first move and then an ok v4
 2020-02-17,Blue,5.11a,0ae61226b62f29510038cb3dcb060ab8,,Onsight,wall-auto-belay,20.3,tr
+2020-02-17,Tan,5.10b,7021dcfa5ce53a9a7bae85a06f1bdd1f,,Onsight,wall-auto-belay,274.3,
+2020-02-17,Green,5.10c,2e45334406444552d928cc7eeb7fb6b4,4.0,Onsight,wall-island,420.7,
+2020-02-17,Purple,5.10a,3367c4d06c93f4c7198f49fbc31c31ad,,Onsight,wall-island,445.8,
+2020-02-17,White,5.10d,c3427850c4f142dfbe48314fc995e4ed,,Onsight,wall-island,126.0,
+2020-02-17,Tan,5.10b,afc08d8f12c860eb6892378f440fe16d,,Onsight,wall-island,266.2,tr
+2020-02-17,White,5.10a,ba03617a77e032e454377c3d58838db1,,Onsight,wall-back-wall,1069.1,
+2020-02-17,Black,5.10b,e3bb65d47c22cddc19048ed526c5d751,,Onsight,wall-back-wall,1099.6,
+2020-02-17,Red,5.12b,c6255fe61a74d2727cb07aac3df0ba24,,Top Rope,wall-back-wall,125.8,top is real tiring
 2020-02-06,Lime Green,V1,5aed781f9fde1b16bc1fc2098c0fb9bd,,Flash,wall-boulders,793.8,
 2020-02-06,White,V2,147d8ca3f32ca55777eb6d9ffb50cc52,,Flash,wall-boulders,793.8,
 2020-02-06,Blue,V3,9a75a24b3ebdf516d10c5370ef74fd4e,,Flash,wall-boulders,736.4,

@@ -1,33 +1,32 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2020-01-24,Black,V5,9ea54cf3e28a79790a590ba68da8dc81,5.0,Red Point,wall-slab,48.7,Tricky!
 2020-01-23,Blue,V5,ef270746ce2b38c63c579c5138d69c3f,3.0,Flash,wall-boulders,87.1,
-2020-01-23,Yellow,V9,da292398c1c50f8c991cc3329eb806e9,5.0,Red Point,wall-boulders,87.1,Sick route﹐ glad to see such an unusual mantle at the gym!
+2020-01-23,Yellow,V9,da292398c1c50f8c991cc3329eb806e9,5.0,Red Point,wall-boulders,87.1,"Sick route, glad to see such an unusual mantle at the gym!"
 2020-01-23,Pink,V6,d29cbdbc0cb2ba9ad703d01f09b5e6cb,5.0,Red Point,wall-boulders,87.1,Really fun
 2020-01-23,Blue Right,V5,6495e2c4314de447f3e443ff8b97eb66,3.0,Flash,wall-boulders,161.2,
 2020-01-23,Red,V8,bcfe3a56ace425216c1d995fe72be574,5.0,Red Point,wall-boulders,161.2,Fun
 2020-01-23,Pink,V6,36cb7bc4e3d3a278eff29781927243fc,3.0,Flash,wall-boulders,222.0,
-2020-01-19,Lime Green,V7,0b096eec4f0c7bfd8dd5e4fec1de2525,5.0,Red Point,wall-slab,192.9,Nice movements﹐ surprisingly many potential betas﹐ only one of which worked for me
-2020-01-19,Yellow,V5,f9c5a5493ccc202ec3d0add93de7ea48,5.0,Red Point,wall-slab,48.7,Hardest in the set
-2020-01-19,White,V6,2cfd26a7618a83f132b0da19384b14e5,5.0,Red Point,wall-slab,48.7,
 2020-01-19,Blue,V9,3dfd9293f5e07997360aa49199eb9fc5,5.0,Red Point,wall-boulders,667.3,Different and fun
-2020-01-18,Blue,V6,14f5f07936e2dedb4ee6f050d25d3c58,3.0,Red Point,wall-slab,118.8,
-2020-01-18,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,5.0,Red Point,wall-slab,118.8,Another great V5 in this set
-2020-01-18,White,V5,124cbd7d8c7258278c4218e3d82fa972,5.0,Red Point,wall-slab,192.9,Fun
-2020-01-18,White,V6,7941b1ed2ded20c5da5d256019e270af,3.0,Red Point,wall-slab,118.8,
-2020-01-18,Red down,V7,608828ad946230d669af24c86debb2ec,3.0,Red Point,wall-slab,192.9,
-2020-01-18,Red up,V6,c984bdddbae735657115337b4f6268fd,3.0,Flash,wall-slab,192.9,
+2020-01-19,White,V6,2cfd26a7618a83f132b0da19384b14e5,5.0,Red Point,wall-slab,48.7,
+2020-01-19,Yellow,V5,f9c5a5493ccc202ec3d0add93de7ea48,5.0,Red Point,wall-slab,48.7,Hardest in the set
+2020-01-19,Lime Green,V7,0b096eec4f0c7bfd8dd5e4fec1de2525,5.0,Red Point,wall-slab,192.9,"Nice movements, surprisingly many potential betas, only one of which worked for me"
 2020-01-18,Lime Green Right,V8,0ef20704fa89c7da68a43533a1fa2fc2,5.0,Red Point,wall-boulders,423.0,!!!!!!!
-2020-01-09,White,V5,40f680dbba8160cd4888e20714b7386e,3.0,Flash,wall-boulders,423.0,
-2020-01-09,White,V5,a6b37892d7af300d7ad0be0b1ddbca67,5.0,Flash,wall-boulders,505.7,
-2020-01-09,Tan,V7,3b41249be68a8ecb30a30109655909c5,5.0,Red Point,wall-boulders,505.7,
-2020-01-09,Red,V6,2eae3764a878320e7d18143cacb28d80,5.0,Red Point,wall-boulders,581.0,Adventure route / horizontal lead climbing
+2020-01-18,Red up,V6,c984bdddbae735657115337b4f6268fd,3.0,Flash,wall-slab,192.9,
+2020-01-18,Red down,V7,608828ad946230d669af24c86debb2ec,3.0,Red Point,wall-slab,192.9,
+2020-01-18,White,V6,7941b1ed2ded20c5da5d256019e270af,3.0,Red Point,wall-slab,118.8,
+2020-01-18,White,V5,124cbd7d8c7258278c4218e3d82fa972,5.0,Red Point,wall-slab,192.9,Fun
+2020-01-18,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,5.0,Red Point,wall-slab,118.8,Another great V5 in this set
+2020-01-18,Blue,V6,14f5f07936e2dedb4ee6f050d25d3c58,3.0,Red Point,wall-slab,118.8,
 2020-01-09,Blue,V6,6ba27f4a19e4ec72044c7700e2350e28,4.0,Red Point,wall-boulders,581.0,
-2020-01-09,Pink Low,V5,3f19fba696b801a0330569bef569205b,5.0,Red Point,wall-boulders,423.0,Stout for V4﹐ harder than V5 routes to left and right 
-2020-01-03,White,V5,943482b7603366bef17bbd12ebb4d4ad,4.0,Red Point,wall-boulders,359.0,
-2020-01-03,Blue,V6,b38ff54cb16c58a24d0e3907ca92dcce,4.0,Flash,wall-boulders,359.0,
-2020-01-03,Yellow,V6,ccb8196b71fbf285d879259aaa7e4044,3.0,Flash,wall-boulders,359.0,
-2020-01-03,Red,V6,a92505da49c811edda38aae163d1785c,5.0,Red Point,wall-boulders,359.0,Much better with the toe hook start!
-2020-01-03,White,V7,c9ec4e8145625f033e34a7ca53a7714e,5.0,Red Point,wall-boulders,359.0,Cool movement
-2020-01-03,Black,V5,2a760eabea811f225fd8dd5a11b286d5,5.0,Red Point,wall-boulders,288.8,Burly
+2020-01-09,Red,V6,2eae3764a878320e7d18143cacb28d80,5.0,Red Point,wall-boulders,581.0,Adventure route / horizontal lead climbing
+2020-01-09,Tan,V7,3b41249be68a8ecb30a30109655909c5,5.0,Red Point,wall-boulders,505.7,
+2020-01-09,White,V5,a6b37892d7af300d7ad0be0b1ddbca67,5.0,Flash,wall-boulders,505.7,
+2020-01-09,Pink Low,V5,3f19fba696b801a0330569bef569205b,5.0,Red Point,wall-boulders,423.0,"Stout for V4, harder than V5 routes to left and right "
+2020-01-09,White,V5,40f680dbba8160cd4888e20714b7386e,3.0,Flash,wall-boulders,423.0,
 2020-01-03,Lime Green,V8,105874e1807ae047718a577a6e22f49e,5.0,Red Point,wall-boulders,288.8,Fun! Creative start.
-2020-01-01,Blue,V7,8bdefa7628eb49c3b236683efe8f9efc,5.0,Red Point,wall-boulders,793.8,
+2020-01-03,Black,V5,2a760eabea811f225fd8dd5a11b286d5,5.0,Red Point,wall-boulders,288.8,Burly
+2020-01-03,White,V7,c9ec4e8145625f033e34a7ca53a7714e,5.0,Red Point,wall-boulders,359.0,Cool movement
+2020-01-03,Red,V6,a92505da49c811edda38aae163d1785c,5.0,Red Point,wall-boulders,359.0,Much better with the toe hook start!
+2020-01-03,Yellow,V6,ccb8196b71fbf285d879259aaa7e4044,3.0,Flash,wall-boulders,359.0,
+2020-01-03,Blue,V6,b38ff54cb16c58a24d0e3907ca92dcce,4.0,Flash,wall-boulders,359.0,
+2020-01-03,White,V5,943482b7603366bef17bbd12ebb4d4ad,4.0,Red Point,wall-boulders,359.0,

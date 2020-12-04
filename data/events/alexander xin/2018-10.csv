@@ -1,108 +1,111 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2018-10-31,Pink,5.11c,51782e05cb3d10eae5273e2b73781473,3.0,Top Rope,wall-back-wall,994.6,"Fun crimps, good flow, stamina-intensive"
 2018-10-31,Lime Green,5.12b,f89368ed80d4c095397789f18942d58a,5.0,Top Rope,wall-back-wall,191.4,Lots of fun
-2018-10-31,Pink,5.11c,51782e05cb3d10eae5273e2b73781473,3.0,Top Rope,wall-back-wall,994.6,Fun crimps﹐ good flow﹐ stamina-intensive
-2018-10-31,Black,V6,9270b6aa4e48e3d9caae20969777c045,4.0,Red Point,wall-boulders,736.4,Fun﹐ teaches a couple useful techniques (different styles of bicycling﹐ body rotation to gain extra inches)﹐ and builds confidence with dynamic moves on the 45﹐ not just a one or two move wonder...
-2018-10-31,White,5.12a,4a9e8e03cc000fce663edac37fcc88d8,4.0,Top Rope,wall-back-wall,1045.1,Fun﹐ big moves
-2018-10-31,Red,5.12b,eba57b45c863ce94bb3910f29be73867,4.0,Top Rope,wall-island,529.4,Challening!
-2018-10-31,Red,5.11d,c9fdbbc49bc5c4ea771c67e2a26f6f0f,5.0,Top Rope,wall-island,60.4,Really fun to figure out the beta
-2018-10-31,Pink,5.11a,431fb09c101bfd0955cf55e179330fba,4.0,Top Rope,wall-island,92.7,Classic crimpy on vert wall route
-2018-10-31,Blue,5.10a,cb81eb3f4bf56910ce09264355401b25,3.0,Top Rope,wall-back-wall,895.6,A little pumpy but nice
-2018-10-31,Black,5.11a,df05e7e8c1a2962d43292942d6be0666,4.0,Top Rope,wall-back-wall,1068.2,Fun climb!
-2018-10-31,Red,5.9,557763ffe260057a5ae2d9ee96454479,4.0,Top Rope,wall-back-wall,1067.3,Nice and straightforward
-2018-10-27,Black,V6,4e5b72f1b146d10345742335fdcbaad1,4.0,Red Point,wall-boulders,359.0,Fun﹐ big moves﹐ just need the control and contact strength
+2018-10-30,Black,V6,9270b6aa4e48e3d9caae20969777c045,4.0,Red Point,wall-boulders,736.4,"Fun, teaches a couple useful techniques (different styles of bicycling, body rotation to gain extra inches), and builds confidence with dynamic moves on the 45, not just a one or two move wonder..."
+2018-10-30,Red,5.9,557763ffe260057a5ae2d9ee96454479,4.0,Top Rope,wall-back-wall,1067.3,Nice and straightforward
+2018-10-30,Black,5.11a,df05e7e8c1a2962d43292942d6be0666,4.0,Top Rope,wall-back-wall,1068.2,Fun climb!
+2018-10-30,Blue,5.10a,cb81eb3f4bf56910ce09264355401b25,3.0,Top Rope,wall-back-wall,895.6,A little pumpy but nice
+2018-10-30,Pink,5.11a,431fb09c101bfd0955cf55e179330fba,4.0,Top Rope,wall-island,92.7,Classic crimpy on vert wall route
+2018-10-30,Red,5.11d,c9fdbbc49bc5c4ea771c67e2a26f6f0f,5.0,Top Rope,wall-island,60.4,Really fun to figure out the beta
+2018-10-30,Red,5.12b,eba57b45c863ce94bb3910f29be73867,4.0,Top Rope,wall-island,529.4,Challening!
+2018-10-30,White,5.12a,4a9e8e03cc000fce663edac37fcc88d8,4.0,Top Rope,wall-back-wall,1045.1,"Fun, big moves"
+2018-10-27,Yellow,V7,d842cbf948315227fbbfda3bd62f32a9,5.0,Red Point,wall-boulders,667.3,"These holds are always a challenge to figure out. A tough, cool problem."
 2018-10-27,Pink,V6,9db08ad58ea513ce9e42c4fa83dddddc,4.0,Red Point,wall-boulders,288.8,I should work harder on these types of problems! Finally ended up going far right and up and then doing a high left foot to get a good angle on the big piece. Thanks to Anna for the beta... (image is of a failed attempt)
-2018-10-27,Yellow,V7,d842cbf948315227fbbfda3bd62f32a9,5.0,Red Point,wall-boulders,667.3,These holds are always a challenge to figure out. A tough﹐ cool problem.
-2018-10-25,Yellow,V3,130f4f0d9a228e78bf2be4b235f6445b,5.0,Flash,wall-boulders,359.0,Great pinch and footwork workshop
-2018-10-25,Tan Right,V1,1637c33a91140163c71ca28a88fcabe5,4.0,Flash,wall-boulders,359.0,Nice sloper workshop for beginners
-2018-10-25,Tan Left,V4,97dd63e58b08d0226fda16e8bbd1838c,3.0,Red Point,wall-boulders,359.0,A fun little dynamic move in the middle
-2018-10-25,Purple,V2,dbe2654a95262518e69774a56dbb2525,4.0,Flash,wall-boulders,359.0,Cheeky﹐ requires proper footwork in order to do (without resorting to brute force)
-2018-10-25,Yellow,V3,710488b90bf1d18d767a084748da45b2,3.0,Flash,wall-boulders,359.0,A solid V3
-2018-10-25,Blue,V6,36b5baf33623223aea0b0953f5c728ea,4.0,Red Point,wall-boulders,288.8,Lots of moves﹐ fun + top-out!
-2018-10-25,Tan,V3,861f81704443686908e0e70e996bb6bf,3.0,Flash,wall-boulders,288.8,Fun top-out
-2018-10-25,Red,V1,f5fa6eddae743ccd07d4fcc103f293c0,2.0,Flash,wall-boulders,288.8,Meh
-2018-10-25,Yellow,V0,a149472b359e1e233c84af613e1f231c,2.0,Flash,wall-boulders,288.8,A little on the boring side and soft as far as V0s go - not a big issue﹐ just that usually V0s here aren’t giveaways
-2018-10-25,Lime Green,V5,f40269b7fd1e73bc2c945ad75a6bd367,4.0,Red Point,wall-boulders,359.0,Fun - reachy but doable with proper body tension
-2018-10-24,White,V7,1f5170b8068b1d25dfac9becad56e7b3,5.0,Red Point,wall-boulders,359.0,Technique-heavy﹐ complex footwork in beginning﹐ long (9 moves to the top﹐ then a top-out). Challenging and beautiful.
+2018-10-27,Black,V6,4e5b72f1b146d10345742335fdcbaad1,4.0,Red Point,wall-boulders,359.0,"Fun, big moves, just need the control and contact strength"
+2018-10-24,Red,V1,f5fa6eddae743ccd07d4fcc103f293c0,2.0,Flash,wall-boulders,288.8,Meh
+2018-10-24,Tan,V3,861f81704443686908e0e70e996bb6bf,3.0,Flash,wall-boulders,288.8,Fun top-out
+2018-10-24,Blue,V6,36b5baf33623223aea0b0953f5c728ea,4.0,Red Point,wall-boulders,288.8,"Lots of moves, fun + top-out!"
+2018-10-24,Yellow,V3,710488b90bf1d18d767a084748da45b2,3.0,Flash,wall-boulders,359.0,A solid V3
+2018-10-24,Purple,V2,dbe2654a95262518e69774a56dbb2525,4.0,Flash,wall-boulders,359.0,"Cheeky, requires proper footwork in order to do (without resorting to brute force)"
+2018-10-24,Tan Left,V4,97dd63e58b08d0226fda16e8bbd1838c,3.0,Red Point,wall-boulders,359.0,A fun little dynamic move in the middle
+2018-10-24,Tan Right,V1,1637c33a91140163c71ca28a88fcabe5,4.0,Flash,wall-boulders,359.0,Nice sloper workshop for beginners
+2018-10-24,Yellow,V3,130f4f0d9a228e78bf2be4b235f6445b,5.0,Flash,wall-boulders,359.0,Great pinch and footwork workshop
+2018-10-24,White,V7,1f5170b8068b1d25dfac9becad56e7b3,5.0,Red Point,wall-boulders,359.0,"Technique-heavy, complex footwork in beginning, long (9 moves to the top, then a top-out). Challenging and beautiful."
+2018-10-24,Lime Green,V5,f40269b7fd1e73bc2c945ad75a6bd367,4.0,Red Point,wall-boulders,359.0,Fun - reachy but doable with proper body tension
+2018-10-24,Yellow,V0,a149472b359e1e233c84af613e1f231c,2.0,Flash,wall-boulders,288.8,"A little on the boring side and soft as far as V0s go - not a big issue, just that usually V0s here aren’t giveaways"
 2018-10-21,Lime Green Low,V6,9ffbee5879aa1dff64097ec8ff927e6c,4.0,Red Point,wall-boulders,423.0,Big move a couple moves from the start - might need to find better foot beta
-2018-10-19,Yellow,V5,d9d26ab70e15ce273b687c6655f0d268,3.0,Red Point,wall-boulders,423.0,I think I aim for 3 tries or less
-2018-10-19,Lime Green,V5,56518e49f21d877d83646b3f5528958b,3.0,Red Point,wall-boulders,505.7,Tough start﹐ then tough crimps...I broke beta using the volumes on the left
-2018-10-19,Black,V6,c6fc0c219cb787488064b050bb6da5c4,5.0,Red Point,wall-boulders,505.7,Such a fun campus problem!
-2018-10-19,Red,V4,ceab7ba97c2d98c924fabec76cf28236,4.0,Flash,wall-boulders,581.0,Fun - didn’t see the side pull﹐ with it I fear slightly soft
-2018-10-19,White,V2,d7a20186462a88bd52c7deccd5d7e322,3.0,Flash,wall-boulders,581.0,
-2018-10-18,Blue,V1,1ca71a7046d1987c9e5eb55ac1511942,3.0,Flash,wall-boulders,423.0,
+2018-10-18,White,V2,d7a20186462a88bd52c7deccd5d7e322,3.0,Flash,wall-boulders,581.0,
+2018-10-18,Red,V4,ceab7ba97c2d98c924fabec76cf28236,4.0,Flash,wall-boulders,581.0,"Fun - didn’t see the side pull, with it I fear slightly soft"
+2018-10-18,Black,V6,c6fc0c219cb787488064b050bb6da5c4,5.0,Red Point,wall-boulders,505.7,Such a fun campus problem!
+2018-10-18,Lime Green,V5,56518e49f21d877d83646b3f5528958b,3.0,Red Point,wall-boulders,505.7,"Tough start, then tough crimps...I broke beta using the volumes on the left"
+2018-10-18,Yellow,V5,d9d26ab70e15ce273b687c6655f0d268,3.0,Red Point,wall-boulders,423.0,I think I aim for 3 tries or less
 2018-10-18,Lime Green High,V4,9bb1cfddcc5e6c126e8ec3467cb2b375,4.0,Flash,wall-boulders,423.0,
-2018-10-18,Yellow,V3,4ca3d952bedda2b2acca8b43f7a6a853,3.0,Flash,wall-boulders,581.0,Nice fun one - maybe a little soft﹐ factoring in right beta + ideal conditions﹐ except for short people where it is definitely a V3
-2018-10-18,Pink High,V2,c92af66b19904265c926c3f577a75b43,3.0,Flash,wall-boulders,505.7,
-2018-10-18,Pink Low,V3,6d9a34c9d1af54a1ee0102413ea340c2,3.0,Flash,wall-boulders,505.7,
-2018-10-18,Purple,V0,b6518dfb60008d784604efb0ac846b30,3.0,Flash,wall-boulders,581.0,
-2018-10-18,Tan,V6,4c3c3a145496d1f000829503177039e7,4.0,Red Point,wall-boulders,581.0,Elegant
-2018-10-18,Pink,V2,718c3197a6bb6f0f7dc0da8ad9740cdb,3.0,Flash,wall-boulders,581.0,
-2018-10-17,Purple,5.6,a4f14b01b6d671ffd186f4515560c088,3.0,Top Rope,wall-auto-belay,302.7,
-2018-10-17,Green,5.9,ca6b372781b59128adedf07aec53cf4d,3.0,Top Rope,wall-auto-belay,303.3,
-2018-10-17,Blue,5.10a,fb180e2aa8e1f737a9cd0a60ea8ca1bb,3.0,Top Rope,wall-auto-belay,390.5,
-2018-10-17,Red,5.10b,4bce53d580d55b392eec5d3091e18225,3.0,Top Rope,wall-auto-belay,418.8,
-2018-10-17,Tan,5.7,32b226bb8c0a1e4851aaa898ac96cbf3,3.0,Top Rope,wall-auto-belay,341.8,
-2018-10-17,Yellow,5.5,69ed1a92d004d9ecd92510a6d99d40f8,3.0,Top Rope,wall-auto-belay,343.2,
-2018-10-17,Green,5.11b,6b900d5ac82b8370299b59b1a62b4f33,3.0,Top Rope,wall-auto-belay,480.4,
-2018-10-17,Yellow,5.10c,2bfcdb08135305468cb32a0455c83433,3.0,Top Rope,wall-auto-belay,453.6,
-2018-10-17,Blue,5.10b,c40a5b2ae24720de49756c592c1a6cc9,3.0,Top Rope,wall-auto-belay,342.5,
+2018-10-18,Blue,V1,1ca71a7046d1987c9e5eb55ac1511942,3.0,Flash,wall-boulders,423.0,
 2018-10-17,Green,5.10a,c8ab594c611fbbf6082b49aeae66c22d,3.0,Top Rope,wall-fox,49.2,
-2018-10-17,Black,V5,5cb7cd22b7e9f127e2f0fbe9611d17be,3.0,Red Point,wall-boulders,581.0,
+2018-10-17,Blue,5.10a,fb180e2aa8e1f737a9cd0a60ea8ca1bb,3.0,Top Rope,wall-auto-belay,390.5,
+2018-10-17,Blue,5.10b,c40a5b2ae24720de49756c592c1a6cc9,3.0,Top Rope,wall-auto-belay,342.5,
+2018-10-17,Yellow,5.10c,2bfcdb08135305468cb32a0455c83433,3.0,Top Rope,wall-auto-belay,453.6,
+2018-10-17,Green,5.9,ca6b372781b59128adedf07aec53cf4d,3.0,Top Rope,wall-auto-belay,303.3,
+2018-10-17,Purple,5.6,a4f14b01b6d671ffd186f4515560c088,3.0,Top Rope,wall-auto-belay,302.7,
+2018-10-17,Green,5.11b,6b900d5ac82b8370299b59b1a62b4f33,3.0,Top Rope,wall-auto-belay,480.4,
+2018-10-17,Yellow,5.5,69ed1a92d004d9ecd92510a6d99d40f8,3.0,Top Rope,wall-auto-belay,343.2,
+2018-10-17,Tan,5.7,32b226bb8c0a1e4851aaa898ac96cbf3,3.0,Top Rope,wall-auto-belay,341.8,
+2018-10-17,Pink,V2,718c3197a6bb6f0f7dc0da8ad9740cdb,3.0,Flash,wall-boulders,581.0,
+2018-10-17,Tan,V6,4c3c3a145496d1f000829503177039e7,4.0,Red Point,wall-boulders,581.0,Elegant
+2018-10-17,Purple,V0,b6518dfb60008d784604efb0ac846b30,3.0,Flash,wall-boulders,581.0,
+2018-10-17,Pink Low,V3,6d9a34c9d1af54a1ee0102413ea340c2,3.0,Flash,wall-boulders,505.7,
+2018-10-17,Pink High,V2,c92af66b19904265c926c3f577a75b43,3.0,Flash,wall-boulders,505.7,
+2018-10-17,Yellow,V3,4ca3d952bedda2b2acca8b43f7a6a853,3.0,Flash,wall-boulders,581.0,"Nice fun one - maybe a little soft, factoring in right beta + ideal conditions, except for short people where it is definitely a V3"
+2018-10-17,Red,5.10b,4bce53d580d55b392eec5d3091e18225,3.0,Top Rope,wall-auto-belay,418.8,
 2018-10-17,Blue Low,V5,5b1cc88ca38323ab0bc00b492bde98a5,3.0,Red Point,wall-boulders,423.0,Tiring
-2018-10-16,Yellow,V6,7efd039cb5f1e419f47738815f178925,5.0,Red Point,wall-boulders,423.0,Fun and great footwork and/or strength required...
-2018-10-14,Purple Right,V5,dab1c5c0b73d4a0e31ff7c48619046d4,4.0,Flash,wall-mezzanine,39.7,With the right beta﹐ feels really soft
-2018-10-14,Yellow,V5,6baead809775717e19b32c313350c750,3.0,Red Point,wall-mezzanine,114.6,Uh huh
-2018-10-14,Tan Right,V3,d3d7c4ec0d3f4263cead958cf795d172,3.0,Flash,wall-mezzanine,114.6,
-2018-10-14,Purple,V1,11a2b4f4232eadf32f5c2b63929089b6,3.0,Flash,wall-mezzanine,114.6,
-2018-10-14,Red,V2,5a3276efa112ed7a685226c0aa36deeb,3.0,Flash,wall-mezzanine,114.6,
-2018-10-14,Red,V6,61b6113cb54a945e33aa2124a834c852,4.0,Red Point,wall-mezzanine,39.7,Fun times!
-2018-10-14,Pink,V2,e4eac5b15362b57a3e0ee232dd8d8e8f,3.0,Flash,wall-mezzanine,39.7,
-2018-10-14,Black Left,V0,518075a0231b5d5e5f536a04be414bc0,3.0,Flash,wall-mezzanine,114.6,
-2018-10-14,Lime Green,V0,ff196d0cc95824649b66c98010434e4d,3.0,Flash,wall-mezzanine,39.7,
-2018-10-14,Purple Left,V2,195e8ab11ac32e8685a1c6077ae92c7a,4.0,Red Point,wall-mezzanine,39.7,Oops fell the first time
-2018-10-14,Lime Green,V1,b8fa15fb9c1aa444fb564450ff099697,3.0,Flash,wall-mezzanine,114.6,Soft :)
-2018-10-14,White,V3,5f1c4b9bc20adc170ddb3f3856a0933a,3.0,Red Point,wall-slab,48.7,
-2018-10-14,Yellow,V4,f1819f795f7fc38a9ae5d3b8e7af24cc,4.0,Red Point,wall-slab,48.7,
-2018-10-14,Tan,V4,ef767666401f89bf87ac472c53fcd964,3.0,Flash,wall-slab,48.7,
-2018-10-14,Red,V3,1fa12bab772b5a328f8d771d751c8cc3,4.0,Red Point,wall-slab,118.8,
-2018-10-10,Red,V6,2e90b7dbab1a5f71c23ebd4a7facde32,3.0,Red Point,wall-mezzanine,114.6,Wow    such climb    very run    much jump
-2018-10-10,Pink,V5,dfcc3fcd98d1b326bd1d8e4873630261,3.0,Red Point,wall-mezzanine,39.7,
-2018-10-10,Yellow,V4,aa66bf5debc28d27d4f0a7bae7f77ddd,4.0,Red Point,wall-mezzanine,114.6,
-2018-10-09,Black High,V6,a1af73607e40d5de35d9710bcba7a1ca,4.0,Red Point,wall-boulders,423.0,Fun
-2018-10-09,Pink,V3,dfeb2a494d892fb9fa62191aa859e55f,3.0,Flash,wall-boulders,288.8,
-2018-10-09,Tan,V5,8549464aa8542c28202de66b1ad56457,3.0,Red Point,wall-boulders,288.8,
-2018-10-09,White,V5,e0c9f11309f3689c1773ffa6ea3b0f8a,3.0,Flash,wall-boulders,288.8,
-2018-10-09,Purple,V5,024171f5133363a085d7c429b12da093,4.0,Red Point,wall-boulders,288.8,Fun first move and good crimps
-2018-10-09,Blue,V4,51946af4c3e21cc1d3caa0a82bd02d50,3.0,Flash,wall-boulders,288.8,
-2018-10-09,Pink,V4,d7cd1a8ec45075082749bbe7030cee8c,3.0,Red Point,wall-boulders,359.0,
-2018-10-09,Lime Green,V2,8b80862ecc54099ccb922a1ba3e7bfdb,3.0,Flash,wall-boulders,359.0,
-2018-10-09,Blue,V0,1648177929ed1d7c8eb76a4667f2b986,3.0,Flash,wall-boulders,359.0,
-2018-10-09,Purple,V3,530882d0c4c2031c060f95a4b119303b,3.0,Flash,wall-boulders,359.0,
-2018-10-09,White,V1,86f7a30873e0f491274fd5cf97a93423,3.0,Flash,wall-boulders,359.0,
-2018-10-09,Red,V2,eedaaf996b9050105556444b6af7b7aa,3.0,Flash,wall-boulders,359.0,
-2018-10-09,Blue,V0,031bc1366a3d8bbee41c7b382bacc7ee,3.0,Flash,wall-boulders,423.0,
-2018-10-09,Lime Green,V2,3207063ab3cc21b52ceaa1e599015ab0,3.0,Flash,wall-boulders,423.0,
-2018-10-09,Yellow,V4,668bdc71152f44ee71110fc826fdc1b2,3.0,Red Point,wall-boulders,423.0,
-2018-10-09,Blue High,V3,8d50db6022d053624d46b65a4b3141cd,3.0,Flash,wall-boulders,423.0,
-2018-10-09,Yellow,V3,c7ea348220cf51ab71af69b601d2a8f7,3.0,Flash,wall-boulders,505.7,
-2018-10-09,Lime Green,V3,2c311d26c8541b26cf12ed64b5e9ce2d,3.0,Flash,wall-boulders,505.7,
-2018-10-09,White,V2,b91577baaeb36b0cb2f269381c37deb4,3.0,Flash,wall-boulders,581.0,
-2018-10-09,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Flash,wall-boulders,581.0,
-2018-10-09,Red Right,V1,bb8f270429ff141608aa56fcd4bd8435,3.0,Flash,wall-boulders,793.8,
-2018-10-09,Tan,V6,2ae0a49c1ad814039dc8a7faf4b51b01,4.0,Red Point,wall-boulders,793.8,Fun﹐ nice beta
-2018-10-09,Pink,V5,ba2bcefc22c0e9837206ba92577c1c87,3.0,Flash,wall-boulders,793.8,
-2018-10-09,Pink,V5,887946b6f486a8ee442affe79db7c73a,4.0,Flash,wall-boulders,736.4,Fun hug holds
-2018-10-09,Yellow Left,V0,983c49d6a1e5da0a8434a23cced35539,4.0,Flash,wall-boulders,793.8,Great beginner slab climb
-2018-10-09,Blue,V1,48aead99e0eba9792a15d55e6cdea1aa,3.0,Flash,wall-boulders,667.3,Fun﹐ big moves on jugs
-2018-10-09,Red,V3,454688c31ab342f270522f0e7194374c,5.0,Flash,wall-boulders,667.3,Really smooth pocket climb
-2018-10-09,White,V2,ea2baeb508ba106120052e25c9b345a8,4.0,Flash,wall-boulders,667.3,
+2018-10-17,Black,V5,5cb7cd22b7e9f127e2f0fbe9611d17be,3.0,Red Point,wall-boulders,581.0,
+2018-10-15,Yellow,V6,7efd039cb5f1e419f47738815f178925,5.0,Red Point,wall-boulders,423.0,Fun and great footwork and/or strength required...
+2018-10-13,Red,V3,1fa12bab772b5a328f8d771d751c8cc3,4.0,Red Point,wall-slab,118.8,
+2018-10-13,Tan,V4,ef767666401f89bf87ac472c53fcd964,3.0,Flash,wall-slab,48.7,
+2018-10-13,Yellow,V4,f1819f795f7fc38a9ae5d3b8e7af24cc,4.0,Red Point,wall-slab,48.7,
+2018-10-13,White,V3,5f1c4b9bc20adc170ddb3f3856a0933a,3.0,Red Point,wall-slab,48.7,
+2018-10-13,Lime Green,V1,b8fa15fb9c1aa444fb564450ff099697,3.0,Flash,wall-mezzanine,114.6,Soft :)
+2018-10-13,Purple Left,V2,195e8ab11ac32e8685a1c6077ae92c7a,4.0,Red Point,wall-mezzanine,39.7,Oops fell the first time
+2018-10-13,Lime Green,V0,ff196d0cc95824649b66c98010434e4d,3.0,Flash,wall-mezzanine,39.7,
+2018-10-13,Black Left,V0,518075a0231b5d5e5f536a04be414bc0,3.0,Flash,wall-mezzanine,114.6,
+2018-10-13,Pink,V2,e4eac5b15362b57a3e0ee232dd8d8e8f,3.0,Flash,wall-mezzanine,39.7,
+2018-10-13,Red,V6,61b6113cb54a945e33aa2124a834c852,4.0,Red Point,wall-mezzanine,39.7,Fun times!
+2018-10-13,Red,V2,5a3276efa112ed7a685226c0aa36deeb,3.0,Flash,wall-mezzanine,114.6,
+2018-10-13,Purple,V1,11a2b4f4232eadf32f5c2b63929089b6,3.0,Flash,wall-mezzanine,114.6,
+2018-10-13,Tan Right,V3,d3d7c4ec0d3f4263cead958cf795d172,3.0,Flash,wall-mezzanine,114.6,
+2018-10-13,Yellow,V5,6baead809775717e19b32c313350c750,3.0,Red Point,wall-mezzanine,114.6,Uh huh
+2018-10-13,Purple Right,V5,dab1c5c0b73d4a0e31ff7c48619046d4,4.0,Flash,wall-mezzanine,39.7,"With the right beta, feels really soft"
 2018-10-09,Yellow Right,V2,842795bc70c90877eb7b7d697047ac00,3.0,Flash,wall-slab,192.9,
-2018-10-09,Lime Green Left,V1,284f324d139522ca7bdb2cf2f07bc0d9,4.0,Flash,wall-slab,118.8,Bit spicy for a 1﹐ not hard enough to be a 2
-2018-10-09,Tan,V1,f291270a680679a03fb2a76fe27d558c,5.0,Flash,wall-boulders,581.0,
-2018-10-09,Black,V2,e9f1e559623cdb743f31c8a00dc0017a,4.0,Flash,wall-slab,118.8,Bit spicy for a 2﹐ but not hard enough to be a 3
-2018-10-09,Lime Green,V0,dfd7df0c064cb1e9afc887b79e7a7b30,3.0,Flash,wall-slab,48.7,
-2018-10-09,Purple,V0,ef988d12305bce25c34c64a87911421e,3.0,Flash,wall-boulders,288.8,
 2018-10-09,Yellow Left,V5,7668cf75195cdee599ff319bcffdbd2e,4.0,Red Point,wall-mezzanine,39.7,
+2018-10-09,Pink,V5,dfcc3fcd98d1b326bd1d8e4873630261,3.0,Red Point,wall-mezzanine,39.7,
+2018-10-09,White,V2,ea2baeb508ba106120052e25c9b345a8,4.0,Flash,wall-boulders,667.3,
+2018-10-09,Red,V3,454688c31ab342f270522f0e7194374c,5.0,Flash,wall-boulders,667.3,Really smooth pocket climb
+2018-10-09,Blue,V1,48aead99e0eba9792a15d55e6cdea1aa,3.0,Flash,wall-boulders,667.3,"Fun, big moves on jugs"
+2018-10-09,Yellow Left,V0,983c49d6a1e5da0a8434a23cced35539,4.0,Flash,wall-boulders,793.8,Great beginner slab climb
+2018-10-09,Tan,V6,2ae0a49c1ad814039dc8a7faf4b51b01,4.0,Red Point,wall-boulders,793.8,"Fun, nice beta"
+2018-10-09,Red Right,V1,bb8f270429ff141608aa56fcd4bd8435,3.0,Flash,wall-boulders,793.8,
+2018-10-09,Purple,V0,01ddba48a8fada93267b8436ae0fad21,3.0,Flash,wall-boulders,581.0,
+2018-10-09,Pink,V5,887946b6f486a8ee442affe79db7c73a,4.0,Flash,wall-boulders,736.4,Fun hug holds
+2018-10-09,White,V2,b91577baaeb36b0cb2f269381c37deb4,3.0,Flash,wall-boulders,581.0,
+2018-10-09,Lime Green,V3,2c311d26c8541b26cf12ed64b5e9ce2d,3.0,Flash,wall-boulders,505.7,
+2018-10-09,Yellow,V3,c7ea348220cf51ab71af69b601d2a8f7,3.0,Flash,wall-boulders,505.7,
+2018-10-09,Blue High,V3,8d50db6022d053624d46b65a4b3141cd,3.0,Flash,wall-boulders,423.0,
+2018-10-09,Yellow,V4,668bdc71152f44ee71110fc826fdc1b2,3.0,Red Point,wall-boulders,423.0,
+2018-10-09,Lime Green,V2,3207063ab3cc21b52ceaa1e599015ab0,3.0,Flash,wall-boulders,423.0,
+2018-10-09,Blue,V0,031bc1366a3d8bbee41c7b382bacc7ee,3.0,Flash,wall-boulders,423.0,
+2018-10-09,Red,V2,eedaaf996b9050105556444b6af7b7aa,3.0,Flash,wall-boulders,359.0,
+2018-10-09,White,V1,86f7a30873e0f491274fd5cf97a93423,3.0,Flash,wall-boulders,359.0,
+2018-10-09,Purple,V0,ef988d12305bce25c34c64a87911421e,3.0,Flash,wall-boulders,288.8,
+2018-10-09,Purple,V3,530882d0c4c2031c060f95a4b119303b,3.0,Flash,wall-boulders,359.0,
+2018-10-09,Blue,V0,1648177929ed1d7c8eb76a4667f2b986,3.0,Flash,wall-boulders,359.0,
+2018-10-09,Lime Green,V2,8b80862ecc54099ccb922a1ba3e7bfdb,3.0,Flash,wall-boulders,359.0,
+2018-10-09,Pink,V4,d7cd1a8ec45075082749bbe7030cee8c,3.0,Red Point,wall-boulders,359.0,
+2018-10-09,Blue,V4,51946af4c3e21cc1d3caa0a82bd02d50,3.0,Flash,wall-boulders,288.8,
+2018-10-09,Purple,V5,024171f5133363a085d7c429b12da093,4.0,Red Point,wall-boulders,288.8,Fun first move and good crimps
+2018-10-09,White,V5,e0c9f11309f3689c1773ffa6ea3b0f8a,3.0,Flash,wall-boulders,288.8,
+2018-10-09,Tan,V5,8549464aa8542c28202de66b1ad56457,3.0,Red Point,wall-boulders,288.8,
+2018-10-09,Pink,V3,dfeb2a494d892fb9fa62191aa859e55f,3.0,Flash,wall-boulders,288.8,
+2018-10-09,Black,V6,52169d077d6340dc1c3bb30f74a98bbf,4.0,Red Point,wall-mezzanine,39.7,
+2018-10-09,Yellow Right,V7,8c39cf1fc4df76b48ce64b1629e8a9a2,4.0,Red Point,wall-mezzanine,39.7,Pain central + slippery volume
+2018-10-09,White Left,V7,dff855bbf0a5b8c2b52ad839042b409e,5.0,Red Point,wall-mezzanine,114.6,Nice long problem employing various techniques
+2018-10-09,Lime Green,V0,dfd7df0c064cb1e9afc887b79e7a7b30,3.0,Flash,wall-slab,48.7,
+2018-10-09,Pink,V5,ba2bcefc22c0e9837206ba92577c1c87,3.0,Flash,wall-boulders,793.8,
+2018-10-09,Black High,V6,a1af73607e40d5de35d9710bcba7a1ca,4.0,Red Point,wall-boulders,423.0,Fun
+2018-10-09,Black,V2,e9f1e559623cdb743f31c8a00dc0017a,4.0,Flash,wall-slab,118.8,"Bit spicy for a 2, but not hard enough to be a 3"
+2018-10-09,Tan,V1,f291270a680679a03fb2a76fe27d558c,5.0,Flash,wall-boulders,581.0,
+2018-10-09,Red,V6,2e90b7dbab1a5f71c23ebd4a7facde32,3.0,Red Point,wall-mezzanine,114.6,Wow    such climb    very run    much jump
+2018-10-09,Yellow,V4,aa66bf5debc28d27d4f0a7bae7f77ddd,4.0,Red Point,wall-mezzanine,114.6,
+2018-10-09,Lime Green Left,V1,284f324d139522ca7bdb2cf2f07bc0d9,4.0,Flash,wall-slab,118.8,"Bit spicy for a 1, not hard enough to be a 2"
 2018-10-04,Purple,V5,6bc3de0b14b6b949a4b6dc932ba864b3,4.0,Flash,wall-slab,192.9,Decently fun
 2018-10-04,White,V5,979c21a9a4431c8f42d774360fe57a59,4.0,Red Point,wall-slab,118.8,Fun body tension!
 2018-10-04,Pink,V4,dd646bc417534081169183282d0a41c1,4.0,Red Point,wall-slab,192.9,Nice controlled moves

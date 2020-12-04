@@ -1,38 +1,38 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2019-03-31,Yellow,V3,290be8894860118db93a80cb35462d00,4.0,Flash,wall-boulders,288.8,
-2019-03-30,Lime Green,V9,3ddfbd7a2e3a3b01dba37a08b912b569,3.0,Attempt,wall-boulders,736.4,very small box for first move. maybe i had bad beta
-2019-03-30,Yellow,V8,975d979f74fb29df73e48df80b72ad7d,4.0,Red Point,wall-boulders,736.4,
 2019-03-30,Purple,V7,e21492dc7dcacc67b94a50b2836b12c3,5.0,Flash,wall-boulders,359.0,height dependent for sure
-2019-03-28,Pink,5.11d,5a4c12e68cf416567a08cdcd433e2005,4.0,Onsight,wall-auto-belay,222.1,
-2019-03-28,Blue,5.10c,28d920011c90248d182ed9653d3a6740,4.0,Onsight,wall-auto-belay,249.8,
-2019-03-28,Red,5.10a,77310b734169479ba2bfaf616b222e5e,4.0,Onsight,wall-auto-belay,273.7,
-2019-03-28,Purple,5.11a,507c962f32ebb6a603428201c8913ed7,5.0,Onsight,wall-auto-belay,302.7,
+2019-03-30,Yellow,V8,975d979f74fb29df73e48df80b72ad7d,4.0,Red Point,wall-boulders,736.4,
+2019-03-30,Lime Green,V9,3ddfbd7a2e3a3b01dba37a08b912b569,3.0,Attempt,wall-boulders,736.4,very small box for first move. maybe i had bad beta
 2019-03-28,Lime Green,5.10d,926ef63614761c2fe9c4a2052fd3a0c0,4.0,Onsight,wall-auto-belay,303.3,
-2019-03-27,Pink,V7,185c5eccd21e856dd8c72c36cbb90848,4.0,Red Point,wall-boulders,736.4,more routes like this! weird undercling move
+2019-03-28,Purple,5.11a,507c962f32ebb6a603428201c8913ed7,5.0,Onsight,wall-auto-belay,302.7,
+2019-03-28,Red,5.10a,77310b734169479ba2bfaf616b222e5e,4.0,Onsight,wall-auto-belay,273.7,
+2019-03-28,Blue,5.10c,28d920011c90248d182ed9653d3a6740,4.0,Onsight,wall-auto-belay,249.8,
+2019-03-28,Pink,5.11d,5a4c12e68cf416567a08cdcd433e2005,4.0,Onsight,wall-auto-belay,222.1,
+2019-03-26,Pink,V7,185c5eccd21e856dd8c72c36cbb90848,4.0,Red Point,wall-boulders,736.4,more routes like this! weird undercling move
 2019-03-26,Yellow,V10,b39cd437896953c4dd94503c4741a131,5.0,Attempt,wall-boulders,793.8,love the tension. I still suck at hand flips
-2019-03-25,Black,V5,f2a3d90e630a9ea726e2b8593763bab8,4.0,Flash,wall-mezzanine,114.6,
-2019-03-24,White,V5,c88d66943cc3a0a1a2ee5b954c9031a0,4.0,Flash,wall-boulders,288.8,good flow. really liked the match move
-2019-03-24,Red,V6,38ebf0ee6313f0a61c35b87c7fd07828,5.0,Red Point,wall-boulders,288.8,
-2019-03-24,Tan,V3,3220b017e45b9605c77253d277e3e113,4.0,Flash,wall-boulders,288.8,
-2019-03-24,Tan,V6,39d7cc3863f134ac2019fd23f328a602,2.0,Flash,wall-boulders,423.0,not exactly flowy imo unless i missed something
-2019-03-24,Yellow,V5,9bfe189ff27a669cfa654a2dc0e1ef0b,4.0,Flash,wall-boulders,505.7,
 2019-03-24,Black,V3,355219e07963f26349b7b163171f02ff,4.0,Flash,wall-boulders,581.0,sequency
-2019-03-15,Lime Green,5.12a,c59d7d87cf5d9053fdbd773c2fffce88,4.0,Red Point,wall-back-wall,1293.7,never failed an onsight from tired toes before
-2019-03-15,Pink,5.11c,ce78c20a2ef19dd425773da7fa389185,3.0,Onsight,wall-back-wall,70.1,weird roof section
-2019-03-15,Purple,5.10d,223ecb2a652c2e3531218dd33d770336,5.0,Onsight,wall-back-wall,1310.0,best route at the cliffs
-2019-03-15,Yellow,5.9,2efbb82f29bf8c58e2e999b953a516cf,4.0,Onsight,wall-island,468.2,
-2019-03-15,Blue,5.11b,e5dd6006541d0835ab6a3fd9aa2ccf55,4.0,Onsight,wall-island,469.1,
+2019-03-24,Yellow,V5,9bfe189ff27a669cfa654a2dc0e1ef0b,4.0,Flash,wall-boulders,505.7,
+2019-03-24,Tan,V6,39d7cc3863f134ac2019fd23f328a602,2.0,Flash,wall-boulders,423.0,not exactly flowy imo unless i missed something
+2019-03-24,Tan,V3,3220b017e45b9605c77253d277e3e113,4.0,Flash,wall-boulders,288.8,
+2019-03-24,Red,V6,38ebf0ee6313f0a61c35b87c7fd07828,5.0,Red Point,wall-boulders,288.8,
+2019-03-24,White,V5,c88d66943cc3a0a1a2ee5b954c9031a0,4.0,Flash,wall-boulders,288.8,good flow. really liked the match move
+2019-03-24,Black,V5,f2a3d90e630a9ea726e2b8593763bab8,4.0,Flash,wall-mezzanine,114.6,
 2019-03-15,Yellow,5.11d,67e4ae8200ec2fb641a6230e8f076924,5.0,Onsight,wall-island,421.6,
-2019-03-13,Yellow,5.11c,f5248aa35e622be226efb03be6f87c4d,4.0,Onsight,wall-island,226.9,
-2019-03-13,Yellow,5.11a,d8d43b4cdc805abd0cc4d37ec51e076a,5.0,Onsight,wall-back-wall,442.1,another great moderate in the cave
+2019-03-15,Blue,5.11b,e5dd6006541d0835ab6a3fd9aa2ccf55,4.0,Onsight,wall-island,469.1,
+2019-03-15,Yellow,5.9,2efbb82f29bf8c58e2e999b953a516cf,4.0,Onsight,wall-island,468.2,
+2019-03-15,Purple,5.10d,223ecb2a652c2e3531218dd33d770336,5.0,Onsight,wall-back-wall,1310.0,best route at the cliffs
+2019-03-15,Pink,5.11c,ce78c20a2ef19dd425773da7fa389185,3.0,Onsight,wall-back-wall,70.1,weird roof section
+2019-03-15,Lime Green,5.12a,c59d7d87cf5d9053fdbd773c2fffce88,4.0,Red Point,wall-back-wall,1293.7,never failed an onsight from tired toes before
 2019-03-13,Yellow,5.11b,6c44e25ac1083582c7570fa58f21dba5,4.0,Onsight,wall-island,60.4,
-2019-03-09,Black,5.10c,93f36edd9f4742e31d36d73b6b6944a8,4.0,Onsight,wall-auto-belay,173.7,
-2019-03-09,Red,5.11c,a620920686a51758e34a64f7cb7f334b,4.0,Onsight,wall-auto-belay,174.9,
-2019-03-09,Yellow,5.11d,17ca9e2407dd5b6638c8889d94984a44,4.0,Onsight,wall-auto-belay,196.9,
+2019-03-13,Yellow,5.11a,d8d43b4cdc805abd0cc4d37ec51e076a,5.0,Onsight,wall-back-wall,442.1,another great moderate in the cave
+2019-03-13,Yellow,5.11c,f5248aa35e622be226efb03be6f87c4d,4.0,Onsight,wall-island,226.9,
 2019-03-09,Purple,5.10c,0a513bf8540486ffd7bec190680635b4,4.0,Onsight,wall-auto-belay,198.2,
-2019-03-07,Red,5.12a,ec34706aabf271656c3656d4417ab955,3.0,Attempt,wall-back-wall,243.6,hardest full-length 12 in the gym?
-2019-03-07,Black,5.10b,9afc1b1af77ceff0009d5b46b3a4556e,4.0,Onsight,wall-island,420.7,
-2019-03-07,Pink,5.11b,7a9b37b0783be3eb71e07c4645010042,4.0,Onsight,wall-back-wall,388.4,
-2019-03-07,Lime Green,5.10c,483bafe64e861ef8bad7faf4bfe19357,4.0,Onsight,wall-back-wall,243.4,
-2019-03-07,Black,5.10a,13c0bc3fad397aa2867fb5657098a808,4.0,Onsight,wall-back-wall,164.5,
+2019-03-09,Yellow,5.11d,17ca9e2407dd5b6638c8889d94984a44,4.0,Onsight,wall-auto-belay,196.9,
+2019-03-09,Red,5.11c,a620920686a51758e34a64f7cb7f334b,4.0,Onsight,wall-auto-belay,174.9,
+2019-03-09,Black,5.10c,93f36edd9f4742e31d36d73b6b6944a8,4.0,Onsight,wall-auto-belay,173.7,
 2019-03-07,Lime Green,5.9,35608cd0ebab47d2193b4e5c8ed794bf,4.0,Onsight,wall-back-wall,37.7,
+2019-03-07,Black,5.10a,13c0bc3fad397aa2867fb5657098a808,4.0,Onsight,wall-back-wall,164.5,
+2019-03-07,Lime Green,5.10c,483bafe64e861ef8bad7faf4bfe19357,4.0,Onsight,wall-back-wall,243.4,
+2019-03-07,Pink,5.11b,7a9b37b0783be3eb71e07c4645010042,4.0,Onsight,wall-back-wall,388.4,
+2019-03-07,Black,5.10b,9afc1b1af77ceff0009d5b46b3a4556e,4.0,Onsight,wall-island,420.7,
+2019-03-07,Red,5.12a,ec34706aabf271656c3656d4417ab955,3.0,Attempt,wall-back-wall,243.6,hardest full-length 12 in the gym?

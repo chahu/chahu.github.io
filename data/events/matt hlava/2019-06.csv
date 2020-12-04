@@ -1,79 +1,81 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
+2019-06-30,White,V2,9c8923a43dfdfbb7a30e15635bb87f25,3.0,Flash,wall-boulders,667.3,
+2019-06-30,Black,V5,1014e66a5332d24fad4073a8d3124cde,3.0,Attempt,wall-boulders,736.4,one day ill do a rose move successfully
 2019-06-29,Yellow,V5,d449c3565034ff371fe6b52643d53e14,4.0,Flash,wall-boulders,736.4,do the twist
-2019-06-27,Red,V3,cb4fc02d93152b28c723804b78dcb7b7,4.0,Flash,wall-boulders,667.3,
-2019-06-27,White,V7,4fabe44e6c419e2eba7334e231d0d7dd,4.0,Flash,wall-boulders,667.3,
-2019-06-27,Blue,V7,683051e20a49efe0a56d7319a68526cb,4.0,Flash,wall-boulders,667.3,
-2019-06-27,Blue,V4,a5678d795e55e3b9b4a098ca77021bef,5.0,Flash,wall-boulders,736.4,
-2019-06-27,Tan,V1,808ff2ac7d083bdad288cda3be76b4bc,3.0,Flash,wall-boulders,793.8,
-2019-06-27,White,V3,dc22e056c53bea7211bde34eaaf3b79d,4.0,Flash,wall-boulders,793.8,
-2019-06-27,Lime Green,V2,251d52490fcdb4f8d5c9f0aa65dcfbdc,5.0,Flash,wall-boulders,793.8,
 2019-06-27,Yellow,V0,712fde24ff1ccde003d3599a5b7b22af,3.0,Flash,wall-boulders,793.8,
-2019-06-25,Grey,5.8,fe11812fcac7834f8a74d7e26c121ec8,3.0,Onsight,wall-auto-belay,174.9,
-2019-06-25,Pink,5.11a,f8db0c6decb68371fba55f9ea9089c2d,4.0,Onsight,wall-auto-belay,174.3,
-2019-06-25,Blue,5.10b,e6c65bfcc9972383397bf8da8ad04097,4.0,Onsight,wall-auto-belay,196.9,
-2019-06-25,Yellow,5.9,7d6f7cf2d85eb971c8065fa263394d77,4.0,Onsight,wall-auto-belay,197.6,
-2019-06-25,Purple,5.10b,9330fa9475d9b4878c1d0032966fe8b1,4.0,Onsight,wall-auto-belay,222.7,
-2019-06-25,Blue,5.11a,636bc20e5e0078a73c434d938bf52ffb,5.0,Onsight,wall-auto-belay,249.8,
-2019-06-25,Yellow,5.9,defe8581ac57cf46d7b195afe447b740,3.0,Onsight,wall-auto-belay,250.5,
-2019-06-25,Tan,5.9,928fe6822e8f620ec4c732d73f9dab4e,3.0,Onsight,wall-auto-belay,273.7,
-2019-06-25,Black,5.10c,4b4a0b7db50f60e05bc1bbf48ab41a32,4.0,Red Point,wall-auto-belay,274.3,bullshit hard finish at the grade
-2019-06-25,Purple,5.9,ff6a22ccc7f31eaae0a513e92e45a2db,4.0,Onsight,wall-auto-belay,302.7,
+2019-06-27,Lime Green,V2,251d52490fcdb4f8d5c9f0aa65dcfbdc,5.0,Flash,wall-boulders,793.8,
+2019-06-27,White,V3,dc22e056c53bea7211bde34eaaf3b79d,4.0,Flash,wall-boulders,793.8,
+2019-06-27,Tan,V1,808ff2ac7d083bdad288cda3be76b4bc,3.0,Flash,wall-boulders,793.8,
+2019-06-27,Blue,V4,a5678d795e55e3b9b4a098ca77021bef,5.0,Flash,wall-boulders,736.4,
+2019-06-27,Blue,V7,683051e20a49efe0a56d7319a68526cb,4.0,Flash,wall-boulders,667.3,
+2019-06-27,White,V7,4fabe44e6c419e2eba7334e231d0d7dd,4.0,Flash,wall-boulders,667.3,
+2019-06-27,Red,V3,cb4fc02d93152b28c723804b78dcb7b7,4.0,Flash,wall-boulders,667.3,
 2019-06-25,Lime Green,5.8,2f2e80b079f6e41bae739c649c5c1f9b,3.0,Onsight,wall-auto-belay,303.3,
-2019-06-22,Blue,V4,589a5e622590b4c8cfaeb5ad47b866d8,4.0,Flash,wall-mezzanine,39.7,
-2019-06-22,Lime Green,V0,aa86e57d5246ce75779426b278d65036,3.0,Flash,wall-mezzanine,114.6,
-2019-06-22,Pink,V3,fbc634fc6ded690b3aa43cc1bb49cf88,3.0,Flash,wall-mezzanine,114.6,
-2019-06-22,Blue,V2,11285f9012fc021cdb7172254e56ca15,5.0,Flash,wall-mezzanine,114.6,
-2019-06-22,Black,V3,4be8a4740365c4b996e349f5ed617053,3.0,Flash,wall-mezzanine,114.6,
-2019-06-22,Yellow,V3,a6b87eaa911280f8dcb91999378ca22e,4.0,Flash,wall-mezzanine,39.7,
-2019-06-22,Lime Green,V4,c4d1689c1baa960ab07bcfeffaab2375,4.0,Flash,wall-mezzanine,39.7,great slopey tension
-2019-06-22,Red,V2,7818d08c66315fd5020e5b9ab6c6388d,3.0,Flash,wall-mezzanine,39.7,fix the pads! f'd my ankle landing in the hole
-2019-06-22,Tan,V4,1ea1949f3a7aa7d7a0a02540ae4e5156,3.0,Flash,wall-mezzanine,39.7,fix these jank ass pads. asking to break someones ankle
-2019-06-21,Pink,5.10c,f91ff63506269d96bc6b20edc3f05471,3.0,Onsight,wall-red,198.3,weird top
-2019-06-21,Tan,5.11b,8e58818eb11e715d4ab0fc382fc5a3a8,4.0,Onsight,wall-island,444.9,
-2019-06-21,Red,5.11c,5f0905fbbf2eea617a08f4e3fa1d65ec,2.0,Onsight,wall-island,470.0,
-2019-06-21,Pink,5.10c,2d2d89f2311a4e8b466c58fe5eaca437,4.0,Onsight,wall-island,560.7,
+2019-06-25,Purple,5.9,ff6a22ccc7f31eaae0a513e92e45a2db,4.0,Onsight,wall-auto-belay,302.7,
+2019-06-25,Black,5.10c,4b4a0b7db50f60e05bc1bbf48ab41a32,4.0,Red Point,wall-auto-belay,274.3,bullshit hard finish at the grade
+2019-06-25,Tan,5.9,928fe6822e8f620ec4c732d73f9dab4e,3.0,Onsight,wall-auto-belay,273.7,
+2019-06-25,Yellow,5.9,defe8581ac57cf46d7b195afe447b740,3.0,Onsight,wall-auto-belay,250.5,
+2019-06-25,Blue,5.11a,636bc20e5e0078a73c434d938bf52ffb,5.0,Onsight,wall-auto-belay,249.8,
+2019-06-25,Purple,5.10b,9330fa9475d9b4878c1d0032966fe8b1,4.0,Onsight,wall-auto-belay,222.7,
+2019-06-25,Yellow,5.9,7d6f7cf2d85eb971c8065fa263394d77,4.0,Onsight,wall-auto-belay,197.6,
+2019-06-25,Blue,5.10b,e6c65bfcc9972383397bf8da8ad04097,4.0,Onsight,wall-auto-belay,196.9,
+2019-06-25,Pink,5.11a,f8db0c6decb68371fba55f9ea9089c2d,4.0,Onsight,wall-auto-belay,174.3,
+2019-06-25,Grey,5.8,fe11812fcac7834f8a74d7e26c121ec8,3.0,Onsight,wall-auto-belay,174.9,
 2019-06-21,Lime Green,5.11c,0283046f4c2c9a828d67139daf549aab,4.0,Onsight,wall-island,528.5,
-2019-06-20,Yellow,V4,6f6d389bcedd265116fd4799d3246317,3.0,Flash,wall-mezzanine,114.6,
-2019-06-20,Yellow,V0,0b317f7171a66878aed058ae894271ca,4.0,Flash,wall-mezzanine,114.6,
-2019-06-20,Black,V2,8250bcbb19be31dc0434f8bba53dde90,4.0,Flash,wall-mezzanine,39.7,
-2019-06-20,Red,V5,a85ff230c33b9e394ec306d70ff2aeb9,5.0,Flash,wall-mezzanine,39.7,
-2019-06-20,Black,V3,ebf4cd19fb9c91fa76a5cea4d089299e,3.0,Flash,wall-mezzanine,39.7,
-2019-06-19,Lime Green,V4,d0fc2727f4bb05324556be3f5eaf6a21,5.0,Flash,wall-mezzanine,114.6,
-2019-06-19,Blue,V2,684e830b3e864916d7d8ec5a511c3335,5.0,Flash,wall-mezzanine,114.6,great for a 2!
-2019-06-19,Tan,V3,1f87cbe9bb8bfca5d09c9e841f9ace4a,3.0,Flash,wall-mezzanine,39.7,these pads are sketchy af
-2019-06-19,White,V3,c8a92a67a92efad5b2797dd75973e1b9,3.0,Flash,wall-mezzanine,39.7,fix these janky pads asap!
+2019-06-21,Pink,5.10c,2d2d89f2311a4e8b466c58fe5eaca437,4.0,Onsight,wall-island,560.7,
+2019-06-21,Red,5.11c,5f0905fbbf2eea617a08f4e3fa1d65ec,2.0,Onsight,wall-island,470.0,
+2019-06-21,Tan,5.11b,8e58818eb11e715d4ab0fc382fc5a3a8,4.0,Onsight,wall-island,444.9,
+2019-06-21,Pink,5.10c,f91ff63506269d96bc6b20edc3f05471,3.0,Onsight,wall-red,198.3,weird top
+2019-06-21,Tan,V4,1ea1949f3a7aa7d7a0a02540ae4e5156,3.0,Flash,wall-mezzanine,39.7,fix these jank ass pads. asking to break someones ankle
+2019-06-21,Red,V2,7818d08c66315fd5020e5b9ab6c6388d,3.0,Flash,wall-mezzanine,39.7,fix the pads! f'd my ankle landing in the hole
+2019-06-21,Lime Green,V4,c4d1689c1baa960ab07bcfeffaab2375,4.0,Flash,wall-mezzanine,39.7,great slopey tension
+2019-06-21,Yellow,V3,a6b87eaa911280f8dcb91999378ca22e,4.0,Flash,wall-mezzanine,39.7,
+2019-06-21,Black,V3,4be8a4740365c4b996e349f5ed617053,3.0,Flash,wall-mezzanine,114.6,
+2019-06-21,Blue,V2,11285f9012fc021cdb7172254e56ca15,5.0,Flash,wall-mezzanine,114.6,
+2019-06-21,Pink,V3,fbc634fc6ded690b3aa43cc1bb49cf88,3.0,Flash,wall-mezzanine,114.6,
+2019-06-21,Lime Green,V0,aa86e57d5246ce75779426b278d65036,3.0,Flash,wall-mezzanine,114.6,
+2019-06-21,Blue,V4,589a5e622590b4c8cfaeb5ad47b866d8,4.0,Flash,wall-mezzanine,39.7,
 2019-06-19,Lime Green,V1,93a7c83348327587a1c2fd3b9446c611,3.0,Flash,wall-mezzanine,39.7,
+2019-06-19,White,V3,c8a92a67a92efad5b2797dd75973e1b9,3.0,Flash,wall-mezzanine,39.7,fix these janky pads asap!
+2019-06-19,Tan,V3,1f87cbe9bb8bfca5d09c9e841f9ace4a,3.0,Flash,wall-mezzanine,39.7,these pads are sketchy af
+2019-06-19,Blue,V2,684e830b3e864916d7d8ec5a511c3335,5.0,Flash,wall-mezzanine,114.6,great for a 2!
+2019-06-19,Lime Green,V4,d0fc2727f4bb05324556be3f5eaf6a21,5.0,Flash,wall-mezzanine,114.6,
+2019-06-19,Black,V3,ebf4cd19fb9c91fa76a5cea4d089299e,3.0,Flash,wall-mezzanine,39.7,
+2019-06-19,Red,V5,a85ff230c33b9e394ec306d70ff2aeb9,5.0,Flash,wall-mezzanine,39.7,
+2019-06-19,Black,V2,8250bcbb19be31dc0434f8bba53dde90,4.0,Flash,wall-mezzanine,39.7,
+2019-06-19,Yellow,V0,0b317f7171a66878aed058ae894271ca,4.0,Flash,wall-mezzanine,114.6,
+2019-06-19,Yellow,V4,6f6d389bcedd265116fd4799d3246317,3.0,Flash,wall-mezzanine,114.6,
 2019-06-19,Yellow,V3,750043e56438e09389732c73693f13ea,3.0,Flash,wall-mezzanine,39.7,
-2019-06-12,Black,V10,37b400f2c8e48b20cd42ad36f2b7e456,5.0,Attempt,wall-boulders,222.0,really nice. soon.
-2019-06-12,Lime Green,V6,8389a51957ee08d13d13ac12087c473d,1.0,Attempt,wall-boulders,222.0,it is possible to set crimps >v5 with holds that face up
-2019-06-12,Yellow,V1,b6330542ed4c5f204a0e49244999f4e0,3.0,Flash,wall-boulders,87.1,
-2019-06-12,Red,V0,5f4b7da78ee928210ad061f05c5f0ae7,4.0,Flash,wall-boulders,87.1,
-2019-06-12,Blue,V3,a85978f425bcd501c86667670d9c50ff,4.0,Flash,wall-boulders,87.1,
-2019-06-12,White RIGHT,V1,56d9121a64ba143f52508a934f0de558,4.0,Flash,wall-boulders,87.1,
-2019-06-12,Pink,V2,9c18bcd4d43a9be39b94dd354f427a08,4.0,Flash,wall-boulders,87.1,
-2019-06-12,Tan,V3,ef3dd7a6f60cb3a959c9e6ecd8e4d120,3.0,Flash,wall-boulders,161.2,
-2019-06-12,Yellow,V4,501c4134a27503f1cfc6655d3b01597e,3.0,Red Point,wall-boulders,161.2,
-2019-06-12,Black,V1,375c381ba71d171854d3f99d4664192c,4.0,Flash,wall-boulders,161.2,
-2019-06-12,Lime Green,V3,f0f6ffbf9081ddbc8493d256832b1038,5.0,Flash,wall-boulders,161.2,fun! great twisty flow
-2019-06-12,White,V6,a6eda49586aa646f6fd0080ade0de8cf,1.0,Flash,wall-boulders,161.2,there are maybe 3 climbs in this set i want to do more than once
-2019-06-12,Yellow,V4,b1c7091b162d86db5ef9c1e5a940d84d,5.0,Flash,wall-boulders,222.0,
-2019-06-12,Pink,V5,47736126d9822349454e6d271b0bd2c1,5.0,Flash,wall-boulders,222.0,
 2019-06-12,White,V2,de0fb48481d9886c19b13e9743dee092,3.0,Flash,wall-boulders,222.0,
-2019-06-08,Blue,V4,690c508ddb59f947d415f14fd03d4b19,4.0,Flash,wall-slab,118.8,
+2019-06-12,Pink,V5,47736126d9822349454e6d271b0bd2c1,5.0,Flash,wall-boulders,222.0,
+2019-06-12,Yellow,V4,b1c7091b162d86db5ef9c1e5a940d84d,5.0,Flash,wall-boulders,222.0,
+2019-06-12,White,V6,a6eda49586aa646f6fd0080ade0de8cf,1.0,Flash,wall-boulders,161.2,there are maybe 3 climbs in this set i want to do more than once
+2019-06-12,Lime Green,V3,f0f6ffbf9081ddbc8493d256832b1038,5.0,Flash,wall-boulders,161.2,fun! great twisty flow
+2019-06-12,Black,V1,375c381ba71d171854d3f99d4664192c,4.0,Flash,wall-boulders,161.2,
+2019-06-12,Yellow,V4,501c4134a27503f1cfc6655d3b01597e,3.0,Red Point,wall-boulders,161.2,
+2019-06-12,Tan,V3,ef3dd7a6f60cb3a959c9e6ecd8e4d120,3.0,Flash,wall-boulders,161.2,
+2019-06-12,Pink,V2,9c18bcd4d43a9be39b94dd354f427a08,4.0,Flash,wall-boulders,87.1,
+2019-06-12,White RIGHT,V1,56d9121a64ba143f52508a934f0de558,4.0,Flash,wall-boulders,87.1,
+2019-06-12,Blue,V3,a85978f425bcd501c86667670d9c50ff,4.0,Flash,wall-boulders,87.1,
+2019-06-12,Red,V0,5f4b7da78ee928210ad061f05c5f0ae7,4.0,Flash,wall-boulders,87.1,
+2019-06-12,Yellow,V1,b6330542ed4c5f204a0e49244999f4e0,3.0,Flash,wall-boulders,87.1,
+2019-06-12,Lime Green,V6,8389a51957ee08d13d13ac12087c473d,1.0,Attempt,wall-boulders,222.0,it is possible to set crimps >v5 with holds that face up
+2019-06-12,Black,V10,37b400f2c8e48b20cd42ad36f2b7e456,5.0,Attempt,wall-boulders,222.0,really nice. soon.
 2019-06-08,Red,V5,796902e30948c9cf758474d85909958d,4.0,Red Point,wall-slab,192.9,
-2019-06-06,White,V0,837780d8c9a58b61f775eff0ff1fe769,3.0,Flash,wall-slab,48.7,
-2019-06-06,Yellow,V3,55cfdbd140d09ffba808de3a8d017443,4.0,Red Point,wall-slab,48.7,
-2019-06-06,Tan,V1,3516a00bc2eb13a7b20831124fd1b505,3.0,Flash,wall-slab,48.7,
-2019-06-06,White,V2,56b985787191ec88eac65e870cd3c92a,3.0,Flash,wall-slab,118.8,
-2019-06-06,Lime Green,V3,4b55747ec6981448c9b65b81da373471,4.0,Flash,wall-slab,192.9,
+2019-06-08,Blue,V4,690c508ddb59f947d415f14fd03d4b19,4.0,Flash,wall-slab,118.8,
 2019-06-06,White,V1,32d657fe1d6ede4aa176a56127325d4b,3.0,Flash,wall-slab,192.9,
-2019-06-02,Black,5.10d,13b6c31d7e2988b7040a03ab2110eead,4.0,Onsight,wall-back-wall,141.7,
-2019-06-02,White,5.10a,f8f68ff0cf4709257334ec55ea02e1cb,4.0,Onsight,wall-back-wall,191.4,
-2019-06-02,Black,5.10c,5b40f66eeae2c6e74b9c584e6da9530f,2.0,Onsight,wall-back-wall,252.2,unpleasant start at the grade
-2019-06-02,Black,5.10c,1db2b75ce2f103b6d31a0ed1ce67d73c,3.0,Onsight,wall-back-wall,968.7,
-2019-06-02,Pink,5.11c,7b6c30deb5abc04d242c653627d90b4e,4.0,Onsight,wall-back-wall,689.8,
-2019-06-02,Tan,5.11a,ee645e858e1e9154a4bd325f9a22643a,4.0,Onsight,wall-back-wall,589.1,
-2019-06-02,Red,5.11d,7f8164a015491611e8ae96045bb0a1bb,4.0,Onsight,wall-back-wall,562.0,
-2019-06-02,White,5.12a,f7fe896409a5ba415b0b306535fa8a30,3.0,Onsight,wall-back-wall,443.3,
-2019-06-02,Red,5.10d,f75621bc2d00addaf8c02911fbca0fe7,4.0,Onsight,wall-back-wall,395.0,
+2019-06-06,Lime Green,V3,4b55747ec6981448c9b65b81da373471,4.0,Flash,wall-slab,192.9,
+2019-06-06,White,V2,56b985787191ec88eac65e870cd3c92a,3.0,Flash,wall-slab,118.8,
+2019-06-06,Tan,V1,3516a00bc2eb13a7b20831124fd1b505,3.0,Flash,wall-slab,48.7,
+2019-06-06,Yellow,V3,55cfdbd140d09ffba808de3a8d017443,4.0,Red Point,wall-slab,48.7,
+2019-06-06,White,V0,837780d8c9a58b61f775eff0ff1fe769,3.0,Flash,wall-slab,48.7,
 2019-06-02,Black,5.10c,7b75ca6b1e359569248b64e82260e529,4.0,Onsight,wall-back-wall,388.4,
+2019-06-02,Red,5.10d,f75621bc2d00addaf8c02911fbca0fe7,4.0,Onsight,wall-back-wall,395.0,
+2019-06-02,White,5.12a,f7fe896409a5ba415b0b306535fa8a30,3.0,Onsight,wall-back-wall,443.3,
+2019-06-02,Red,5.11d,7f8164a015491611e8ae96045bb0a1bb,4.0,Onsight,wall-back-wall,562.0,
+2019-06-02,Tan,5.11a,ee645e858e1e9154a4bd325f9a22643a,4.0,Onsight,wall-back-wall,589.1,
+2019-06-02,Pink,5.11c,7b6c30deb5abc04d242c653627d90b4e,4.0,Onsight,wall-back-wall,689.8,
+2019-06-02,Black,5.10c,1db2b75ce2f103b6d31a0ed1ce67d73c,3.0,Onsight,wall-back-wall,968.7,
+2019-06-02,Black,5.10c,5b40f66eeae2c6e74b9c584e6da9530f,2.0,Onsight,wall-back-wall,252.2,unpleasant start at the grade
+2019-06-02,White,5.10a,f8f68ff0cf4709257334ec55ea02e1cb,4.0,Onsight,wall-back-wall,191.4,
+2019-06-02,Black,5.10d,13b6c31d7e2988b7040a03ab2110eead,4.0,Onsight,wall-back-wall,141.7,

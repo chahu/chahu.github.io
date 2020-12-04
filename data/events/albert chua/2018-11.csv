@@ -1,24 +1,24 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-11-29,Red,5.11b,f7233d69cb14c8e3f01e9a8239b839f4,3.0,Top Rope,wall-back-wall,1386.5,
-2018-11-29,Red,5.11b,5077357cab0785397199588d8bf64d60,4.0,Top Rope,wall-red,79.7,hard :0
-2018-11-29,Tan,5.7,7d4a96226686d2468d6b0ab842fbc2fd,4.0,Top Rope,wall-auto-belay,222.1,
 2018-11-29,Yellow,5.8,9b87af37979649e1553d4c351497e712,4.0,Top Rope,wall-auto-belay,197.6,
+2018-11-29,Tan,5.7,7d4a96226686d2468d6b0ab842fbc2fd,4.0,Top Rope,wall-auto-belay,222.1,
 2018-11-29,Purple,5.10b,d60cef282035f829b3366c150dd6c2bd,4.0,Top Rope,wall-auto-belay,19.7,
 2018-11-29,Orange,5.9,43177c51d953e2e67cedabdd1e653eae,3.0,Top Rope,wall-auto-belay,45.3,
+2018-11-29,Red,5.11b,5077357cab0785397199588d8bf64d60,4.0,Top Rope,wall-red,79.7,hard :0
 2018-11-29,Lime Green,5.12a,ad4a00bac5ba476a2b4c9c37efb586cc,5.0,Top Rope,wall-red,110.4,
+2018-11-29,Red,5.11b,f7233d69cb14c8e3f01e9a8239b839f4,3.0,Top Rope,wall-back-wall,1386.5,
 2018-11-12,Lime Green,V2,1f724c46c0f35482f2a890e8d90ec3db,3.0,Red Point,wall-slab,192.9,
-2018-11-12,Pink,5.10d,8bc4ed6e8403f4d09387516637dae1c0,4.0,Top Rope,wall-back-wall,1274.1,easy until the hard part... :0
-2018-11-12,Blue,5.9,a0b01d738d70b37e524181969a3fb5e0,4.0,Top Rope,wall-auto-belay,497.7,
+2018-11-11,Blue,5.9,a0b01d738d70b37e524181969a3fb5e0,4.0,Top Rope,wall-auto-belay,497.7,
+2018-11-11,Pink,5.10d,8bc4ed6e8403f4d09387516637dae1c0,4.0,Top Rope,wall-back-wall,1274.1,easy until the hard part... :0
 2018-11-11,Yellow,V3,4ca3d952bedda2b2acca8b43f7a6a853,3.0,Red Point,wall-boulders,581.0,
 2018-11-11,Blue,5.10d,12179640fc7dc4e25bc4a797c1ab3f1a,4.0,Flash,wall-back-wall,442.1,
-2018-11-06,Blue,5.10c,9e18e776d5fc8792a8a62ff96c72dff8,4.0,Top Rope,wall-island,75.0,
-2018-11-06,White,5.10c,18941b85269715b6f002e9830b5826a2,4.0,Top Rope,wall-back-wall,921.4,
-2018-11-06,Black,V3,ef15d19a171d6eb85a943dff7ac6ca4a,4.0,Flash,wall-mezzanine,39.7,
-2018-11-06,Purple Left,V2,195e8ab11ac32e8685a1c6077ae92c7a,4.0,Flash,wall-mezzanine,39.7,as far as v2s go﹐ this one will help ur finger strength. really good for improvement.
 2018-11-06,Lime Green,V0,ff196d0cc95824649b66c98010434e4d,3.0,Flash,wall-mezzanine,39.7,
-2018-11-05,Pink,V5,faf2416774571d386d27c15a0c16e03c,5.0,Red Point,wall-mezzanine,114.6,woohoo. i did it.
+2018-11-06,Purple Left,V2,195e8ab11ac32e8685a1c6077ae92c7a,4.0,Flash,wall-mezzanine,39.7,"as far as v2s go, this one will help ur finger strength. really good for improvement."
+2018-11-06,Black,V3,ef15d19a171d6eb85a943dff7ac6ca4a,4.0,Flash,wall-mezzanine,39.7,
+2018-11-06,White,5.10c,18941b85269715b6f002e9830b5826a2,4.0,Top Rope,wall-back-wall,921.4,
+2018-11-06,Blue,5.10c,9e18e776d5fc8792a8a62ff96c72dff8,4.0,Top Rope,wall-island,75.0,
 2018-11-04,Black Left,V0,518075a0231b5d5e5f536a04be414bc0,3.0,Flash,wall-mezzanine,114.6,
+2018-11-04,Pink,V5,faf2416774571d386d27c15a0c16e03c,5.0,Red Point,wall-mezzanine,114.6,woohoo. i did it.
 2018-11-02,Lime Green,5.8,57561545a0c996a124a3587a3c779237,4.0,Top Rope,wall-back-wall,1175.0,
-2018-11-01,Lime Green,5.10d,0a875588205ecc58956da2f279c72337,4.0,Top Rope,wall-auto-belay,68.9,
-2018-11-01,Black,5.9,64e9295e6c39149d34ec90bcfed7ebbe,4.0,Top Rope,wall-back-wall,741.6,
 2018-11-01,Black,5.8,10e8404b57fbcf94b815944a033eb069,4.0,Onsight,wall-back-wall,56.0,
+2018-11-01,Black,5.9,64e9295e6c39149d34ec90bcfed7ebbe,4.0,Top Rope,wall-back-wall,741.6,
+2018-11-01,Lime Green,5.10d,0a875588205ecc58956da2f279c72337,4.0,Top Rope,wall-auto-belay,68.9,

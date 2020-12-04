@@ -1,23 +1,23 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2019-01-26,Pink,V7,325287ed291e528f5e5a668933b7c16d,5.0,Red Point,wall-boulders,359.0,
-2019-01-26,Black,V2,3a4e4e98e14179e12c6a35c8c03a2573,3.0,Flash,wall-boulders,359.0,warmup
-2019-01-26,White,V1,ab36be18dc16afdfc462f2efedf59e65,3.0,Flash,wall-boulders,359.0,warmup
-2019-01-26,Red,V5,b6059afb2b18e8cb9a47ace97be7f883,4.0,Flash,wall-boulders,359.0,
-2019-01-26,Lime Green,V4,44aa15e83690d7a7ead7db684efae398,3.0,Flash,wall-boulders,288.8,
-2019-01-26,Purple,V6,bfd5794355b44b002822cf5975b34566,4.0,Red Point,wall-boulders,288.8,tricky tricky
-2019-01-24,Yellow,V7,4c0260471ca00fb3d3f3528336250bdc,4.0,Red Point,wall-boulders,505.7,woot!
-2019-01-19,Yellow,V5,0909cb4515145b822d27932913cd5dca,4.0,Flash,wall-boulders,423.0,nice!
-2019-01-19,Blue,V4,7ae07cc594bfbeee107a251c7b992c19,3.0,Flash,wall-boulders,423.0,woof!
-2019-01-19,Yellow,V6,5161ab2ea6e629d675dab9b83c1952fa,5.0,Flash,wall-boulders,423.0,so fun
-2019-01-19,Blue,V3,2a1d743ec2b91cbe1e388d759c3920c6,4.0,Flash,wall-boulders,581.0,
-2019-01-19,Lime Green,V2,726864e5a5b713ef4081c53abdf80793,4.0,Flash,wall-boulders,581.0,warmup
-2019-01-19,Tan,V8,cf657b7dbb740a086533a3e7caf2da00,5.0,Flash,wall-boulders,581.0,crimps like god's shoeshine
-2019-01-19,Yellow,V4,e4360095a2574562fafd3a21278f04c7,4.0,Flash,wall-boulders,581.0,fun!
-2019-01-19,Black,V1,e9af4aa3550625490793ba36dbef7d4e,2.0,Flash,wall-boulders,581.0,warmup
-2019-01-13,Lime Green,V5,8960f5c65bb481a282344b6fc94432b8,4.0,Red Point,wall-slab,192.9,
-2019-01-13,Purple,V8,b8efa293eaa1666b3a4664c453ca5c14,4.0,Red Point,wall-boulders,736.4,crimps for days
-2019-01-13,Pink,V4,91421eb4ee1bbccab9406524e921fe05,3.0,Flash,wall-mezzanine,114.6,
+2019-01-25,Purple,V6,bfd5794355b44b002822cf5975b34566,4.0,Red Point,wall-boulders,288.8,tricky tricky
+2019-01-25,Lime Green,V4,44aa15e83690d7a7ead7db684efae398,3.0,Flash,wall-boulders,288.8,
+2019-01-25,Red,V5,b6059afb2b18e8cb9a47ace97be7f883,4.0,Flash,wall-boulders,359.0,
+2019-01-25,White,V1,ab36be18dc16afdfc462f2efedf59e65,3.0,Flash,wall-boulders,359.0,warmup
+2019-01-25,Black,V2,3a4e4e98e14179e12c6a35c8c03a2573,3.0,Flash,wall-boulders,359.0,warmup
+2019-01-23,Yellow,V7,4c0260471ca00fb3d3f3528336250bdc,4.0,Red Point,wall-boulders,505.7,woot!
+2019-01-18,Black,V1,e9af4aa3550625490793ba36dbef7d4e,2.0,Flash,wall-boulders,581.0,warmup
+2019-01-18,Yellow,V4,e4360095a2574562fafd3a21278f04c7,4.0,Flash,wall-boulders,581.0,fun!
+2019-01-18,Tan,V8,cf657b7dbb740a086533a3e7caf2da00,5.0,Flash,wall-boulders,581.0,crimps like god's shoeshine
+2019-01-18,Lime Green,V2,726864e5a5b713ef4081c53abdf80793,4.0,Flash,wall-boulders,581.0,warmup
+2019-01-18,Yellow,V5,0909cb4515145b822d27932913cd5dca,4.0,Flash,wall-boulders,423.0,nice!
+2019-01-18,Blue,V3,2a1d743ec2b91cbe1e388d759c3920c6,4.0,Flash,wall-boulders,581.0,
+2019-01-18,Yellow,V6,5161ab2ea6e629d675dab9b83c1952fa,5.0,Flash,wall-boulders,423.0,so fun
+2019-01-18,Blue,V4,7ae07cc594bfbeee107a251c7b992c19,3.0,Flash,wall-boulders,423.0,woof!
 2019-01-13,Tan,V6,3b0fa9ee6fee24028834849411c4f569,3.0,Flash,wall-slab,192.9,
-2019-01-09,Pink,V5,bb9e809e963bf55583791d5cffd3908d,4.0,Flash,wall-mezzanine,114.6,kriss kross will make you
+2019-01-13,Pink,V4,91421eb4ee1bbccab9406524e921fe05,3.0,Flash,wall-mezzanine,114.6,
+2019-01-13,Purple,V8,b8efa293eaa1666b3a4664c453ca5c14,4.0,Red Point,wall-boulders,736.4,crimps for days
+2019-01-13,Lime Green,V5,8960f5c65bb481a282344b6fc94432b8,4.0,Red Point,wall-slab,192.9,
 2019-01-09,Purple,V6,68478a57c4632aaf2ccd0694e79b8abf,4.0,Flash,wall-mezzanine,114.6,
+2019-01-09,Pink,V5,bb9e809e963bf55583791d5cffd3908d,4.0,Flash,wall-mezzanine,114.6,kriss kross will make you
 2019-01-02,Pink,5.11c,51782e05cb3d10eae5273e2b73781473,5.0,Onsight,wall-back-wall,994.6,

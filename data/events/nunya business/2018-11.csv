@@ -1,7 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-11-26,White,V5,d24ea5404ba33740217ab6c9aac2a1c0,3.0,Red Point,wall-slab,118.8,
-2018-11-26,Black,V5,6a4317f40f7ce10dfff26cb728016089,3.0,Red Point,wall-slab,118.8,
-2018-11-26,Blue,V6,c7fc9927c0b4160caafd2876bbb9589b,3.0,Red Point,wall-slab,118.8,
-2018-11-26,Red,V6,8ed9eaf122a1d7cd7cae0a3013e59173,3.0,Red Point,wall-slab,192.9,
-2018-11-26,White,V6,7fddc15e542c2d17a5c3125c38aaf4b7,3.0,Red Point,wall-slab,192.9,
 2018-11-26,Blue,V6,36b5baf33623223aea0b0953f5c728ea,3.0,Red Point,wall-boulders,288.8,
+2018-11-26,White,V6,7fddc15e542c2d17a5c3125c38aaf4b7,3.0,Red Point,wall-slab,192.9,
+2018-11-26,Red,V6,8ed9eaf122a1d7cd7cae0a3013e59173,3.0,Red Point,wall-slab,192.9,
+2018-11-26,Blue,V6,c7fc9927c0b4160caafd2876bbb9589b,3.0,Red Point,wall-slab,118.8,
+2018-11-26,Black,V5,6a4317f40f7ce10dfff26cb728016089,3.0,Red Point,wall-slab,118.8,
+2018-11-26,White,V5,d24ea5404ba33740217ab6c9aac2a1c0,3.0,Red Point,wall-slab,118.8,

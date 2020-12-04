@@ -1,14 +1,14 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-09-28,Pink,V5,12ee4227057bf2da22755e5ba78f6951,4.0,Flash,wall-boulders,288.8,
-2019-09-28,Yellow,V6,3a21f0cc5cd1e0d7372b9d071bd8a12d,5.0,Flash,wall-boulders,288.8,
-2019-09-27,White,V5,2200485c6003c051c8b53f4c9a7e176c,4.0,Red Point,wall-slab,192.9,
-2019-09-27,Tan,V6,10bb6ce084922de8a204333e620d746a,4.0,Red Point,wall-boulders,359.0,????
-2019-09-27,Pink,V4,e7f8d67bf682a224a598d0a2b1df5063,3.0,Red Point,wall-boulders,359.0,nice arete climb
 2019-09-27,Lime Green,V9,fcc38db666a6c2829c8e0f54d246ebb6,5.0,Red Point,wall-boulders,736.4,so good. so crimpy.
+2019-09-27,Pink,V4,e7f8d67bf682a224a598d0a2b1df5063,3.0,Red Point,wall-boulders,359.0,nice arete climb
+2019-09-27,Tan,V6,10bb6ce084922de8a204333e620d746a,4.0,Red Point,wall-boulders,359.0,????
+2019-09-27,White,V5,2200485c6003c051c8b53f4c9a7e176c,4.0,Red Point,wall-slab,192.9,
+2019-09-27,Yellow,V6,3a21f0cc5cd1e0d7372b9d071bd8a12d,5.0,Flash,wall-boulders,288.8,
+2019-09-27,Pink,V5,12ee4227057bf2da22755e5ba78f6951,4.0,Flash,wall-boulders,288.8,
 2019-09-26,Pink,V5,0d4df7e78f4973bf0666a19acbf440ab,4.0,Flash,wall-boulders,667.3,
-2019-09-25,White High Start,V6,5e689a1621f87ba57c4cb52576f57022,4.0,Flash,wall-boulders,667.3,tension
-2019-09-25,Yellow,V6,28902c3f48abd3bf87de32c2a989190f,3.0,Flash,wall-boulders,736.4,burly
-2019-09-25,Yellow,V4,15402dcbd8c819dc710b50a318e2dcfb,4.0,Flash,wall-boulders,793.8,
 2019-09-25,Pink,V7,b85f1c1e8430bad746f8e5458b94365c,4.0,Flash,wall-boulders,793.8,
-2019-09-07,Tan,V7,7513b1238dbda17b80edccfdbeb72e33,3.0,Red Point,wall-boulders,161.2,
-2019-09-07,White,V6,41e3cf22902518466fa7460d6a94ef9a,3.0,Flash,wall-boulders,222.0,
+2019-09-25,Yellow,V4,15402dcbd8c819dc710b50a318e2dcfb,4.0,Flash,wall-boulders,793.8,
+2019-09-25,Yellow,V6,28902c3f48abd3bf87de32c2a989190f,3.0,Flash,wall-boulders,736.4,burly
+2019-09-25,White High Start,V6,5e689a1621f87ba57c4cb52576f57022,4.0,Flash,wall-boulders,667.3,tension
+2019-09-06,White,V6,41e3cf22902518466fa7460d6a94ef9a,3.0,Flash,wall-boulders,222.0,
+2019-09-06,Tan,V7,7513b1238dbda17b80edccfdbeb72e33,3.0,Red Point,wall-boulders,161.2,

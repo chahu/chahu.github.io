@@ -1,28 +1,28 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-01-31,Yellow,V3,35e482e2b4594e52381028755ff61247,5.0,Flash,wall-boulders,288.8,
-2019-01-31,Tan,V2,18955133edf9f75e1d1930adfa4233c0,3.0,Flash,wall-boulders,423.0,
-2019-01-31,Yellow,V7,4c0260471ca00fb3d3f3528336250bdc,5.0,Attempt,wall-boulders,505.7,
-2019-01-31,Blue,V3,2a1d743ec2b91cbe1e388d759c3920c6,4.0,Flash,wall-boulders,581.0,
-2019-01-31,Lime Green,V2,726864e5a5b713ef4081c53abdf80793,4.0,Flash,wall-boulders,581.0,
-2019-01-31,Tan,V8,cf657b7dbb740a086533a3e7caf2da00,5.0,Red Point,wall-boulders,581.0,Classic feel. Really nice sequence.
-2019-01-31,Yellow,V4,e4360095a2574562fafd3a21278f04c7,5.0,Flash,wall-boulders,581.0,One of the best problems in here. So fun!
-2019-01-31,Purple,V6,68478a57c4632aaf2ccd0694e79b8abf,5.0,Flash,wall-mezzanine,114.6,
-2019-01-31,Pink,V5,bb9e809e963bf55583791d5cffd3908d,5.0,Flash,wall-mezzanine,114.6,Super fun dyno!
-2019-01-31,White,V7,8d9acd1acaa3f5fe47ed88c1d901d8b3,5.0,Attempt,wall-mezzanine,114.6,
-2019-01-31,Pink,V4,91421eb4ee1bbccab9406524e921fe05,4.0,Flash,wall-mezzanine,114.6,
-2019-01-31,Red,V5,f499e88c511b4f05d7e9b4178dbec165,5.0,Flash,wall-mezzanine,39.7,
-2019-01-31,Yellow,V4,c51e4387dab1fefb19acd973a3cf3538,4.0,Flash,wall-mezzanine,39.7,
-2019-01-31,Black,V5,29e663f793333d6c73bcedee057e8600,5.0,Flash,wall-mezzanine,39.7,
-2019-01-31,Blue,V4,4bf24c8aa0a2fc946cf6642e6ba130f3,5.0,Flash,wall-mezzanine,39.7,
-2019-01-31,Blue,V4,4bf24c8aa0a2fc946cf6642e6ba130f3,5.0,Flash,wall-mezzanine,39.7,
-2019-01-28,Blue,V6,efb07c6d036b4de4eba4e96e24372a39,5.0,Attempt,wall-slab,118.8,
-2019-01-28,Pink,V7,429a5e22521d7c79237916ca964a01da,3.0,Attempt,wall-boulders,359.0,Kinda gross starting move...the rest is cool!
-2019-01-28,Yellow,V7,d9164deccae3c4e1d895fadf3e8ab7eb,5.0,Attempt,wall-boulders,359.0,
-2019-01-28,Pink,V7,325287ed291e528f5e5a668933b7c16d,4.0,Attempt,wall-boulders,359.0,
-2019-01-28,Purple,V6,bfd5794355b44b002822cf5975b34566,3.0,Attempt,wall-boulders,288.8,
-2019-01-28,Pink,V8,238231a1826c510cf0f526a26137ac19,5.0,Red Point,wall-boulders,288.8,Maybe easier for tall folks﹐ but super fun regardless.
-2019-01-28,Black,V7,8cb2176c6bbca076b73691a81e4bfda8,4.0,Attempt,wall-boulders,288.8,
-2019-01-28,Yellow,V6,5161ab2ea6e629d675dab9b83c1952fa,5.0,Red Point,wall-boulders,423.0,Awesome problem. Great sequence!
-2019-01-28,Red,V6,bb936f36046fc64769b3ce972fa9640f,3.0,Attempt,wall-boulders,581.0,
-2019-01-28,Pink,5.12a,758aade61577800328db1d1ffa6c878f,5.0,Attempt,wall-back-wall,1330.2,Super cool moves.
+2019-01-30,Blue,V4,4bf24c8aa0a2fc946cf6642e6ba130f3,5.0,Flash,wall-mezzanine,39.7,
+2019-01-30,Blue,V4,4bf24c8aa0a2fc946cf6642e6ba130f3,5.0,Flash,wall-mezzanine,39.7,
+2019-01-30,Black,V5,29e663f793333d6c73bcedee057e8600,5.0,Flash,wall-mezzanine,39.7,
+2019-01-30,Yellow,V4,c51e4387dab1fefb19acd973a3cf3538,4.0,Flash,wall-mezzanine,39.7,
+2019-01-30,Red,V5,f499e88c511b4f05d7e9b4178dbec165,5.0,Flash,wall-mezzanine,39.7,
+2019-01-30,Pink,V4,91421eb4ee1bbccab9406524e921fe05,4.0,Flash,wall-mezzanine,114.6,
+2019-01-30,White,V7,8d9acd1acaa3f5fe47ed88c1d901d8b3,5.0,Attempt,wall-mezzanine,114.6,
+2019-01-30,Purple,V6,68478a57c4632aaf2ccd0694e79b8abf,5.0,Flash,wall-mezzanine,114.6,
+2019-01-30,Pink,V5,bb9e809e963bf55583791d5cffd3908d,5.0,Flash,wall-mezzanine,114.6,Super fun dyno!
+2019-01-30,Yellow,V4,e4360095a2574562fafd3a21278f04c7,5.0,Flash,wall-boulders,581.0,One of the best problems in here. So fun!
+2019-01-30,Tan,V8,cf657b7dbb740a086533a3e7caf2da00,5.0,Red Point,wall-boulders,581.0,Classic feel. Really nice sequence.
+2019-01-30,Lime Green,V2,726864e5a5b713ef4081c53abdf80793,4.0,Flash,wall-boulders,581.0,
+2019-01-30,Blue,V3,2a1d743ec2b91cbe1e388d759c3920c6,4.0,Flash,wall-boulders,581.0,
+2019-01-30,Yellow,V7,4c0260471ca00fb3d3f3528336250bdc,5.0,Attempt,wall-boulders,505.7,
+2019-01-30,Tan,V2,18955133edf9f75e1d1930adfa4233c0,3.0,Flash,wall-boulders,423.0,
+2019-01-30,Yellow,V3,35e482e2b4594e52381028755ff61247,5.0,Flash,wall-boulders,288.8,
 2019-01-28,Lime Green,5.10c,3fd3670e94f3d0e3a88a6cf2595abe46,5.0,Onsight,wall-island,445.8,
+2019-01-28,Pink,5.12a,758aade61577800328db1d1ffa6c878f,5.0,Attempt,wall-back-wall,1330.2,Super cool moves.
+2019-01-28,Red,V6,bb936f36046fc64769b3ce972fa9640f,3.0,Attempt,wall-boulders,581.0,
+2019-01-28,Yellow,V6,5161ab2ea6e629d675dab9b83c1952fa,5.0,Red Point,wall-boulders,423.0,Awesome problem. Great sequence!
+2019-01-28,Black,V7,8cb2176c6bbca076b73691a81e4bfda8,4.0,Attempt,wall-boulders,288.8,
+2019-01-28,Pink,V8,238231a1826c510cf0f526a26137ac19,5.0,Red Point,wall-boulders,288.8,"Maybe easier for tall folks, but super fun regardless."
+2019-01-28,Purple,V6,bfd5794355b44b002822cf5975b34566,3.0,Attempt,wall-boulders,288.8,
+2019-01-28,Pink,V7,325287ed291e528f5e5a668933b7c16d,4.0,Attempt,wall-boulders,359.0,
+2019-01-28,Yellow,V7,d9164deccae3c4e1d895fadf3e8ab7eb,5.0,Attempt,wall-boulders,359.0,
+2019-01-28,Pink,V7,429a5e22521d7c79237916ca964a01da,3.0,Attempt,wall-boulders,359.0,Kinda gross starting move...the rest is cool!
+2019-01-28,Blue,V6,efb07c6d036b4de4eba4e96e24372a39,5.0,Attempt,wall-slab,118.8,

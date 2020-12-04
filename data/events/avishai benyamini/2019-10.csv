@@ -1,30 +1,30 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-10-28,Yellow,5.13b,61017604e0c35c6ff9a8e1158e180966,,Attempt,wall-island,395.6,hard! and hard clips!
-2019-10-28,White,5.12c,95d94aeefe49b5f7568122b37ac9e9c5,3.0,Attempt,wall-island,445.8,one hard move?
-2019-10-28,Red,5.12b,8fd189e95056d5fd25f6d5360b1610cb,5.0,Onsight,wall-back-wall,588.1,
-2019-10-28,Tan,5.11c,32b83a2475aa1c91b803beb1d7fdadcc,4.0,Onsight,wall-back-wall,388.4,
 2019-10-28,Blue,5.11b,2ff674be2a650fe354c90fb700b704c7,4.0,Onsight,wall-back-wall,322.3,
-2019-10-21,Blue,V4,c02780acc69307da661a91fa8d891d52,4.0,Flash,wall-slab,48.7,
-2019-10-21,Black,V3,93e689abaa22e628f714884f804f01b1,4.0,Flash,wall-slab,48.7,
-2019-10-21,Red,V2,33efde04bb65f86081d0df92f65a7030,,Flash,wall-slab,48.7,
-2019-10-21,Yellow,V0,d938da407de62e7c8b0591a4ba31611c,,Flash,wall-slab,118.8,
-2019-10-21,Yellow,V5,f5fc438d5bd2ed3af4a42b78d56d1c39,4.0,Flash,wall-slab,118.8,
-2019-10-21,Pink,V4,c83e174a45e10a972274546d9f7c1e08,4.0,Flash,wall-slab,118.8,
-2019-10-21,Lime Green,V1,7ca468cc337692ccc0ce64d3bb3e1c9c,,Flash,wall-slab,118.8,
-2019-10-21,Blue,V2,946ad60d4fd2baa72c5cbbb6bce21b0d,,Flash,wall-slab,118.8,
-2019-10-21,Tan,V1,11989873e17619fe5343a1ba64b7f9fa,,Flash,wall-slab,192.9,
-2019-10-21,Black,V5,3b856beba40762ffd1267908d416ee47,4.0,Flash,wall-slab,192.9,
-2019-10-21,Blue,V6,e5693d8e11dc64d3ce2afa4d91533d31,4.0,Flash,wall-slab,192.9,
-2019-10-21,White,V1,ca12063c63ee41afc220ba5f3871c9f2,,Flash,wall-slab,192.9,
+2019-10-28,Tan,5.11c,32b83a2475aa1c91b803beb1d7fdadcc,4.0,Onsight,wall-back-wall,388.4,
+2019-10-28,Red,5.12b,8fd189e95056d5fd25f6d5360b1610cb,5.0,Onsight,wall-back-wall,588.1,
+2019-10-28,White,5.12c,95d94aeefe49b5f7568122b37ac9e9c5,3.0,Attempt,wall-island,445.8,one hard move?
+2019-10-28,Yellow,5.13b,61017604e0c35c6ff9a8e1158e180966,,Attempt,wall-island,395.6,hard! and hard clips!
 2019-10-21,Red,V3,a6bcdb833e26466c666edca1f8c57d0d,,Flash,wall-slab,192.9,
-2019-10-13,Black,5.12c,5efa8d1e1f07d277c338b7298d28dcdd,4.0,Onsight,wall-back-wall,894.6,
-2019-10-13,Tan,5.11c,eabb1dbbf5e9e7f2d872e3a20957298d,4.0,Onsight,wall-island,421.6,
-2019-10-13,Red,5.9,0c26a257c10ebe6decab961c533c084d,,Onsight,wall-island,420.7,
-2019-10-12,Pink,5.12c,82a9916d62cf8fe68a38cb057695c757,5.0,Attempt,wall-red,198.3,
-2019-10-12,Black,5.13a,5ef6aa61a1ff53033d2ca7404755390a,4.0,Attempt,wall-back-wall,488.9,
+2019-10-21,White,V1,ca12063c63ee41afc220ba5f3871c9f2,,Flash,wall-slab,192.9,
+2019-10-21,Blue,V6,e5693d8e11dc64d3ce2afa4d91533d31,4.0,Flash,wall-slab,192.9,
+2019-10-21,Black,V5,3b856beba40762ffd1267908d416ee47,4.0,Flash,wall-slab,192.9,
+2019-10-21,Tan,V1,11989873e17619fe5343a1ba64b7f9fa,,Flash,wall-slab,192.9,
+2019-10-21,Blue,V2,946ad60d4fd2baa72c5cbbb6bce21b0d,,Flash,wall-slab,118.8,
+2019-10-21,Lime Green,V1,7ca468cc337692ccc0ce64d3bb3e1c9c,,Flash,wall-slab,118.8,
+2019-10-21,Pink,V4,c83e174a45e10a972274546d9f7c1e08,4.0,Flash,wall-slab,118.8,
+2019-10-21,Yellow,V5,f5fc438d5bd2ed3af4a42b78d56d1c39,4.0,Flash,wall-slab,118.8,
+2019-10-21,Yellow,V0,d938da407de62e7c8b0591a4ba31611c,,Flash,wall-slab,118.8,
+2019-10-21,Red,V2,33efde04bb65f86081d0df92f65a7030,,Flash,wall-slab,48.7,
+2019-10-21,Black,V3,93e689abaa22e628f714884f804f01b1,4.0,Flash,wall-slab,48.7,
+2019-10-21,Blue,V4,c02780acc69307da661a91fa8d891d52,4.0,Flash,wall-slab,48.7,
+2019-10-12,Red,5.9,0c26a257c10ebe6decab961c533c084d,,Onsight,wall-island,420.7,
+2019-10-12,Tan,5.11c,eabb1dbbf5e9e7f2d872e3a20957298d,4.0,Onsight,wall-island,421.6,
+2019-10-12,Black,5.12c,5efa8d1e1f07d277c338b7298d28dcdd,4.0,Onsight,wall-back-wall,894.6,
 2019-10-12,Lime Green,5.13b,45417e421136542d0cf3d8bbc188d9a1,4.0,Attempt,wall-back-wall,36.9,slippery
-2019-10-07,Blue,5.14a,14ac2c8f2a388cd1ae81734315f9441d,4.0,Attempt,wall-back-wall,164.5,hard.. anyone has beta?
-2019-10-07,Black,5.12d,468bf537ad9d79c4c95732d909604162,4.0,Onsight,wall-back-wall,1045.1,
-2019-10-07,Yellow,5.12c,0645519ebf1ba19ab94d9530d190ff22,4.0,Attempt,wall-back-wall,946.0,slipped in the end..
-2019-10-07,Purple,5.11d,e0620a64e2424a60d2765bfc17b2b9f3,4.0,Onsight,wall-island,420.7,
-2019-10-06,Lime Green,5.13a,0e8532262e45bb2b8dbe2e4ac7fd029e,4.0,Red Point,wall-back-wall,243.4,Almost onsighted... fell once at first move﹐ than did it straight from the beginning.
+2019-10-12,Black,5.13a,5ef6aa61a1ff53033d2ca7404755390a,4.0,Attempt,wall-back-wall,488.9,
+2019-10-12,Pink,5.12c,82a9916d62cf8fe68a38cb057695c757,5.0,Attempt,wall-red,198.3,
+2019-10-06,Purple,5.11d,e0620a64e2424a60d2765bfc17b2b9f3,4.0,Onsight,wall-island,420.7,
+2019-10-06,Yellow,5.12c,0645519ebf1ba19ab94d9530d190ff22,4.0,Attempt,wall-back-wall,946.0,slipped in the end..
+2019-10-06,Black,5.12d,468bf537ad9d79c4c95732d909604162,4.0,Onsight,wall-back-wall,1045.1,
+2019-10-06,Lime Green,5.13a,0e8532262e45bb2b8dbe2e4ac7fd029e,4.0,Red Point,wall-back-wall,243.4,"Almost onsighted... fell once at first move, than did it straight from the beginning."
+2019-10-06,Blue,5.14a,14ac2c8f2a388cd1ae81734315f9441d,4.0,Attempt,wall-back-wall,164.5,hard.. anyone has beta?

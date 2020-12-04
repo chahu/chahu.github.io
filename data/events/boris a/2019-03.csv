@@ -1,16 +1,17 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-03-31,Red,5.10c,1b4596da8cfd7d8a90c7302479a91682,3.0,Onsight,wall-back-wall,1330.2,t
-2019-03-31,Tan,5.10a,1d3b6829451b36e14aef53b5d4ec6726,3.0,Onsight,wall-island,76.0,
-2019-03-31,Pink,5.12a,1cd9ab355eafc683ff9a4b51ecb8bfff,3.0,Top Rope,wall-island,603.0,
-2019-03-31,Blue,5.10b,757c2879f0facdefa778886e8ba8446c,3.0,Onsight,wall-back-wall,1274.1,
+2019-03-31,White,5.12a,479cf855933d7204f9f285ea7bcc034a,3.0,Top Rope,wall-island,211.7,
 2019-03-31,Red,5.10c,abdb1b3f923fc75fafd4c615792975ed,3.0,Onsight,wall-red,231.5,
+2019-03-31,Blue,5.10b,757c2879f0facdefa778886e8ba8446c,3.0,Onsight,wall-back-wall,1274.1,
+2019-03-31,Pink,5.12a,1cd9ab355eafc683ff9a4b51ecb8bfff,3.0,Top Rope,wall-island,603.0,
+2019-03-31,Tan,5.10a,1d3b6829451b36e14aef53b5d4ec6726,3.0,Onsight,wall-island,76.0,
 2019-03-31,Blue,5.10d,035a20935302d087ae0530ba1bc26774,3.0,Onsight,wall-red,25.4,
-2019-03-28,White,V4,1f737a110f5a69dc64aa756d5d2e7fa0,3.0,Flash,wall-boulders,359.0,
-2019-03-28,White,V4,cf3a34cb79a232e87770f411f1bf99d0,5.0,Flash,wall-boulders,793.8,fun
-2019-03-28,Red,V7,c705dd8cfffd168c1af9b139339e4cc4,4.0,Red Point,wall-slab,48.7,fun
+2019-03-31,Red,5.10c,1b4596da8cfd7d8a90c7302479a91682,3.0,Onsight,wall-back-wall,1330.2,t
 2019-03-28,White,V4,d19626fecd21ed6a10095c2e3df39222,3.0,Flash,wall-slab,48.7,
-2019-03-28,Blue,5.10b,9e920180b0da9f84a97f211aa5711e92,3.0,Onsight,wall-back-wall,1386.5,had difficulty not barndooring
-2019-03-28,Tan,5.10a,d8fb004619c19429664e2429e738ab8a,3.0,Flash,wall-red,109.7,
-2019-03-28,Yellow,5.10b,2ab8a816edc08aab5ef7ad21e092f405,3.0,Onsight,wall-red,132.5,
+2019-03-28,Red,V7,c705dd8cfffd168c1af9b139339e4cc4,4.0,Red Point,wall-slab,48.7,fun
+2019-03-28,White,V4,cf3a34cb79a232e87770f411f1bf99d0,5.0,Flash,wall-boulders,793.8,fun
+2019-03-28,White,V4,1f737a110f5a69dc64aa756d5d2e7fa0,3.0,Flash,wall-boulders,359.0,
 2019-03-28,Tan,5.11b,7f52d2123e95be5e9e7d32b532baa8b1,3.0,Top Rope,wall-red,261.8,fun
+2019-03-28,Yellow,5.10b,2ab8a816edc08aab5ef7ad21e092f405,3.0,Onsight,wall-red,132.5,
+2019-03-28,Tan,5.10a,d8fb004619c19429664e2429e738ab8a,3.0,Flash,wall-red,109.7,
 2019-03-28,Black,5.10c,7bad11631bf9889682bd47185364030d,5.0,Flash,wall-red,80.7,fun
+2019-03-28,Blue,5.10b,9e920180b0da9f84a97f211aa5711e92,3.0,Onsight,wall-back-wall,1386.5,had difficulty not barndooring

@@ -1,0 +1,4 @@
+route_id,route_color,route_grade,type,category,wall,offset,rating,start_date,end_date
+4a66c3192e858bf81dcc4e4d01df7593,Blue,5.11b,route,Routes Lead Cave,wall-back-wall,589.1,,2020-12-01,
+6b29ff8fe617996ce29fb67436788e97,Black,5.10a,route,Routes Island Low Bay Right,wall-island,327.1,,2020-12-03,
+d00fd55dc727d7cb74e315668a3b892c,Blue,5.10c,route,Routes Island Low Bay Right,wall-island,354.2,,2020-12-03,

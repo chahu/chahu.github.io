@@ -1,9 +1,9 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-06-26,Pink,V6,9b96b7bdb42a7c191dc81f8331b4313c,3.0,Red Point,wall-boulders,736.4,
 2019-06-26,Black,V5,d3a2d45593701d55788fc233588f1504,3.0,Flash,wall-boulders,793.8,
-2019-06-26,Red,V6,669fb7797907bc86a00bb2800035be2b,3.0,Flash,wall-boulders,793.8,
+2019-06-26,Pink,V6,9b96b7bdb42a7c191dc81f8331b4313c,3.0,Red Point,wall-boulders,736.4,
+2019-06-25,Red,V6,669fb7797907bc86a00bb2800035be2b,3.0,Flash,wall-boulders,793.8,
 2019-06-22,Lime Green Stand,V5,33510e21d3529ec7eb92c14c9748dfce,3.0,Flash,wall-boulders,423.0,
-2019-06-22,Black,V7,cfea42e9c66ed94e1d8911d073ad8428,3.0,Red Point,wall-boulders,667.3,
+2019-06-21,Black,V7,cfea42e9c66ed94e1d8911d073ad8428,3.0,Red Point,wall-boulders,667.3,
 2019-06-16,Lime Green Low,V7,9c7fe678e4ef9b8dcd0b7b50bee67bd3,3.0,Red Point,wall-boulders,423.0,
-2019-06-06,Lime Green,V6,42eb17be20769a120ab5e21de36eaeca,5.0,Flash,wall-slab,118.8,
 2019-06-06,Pink,V7,98e3cbab2820d93d7ef1c691f304e767,4.0,Red Point,wall-slab,48.7,
+2019-06-06,Lime Green,V6,42eb17be20769a120ab5e21de36eaeca,5.0,Flash,wall-slab,118.8,

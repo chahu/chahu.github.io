@@ -1,22 +1,22 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-11-21,Lime Green,5.10c,403e0d73396e4fb3d389e574e24bb595,3.0,Onsight,wall-back-wall,70.1,
 2019-11-21,Pink,5.12a,de1e077e7d20771513ccd30618c4587e,3.0,Onsight,wall-back-wall,69.3,
-2019-11-20,Tan,V3,25953b63ef9a511874960725a0a8ab82,2.0,Flash,wall-boulders,423.0,
-2019-11-20,Red,V5,5626da4c93e824b608273be9ebda4d7c,5.0,Flash,wall-boulders,423.0,
-2019-11-20,Lime Green,V2,ca3e16fdc81fca90527a12c38bb83179,5.0,Flash,wall-boulders,423.0,
-2019-11-20,Yellow High,V3,3f8c721122a0bc760a49f03da502a72a,4.0,Flash,wall-boulders,423.0,
-2019-11-20,Yellow Low,V5,a2a793f19390bb425e1026f97dd5e818,4.0,Flash,wall-boulders,423.0,
-2019-11-20,White High,V6,5efb1fa552b1d7e626644e3b4764a4b7,5.0,Red Point,wall-boulders,505.7,
-2019-11-20,White Low,V7,a97c5d2127972f96cd5ad1af0b483ee2,5.0,Red Point,wall-boulders,505.7,
-2019-11-20,Lime Green High,V5,887728c54b0ea88aa9b40c5707139c13,4.0,Flash,wall-boulders,505.7,
-2019-11-20,Lime Green Low,V6,0594b4c4393511e66d67f62872a1c3de,4.0,Red Point,wall-boulders,505.7,
-2019-11-20,Pink,V4,55da0c04bc30556e600e47096828d03b,4.0,Flash,wall-boulders,505.7,
-2019-11-20,Yellow,V4,e75537d5294be4537bc7c9baade9a35c,4.0,Flash,wall-boulders,581.0,
+2019-11-21,Lime Green,5.10c,403e0d73396e4fb3d389e574e24bb595,3.0,Onsight,wall-back-wall,70.1,
 2019-11-20,Lime Green,V4,c81084d2b88f45a23575a61808634d31,3.0,Flash,wall-boulders,581.0,
-2019-11-16,Red,5.12b,5f9e70c5381effb966cca80b6fbb3e75,3.0,Red Point,wall-back-wall,328.9,good
-2019-11-16,Black,5.11d,d573fcc15d79e7741b2753c0dd1add75,5.0,Onsight,wall-back-wall,56.8,that spice at the end. full value 
-2019-11-16,White,5.10a,e34731c6f66caeb4fe6e512ecb19e5f5,4.0,Onsight,wall-back-wall,56.0,
-2019-11-16,Blue,5.12b,815f8145e80b2059a5811ec877abeae2,5.0,Red Point,wall-back-wall,37.7,really stays on you. good route. hard.
-2019-11-16,Red,5.10c,9d303c9ba8d0029938e23d13204a72b2,5.0,Onsight,wall-back-wall,36.9,
-2019-11-16,Lime Green,5.11c,327b0dc400a168d5062d94f055b82cd7,5.0,Onsight,wall-back-wall,17.1,good
-2019-11-16,Yellow,5.13a,eed1f6e46fa64140c82f8e39ea2780d5,5.0,Red Point,wall-back-wall,16.3,really fun. good movement. too much rest for 13a though. if there was less opportunity to rest and the pump stayed on you (like the blue 12b next door)﹐ it might be 13a. probably 12c/d
+2019-11-20,Yellow,V4,e75537d5294be4537bc7c9baade9a35c,4.0,Flash,wall-boulders,581.0,
+2019-11-20,Pink,V4,55da0c04bc30556e600e47096828d03b,4.0,Flash,wall-boulders,505.7,
+2019-11-20,Lime Green Low,V6,0594b4c4393511e66d67f62872a1c3de,4.0,Red Point,wall-boulders,505.7,
+2019-11-20,Lime Green High,V5,887728c54b0ea88aa9b40c5707139c13,4.0,Flash,wall-boulders,505.7,
+2019-11-20,White Low,V7,a97c5d2127972f96cd5ad1af0b483ee2,5.0,Red Point,wall-boulders,505.7,
+2019-11-20,White High,V6,5efb1fa552b1d7e626644e3b4764a4b7,5.0,Red Point,wall-boulders,505.7,
+2019-11-20,Yellow Low,V5,a2a793f19390bb425e1026f97dd5e818,4.0,Flash,wall-boulders,423.0,
+2019-11-20,Yellow High,V3,3f8c721122a0bc760a49f03da502a72a,4.0,Flash,wall-boulders,423.0,
+2019-11-20,Lime Green,V2,ca3e16fdc81fca90527a12c38bb83179,5.0,Flash,wall-boulders,423.0,
+2019-11-20,Red,V5,5626da4c93e824b608273be9ebda4d7c,5.0,Flash,wall-boulders,423.0,
+2019-11-20,Tan,V3,25953b63ef9a511874960725a0a8ab82,2.0,Flash,wall-boulders,423.0,
+2019-11-15,Yellow,5.13a,eed1f6e46fa64140c82f8e39ea2780d5,5.0,Red Point,wall-back-wall,16.3,"really fun. good movement. too much rest for 13a though. if there was less opportunity to rest and the pump stayed on you (like the blue 12b next door), it might be 13a. probably 12c/d"
+2019-11-15,Lime Green,5.11c,327b0dc400a168d5062d94f055b82cd7,5.0,Onsight,wall-back-wall,17.1,good
+2019-11-15,Red,5.10c,9d303c9ba8d0029938e23d13204a72b2,5.0,Onsight,wall-back-wall,36.9,
+2019-11-15,Blue,5.12b,815f8145e80b2059a5811ec877abeae2,5.0,Red Point,wall-back-wall,37.7,really stays on you. good route. hard.
+2019-11-15,White,5.10a,e34731c6f66caeb4fe6e512ecb19e5f5,4.0,Onsight,wall-back-wall,56.0,
+2019-11-15,Black,5.11d,d573fcc15d79e7741b2753c0dd1add75,5.0,Onsight,wall-back-wall,56.8,that spice at the end. full value 
+2019-11-15,Red,5.12b,5f9e70c5381effb966cca80b6fbb3e75,3.0,Red Point,wall-back-wall,328.9,good

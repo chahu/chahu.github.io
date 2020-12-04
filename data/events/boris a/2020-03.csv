@@ -1,26 +1,26 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2020-03-12,Black,5.10b,13ff387d591c3e41be5c624cad000c08,,Top Rope,wall-red,79.7,It's possible to do this route while facing out the entire way up. In fact﹐ it's fun and might even be slightly easier than facing the usual direction. (But be careful of hitting your head on the team holds!)
-2020-03-12,Black,5.10b,13ff387d591c3e41be5c624cad000c08,,Top Rope,wall-red,79.7,OS
-2020-03-12,Pink,5.12c,f3fc7d4051fda800ee0490a827320d3e,,Top Rope,wall-island,603.0,
-2020-03-12,Purple,5.11d,851d46b22e4a65effe3ba5e1ae7c8868,,Onsight,wall-red,132.5,
 2020-03-12,Pink,5.11c,cd84e23e75648ae857be2a9d39bb39f8,,Onsight,wall-back-wall,832.6,
-2020-03-05,Tan,5.6,9b492442c7c70fa02e4ca77465b1c1a8,,Onsight,wall-auto-belay,67.7,and downclimb
-2020-03-05,Black,5.8,fb1aa4b957257d5c68a03125eb00d188,,Onsight,wall-auto-belay,68.9,and downclimb
-2020-03-05,Pink,5.10c,b4048d2d98de486e7b2f548e9bfd2f15,,Onsight,wall-red,156.9,
+2020-03-12,Purple,5.11d,851d46b22e4a65effe3ba5e1ae7c8868,,Onsight,wall-red,132.5,
+2020-03-12,Black,5.10b,13ff387d591c3e41be5c624cad000c08,,Top Rope,wall-red,79.7,OS
+2020-03-12,Black,5.10b,13ff387d591c3e41be5c624cad000c08,,Top Rope,wall-red,79.7,"It's possible to do this route while facing out the entire way up. In fact, it's fun and might even be slightly easier than facing the usual direction. (But be careful of hitting your head on the team holds!)"
+2020-03-12,Pink,5.12c,f3fc7d4051fda800ee0490a827320d3e,,Top Rope,wall-island,603.0,
+2020-03-05,White,5.10c,a73ba2cb99ac603ded6f257460121335,,Onsight,wall-back-wall,1142.8,
+2020-03-05,Blue,5.10c,95a0970d2f161e8a22bfe127a4c5899c,,Top Rope,wall-auto-belay,304.0,AB OS
+2020-03-05,Yellow,5.10b,93dc298f9659086b95b642c7d256a905,,Top Rope,wall-auto-belay,362.9,AB OS
 2020-03-05,Lime Green,5.10a,6db84815dd0ddb03bb661f42c4bfca41,,Onsight,wall-red,24.0,
 2020-03-05,Yellow,5.10a,5386b87d83fc22783ae82f57ddbfd4e2,,Onsight,wall-back-wall,1167.3,
-2020-03-05,White,5.10c,a73ba2cb99ac603ded6f257460121335,,Onsight,wall-back-wall,1142.8,
-2020-03-05,Pink,5.12a,a6633507a662f6a9fce260a86778a4e7,,Onsight,wall-back-wall,252.5,
-2020-03-05,Tan,5.10b,98f6e50d67c98e00f34d8c0685da6eee,,Onsight,wall-back-wall,791.7,
-2020-03-05,Blue,5.10b,6c63d07dff924695a16a163ddb4df8e5,,Flash,wall-island,42.2,
-2020-03-05,Blue,5.12a,8900d5ddd5aaaecd0a390cc5d3592bcd,,Onsight,wall-island,562.4,
-2020-03-05,White,5.10d,c3427850c4f142dfbe48314fc995e4ed,,Onsight,wall-island,126.0,
-2020-03-05,Tan,5.10b,7021dcfa5ce53a9a7bae85a06f1bdd1f,,Top Rope,wall-auto-belay,274.3,AB OS
-2020-03-05,Pink,5.10d,62f662aa04896bf06e69b313b7f8a03c,,Top Rope,wall-auto-belay,220.8,AB OS
 2020-03-05,Red,5.10c,f2eb3aa854b39dfd914b364e8de3ce25,,Top Rope,wall-auto-belay,173.7,AB OS
-2020-03-05,Yellow,5.10b,93dc298f9659086b95b642c7d256a905,,Top Rope,wall-auto-belay,362.9,AB OS
-2020-03-05,Blue,5.10c,95a0970d2f161e8a22bfe127a4c5899c,,Top Rope,wall-auto-belay,304.0,AB OS
-2020-03-01,Black,5.10d,6a7823f03dd10d8a5bf54b1097e203d8,4.0,Onsight,wall-island,75.0,fun!
-2020-03-01,Pink,5.11a,dbae47dc44da90e1389276778d9cdc89,,Onsight,wall-back-wall,628.3,
+2020-03-05,Blue,5.12a,8900d5ddd5aaaecd0a390cc5d3592bcd,,Onsight,wall-island,562.4,
+2020-03-05,Pink,5.10d,62f662aa04896bf06e69b313b7f8a03c,,Top Rope,wall-auto-belay,220.8,AB OS
+2020-03-05,Blue,5.10b,6c63d07dff924695a16a163ddb4df8e5,,Flash,wall-island,42.2,
+2020-03-05,Tan,5.10b,7021dcfa5ce53a9a7bae85a06f1bdd1f,,Top Rope,wall-auto-belay,274.3,AB OS
+2020-03-05,Pink,5.10c,b4048d2d98de486e7b2f548e9bfd2f15,,Onsight,wall-red,156.9,
+2020-03-05,Pink,5.12a,a6633507a662f6a9fce260a86778a4e7,,Onsight,wall-back-wall,252.5,
+2020-03-05,Black,5.8,fb1aa4b957257d5c68a03125eb00d188,,Onsight,wall-auto-belay,68.9,and downclimb
+2020-03-05,Tan,5.6,9b492442c7c70fa02e4ca77465b1c1a8,,Onsight,wall-auto-belay,67.7,and downclimb
+2020-03-05,White,5.10d,c3427850c4f142dfbe48314fc995e4ed,,Onsight,wall-island,126.0,
+2020-03-05,Tan,5.10b,98f6e50d67c98e00f34d8c0685da6eee,,Onsight,wall-back-wall,791.7,
 2020-03-01,White,5.11c,c12f368767a4776a8392665f0e660892,4.0,Red Point,wall-island,91.7,Technical & fun. I missed the undercling on my first go.
+2020-03-01,Pink,5.11a,dbae47dc44da90e1389276778d9cdc89,,Onsight,wall-back-wall,628.3,
+2020-03-01,Black,5.10d,6a7823f03dd10d8a5bf54b1097e203d8,4.0,Onsight,wall-island,75.0,fun!
 2020-03-01,Black,5.12a,e74e1e889eb6230f6d5d30f1bcdb756a,,Top Rope,wall-back-wall,1376.2,fell from the top of the wall on my first attempt on lead! :(

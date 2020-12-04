@@ -1,31 +1,32 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2018-11-30,Purple,V6,c088a961d3e201f8b3b4ffd87b0d4964,4.0,Red Point,wall-boulders,505.7,double heels for the finish
+2018-11-30,Tan,V7,d35ab5bf923b0977709942bbf1b0af06,5.0,Flash,wall-boulders,423.0,"spun a hold on my first go, so flash by comp rules"
 2018-11-29,Yellow,V6,b3da67afc60c21d8a590dc87c4cc4301,5.0,Red Point,wall-boulders,505.7,hard if you don't think about it before getting on.
-2018-11-28,White,V6,95c79a1fc0e9129d2de1ef95097419e1,4.0,Red Point,wall-boulders,423.0,
-2018-11-28,Lime Green,V3,fd0ba91bb06387cf6aee0de1e3d32ae1,3.0,Flash,wall-boulders,423.0,
-2018-11-28,Pink,V5,b171df4751750f324157d7fc9e32f2a3,4.0,Flash,wall-boulders,423.0,
-2018-11-28,Lime Green,V6,b002c34f88c66553b8ef97b17d5304b2,4.0,Flash,wall-boulders,423.0,
 2018-11-28,Tan,V4,fc4e5ebfcafaeda4e4c6c5acdf9924bd,3.0,Flash,wall-boulders,423.0,
-2018-11-21,Blue,V6,3183bc9b7531a9b6ae047b4527f42000,5.0,Flash,wall-mezzanine,39.7,fun
-2018-11-21,Black,V4,7d08c87341db6f56baaa7a78195285b6,3.0,Flash,wall-mezzanine,39.7,
+2018-11-28,Lime Green,V6,b002c34f88c66553b8ef97b17d5304b2,4.0,Flash,wall-boulders,423.0,
+2018-11-28,Pink,V5,b171df4751750f324157d7fc9e32f2a3,4.0,Flash,wall-boulders,423.0,
+2018-11-28,Lime Green,V3,fd0ba91bb06387cf6aee0de1e3d32ae1,3.0,Flash,wall-boulders,423.0,
+2018-11-28,White,V6,95c79a1fc0e9129d2de1ef95097419e1,4.0,Red Point,wall-boulders,423.0,
 2018-11-21,Pink,V5,5adbbbc161bf5dd9e4bef68b5ce65fab,4.0,Flash,wall-mezzanine,114.6,crimps
-2018-11-10,Tan,V8,45c2c09d04e64b95afc4508b48e8d8a7,4.0,Red Point,wall-boulders,736.4,Crux first move(s)
-2018-11-10,Pink,V4,db74fff4e2113a4bfed0de30777ba104,2.0,Flash,wall-slab,118.8,obviously a sit start
-2018-11-10,White,V6,7fddc15e542c2d17a5c3125c38aaf4b7,5.0,Flash,wall-slab,192.9,
-2018-11-10,Black,V5,6a4317f40f7ce10dfff26cb728016089,4.0,Red Point,wall-slab,118.8,
-2018-11-10,Tan,V4,ef55d734d524bb2ca8a4c5a61f6dae92,4.0,Flash,wall-slab,48.7,
-2018-11-10,Purple,V0,1684f1e4b734ea9499254398e41b5e4b,3.0,Flash,wall-slab,192.9,
-2018-11-10,Tan,V8,04520fa710054d5441ae5b1c1d9f5dbf,5.0,Red Point,wall-boulders,505.7,
+2018-11-21,Black,V4,7d08c87341db6f56baaa7a78195285b6,3.0,Flash,wall-mezzanine,39.7,
+2018-11-21,Blue,V6,3183bc9b7531a9b6ae047b4527f42000,5.0,Flash,wall-mezzanine,39.7,fun
 2018-11-09,Red,V1,0159a1694c5ca00e09ff02850c911110,5.0,Flash,wall-boulders,793.8,great warmup
+2018-11-09,Pink,V4,db74fff4e2113a4bfed0de30777ba104,2.0,Flash,wall-slab,118.8,obviously a sit start
+2018-11-09,Purple,V0,1684f1e4b734ea9499254398e41b5e4b,3.0,Flash,wall-slab,192.9,
+2018-11-09,Tan,V8,45c2c09d04e64b95afc4508b48e8d8a7,4.0,Red Point,wall-boulders,736.4,Crux first move(s)
 2018-11-09,Red,V2,7848afa6509cd9cf370dac551ff824c7,4.0,Flash,wall-slab,48.7,
-2018-11-02,Purple,V5,72bdda21fbd02f79f43de8a801bd34d6,4.0,Flash,wall-boulders,736.4,nice!
-2018-11-02,Pink,V7,8059250e8d3bd22bd65861b7cfef20ea,5.0,Flash,wall-boulders,793.8,so you like good moves on small holds?
-2018-11-02,Yellow,V6,c7f7a5b5d23d2423e288d9aec3393d5b,5.0,Red Point,wall-boulders,667.3,fun!
-2018-11-02,Black,V6,aa8d0f9b28fb2115af349d477f841e47,4.0,Flash,wall-boulders,793.8,tiring﹐ but a lot of fun body positioning
-2018-11-02,White,V4,f4497a15ea693a36f3ec19f633566fb8,4.0,Flash,wall-boulders,793.8,
-2018-11-02,Lime Green,V5,dfd74058424eaf1a9210a83cd425355c,5.0,Flash,wall-boulders,736.4,did moves! fun moves!
-2018-11-02,Blue,V3,540dc9ec5b6a91cf32824140c1a49d74,4.0,Flash,wall-boulders,667.3,
-2018-11-02,Blue,V3,540dc9ec5b6a91cf32824140c1a49d74,4.0,Red Point,wall-boulders,667.3,
-2018-11-02,Lime Green,V3,e57ee7a8afcb3a983147d38f1a79aedc,4.0,Flash,wall-boulders,667.3,nice!
-2018-11-01,Purple,V4,87d59baf8fe36415309751fa10f07e72,4.0,Flash,wall-boulders,793.8,I like crimps
+2018-11-09,Tan,V4,ef55d734d524bb2ca8a4c5a61f6dae92,4.0,Flash,wall-slab,48.7,
+2018-11-09,Tan,V8,04520fa710054d5441ae5b1c1d9f5dbf,5.0,Red Point,wall-boulders,505.7,
+2018-11-09,Black,V5,6a4317f40f7ce10dfff26cb728016089,4.0,Red Point,wall-slab,118.8,
+2018-11-09,White,V6,7fddc15e542c2d17a5c3125c38aaf4b7,5.0,Flash,wall-slab,192.9,
+2018-11-01,Yellow,V6,c7f7a5b5d23d2423e288d9aec3393d5b,5.0,Red Point,wall-boulders,667.3,fun!
+2018-11-01,Pink,V7,8059250e8d3bd22bd65861b7cfef20ea,5.0,Flash,wall-boulders,793.8,so you like good moves on small holds?
+2018-11-01,Purple,V5,72bdda21fbd02f79f43de8a801bd34d6,4.0,Flash,wall-boulders,736.4,nice!
 2018-11-01,Red,V5,e676217938e1107509e41eac5d0bf423,5.0,Flash,wall-boulders,667.3,so futuristic
+2018-11-01,Lime Green,V3,e57ee7a8afcb3a983147d38f1a79aedc,4.0,Flash,wall-boulders,667.3,nice!
+2018-11-01,Blue,V3,540dc9ec5b6a91cf32824140c1a49d74,4.0,Red Point,wall-boulders,667.3,
+2018-11-01,Blue,V3,540dc9ec5b6a91cf32824140c1a49d74,4.0,Flash,wall-boulders,667.3,
+2018-11-01,Lime Green,V5,dfd74058424eaf1a9210a83cd425355c,5.0,Flash,wall-boulders,736.4,did moves! fun moves!
+2018-11-01,White,V4,f4497a15ea693a36f3ec19f633566fb8,4.0,Flash,wall-boulders,793.8,
+2018-11-01,Black,V6,aa8d0f9b28fb2115af349d477f841e47,4.0,Flash,wall-boulders,793.8,"tiring, but a lot of fun body positioning"
+2018-11-01,Purple,V4,87d59baf8fe36415309751fa10f07e72,4.0,Flash,wall-boulders,793.8,I like crimps

@@ -1,10 +1,10 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-10-13,Purple,5.8,6c9fb305e4e76271f238b81dd3ae077e,5.0,Onsight,wall-island,444.9,
-2018-10-13,Lime Green,5.11b,6103a24755929769d05c42d1a96cf6a8,5.0,Onsight,wall-island,421.6,
-2018-10-13,Black,5.11d,14f204a377734df2c154a6db0809de67,5.0,Onsight,wall-island,395.6,
-2018-10-13,White,5.10b,63b63e46b81ba37f62859ffe8044f7f9,5.0,Red Point,wall-island,394.7,
-2018-10-13,Blue,5.12d,0173a2a0a61c780abcd81b0f4be5ad78,5.0,Red Point,wall-island,364.3,
-2018-10-13,Blue,5.9,e47441c92aedecffb6b0fff9774a8502,5.0,Onsight,wall-back-wall,141.7,so fun!
-2018-10-13,Tan,5.10d,700638b55092f8c5eca2fe5f349ba51b,5.0,Onsight,wall-back-wall,17.1,
-2018-10-13,Yellow,5.9,46e4d9a4e846cd208d560e292a934300,5.0,Onsight,wall-back-wall,-1.5,
-2018-10-13,Purple,5.8,67f392ae0bdfbdf02d8779b55004a484,5.0,Onsight,wall-back-wall,-2.4,
+2018-10-12,Purple,5.8,67f392ae0bdfbdf02d8779b55004a484,5.0,Onsight,wall-back-wall,-2.4,
+2018-10-12,Yellow,5.9,46e4d9a4e846cd208d560e292a934300,5.0,Onsight,wall-back-wall,-1.5,
+2018-10-12,Tan,5.10d,700638b55092f8c5eca2fe5f349ba51b,5.0,Onsight,wall-back-wall,17.1,
+2018-10-12,Blue,5.9,e47441c92aedecffb6b0fff9774a8502,5.0,Onsight,wall-back-wall,141.7,so fun!
+2018-10-12,Blue,5.12d,0173a2a0a61c780abcd81b0f4be5ad78,5.0,Red Point,wall-island,364.3,
+2018-10-12,White,5.10b,63b63e46b81ba37f62859ffe8044f7f9,5.0,Red Point,wall-island,394.7,
+2018-10-12,Black,5.11d,14f204a377734df2c154a6db0809de67,5.0,Onsight,wall-island,395.6,
+2018-10-12,Lime Green,5.11b,6103a24755929769d05c42d1a96cf6a8,5.0,Onsight,wall-island,421.6,
+2018-10-12,Purple,5.8,6c9fb305e4e76271f238b81dd3ae077e,5.0,Onsight,wall-island,444.9,

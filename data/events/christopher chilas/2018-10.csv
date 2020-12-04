@@ -1,33 +1,34 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2018-10-24,Black,V6,4e5b72f1b146d10345742335fdcbaad1,4.0,Flash,wall-boulders,359.0,
-2018-10-24,Blue,V6,36b5baf33623223aea0b0953f5c728ea,4.0,Flash,wall-boulders,288.8,
 2018-10-24,Lime Green,V5,f40269b7fd1e73bc2c945ad75a6bd367,3.0,Flash,wall-boulders,359.0,
+2018-10-24,Blue,V6,36b5baf33623223aea0b0953f5c728ea,4.0,Flash,wall-boulders,288.8,
+2018-10-24,Black,V6,4e5b72f1b146d10345742335fdcbaad1,4.0,Flash,wall-boulders,359.0,
 2018-10-24,Yellow,V3,130f4f0d9a228e78bf2be4b235f6445b,4.0,Flash,wall-boulders,359.0,
 2018-10-23,Lime Green,5.10c,964030b6489015e6f8ff2335b06f96e7,4.0,Flash,wall-back-wall,628.3,
-2018-10-22,Purple Left,V2,195e8ab11ac32e8685a1c6077ae92c7a,3.0,Flash,wall-mezzanine,39.7,
-2018-10-21,Lime Green Low,V6,9ffbee5879aa1dff64097ec8ff927e6c,4.0,Flash,wall-boulders,423.0,very fun! big moves on big holds
+2018-10-21,Purple Left,V2,195e8ab11ac32e8685a1c6077ae92c7a,3.0,Flash,wall-mezzanine,39.7,
 2018-10-21,Tan,V8,04520fa710054d5441ae5b1c1d9f5dbf,5.0,Red Point,wall-boulders,505.7,first go of the day after falling again and again and again last time.
-2018-10-20,Yellow,V5,d9d26ab70e15ce273b687c6655f0d268,4.0,Red Point,wall-boulders,423.0,
-2018-10-20,Pink Low,V3,6d9a34c9d1af54a1ee0102413ea340c2,3.0,Flash,wall-boulders,505.7,warmup for the steep
-2018-10-20,White,V2,d7a20186462a88bd52c7deccd5d7e322,3.0,Flash,wall-boulders,581.0,
-2018-10-20,White,V2,d7a20186462a88bd52c7deccd5d7e322,4.0,Flash,wall-boulders,581.0,pretty fun
-2018-10-20,Blue,V1,1ca71a7046d1987c9e5eb55ac1511942,3.0,Flash,wall-boulders,423.0,short
-2018-10-20,Purple,V0,b6518dfb60008d784604efb0ac846b30,3.0,Flash,wall-boulders,581.0,good warmup on big holds
-2018-10-19,Purple,V5,024171f5133363a085d7c429b12da093,5.0,Flash,wall-boulders,288.8,
-2018-10-19,Pink,V5,887946b6f486a8ee442affe79db7c73a,3.0,Flash,wall-boulders,736.4,
-2018-10-19,Tan,V7,2e1eab2e18b533baf8ec173d6714d9d4,5.0,Red Point,wall-boulders,736.4,
-2018-10-19,Pink,V5,ba2bcefc22c0e9837206ba92577c1c87,4.0,Flash,wall-boulders,793.8,
-2018-10-19,Black,V6,c6fc0c219cb787488064b050bb6da5c4,4.0,Flash,wall-boulders,505.7,fun!
+2018-10-21,Lime Green Low,V6,9ffbee5879aa1dff64097ec8ff927e6c,4.0,Flash,wall-boulders,423.0,very fun! big moves on big holds
 2018-10-19,Pink,V2,718c3197a6bb6f0f7dc0da8ad9740cdb,4.0,Flash,wall-boulders,581.0,nice moves
-2018-10-11,Tan,V7,0da721659f163a648440b2949510fd7d,4.0,Red Point,wall-boulders,288.8,
-2018-10-01,Yellow,V7,d842cbf948315227fbbfda3bd62f32a9,5.0,Red Point,wall-boulders,667.3,
-2018-10-01,Blue,5.11c,92bbbdaeb8038b3773979c98b2e4bc8e,4.0,Flash,wall-back-wall,243.4,
-2018-10-01,White,5.11c,03ae1132ad1285f0d423a57f038714ff,3.0,Flash,wall-back-wall,221.9,
-2018-10-01,Tan,5.10d,700638b55092f8c5eca2fe5f349ba51b,3.0,Flash,wall-back-wall,17.1,
-2018-10-01,Yellow,5.9,46e4d9a4e846cd208d560e292a934300,3.0,Flash,wall-back-wall,-1.5,
-2018-10-01,Pink,V4,d7cd1a8ec45075082749bbe7030cee8c,3.0,Flash,wall-boulders,359.0,
-2018-10-01,White,V7,1f5170b8068b1d25dfac9becad56e7b3,4.0,Red Point,wall-boulders,359.0,
-2018-10-01,Tan,V6,2ae0a49c1ad814039dc8a7faf4b51b01,5.0,Red Point,wall-boulders,793.8,
-2018-10-01,Black,V6,d62d82aeb81acb78f6b9c7eb0f8cd3f5,4.0,Flash,wall-boulders,793.8,
+2018-10-19,Black,V6,c6fc0c219cb787488064b050bb6da5c4,4.0,Flash,wall-boulders,505.7,fun!
+2018-10-19,White,V2,d7a20186462a88bd52c7deccd5d7e322,4.0,Flash,wall-boulders,581.0,pretty fun
+2018-10-19,White,V2,d7a20186462a88bd52c7deccd5d7e322,3.0,Flash,wall-boulders,581.0,
+2018-10-19,Black,V6,d62d82aeb81acb78f6b9c7eb0f8cd3f5,4.0,Red Point,wall-boulders,793.8,
+2018-10-19,Pink,V5,ba2bcefc22c0e9837206ba92577c1c87,4.0,Flash,wall-boulders,793.8,
+2018-10-19,Tan,V7,2e1eab2e18b533baf8ec173d6714d9d4,5.0,Red Point,wall-boulders,736.4,
+2018-10-19,Pink,V5,887946b6f486a8ee442affe79db7c73a,3.0,Flash,wall-boulders,736.4,
+2018-10-19,Purple,V5,024171f5133363a085d7c429b12da093,5.0,Flash,wall-boulders,288.8,
+2018-10-19,Pink Low,V3,6d9a34c9d1af54a1ee0102413ea340c2,3.0,Flash,wall-boulders,505.7,warmup for the steep
+2018-10-19,Yellow,V5,d9d26ab70e15ce273b687c6655f0d268,4.0,Red Point,wall-boulders,423.0,
+2018-10-19,Purple,V0,b6518dfb60008d784604efb0ac846b30,3.0,Flash,wall-boulders,581.0,good warmup on big holds
+2018-10-19,Blue,V1,1ca71a7046d1987c9e5eb55ac1511942,3.0,Flash,wall-boulders,423.0,short
+2018-10-10,Tan,V7,0da721659f163a648440b2949510fd7d,4.0,Red Point,wall-boulders,288.8,
 2018-10-01,Red Left,V3,5137a84dff7b46fa36df4b15e4350f0c,3.0,Flash,wall-boulders,793.8,
+2018-10-01,Black,V6,d62d82aeb81acb78f6b9c7eb0f8cd3f5,4.0,Flash,wall-boulders,793.8,
+2018-10-01,Tan,V6,2ae0a49c1ad814039dc8a7faf4b51b01,5.0,Red Point,wall-boulders,793.8,
+2018-10-01,White,V7,1f5170b8068b1d25dfac9becad56e7b3,4.0,Red Point,wall-boulders,359.0,
+2018-10-01,Pink,V4,d7cd1a8ec45075082749bbe7030cee8c,3.0,Flash,wall-boulders,359.0,
+2018-10-01,Yellow,5.9,46e4d9a4e846cd208d560e292a934300,3.0,Flash,wall-back-wall,-1.5,
+2018-10-01,Tan,5.10d,700638b55092f8c5eca2fe5f349ba51b,3.0,Flash,wall-back-wall,17.1,
+2018-10-01,White,5.11c,03ae1132ad1285f0d423a57f038714ff,3.0,Flash,wall-back-wall,221.9,
+2018-10-01,Blue,5.11c,92bbbdaeb8038b3773979c98b2e4bc8e,4.0,Flash,wall-back-wall,243.4,
 2018-10-01,Red,5.10a,a5bf0adea6e82688938323f0b4e0e97f,4.0,Flash,wall-back-wall,243.6,
+2018-10-01,Yellow,V7,d842cbf948315227fbbfda3bd62f32a9,5.0,Red Point,wall-boulders,667.3,

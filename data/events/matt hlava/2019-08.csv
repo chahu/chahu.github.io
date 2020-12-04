@@ -1,70 +1,70 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-08-29,Black,V2,86e367997591f0d4741a009e32994b56,3.0,Flash,wall-slab,48.7,
-2019-08-29,Tan,V3,1d9d0840f2c282dfab7fd12adc752462,3.0,Flash,wall-slab,48.7,
-2019-08-29,Red,V1,16a9517132fea170dec60fed81a55182,3.0,Flash,wall-slab,48.7,
-2019-08-29,Lime Green,V0,a95b543a2a87118f1613f9d1a6405c58,3.0,Flash,wall-slab,48.7,
-2019-08-29,Pink,V4,68cbc88bb87e8ea4847e9035451e84ed,4.0,Flash,wall-slab,118.8,
-2019-08-29,Yellow,V2,c4ba75ef856a13a7268e0cfc53a14a36,3.0,Flash,wall-slab,118.8,
-2019-08-29,Red,V3,e43b557dd2a9ee8205275eb114001368,4.0,Flash,wall-slab,118.8,
-2019-08-29,Black,V0,7da2163c087b7efec38d3a0cb3c1c92b,3.0,Flash,wall-slab,192.9,
-2019-08-29,Blue,V4,16115e5c09bcba49a9e0b44e3b2d21c7,4.0,Red Point,wall-slab,192.9,
-2019-08-29,Pink,V5,8c240cf8241c21fdfa124acaf4884816,5.0,Flash,wall-slab,192.9,
 2019-08-29,Yellow,V1,e2caaccc80deddfd3b0086ee36f4546c,3.0,Flash,wall-slab,192.9,
-2019-08-23,Blue,5.11d,e308a05ef4a45b3f43269d2c2ab96637,4.0,Onsight,wall-island,590.5,
-2019-08-23,Pink,5.10a,8b63b1f89e5478d0d239012824faee6b,3.0,Onsight,wall-island,469.1,
-2019-08-23,Purple,5.11d,e0620a64e2424a60d2765bfc17b2b9f3,3.0,Red Point,wall-island,420.7,
-2019-08-23,Blue,5.11c,d3183e0bf9f02a9bec91ef3e45421913,4.0,Onsight,wall-island,365.2,
-2019-08-23,Blue,V1,d44bb3bcc87ce3657f0207d47a911bb5,3.0,Flash,wall-boulders,423.0,
-2019-08-23,Red Low Start,V7,13ae3c6fc767f521488fe98f99b1a34a,3.0,Attempt,wall-boulders,505.7,single move crux = sadness
-2019-08-23,Tan,V6,8e7e84bec0e30cd488f24a7f67452a45,3.0,Attempt,wall-boulders,423.0,finish beta??? easy up until that
-2019-08-23,Black,V4,2ac1a4d9550b84b7177b087ea87c7ab6,3.0,Flash,wall-boulders,423.0,
-2019-08-23,White,V4,eb66d17374a910a3acc17aa3826755e7,4.0,Flash,wall-boulders,423.0,
-2019-08-23,Red,V5,1c0cac2ec8dad9cc6a609e702cac14e6,3.0,Flash,wall-boulders,423.0,
-2019-08-23,Red High Start,V6,a6cb16a04805c97e1ba30e9a722179b3,4.0,Flash,wall-boulders,505.7,
-2019-08-23,Red,V5,7413443254196f343c94732946c85802,5.0,Flash,wall-boulders,581.0,funky!
-2019-08-23,Yellow,V4,d7888925e25a8f263539e0ba6f1d9ba7,5.0,Flash,wall-boulders,581.0,nice flow!
-2019-08-23,Pink,V2,8d547fa6c19ec955277d1cbb308d60b7,5.0,Flash,wall-boulders,581.0,great 2
+2019-08-29,Pink,V5,8c240cf8241c21fdfa124acaf4884816,5.0,Flash,wall-slab,192.9,
+2019-08-29,Blue,V4,16115e5c09bcba49a9e0b44e3b2d21c7,4.0,Red Point,wall-slab,192.9,
+2019-08-29,Black,V0,7da2163c087b7efec38d3a0cb3c1c92b,3.0,Flash,wall-slab,192.9,
+2019-08-29,Red,V3,e43b557dd2a9ee8205275eb114001368,4.0,Flash,wall-slab,118.8,
+2019-08-29,Yellow,V2,c4ba75ef856a13a7268e0cfc53a14a36,3.0,Flash,wall-slab,118.8,
+2019-08-29,Pink,V4,68cbc88bb87e8ea4847e9035451e84ed,4.0,Flash,wall-slab,118.8,
+2019-08-29,Lime Green,V0,a95b543a2a87118f1613f9d1a6405c58,3.0,Flash,wall-slab,48.7,
+2019-08-29,Red,V1,16a9517132fea170dec60fed81a55182,3.0,Flash,wall-slab,48.7,
+2019-08-29,Tan,V3,1d9d0840f2c282dfab7fd12adc752462,3.0,Flash,wall-slab,48.7,
+2019-08-29,Black,V2,86e367997591f0d4741a009e32994b56,3.0,Flash,wall-slab,48.7,
 2019-08-23,Lime Green,V3,6f9db8144fad396c3d38380e71a4ddaa,4.0,Flash,wall-boulders,581.0,
-2019-08-19,Black,5.9,05bc170da7f37cdac0abc971cfbf7905,3.0,Onsight,wall-auto-belay,342.5,
+2019-08-23,Pink,V2,8d547fa6c19ec955277d1cbb308d60b7,5.0,Flash,wall-boulders,581.0,great 2
+2019-08-23,Yellow,V4,d7888925e25a8f263539e0ba6f1d9ba7,5.0,Flash,wall-boulders,581.0,nice flow!
+2019-08-23,Red,V5,7413443254196f343c94732946c85802,5.0,Flash,wall-boulders,581.0,funky!
+2019-08-23,Red Low Start,V7,13ae3c6fc767f521488fe98f99b1a34a,3.0,Attempt,wall-boulders,505.7,single move crux = sadness
+2019-08-23,Blue,V1,d44bb3bcc87ce3657f0207d47a911bb5,3.0,Flash,wall-boulders,423.0,
+2019-08-23,Blue,5.11c,d3183e0bf9f02a9bec91ef3e45421913,4.0,Onsight,wall-island,365.2,
+2019-08-23,Purple,5.11d,e0620a64e2424a60d2765bfc17b2b9f3,3.0,Red Point,wall-island,420.7,
+2019-08-23,Pink,5.10a,8b63b1f89e5478d0d239012824faee6b,3.0,Onsight,wall-island,469.1,
+2019-08-23,Blue,5.11d,e308a05ef4a45b3f43269d2c2ab96637,4.0,Onsight,wall-island,590.5,
+2019-08-23,Red High Start,V6,a6cb16a04805c97e1ba30e9a722179b3,4.0,Flash,wall-boulders,505.7,
+2019-08-23,Red,V5,1c0cac2ec8dad9cc6a609e702cac14e6,3.0,Flash,wall-boulders,423.0,
+2019-08-23,White,V4,eb66d17374a910a3acc17aa3826755e7,4.0,Flash,wall-boulders,423.0,
+2019-08-23,Black,V4,2ac1a4d9550b84b7177b087ea87c7ab6,3.0,Flash,wall-boulders,423.0,
+2019-08-23,Tan,V6,8e7e84bec0e30cd488f24a7f67452a45,3.0,Attempt,wall-boulders,423.0,finish beta??? easy up until that
 2019-08-19,Yellow,V5,b6fabbf135eee0da158702dfa341cc42,2.0,Flash,wall-boulders,288.8,unpleasant. a v3 without the feet
-2019-08-16,Yellow,V1,5d8fe7258d69f53c882118472065ac47,3.0,Flash,wall-boulders,288.8,
-2019-08-16,Tan,V5,6ce6bc1b5641dab48a0695e483397714,4.0,Flash,wall-boulders,288.8,skipped the palm move(s)
-2019-08-16,Red,V3,70f1e42d83d2a0fdebfba775ec44aa0a,3.0,Flash,wall-boulders,288.8,
-2019-08-16,Blue,V5,e683077003fa80aea4363cb9f8f991b0,4.0,Flash,wall-boulders,288.8,
-2019-08-16,Purple,V4,929f37755f767ba8fcae6dc1be7965d9,4.0,Flash,wall-boulders,288.8,
-2019-08-16,Lime Green,V6,37aba23ecdcf32f48d7e10f82b53b466,4.0,Red Point,wall-boulders,288.8,hard to commit to the drop down
-2019-08-16,Black,V1,625f3e41d943a2dbb2ef97d44a7dddfd,3.0,Flash,wall-boulders,359.0,
-2019-08-16,Yellow,V6,30af3316bda6cf013c691ff7da392e99,4.0,Red Point,wall-boulders,359.0,missed first rh :(
-2019-08-16,White,V3,581f23a2b36f83ca5892ed4deec9a829,3.0,Flash,wall-boulders,359.0,
-2019-08-16,Pink,V3,c704c7cd8e4d17bafc3316d9b5d8690e,3.0,Flash,wall-boulders,359.0,
-2019-08-16,Black,V4,e71a873abc2f22362390cc6600817661,4.0,Flash,wall-boulders,359.0,
+2019-08-19,Black,5.9,05bc170da7f37cdac0abc971cfbf7905,3.0,Onsight,wall-auto-belay,342.5,
 2019-08-16,Yellow,V2,943753f9e0755668f5b089e0ce02f95f,4.0,Flash,wall-boulders,359.0,
-2019-08-12,Black,V7,94d595e4fb902b0ad2eae10b373eacc6,5.0,Red Point,wall-boulders,793.8,shouldery moves? at my cliffs?
-2019-08-12,Tan,V4,407f6c7fc7123385949fc75943d2190b,4.0,Flash,wall-boulders,793.8,
-2019-08-09,Black,V8,0130bc073881eaec5ae8f5997ef5977b,5.0,Attempt,wall-boulders,667.3,love the sequencey pinches
-2019-08-09,Yellow,V4,269371e87b8f4e28312e1f7f1ae7d178,4.0,Flash,wall-boulders,736.4,pillowy
-2019-08-09,White,V2,b250ba944dac7b1ca1c4e9268b9bdbf1,4.0,Flash,wall-boulders,667.3,
-2019-08-09,Red,V7,26e5e3fc7b7aa23eb2340a183d7f6f1d,5.0,Red Point,wall-boulders,667.3,bad flash beta :(
-2019-08-09,Lime Green,V5,79629293de7234cc9fba990ecd4f2a9f,5.0,Flash,wall-boulders,667.3,do the twist
-2019-08-09,White,V4,4595e0b9df8217a3d55adaae308020ea,5.0,Flash,wall-boulders,667.3,great problem
-2019-08-09,Yellow Right,V5,0a18dbe769936d43c334adbf68bd94fa,5.0,Flash,wall-boulders,667.3,best set in a long time
-2019-08-09,Yellow Left,V6,c3460f8eb90efb0034f454d4013cf638,5.0,Flash,wall-boulders,667.3,
-2019-08-09,White,V2,35c1b63f8019a76bb129c4c2853af757,3.0,Flash,wall-boulders,793.8,
+2019-08-16,Black,V4,e71a873abc2f22362390cc6600817661,4.0,Flash,wall-boulders,359.0,
+2019-08-16,Pink,V3,c704c7cd8e4d17bafc3316d9b5d8690e,3.0,Flash,wall-boulders,359.0,
+2019-08-16,White,V3,581f23a2b36f83ca5892ed4deec9a829,3.0,Flash,wall-boulders,359.0,
+2019-08-16,Yellow,V6,30af3316bda6cf013c691ff7da392e99,4.0,Red Point,wall-boulders,359.0,missed first rh :(
+2019-08-16,Black,V1,625f3e41d943a2dbb2ef97d44a7dddfd,3.0,Flash,wall-boulders,359.0,
+2019-08-16,Lime Green,V6,37aba23ecdcf32f48d7e10f82b53b466,4.0,Red Point,wall-boulders,288.8,hard to commit to the drop down
+2019-08-16,Purple,V4,929f37755f767ba8fcae6dc1be7965d9,4.0,Flash,wall-boulders,288.8,
+2019-08-16,Blue,V5,e683077003fa80aea4363cb9f8f991b0,4.0,Flash,wall-boulders,288.8,
+2019-08-16,Red,V3,70f1e42d83d2a0fdebfba775ec44aa0a,3.0,Flash,wall-boulders,288.8,
+2019-08-16,Tan,V5,6ce6bc1b5641dab48a0695e483397714,4.0,Flash,wall-boulders,288.8,skipped the palm move(s)
+2019-08-16,Yellow,V1,5d8fe7258d69f53c882118472065ac47,3.0,Flash,wall-boulders,288.8,
+2019-08-11,Tan,V4,407f6c7fc7123385949fc75943d2190b,4.0,Flash,wall-boulders,793.8,
+2019-08-11,Black,V7,94d595e4fb902b0ad2eae10b373eacc6,5.0,Red Point,wall-boulders,793.8,shouldery moves? at my cliffs?
 2019-08-09,Blue,V3,fa2185f74594c0f52f280556dec591a0,4.0,Flash,wall-boulders,736.4,
 2019-08-09,White,V2,35c1b63f8019a76bb129c4c2853af757,3.0,Flash,wall-boulders,793.8,
-2019-08-09,Yellow,V0,fbfabb79cb2ebeeccb7b8dd1916b46af,3.0,Flash,wall-boulders,793.8,
-2019-08-09,White,V1,ba23dc663af8989d5d4e9dcd151a257e,3.0,Flash,wall-boulders,793.8,
+2019-08-09,Yellow Left,V6,c3460f8eb90efb0034f454d4013cf638,5.0,Flash,wall-boulders,667.3,
+2019-08-09,Yellow Right,V5,0a18dbe769936d43c334adbf68bd94fa,5.0,Flash,wall-boulders,667.3,best set in a long time
+2019-08-09,White,V4,4595e0b9df8217a3d55adaae308020ea,5.0,Flash,wall-boulders,667.3,great problem
+2019-08-09,Lime Green,V5,79629293de7234cc9fba990ecd4f2a9f,5.0,Flash,wall-boulders,667.3,do the twist
+2019-08-09,Red,V7,26e5e3fc7b7aa23eb2340a183d7f6f1d,5.0,Red Point,wall-boulders,667.3,bad flash beta :(
+2019-08-09,White,V2,b250ba944dac7b1ca1c4e9268b9bdbf1,4.0,Flash,wall-boulders,667.3,
+2019-08-09,Yellow,V4,269371e87b8f4e28312e1f7f1ae7d178,4.0,Flash,wall-boulders,736.4,pillowy
+2019-08-09,Black,V8,0130bc073881eaec5ae8f5997ef5977b,5.0,Attempt,wall-boulders,667.3,love the sequencey pinches
 2019-08-09,Pink,V3,5f89626fbd4028ecbfc303b4f055bc9f,4.0,Flash,wall-boulders,793.8,
+2019-08-09,White,V1,ba23dc663af8989d5d4e9dcd151a257e,3.0,Flash,wall-boulders,793.8,
+2019-08-09,Yellow,V0,fbfabb79cb2ebeeccb7b8dd1916b46af,3.0,Flash,wall-boulders,793.8,
+2019-08-09,White,V2,35c1b63f8019a76bb129c4c2853af757,3.0,Flash,wall-boulders,793.8,
 2019-08-07,Yellow Low,V6,8fc4290ffe317c7a99148a5561ef36c1,4.0,Red Point,wall-boulders,423.0,upper campus crux is hard from down low
-2019-08-03,Purple,5.10c,35d6842afe37e98522fc771e02ae6559,3.0,Onsight,wall-back-wall,251.9,
-2019-08-03,Tan,5.9,a3f115796eab1a3eb68b02dec22f2165,3.0,Onsight,wall-back-wall,689.8,
-2019-08-03,Blue,5.11b,658defabf37eb3713f3041df9cac69bd,4.0,Onsight,wall-back-wall,608.4,lovely upper section!
 2019-08-03,Black,5.12a,d166d89db088ba38e7bc8da25f9adb41,3.0,Red Point,wall-back-wall,589.1,weird clips at lip. figure them out from the ground
-2019-08-02,Yellow,V1,242cb2028e57149096377d05d639417c,3.0,Flash,wall-mezzanine,114.6,
-2019-08-02,White,V6,73c1fda96bdbf55ed61afd7210f12d99,4.0,Red Point,wall-mezzanine,114.6,first try palming the first move instead of crimping
-2019-08-02,White,V2,e1bcdf4c7edc221f1642dbae3fbd5612,4.0,Flash,wall-mezzanine,114.6,
-2019-08-02,Red,V3,970e1d439d6d268458191977a746d839,4.0,Flash,wall-mezzanine,114.6,
-2019-08-02,Blue,V5,00da261339892866f1b5ed5d9756f2a8,4.0,Flash,wall-mezzanine,114.6,
-2019-08-02,Lime Green,V4,3ca3ebdbf4fd8f67dd222d95bffa8579,3.0,Flash,wall-mezzanine,114.6,
-2019-08-02,Black,V3,ba083da69c5ae74b27c16b526ad4b461,3.0,Flash,wall-mezzanine,39.7,
+2019-08-03,Blue,5.11b,658defabf37eb3713f3041df9cac69bd,4.0,Onsight,wall-back-wall,608.4,lovely upper section!
+2019-08-03,Tan,5.9,a3f115796eab1a3eb68b02dec22f2165,3.0,Onsight,wall-back-wall,689.8,
+2019-08-03,Purple,5.10c,35d6842afe37e98522fc771e02ae6559,3.0,Onsight,wall-back-wall,251.9,
 2019-08-02,Red,V2,4761f786ad08afcd03c838cff3404237,4.0,Flash,wall-mezzanine,39.7,
+2019-08-02,Black,V3,ba083da69c5ae74b27c16b526ad4b461,3.0,Flash,wall-mezzanine,39.7,
+2019-08-02,Lime Green,V4,3ca3ebdbf4fd8f67dd222d95bffa8579,3.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Blue,V5,00da261339892866f1b5ed5d9756f2a8,4.0,Flash,wall-mezzanine,114.6,
+2019-08-02,Red,V3,970e1d439d6d268458191977a746d839,4.0,Flash,wall-mezzanine,114.6,
+2019-08-02,White,V2,e1bcdf4c7edc221f1642dbae3fbd5612,4.0,Flash,wall-mezzanine,114.6,
+2019-08-02,White,V6,73c1fda96bdbf55ed61afd7210f12d99,4.0,Red Point,wall-mezzanine,114.6,first try palming the first move instead of crimping
+2019-08-02,Yellow,V1,242cb2028e57149096377d05d639417c,3.0,Flash,wall-mezzanine,114.6,

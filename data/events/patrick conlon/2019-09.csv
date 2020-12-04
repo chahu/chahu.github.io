@@ -1,7 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-09-12,Yellow,5.11a,1f78a63de83a8af1faf4351c0e33950c,3.0,Attempt,wall-auto-belay,197.6,
-2019-09-12,Lime Green,5.10c,fae4f97756468eda137d8d53f59a1bd0,3.0,Flash,wall-back-wall,1175.7,
-2019-09-12,Purple,5.10a,2b670838faf3c5baeca10e935552517b,3.0,Flash,wall-auto-belay,126.5,
-2019-09-12,Pink,5.10a,bba1f5de963b2669beeef4d7ec4f9050,3.0,Flash,wall-auto-belay,174.9,
-2019-09-12,Tan,5.9,47a0a47c32993dcd83f5aabc56322778,3.0,Flash,wall-auto-belay,198.2,
 2019-09-12,Lime Green,5.8,ca4866bda2dd773901d1d5fac749c2a7,3.0,Flash,wall-auto-belay,150.1,
+2019-09-12,Tan,5.9,47a0a47c32993dcd83f5aabc56322778,3.0,Flash,wall-auto-belay,198.2,
+2019-09-12,Pink,5.10a,bba1f5de963b2669beeef4d7ec4f9050,3.0,Flash,wall-auto-belay,174.9,
+2019-09-12,Purple,5.10a,2b670838faf3c5baeca10e935552517b,3.0,Flash,wall-auto-belay,126.5,
+2019-09-12,Lime Green,5.10c,fae4f97756468eda137d8d53f59a1bd0,3.0,Flash,wall-back-wall,1175.7,
+2019-09-12,Yellow,5.11a,1f78a63de83a8af1faf4351c0e33950c,3.0,Attempt,wall-auto-belay,197.6,

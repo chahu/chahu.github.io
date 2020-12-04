@@ -1,21 +1,17 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-06-27,Pink,V6,9b96b7bdb42a7c191dc81f8331b4313c,4.0,Flash,wall-boulders,736.4,
-2019-06-27,Black,V5,1014e66a5332d24fad4073a8d3124cde,3.0,Flash,wall-boulders,736.4,
-2019-06-27,Yellow,V5,d449c3565034ff371fe6b52643d53e14,3.0,Flash,wall-boulders,736.4,
-2019-06-27,Blue,V4,a5678d795e55e3b9b4a098ca77021bef,3.0,Flash,wall-boulders,736.4,
-2019-06-27,Tan,V4,92a1dfda6f20775d246716e5eedd6279,3.0,Flash,wall-boulders,667.3,
-2019-06-27,Red,V3,cb4fc02d93152b28c723804b78dcb7b7,3.0,Flash,wall-boulders,667.3,
-2019-06-27,White,V2,9c8923a43dfdfbb7a30e15635bb87f25,3.0,Flash,wall-boulders,667.3,
-2019-06-27,Tan,V1,808ff2ac7d083bdad288cda3be76b4bc,3.0,Flash,wall-boulders,793.8,
-2019-06-27,Yellow,V0,712fde24ff1ccde003d3599a5b7b22af,3.0,Flash,wall-boulders,793.8,
-2019-06-06,Tan,V1,3516a00bc2eb13a7b20831124fd1b505,3.0,Flash,wall-slab,48.7,
-2019-06-06,Red,V2,706c62cfae35cb9bd44e2f3f98be0ef7,3.0,Flash,wall-slab,48.7,I assume the arete is off.
-2019-06-06,Lime Green,V3,4b55747ec6981448c9b65b81da373471,3.0,Flash,wall-slab,192.9,
-2019-06-06,Yellow,V3,f96b54f8dd517597acc993aff88b4166,4.0,Flash,wall-slab,118.8,fun moves
-2019-06-06,White,V1,32d657fe1d6ede4aa176a56127325d4b,3.0,Red Point,wall-slab,192.9,
-2019-06-06,White,V0,837780d8c9a58b61f775eff0ff1fe769,3.0,Red Point,wall-slab,48.7,
-2019-06-06,Tan,V0,d3a46448b55ab0014abb6cf2477ee9a0,3.0,Red Point,wall-slab,192.9,
-2019-06-01,Pink Stand,V6,4352d91a5b9769b49d10ac3277daf69a,3.0,Red Point,wall-boulders,505.7,
-2019-06-01,Lime Green Stand,V5,33510e21d3529ec7eb92c14c9748dfce,5.0,Flash,wall-boulders,423.0,another super fun climb
-2019-06-01,Tan Low,V6,dd26f02a5dfc6942edbecfa0add466f2,5.0,Flash,wall-boulders,505.7,all the fun!
-2019-06-01,Yellow Right,V5,f6dd7c231627e08f73c1975f016c0308,2.0,Flash,wall-boulders,423.0,fun climb﹐ not fun finish
+2019-06-26,Yellow,V5,d449c3565034ff371fe6b52643d53e14,3.0,Flash,wall-boulders,736.4,
+2019-06-26,Black,V5,1014e66a5332d24fad4073a8d3124cde,3.0,Flash,wall-boulders,736.4,
+2019-06-26,Pink,V6,9b96b7bdb42a7c191dc81f8331b4313c,4.0,Flash,wall-boulders,736.4,
+2019-06-26,Yellow,V0,712fde24ff1ccde003d3599a5b7b22af,3.0,Flash,wall-boulders,793.8,
+2019-06-26,Tan,V1,808ff2ac7d083bdad288cda3be76b4bc,3.0,Flash,wall-boulders,793.8,
+2019-06-26,White,V2,9c8923a43dfdfbb7a30e15635bb87f25,3.0,Flash,wall-boulders,667.3,
+2019-06-26,Red,V3,cb4fc02d93152b28c723804b78dcb7b7,3.0,Flash,wall-boulders,667.3,
+2019-06-26,Tan,V4,92a1dfda6f20775d246716e5eedd6279,3.0,Flash,wall-boulders,667.3,
+2019-06-26,Blue,V4,a5678d795e55e3b9b4a098ca77021bef,3.0,Flash,wall-boulders,736.4,
+2019-06-05,Tan,V0,d3a46448b55ab0014abb6cf2477ee9a0,3.0,Red Point,wall-slab,192.9,
+2019-06-05,White,V0,837780d8c9a58b61f775eff0ff1fe769,3.0,Red Point,wall-slab,48.7,
+2019-06-05,White,V1,32d657fe1d6ede4aa176a56127325d4b,3.0,Red Point,wall-slab,192.9,
+2019-06-05,Yellow,V3,f96b54f8dd517597acc993aff88b4166,4.0,Flash,wall-slab,118.8,fun moves
+2019-06-05,Lime Green,V3,4b55747ec6981448c9b65b81da373471,3.0,Flash,wall-slab,192.9,
+2019-06-05,Red,V2,706c62cfae35cb9bd44e2f3f98be0ef7,3.0,Flash,wall-slab,48.7,I assume the arete is off.
+2019-06-05,Tan,V1,3516a00bc2eb13a7b20831124fd1b505,3.0,Flash,wall-slab,48.7,

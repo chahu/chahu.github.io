@@ -1,28 +1,28 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-04-25,Lime Green,V6,40df3067e246513f908da5266fef6666,5.0,Red Point,wall-slab,192.9,I went out right but straight up would be cool
-2019-04-25,Tan,V6,12348d41de43ae44212d92c78f3cb2d5,5.0,Red Point,wall-slab,118.8,cool move!!!
-2019-04-25,Pink,V5,94a2020d2889c004836185fb22598417,5.0,Flash,wall-slab,48.7,
-2019-04-25,Tan,V5,46af9bbcdf21d1fd0a6f45196666f680,5.0,Red Point,wall-slab,48.7,
+2019-04-24,Tan,V5,46af9bbcdf21d1fd0a6f45196666f680,5.0,Red Point,wall-slab,48.7,
+2019-04-24,Pink,V5,94a2020d2889c004836185fb22598417,5.0,Flash,wall-slab,48.7,
+2019-04-24,Tan,V6,12348d41de43ae44212d92c78f3cb2d5,5.0,Red Point,wall-slab,118.8,cool move!!!
+2019-04-24,Lime Green,V6,40df3067e246513f908da5266fef6666,5.0,Red Point,wall-slab,192.9,I went out right but straight up would be cool
 2019-04-24,Black,V7,fb66b10b9b62f5bfb7ed2a828434d45d,2.0,Red Point,wall-slab,192.9,"Easy to break the problem if you're taller than 5'10"""
-2019-04-19,Pink,V5,9a9cdee70d04548a9712c9f8b00e00c6,5.0,Red Point,wall-boulders,423.0,This is a really﹐ really good problem
-2019-04-17,Pink,V6,8e5243a1e18ed2c3993b2e8be5e908de,5.0,Red Point,wall-boulders,581.0,
-2019-04-17,Blue,V8,1a8cddc05708526785ca49b8ce9d618a,5.0,Red Point,wall-boulders,581.0,
-2019-04-17,Red,V5,c1594c66c91cc127bfea338bd99dffe3,5.0,Red Point,wall-boulders,581.0,
+2019-04-19,Pink,V5,9a9cdee70d04548a9712c9f8b00e00c6,5.0,Red Point,wall-boulders,423.0,"This is a really, really good problem"
 2019-04-17,Blue,V5,3fe4ba352231770fa56d0884b7f4f293,5.0,Flash,wall-boulders,423.0,
-2019-04-12,Pink,V6,4616bd3f3fba418c445e953bd96fbeee,5.0,Flash,wall-boulders,359.0,More like this one please!
-2019-04-12,Red,V5,ac9f8723534cae32f722c3ed07a5969b,5.0,Red Point,wall-boulders,359.0,Really good route
+2019-04-17,Red,V5,c1594c66c91cc127bfea338bd99dffe3,5.0,Red Point,wall-boulders,581.0,
+2019-04-17,Blue,V8,1a8cddc05708526785ca49b8ce9d618a,5.0,Red Point,wall-boulders,581.0,
+2019-04-17,Pink,V6,8e5243a1e18ed2c3993b2e8be5e908de,5.0,Red Point,wall-boulders,581.0,
 2019-04-12,Red,V5,84ae89173bae65b2852ea0b286c2792a,5.0,Flash,wall-boulders,288.8,
-2019-04-10,Pink,5.11d,a6d746189d11b2dfdcb3cdbb3ab4d515,5.0,Red Point,wall-back-wall,946.0,
+2019-04-12,Red,V5,ac9f8723534cae32f722c3ed07a5969b,5.0,Red Point,wall-boulders,359.0,Really good route
+2019-04-12,Pink,V6,4616bd3f3fba418c445e953bd96fbeee,5.0,Flash,wall-boulders,359.0,More like this one please!
+2019-04-09,Pink,5.11d,a6d746189d11b2dfdcb3cdbb3ab4d515,5.0,Red Point,wall-back-wall,946.0,
 2019-04-09,Pink,5.12a,1cd9ab355eafc683ff9a4b51ecb8bfff,5.0,Onsight,wall-island,603.0,
 2019-04-09,White,5.12a,479cf855933d7204f9f285ea7bcc034a,5.0,Red Point,wall-island,211.7,funky mono
 2019-04-05,Black,V6,0f1e120fb80a13cb0d46bf02a526027b,5.0,Red Point,wall-boulders,736.4,Killer!
-2019-04-05,White,V5,42e49b042f0c9605d299238891e447e1,2.0,Red Point,wall-boulders,793.8,
-2019-04-05,Red,V7,407045e894e68b4ee5ef493662063220,4.0,Red Point,wall-boulders,793.8,
-2019-04-05,Yellow,V5,3b23633870e91ee4c896af191ebf3633,5.0,Red Point,wall-boulders,793.8,
-2019-04-05,Pink,V6,546fc75d171f8b9191aca1608346c10f,5.0,Red Point,wall-boulders,736.4,
-2019-04-05,Yellow,V5,b7e9f36ee712c5a52341b27ec2078c33,5.0,Red Point,wall-boulders,667.3,
 2019-04-05,Tan,V5,f6726229fe6c253735c1083f13b1bbbe,4.0,Red Point,wall-boulders,667.3,
-2019-04-05,Blue,5.12a,21a216763d5ac0b758c8b1775a2a1c26,5.0,Attempt,wall-back-wall,443.3,
-2019-04-04,Pink,5.11d,a6d746189d11b2dfdcb3cdbb3ab4d515,5.0,Attempt,wall-back-wall,946.0,
+2019-04-05,Yellow,V5,b7e9f36ee712c5a52341b27ec2078c33,5.0,Red Point,wall-boulders,667.3,
+2019-04-05,Pink,V6,546fc75d171f8b9191aca1608346c10f,5.0,Red Point,wall-boulders,736.4,
+2019-04-05,Yellow,V5,3b23633870e91ee4c896af191ebf3633,5.0,Red Point,wall-boulders,793.8,
+2019-04-05,Red,V7,407045e894e68b4ee5ef493662063220,4.0,Red Point,wall-boulders,793.8,
+2019-04-05,White,V5,42e49b042f0c9605d299238891e447e1,2.0,Red Point,wall-boulders,793.8,
 2019-04-04,Pink,5.12a,b12380fd4dd4c39abf8d0b3d2e36797b,5.0,Onsight,wall-back-wall,165.3,
+2019-04-04,Blue,5.12a,21a216763d5ac0b758c8b1775a2a1c26,5.0,Attempt,wall-back-wall,443.3,
+2019-04-04,Pink,5.11d,a6d746189d11b2dfdcb3cdbb3ab4d515,5.0,Attempt,wall-back-wall,946.0,
 2019-04-03,Red,V6,90b1cc5f0249b27670e7ab2066c4494d,5.0,Red Point,wall-mezzanine,39.7,

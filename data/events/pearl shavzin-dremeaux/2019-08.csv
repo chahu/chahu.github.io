@@ -1,23 +1,23 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-08-27,White HIGH START,V2,e23c967f7f6f07cf4ae943c03728fdd2,4.0,Red Point,wall-boulders,505.7,
-2019-08-23,Blue,V1,d44bb3bcc87ce3657f0207d47a911bb5,4.0,Flash,wall-boulders,423.0,
-2019-08-23,Pink,V2,427592862c20764c827a3d1e4aa85cdb,5.0,Flash,wall-boulders,423.0,
-2019-08-23,White,V0,1fa7ba06365eb2c1c1987bdcba1bca06,4.0,Flash,wall-boulders,581.0,
-2019-08-23,Lime Green,V3,6f9db8144fad396c3d38380e71a4ddaa,5.0,Red Point,wall-boulders,581.0,
-2019-08-23,Pink,V2,8d547fa6c19ec955277d1cbb308d60b7,4.0,Flash,wall-boulders,581.0,
-2019-08-21,Black,V4,e71a873abc2f22362390cc6600817661,5.0,Red Point,wall-boulders,359.0,nice flow﹐ but freaked out on that last move for way too many tries
-2019-08-21,Blue,V3,fa2185f74594c0f52f280556dec591a0,5.0,Red Point,wall-boulders,736.4,
-2019-08-21,Yellow,V4,269371e87b8f4e28312e1f7f1ae7d178,5.0,Red Point,wall-boulders,736.4,
-2019-08-21,Pink,V3,5f89626fbd4028ecbfc303b4f055bc9f,4.0,Red Point,wall-boulders,793.8,Liked it but that last move sketched me out and is the reason I had so many attempts. 
-2019-08-18,Yellow,V2,943753f9e0755668f5b089e0ce02f95f,3.0,Red Point,wall-boulders,359.0,
-2019-08-16,Purple,V0,f10a4d4da7e62f05ef746f7772c94079,3.0,Flash,wall-boulders,288.8,
-2019-08-16,Yellow,V1,5d8fe7258d69f53c882118472065ac47,2.0,Flash,wall-boulders,288.8,
-2019-08-16,Black,V1,625f3e41d943a2dbb2ef97d44a7dddfd,4.0,Flash,wall-boulders,359.0,
-2019-08-13,White,V2,b250ba944dac7b1ca1c4e9268b9bdbf1,3.0,Flash,wall-boulders,667.3,
-2019-08-13,Yellow,V0,fbfabb79cb2ebeeccb7b8dd1916b46af,3.0,Flash,wall-boulders,793.8,
-2019-08-13,White,V1,ba23dc663af8989d5d4e9dcd151a257e,3.0,Flash,wall-boulders,793.8,
-2019-08-06,Yellow,V3,8bb82755b24c03843ffa8450a46bf7e8,3.0,Red Point,wall-slab,48.7,"I swear the arete wasn't marked as ""on"" when I tried it the first 2 times. "
-2019-08-06,White,V2,9c8923a43dfdfbb7a30e15635bb87f25,3.0,Red Point,wall-boulders,667.3,
+2019-08-26,White HIGH START,V2,e23c967f7f6f07cf4ae943c03728fdd2,4.0,Red Point,wall-boulders,505.7,
+2019-08-22,Pink,V2,8d547fa6c19ec955277d1cbb308d60b7,4.0,Flash,wall-boulders,581.0,
+2019-08-22,Lime Green,V3,6f9db8144fad396c3d38380e71a4ddaa,5.0,Red Point,wall-boulders,581.0,
+2019-08-22,White,V0,1fa7ba06365eb2c1c1987bdcba1bca06,4.0,Flash,wall-boulders,581.0,
+2019-08-22,Pink,V2,427592862c20764c827a3d1e4aa85cdb,5.0,Flash,wall-boulders,423.0,
+2019-08-22,Blue,V1,d44bb3bcc87ce3657f0207d47a911bb5,4.0,Flash,wall-boulders,423.0,
+2019-08-20,Pink,V3,5f89626fbd4028ecbfc303b4f055bc9f,4.0,Red Point,wall-boulders,793.8,Liked it but that last move sketched me out and is the reason I had so many attempts. 
+2019-08-20,Yellow,V4,269371e87b8f4e28312e1f7f1ae7d178,5.0,Red Point,wall-boulders,736.4,
+2019-08-20,Blue,V3,fa2185f74594c0f52f280556dec591a0,5.0,Red Point,wall-boulders,736.4,
+2019-08-20,Black,V4,e71a873abc2f22362390cc6600817661,5.0,Red Point,wall-boulders,359.0,"nice flow, but freaked out on that last move for way too many tries"
+2019-08-17,Yellow,V2,943753f9e0755668f5b089e0ce02f95f,3.0,Red Point,wall-boulders,359.0,
+2019-08-15,Black,V1,625f3e41d943a2dbb2ef97d44a7dddfd,4.0,Flash,wall-boulders,359.0,
+2019-08-15,Yellow,V1,5d8fe7258d69f53c882118472065ac47,2.0,Flash,wall-boulders,288.8,
+2019-08-15,Purple,V0,f10a4d4da7e62f05ef746f7772c94079,3.0,Flash,wall-boulders,288.8,
+2019-08-12,White,V2,b250ba944dac7b1ca1c4e9268b9bdbf1,3.0,Flash,wall-boulders,667.3,
+2019-08-12,White,V1,ba23dc663af8989d5d4e9dcd151a257e,3.0,Flash,wall-boulders,793.8,
+2019-08-12,Yellow,V0,fbfabb79cb2ebeeccb7b8dd1916b46af,3.0,Flash,wall-boulders,793.8,
 2019-08-06,White,V1,7cf75fef8979ae389e2b7c960668e4d4,4.0,Red Point,wall-boulders,581.0,
-2019-08-01,Black,V4,3780a16a30925d61c5e9b9a206d04867,4.0,Red Point,wall-boulders,161.2,
+2019-08-06,White,V2,9c8923a43dfdfbb7a30e15635bb87f25,3.0,Red Point,wall-boulders,667.3,
+2019-08-06,Yellow,V3,8bb82755b24c03843ffa8450a46bf7e8,3.0,Red Point,wall-slab,48.7,"I swear the arete wasn't marked as ""on"" when I tried it the first 2 times. "
 2019-08-01,Black,V5,6188ad887724335b82ff6059305a1cf1,4.0,Red Point,wall-mezzanine,114.6,
+2019-08-01,Black,V4,3780a16a30925d61c5e9b9a206d04867,4.0,Red Point,wall-boulders,161.2,

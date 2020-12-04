@@ -1,7 +1,7 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-08-10,Blue,5.10c,e638c13c02f904531e1022c2bb83c6d8,3.0,Red Point,wall-island,59.4,
-2019-08-10,Lime Green,5.10c,7adb1367bb4f86e94bc72c07ac2934c5,3.0,Red Point,wall-island,280.2,
-2019-08-10,Black,5.9,cc4e119c6f0748da67b4cee9303556a4,3.0,Onsight,wall-back-wall,1309.3,
-2019-08-10,Lime Green,5.8,561a506bb3dfef04c47fdd51a1d9ed61,3.0,Onsight,wall-island,160.9,
-2019-08-10,Lime Green,5.10b,3e442c24924225bd4832dac2c425140f,3.0,Onsight,wall-back-wall,1354.3,
-2019-08-10,Pink,5.11a,e2ed53fe43f6ec0463d259516931fd4e,3.0,Attempt,wall-back-wall,1310.0,
+2019-08-09,Pink,5.11a,e2ed53fe43f6ec0463d259516931fd4e,3.0,Attempt,wall-back-wall,1310.0,
+2019-08-09,Lime Green,5.10b,3e442c24924225bd4832dac2c425140f,3.0,Onsight,wall-back-wall,1354.3,
+2019-08-09,Lime Green,5.8,561a506bb3dfef04c47fdd51a1d9ed61,3.0,Onsight,wall-island,160.9,
+2019-08-09,Black,5.9,cc4e119c6f0748da67b4cee9303556a4,3.0,Onsight,wall-back-wall,1309.3,
+2019-08-09,Lime Green,5.10c,7adb1367bb4f86e94bc72c07ac2934c5,3.0,Red Point,wall-island,280.2,
+2019-08-09,Blue,5.10c,e638c13c02f904531e1022c2bb83c6d8,3.0,Red Point,wall-island,59.4,

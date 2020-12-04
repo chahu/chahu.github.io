@@ -1,9 +1,9 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2020-01-28,Tan,V2,7a2b4c834d4d16ece848cb04db0cf4ff,,Flash,wall-boulders,161.2,
 2020-01-28,Blue Left,V1,c68bb581c1344dd43dfeb8a45514eacf,,Flash,wall-boulders,161.2,
-2020-01-21,Tan,V1,17206715a23e5c8fc03b11b83ad790ec,,Flash,wall-slab,48.7,
 2020-01-21,Blue,V2,aaa10bb717808023df910af93e6e3e3b,,Flash,wall-slab,48.7,
-2020-01-20,Tan,5.9,33d82a40a523fa360c5acb8d846a2140,,Attempt,wall-back-wall,921.4,
-2020-01-20,Tan,5.8,c0d8af33c9070f010f4970354c4319ca,,Attempt,wall-island,421.6,
-2020-01-20,Lime Green,5.9,997e0a77061d3131779265e9607521ad,,Flash,wall-back-wall,1121.9,
+2020-01-21,Tan,V1,17206715a23e5c8fc03b11b83ad790ec,,Flash,wall-slab,48.7,
 2020-01-20,Blue,5.9,28c55459f34c54a90030b117c0c6d4be,,Attempt,wall-red,50.1,
+2020-01-20,Lime Green,5.9,997e0a77061d3131779265e9607521ad,,Flash,wall-back-wall,1121.9,
+2020-01-20,Tan,5.8,c0d8af33c9070f010f4970354c4319ca,,Attempt,wall-island,421.6,
+2020-01-20,Tan,5.9,33d82a40a523fa360c5acb8d846a2140,,Attempt,wall-back-wall,921.4,

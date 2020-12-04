@@ -1,37 +1,37 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
 2020-01-29,Pink,V6,36cb7bc4e3d3a278eff29781927243fc,5.0,Flash,wall-boulders,222.0,Please set more crimpy routes like this 
 2020-01-29,Blue Right,V5,6495e2c4314de447f3e443ff8b97eb66,5.0,Flash,wall-boulders,161.2,
-2020-01-21,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,3.0,Red Point,wall-slab,118.8,
-2020-01-21,White,V6,7941b1ed2ded20c5da5d256019e270af,5.0,Red Point,wall-slab,118.8,
-2020-01-21,Lime Green,V7,0b096eec4f0c7bfd8dd5e4fec1de2525,4.0,Red Point,wall-slab,192.9,
-2020-01-21,White,V5,124cbd7d8c7258278c4218e3d82fa972,3.0,Red Point,wall-slab,192.9,
-2020-01-21,Blue,V4,bca66e92f950f62019fb447d4ab2b25a,,Flash,wall-boulders,423.0,
-2020-01-21,White,V5,40f680dbba8160cd4888e20714b7386e,,Flash,wall-boulders,423.0,
-2020-01-21,Yellow,V7,2917f5762a243270b80ab803c1d52c9c,4.0,Red Point,wall-boulders,505.7,
 2020-01-21,White,V5,a6b37892d7af300d7ad0be0b1ddbca67,3.0,Flash,wall-boulders,505.7,
-2020-01-08,Blue,5.11c,b5e765de3907c58655e89ccd48907e63,3.0,Onsight,wall-back-wall,1354.3,
-2020-01-08,Blue,5.12a,662964a74003607f9c81c8d0930df6e5,5.0,Onsight,wall-island,43.2,
-2020-01-08,Yellow,5.11d,9ac36959e8a862363cc354626e0a9dd6,3.0,Attempt,wall-island,603.0,
-2020-01-08,Red,5.12a,51a17d916359877e224a1e1aa89da1cc,5.0,Top Rope,wall-back-wall,967.8,
-2020-01-08,Blue,5.12a,18b17ded2d765d174d6845649d48996a,5.0,Attempt,wall-back-wall,895.6,
+2020-01-21,Yellow,V7,2917f5762a243270b80ab803c1d52c9c,4.0,Red Point,wall-boulders,505.7,
+2020-01-21,White,V5,40f680dbba8160cd4888e20714b7386e,,Flash,wall-boulders,423.0,
+2020-01-21,Blue,V4,bca66e92f950f62019fb447d4ab2b25a,,Flash,wall-boulders,423.0,
+2020-01-21,White,V5,124cbd7d8c7258278c4218e3d82fa972,3.0,Red Point,wall-slab,192.9,
+2020-01-21,Lime Green,V7,0b096eec4f0c7bfd8dd5e4fec1de2525,4.0,Red Point,wall-slab,192.9,
+2020-01-21,White,V6,7941b1ed2ded20c5da5d256019e270af,5.0,Red Point,wall-slab,118.8,
+2020-01-21,Black,V5,2c0d8ed4d9c69fbb38e499ee5f715672,3.0,Red Point,wall-slab,118.8,
 2020-01-08,Blue,5.10b,4a8bb2e984e82fd6186479a8afd248c3,,Top Rope,wall-back-wall,141.7,
-2020-01-06,Lime Green,V6,7c953e25110579273d27420cdda7153d,,Flash,wall-boulders,161.2,
-2020-01-06,Yellow Low,V5,a2a793f19390bb425e1026f97dd5e818,,Flash,wall-boulders,423.0,
-2020-01-06,White High,V6,5efb1fa552b1d7e626644e3b4764a4b7,,Red Point,wall-boulders,505.7,
-2020-01-06,White Low,V7,a97c5d2127972f96cd5ad1af0b483ee2,3.0,Red Point,wall-boulders,505.7,
-2020-01-06,Lime Green Low,V6,0594b4c4393511e66d67f62872a1c3de,4.0,Red Point,wall-boulders,505.7,
-2020-01-06,Lime Green High,V5,887728c54b0ea88aa9b40c5707139c13,,Flash,wall-boulders,505.7,
-2020-01-05,Blue,V7,8bdefa7628eb49c3b236683efe8f9efc,4.0,Red Point,wall-boulders,793.8,Good consistent difficulty﹐ no gimmicks 
-2020-01-05,Yellow,V6,9e4bd776ec6a756903d0f49f1f63e0e3,4.0,Red Point,wall-boulders,667.3,
-2020-01-05,Tan,V7,344a0a7e2917986e22bb75ed914d0709,5.0,Red Point,wall-boulders,667.3,Great route. More like this please. 
-2020-01-05,White,V4,5e83f865fc7edcb671a0fc6f243fa1cb,1.0,Red Point,wall-boulders,736.4,
-2020-01-05,Tan,V5,7ec3615f2edc759f5d0ecd2e29684034,,Flash,wall-boulders,793.8,
-2020-01-05,Blue,V5,91b9100d5c8424302c0c5876f4c47c86,,Flash,wall-boulders,793.8,
-2020-01-05,Yellow,V4,243a18cc8cce220c7c763ae2aa414db9,3.0,Flash,wall-boulders,288.8,
-2020-01-05,White,V2,4563537d169a2b8b7561006da5437b29,1.0,Flash,wall-boulders,288.8,Why
-2020-01-05,Pink,V4,b4e78b88c47a92515855cc320743ce7d,4.0,Flash,wall-boulders,288.8,
-2020-01-05,Black,V5,2a760eabea811f225fd8dd5a11b286d5,2.0,Red Point,wall-boulders,288.8,Super inconsistent difficulty 
-2020-01-05,Red,V6,a92505da49c811edda38aae163d1785c,2.0,Red Point,wall-boulders,359.0,Gimmicky start 
-2020-01-05,Lime Green,V4,5ca509e894017a9bda24b71225ac3870,3.0,Flash,wall-boulders,359.0,
-2020-01-05,Blue,V6,b38ff54cb16c58a24d0e3907ca92dcce,3.0,Red Point,wall-boulders,359.0,Decent 
-2020-01-05,Pink,V3,ee6293b3b8364e7e53ebb3c223b242be,1.0,Red Point,wall-boulders,359.0,?
+2020-01-08,Blue,5.12a,18b17ded2d765d174d6845649d48996a,5.0,Attempt,wall-back-wall,895.6,
+2020-01-08,Red,5.12a,51a17d916359877e224a1e1aa89da1cc,5.0,Top Rope,wall-back-wall,967.8,
+2020-01-08,Yellow,5.11d,9ac36959e8a862363cc354626e0a9dd6,3.0,Attempt,wall-island,603.0,
+2020-01-08,Blue,5.12a,662964a74003607f9c81c8d0930df6e5,5.0,Onsight,wall-island,43.2,
+2020-01-08,Blue,5.11c,b5e765de3907c58655e89ccd48907e63,3.0,Onsight,wall-back-wall,1354.3,
+2020-01-05,Lime Green High,V5,887728c54b0ea88aa9b40c5707139c13,,Flash,wall-boulders,505.7,
+2020-01-05,Lime Green Low,V6,0594b4c4393511e66d67f62872a1c3de,4.0,Red Point,wall-boulders,505.7,
+2020-01-05,White Low,V7,a97c5d2127972f96cd5ad1af0b483ee2,3.0,Red Point,wall-boulders,505.7,
+2020-01-05,White High,V6,5efb1fa552b1d7e626644e3b4764a4b7,,Red Point,wall-boulders,505.7,
+2020-01-05,Yellow Low,V5,a2a793f19390bb425e1026f97dd5e818,,Flash,wall-boulders,423.0,
+2020-01-05,Lime Green,V6,7c953e25110579273d27420cdda7153d,,Flash,wall-boulders,161.2,
+2020-01-04,Pink,V3,ee6293b3b8364e7e53ebb3c223b242be,1.0,Red Point,wall-boulders,359.0,?
+2020-01-04,Blue,V6,b38ff54cb16c58a24d0e3907ca92dcce,3.0,Red Point,wall-boulders,359.0,Decent 
+2020-01-04,Lime Green,V4,5ca509e894017a9bda24b71225ac3870,3.0,Flash,wall-boulders,359.0,
+2020-01-04,Red,V6,a92505da49c811edda38aae163d1785c,2.0,Red Point,wall-boulders,359.0,Gimmicky start 
+2020-01-04,Black,V5,2a760eabea811f225fd8dd5a11b286d5,2.0,Red Point,wall-boulders,288.8,Super inconsistent difficulty 
+2020-01-04,Pink,V4,b4e78b88c47a92515855cc320743ce7d,4.0,Flash,wall-boulders,288.8,
+2020-01-04,White,V2,4563537d169a2b8b7561006da5437b29,1.0,Flash,wall-boulders,288.8,Why
+2020-01-04,Yellow,V4,243a18cc8cce220c7c763ae2aa414db9,3.0,Flash,wall-boulders,288.8,
+2020-01-04,Blue,V5,91b9100d5c8424302c0c5876f4c47c86,,Flash,wall-boulders,793.8,
+2020-01-04,Tan,V5,7ec3615f2edc759f5d0ecd2e29684034,,Flash,wall-boulders,793.8,
+2020-01-04,White,V4,5e83f865fc7edcb671a0fc6f243fa1cb,1.0,Red Point,wall-boulders,736.4,
+2020-01-04,Tan,V7,344a0a7e2917986e22bb75ed914d0709,5.0,Red Point,wall-boulders,667.3,Great route. More like this please. 
+2020-01-04,Yellow,V6,9e4bd776ec6a756903d0f49f1f63e0e3,4.0,Red Point,wall-boulders,667.3,
+2020-01-04,Blue,V7,8bdefa7628eb49c3b236683efe8f9efc,4.0,Red Point,wall-boulders,793.8,"Good consistent difficulty, no gimmicks "

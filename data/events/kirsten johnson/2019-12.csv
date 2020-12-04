@@ -1,5 +1,5 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-12-27,Black,5.11a,e2a55583d7241135bb408e1212980fe0,,Attempt,wall-back-wall,1293.7,
-2019-12-27,Black,5.10b,229bda5553cc5668839477ce242d0d4a,4.0,Onsight,wall-back-wall,1098.7,
-2019-12-27,White,5.9,e8863663cbbc56fc1858bb5148c72b8a,,Onsight,wall-back-wall,1386.5,
 2019-12-27,Red,5.8,3b7cfdda6f7d8e18d533fb20056dad1e,,Onsight,wall-back-wall,1408.5,
+2019-12-27,White,5.9,e8863663cbbc56fc1858bb5148c72b8a,,Onsight,wall-back-wall,1386.5,
+2019-12-27,Black,5.10b,229bda5553cc5668839477ce242d0d4a,4.0,Onsight,wall-back-wall,1098.7,
+2019-12-27,Black,5.11a,e2a55583d7241135bb408e1212980fe0,,Attempt,wall-back-wall,1293.7,

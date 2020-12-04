@@ -1,12 +1,12 @@
 date,route_color,route_grade,route_id,rating,style,wall,offset,comment
-2019-01-30,Blue,5.10c,d7d5d958546aae0bcdb3c1bd1fa8088a,5.0,Top Rope,wall-back-wall,17.1,
 2019-01-30,Yellow,5.10d,0b0f0f1a07ff2a92216117c680a64a93,5.0,Top Rope,wall-back-wall,108.7,
-2019-01-30,Lime Green,5.10c,3fd3670e94f3d0e3a88a6cf2595abe46,4.0,Top Rope,wall-island,445.8,
-2019-01-30,White,5.10c,c02a991b9b9d1019d837898526cb9862,5.0,Top Rope,wall-island,528.5,
-2019-01-30,White,5.10b,1a9d47171e27700be4dab48cbd0e4946,5.0,Top Rope,wall-island,394.7,
+2019-01-30,Blue,5.10c,d7d5d958546aae0bcdb3c1bd1fa8088a,5.0,Top Rope,wall-back-wall,17.1,
 2019-01-30,Black,5.9,ef8110d2615cdea62aa417eb006fb636,4.0,Top Rope,wall-island,365.2,
-2019-01-21,Tan,5.10d,9099e029b554fc120340801bfec92841,3.0,Top Rope,wall-island,590.5,top rope gets caught in some of the holds near the end of the climb
-2019-01-21,Purple,5.10d,56d1a7fb449fe5c678a6f55e55116223,5.0,Top Rope,wall-back-wall,190.5,
-2019-01-21,Tan,5.10c,8a2fb52a9a990a3b5188f14e4392cec5,4.0,Top Rope,wall-back-wall,140.8,
-2019-01-21,Red,5.10b,95c980c51e68ab5e2c4d63a6f2ddefa1,4.0,Top Rope,wall-back-wall,70.1,
+2019-01-30,White,5.10b,1a9d47171e27700be4dab48cbd0e4946,5.0,Top Rope,wall-island,394.7,
+2019-01-30,White,5.10c,c02a991b9b9d1019d837898526cb9862,5.0,Top Rope,wall-island,528.5,
+2019-01-30,Lime Green,5.10c,3fd3670e94f3d0e3a88a6cf2595abe46,4.0,Top Rope,wall-island,445.8,
 2019-01-21,Yellow,5.9,2efbb82f29bf8c58e2e999b953a516cf,4.0,Top Rope,wall-island,468.2,
+2019-01-21,Red,5.10b,95c980c51e68ab5e2c4d63a6f2ddefa1,4.0,Top Rope,wall-back-wall,70.1,
+2019-01-21,Tan,5.10c,8a2fb52a9a990a3b5188f14e4392cec5,4.0,Top Rope,wall-back-wall,140.8,
+2019-01-21,Purple,5.10d,56d1a7fb449fe5c678a6f55e55116223,5.0,Top Rope,wall-back-wall,190.5,
+2019-01-21,Tan,5.10d,9099e029b554fc120340801bfec92841,3.0,Top Rope,wall-island,590.5,top rope gets caught in some of the holds near the end of the climb
